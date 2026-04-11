@@ -1,0 +1,2271 @@
+Improving Maternal, Newborn
+and Child Health Outcomes 
+in a Decade
+Pakistan Report 2020
+Annual Health Report Series
+INTRODUCTION 
+6
+ACKNOWLEDGEMENTS 
+1
+ 
+Program implementation eﬀorts 
+12
+EXECUTIVE SUMMARY  
+2
+CHAPTER 1. FAMILY PLANNING / REPRODUCTIVE HEALTH 
+10
+ 
+Introduction 
+11
+ 
+Main policies 
+11
+ 
+General epidemiological trends: slowdown of fertility decline 
+12
+ 
+Quality 
+16
+ 
+Who is left behind?  
+20
+ 
+COVID 19 impact 
+20
+ 
+Introduction 
+23
+ 
+Main policies 
+23
+ 
+General epidemiological trends: slowdown of fertility decline 
+24
+ 
+Quality 
+30
+CHAPTER 2. MATERNAL HEALTH 
+22
+ 
+Program implementation eﬀorts 
+23
+ 
+Who is left behind?  
+31
+ 
+Assessment of progress 
+26
+ 
+COVID 19 impact 
+32
+CHAPTER 3. NEW-BORN SURVIVAL 
+34
+ 
+Introduction 
+35
+ 
+Main policies 
+35
+ 
+Assessment of progress 
+13
+ 
+Program implementation eﬀorts 
+35
+ 
+General epidemiological trends: slowdown of fertility decline 
+37
+ 
+Assessment of progress 
+40
+ 
+Quality 
+44
+ 
+Who is left behind?  
+46
+ 
+COVID 19 impact 
+47
+IMPROVING MATERNAL, NEWBORN AND CHILD HEALTH OUTCOMES IN A DECADE
+PAKISTAN REPORT 2020
+i
+CONTENTS
+CHAPTER 5: CALL FOR ACTION 
+66
+ 
+Introduction 
+49
+ 
+Quality 
+60
+ 
+Who is left behind?  
+61
+ 
+COVID 19 impact 
+63
+ 
+Main policies 
+49
+ 
+Addressing the underlying causes of preventable mortality 
+68
+ 
+Leaving no one behind 
+68
+ 
+Prioritizing action to reach the SDG and related targets by 2030 
+69
+ 
+Assessment of progress 
+53
+ 
+Tracking eﬀective quality coverage and health gains 
+66
+ 
+Program implementation eﬀorts 
+49
+CHAPTER 4: CHILD HEALTH 
+48
+ 
+Strengthening the health system 
+67
+ 
+General epidemiological trends: slowdown of fertility decline 
+51
+IMPROVING MATERNAL, NEWBORN AND CHILD HEALTH OUTCOMES IN A DECADE
+PAKISTAN REPORT 2020
+ii
+IMPROVING MATERNAL, NEWBORN AND CHILD HEALTH OUTCOMES IN A DECADE
+PAKISTAN REPORT 2020
+iii
+List of Tables
+Table 3: 
+Measuring Quality of Family Planning and Client Satisfaction 
+16
+Table 9: 
+Estimates of Still birth rate (UN-IGME) 
+39
+Table 7: 
+Number of Vacant Positions reported in DHIS 2 (Jan- Dec 2019) 
+29
+Table 1: 
+Pakistan vis-a-vis its neighbours  
+7
+Table 14:  Main points 
+48
+Table 11:  Standards of care and evidence-based interventions 
+42
+Table 13: 
+Key maternal and newborn indicators regions wise 
+44
+Table 12: 
+Facility readiness in ICT (SARA Survey 2019) 
+42
+Table 17: 
+Access to services in ICT 
+54
+Table 20: 
+Missed opportunities for immunization in ICT 
+59
+Table 5: 
+Maternal mortality 
+25
+Table 21: 
+Vaccine stock out in ICT 
+60
+Table 18: 
+Immunization related guidelines in ICT 
+55
+Table 15: 
+Under-öve mortality per 1000 live birth in the Pakistan  
+51
+Table 6: 
+Region wise MMR and rate of reduction 
+26
+Table 16: 
+Access to services in ICT 
+54
+Table 22: 
+Percent reduction in number of deaths 
+70
+Table 2: 
+Main points 
+10
+Table 19: 
+Stock outs of pneumonia and diarrhoea commodities 
+59
+Table 10: 
+Number of still births 
+39
+Table 4:  
+Main points 
+22
+Table 8:  
+Main points 
+34
+IMPROVING MATERNAL, NEWBORN AND CHILD HEALTH OUTCOMES IN A DECADE
+PAKISTAN REPORT 2020
+iv
+List of Figures 
+2.  
+Trends of total fertility rate (children per woman), Pakistan DHS surveys                
+(AARR = Average Annual Rate of Reduction)
+7.  
+FP visit in PHC Centre
+3.  
+Source of supply for current modern method users, by residence and province
+4.  
+Contraceptives stock out in Public Health facilities (DHIS July 2019-June 2020)
+1.  
+The Conceptual Framework
+5.  
+Use of modern contraceptives by method, PDHS 2016/7
+6.  
+Use of modern contraception by wealth quintiles
+9.  
+Percentage of women age 15-49 who had a live brith in 5 years before the survey 
+(PSLM 2019)
+13.  
+4+ ANC visits by wealth quintiles
+17.  
+Number of facility births
+19.  
+Number of deliveries by caesarean section
+12.  
+Birth Attendant by cadre (PSLM 2019)
+21.  
+Provincial NMR since 1990
+22.  
+Percent distribution of neonatal deaths by cause of death, Pakistan 2006-07
+14.  
+Skilled attendance at delivery by wealth quintiles
+23.  
+PNC signal functions performed (PDHS 2017-18)
+24.  
+Coverage of PNC signal functions
+25.  
+Experience and perceptions of caregivers' regarding önancial burden during their 
+stay in the facility.
+27.  
+Postnatal care consultations (DHIS data)
+28.  
+Trends in childhood mortality, 1990 to 2018
+10.  
+Percentage of live births in the 3  years before the survey –PSLM 2019
+20.  
+Provincial variation in NMR (PDHS 2017-18)
+16.  
+Number of pregnant women receiving Iron supplement in facilities
+8.  
+FP users reported by LHWs
+26.  
+Postnatal care by wealth quintiles
+15.  
+Number of ANC visit/ contacts provided
+18.  
+Number of women and newborns receiving postnatal care
+11.  
+Service availability and readiness
+9
+13
+14
+16
+18
+20
+20
+20
+27
+27
+29
+30
+31
+32
+32
+32
+33
+33
+33
+37
+38
+38
+40
+41
+45
+46
+47
+51
+IMPROVING MATERNAL, NEWBORN AND CHILD HEALTH OUTCOMES IN A DECADE
+PAKISTAN REPORT 2020
+v
+45.  
+Number of children <1 year receiving DPT3 vaccine (DHIS)
+46.  
+Number of children classiöed with measles (DHIS)
+30.  
+Trends in Provincial Under-öve Mortality Rates
+29.  
+Trends in infant mortality rate 1990 - 2019
+42.  
+DPT3 by wealth quintiles (PDHS 2017-18)
+39.  
+Infant mortality by maternal education PSLM 2013-14
+36.  
+Coverage of immunization
+40.  
+Care seeking for symptoms of pneumonia by wealth quintiles
+41.  
+Diarrhoea treatment- ORS by wealth quintiles
+33.  
+Percent of children under 5 years with symptoms of pneumonia taken to appropriate 
+health provider
+43.  
+Number of children with acute respiratory infection seen in facilities (DHIS)
+31.  
+Causes of under-öve deaths
+37.  
+Reasons for not visiting Govt. facility örst for diarrhoea treatment- PSLM 2018-19
+35.  
+Percentage of children age 12-23 months vaccinated at any time before the survey
+38.  
+Infant mortality by household residence PSLM 2019
+44.  
+Number of children treated for diarrhoea (DHIS)
+34.  
+Provincial trends for treatment of diarrhoea among children under-öve
+32.  
+Percent of children under 5 years with symptoms of pneumonia taken to appropriate 
+health provider
+52
+52
+53
+56
+56
+57
+58
+58
+61
+62
+62
+62
+63
+63
+64
+64
+64
+65
+IMPROVING MATERNAL, NEWBORN AND CHILD HEALTH OUTCOMES IN A DECADE
+PAKISTAN REPORT 2020
+vi
+ANC 
+Antenatal Care
+CRVS 
+Civil Registration and Vital Statistics 
+AARR 
+Average Annual Rate of Reduction 
+ARI 
+Acute Repertory Illness 
+BHU 
+Basic Health Unit
+CCI 
+The Council of Common Interests 
+CPR 
+Contraceptive Prevalence Rate
+DHIS 
+District Health Information System 
+DHQ 
+District Head Quarter 
+ENPA 
+Every Newborn Action Plan
+EPI 
+Expanded Programme for 
+Immunization 
+FALAH 
+Family advancement of life and 
+health
+FATA 
+Federally Administered Tribal Area
+FP 
+Family planning
+FPAF 
+Family Planning Association of 
+Pakistan
+ICT 
+Islamabad Capital Territory 
+MMR 
+Maternal Mortality Rate
+UNFPA 
+United Nation Population Fund
+PSBI 
+Possible Suspected Bacterial 
+infections
+NCDs 
+Non Communicable disease 
+IMCI 
+Integrated Management of 
+Childhood illnesses
+LARCs 
+Long Acting Reversible 
+Contraceptives
+MSDs 
+Medical Store Depots
+PMs 
+Permanent Methods
+PHC 
+Primary Health Care
+PSI 
+Population services International 
+RMNCH 
+Reproductive Maternal Neonatal 
+Child and Adolescent Health 
+KMC 
+Kangaroo Mother Care
+RHC 
+Rural Health Centre 
+THQ 
+Tehsil Head Quarter 
+IMR 
+Infant Mortality Rate
+SARA 
+Service Availability and Readiness 
+Assessment 
+SNL 
+Saving Newborn Lives
+MPDSR 
+Maternal Perinatal Death 
+Surveillance Response 
+LHV 
+Lady Health Visitor
+WMO 
+Women Medical Oﬃcer
+PDHS 
+Pakistan Demographic Health Survey 
+PTF 
+Provincial Population Task Forces
+NATPOW 
+National Trust for Population Welfare 
+NMR 
+Neonatal Mortality Rate
+LHWs  
+Lady Health Workers
+PMMS 
+Pakistan Maternal Mortality Survey
+SAAVY 
+Sample Vital Statistics and Verbal 
+Autopsy
+PNC  
+Postnatal Care
+SBA 
+Skilled Birth Attendant 
+SDGs 
+Sustainable Development Goals
+ACRONYMS
+IMPROVING MATERNAL, NEWBORN AND CHILD HEALTH OUTCOMES IN A DECADE
+PAKISTAN REPORT 2020
+1
+ACKNOWLEDGEMENTS
+UNICEF: Dr. Hari Krishna Banskota, Dr. Samia Rizwan, Dr. Tedbabe Degöe Hailegebriel, Liliana Carvajal, 
+Lucia Hug and Danzhen Yu 
+UNFPA: Dr. Ch. Jameel Ahmad
+University of Manitoba: Dr. Ties Boerma, Dr. James Blanchard, Dr. Faran Emmanuel, Dr. Tahira Reza and 
+Dr. Ahsan Ahmad
+Health Services Academy and the National Ministry for Health Services Coordination and Regulation have 
+developed this report as a part of a new annual series of Health Review Reports.  The work was conducted 
+as part of the Countdown to 2030 for Women's, Children's and Adolescents' Health collaboration which is 
+led by the Health Services Academy and includes the Institute for Global Health of the University of 
+Manitoba and Center for Global Health at Sick Kids, Toronto, and funded by the Bill and Melinda Gates 
+Foundation. Technical assistance from the University of Manitoba is highly appreciated. WHO, UNICEF 
+and UNFPA country oﬃces shared latest programme and policy documents.  Mr. Shahrouh Sharif, Health 
+Advisor, Community Systems Foundation is especially recognized for supporting the LiST analysis. 
+UNICEF HQ provided access to the latest IGME estimates.
+Individuals who participated in the development of this document include: 
+NMHSR&C: Dr. Muhammad Saö Malik, Dr. Atiya Aabroo, Dr. Raza Zaidi, Ms. Lubna Yaqoob and Mr. Farhan 
+Aslam
+Health Services Academy: Dr. Assad Hafeez, Dr. Nabila Zaka, Mr. Ikhlaq Ahmad, Mr. Khurram Shahzad
+WHO: Dr. Qudsia Uzma
+Ħ  Amouzou A, et al. BMJ Glob Health 2019;4:i114–i124. doi:10.1136/bmjgh-2018-001297
+IMPROVING MATERNAL, NEWBORN AND CHILD HEALTH OUTCOMES IN A DECADE
+PAKISTAN REPORT 2020
+2
+Programmatic interventions for reducing preventable maternal and child mortality and strengthening 
+family planning are dependent upon the ability of the health system to deliver equitable and quality 
+health services. Measuring coverage of key Family Planning and MNCH coverage indicators has been the 
+usual practice. There is a growing realization globally that the increasing rates of skilled birth attendance 
+and facility-based deliveries have not translated into equivalent health and survival outcomes for 
+mothers and newborns; and thus, measuring quality of care and outcomes is equally important. In 
+addition, the service coverage needs to be understood in terms of a client's interface with the health 
+system. A systematic framework is thus necessary to measure dimensions of lack of access, gaps in service 
+readiness and eﬀective coverage, lapses in the provision of quality care and user factors that further 
+reduce the potential impact of interventions on speciöc RMNCH outcomes. This report uses the cascade 
+frameworkĦ in an eﬀort to capture a holistic picture.
+The Government of Pakistan has recently endorsed the evidence-based Basic Package of UHC 
+interventions at the district level based on the directions inferred from the WHO document on Disease 
+Control Priorities (Third Edition). The Global Financing Facility hosted at World Bank has included Pakistan 
+in the list of eligible countries and an investment case is being prepared in this regard. Consultations are 
+underway to identify the required health system reforms and re-imagine the district health and social 
+protection systems to eﬀectively deliver this Basic Package of interventions.
+Pakistan has committed to Sustainable Development Goals and targets to be achieved by 2030. These 
+include reducing preventable maternal, neonatal and child mortality and attaining universal health 
+coverage. Ensuring reproductive health rights and provision of quality family planning services remain 
+central to these eﬀorts. With exactly a decade to reach the 2030 mark, this report endeavours to review 
+the past progress and identiöes key areas for future action. 
+Methodology
+It is indeed timely to synthesize existing data to understand the lapses in the health system and highlight 
+issues of measurements and monitoring. This report analyses gaps and barriers for eﬀective quality 
+coverage of family planning and maternal, newborn and child health (MNCH) services. The topics of 
+nutrition and adolescent health, though intricately linked with MNCH outcomes, will be covered in detail 
+in the next annual report.
+Relevant and accessible data sources were synthesized for the assessment of progress in recent years, 
+including national and subnational surveys, facility surveys, routine health facility data, health system 
+data and research öndings. 
+EXECUTIVE SUMMARY
+IMPROVING MATERNAL, NEWBORN AND CHILD HEALTH OUTCOMES IN A DECADE
+PAKISTAN REPORT 2020
+3
+Newborn mortality rate has fallen to 41 per 1,000 live births and still birth rate to 31 per 1,000 total births. 
+Both neonatal mortality and stillbirth rates decreased slowly at an annual rate of reduction of only 2% in 
+the last decade. Research showed major gaps in the quality of neonatal interventions. To fasttrack 
+progress, attention is needed to ensure quality of care around the time of birth and to invest in small and 
+sick newborn care. Perinatal death reviews are a must to review the case management and make 
+The 2019 maternal mortality survey shows a decline in maternal mortality ratio (MMR) to 186 per 100,000 
+live births, from 276 in the PDHS 2006/07. This corresponds with an average annual rate of reduction of 
+3.1% per year between 2005 and 2018ħ. To reach the 2030 target of 70 per 100,000 live births more than a 
+doubling of the rate of decrease in the last decade ( average annual rate of decline of 8.3%) is required. 
+Progress was made on several indicators of antenatal delivery care: ANC coverage increased to 84% 
+(PLSMS 2018/19), more than half of pregnant women made their örst visit in the örst trimester, half of 
+women completed at least four visits (PDHS 2017/18) and institutional deliveries rose to 70%. About 60% 
+occurred in private facilities according to PSLM, but the share of the public sector is growing with an 
+escalation in number of primary health care facilities operational 24/7. Quality of care is a concern and 
+respectful maternity care needs more emphasis. Unnecessary caesarean deliveries are rising amongst the 
+richest and highly educated women. Data gaps from private sector services and on causes and drivers of 
+maternal deaths are noted. Areas of programmatic improvement include strengthening CRVS, maternal 
+death notiöcation and expanding MPDSR to all districts. 
+Since 1990, Pakistan has steadily reduced maternal, newborn and under-öve mortality rates and 
+improved use of modern methods of family planning. The current average annual rates of improvement 
+need signiöcant acceleration to meet the SDG targets for health by 2030. The review of existing data has 
+highlighted multiple losses in the cascade to eﬀective coverage from availability, accessibility and quality 
+of services to the actual attainment of health impact. 
+Main Findings
+During the last few decades, fertility has been declining in Pakistan at a slow pace but slowed down in the 
+most recent period 2013-2018 (average annual rate of decline of 1.1% per year), despite the stronger 
+political commitment to reducing fertility. Total fertility was 3.6 children per woman by 2017/18, fueling a 
+continued rapid population growth and a relatively large proportion of higher risk deliveries. . The use of 
+modern contraceptives in Pakistan remained low (25.0% of currently married women in PDHS 2017/18), 
+and the desire for children high (3.9 children for women, 4.3 for men). If couples want fewer children in the 
+near future, the demand for modern contraceptives will increase rapidly, and further strengthening of the 
+family planning (FP) services is needed. Multiple interventions need to be strengthened to increase FP 
+coverage in line with government targets such as promoting post-partum FP to avail missed opportunity 
+of rising institutional deliveries, addressing the causes of contraceptive stock outs and scaling up safe 
+post abortion care services.
+ħ   2005 and 2018 are the midpoints of the 3-year period of the retrospective maternal mortality estimates.
+IMPROVING MATERNAL, NEWBORN AND CHILD HEALTH OUTCOMES IN A DECADE
+PAKISTAN REPORT 2020
+4
+incremental improvements. A national neonatal survival strategy with provincial benchmarks, costed 
+plan and adequate önancing is critical to accelerate progress. Human Resource strategy including task 
+shifting and competence based capacity building is needed. A plan for developing cadres of 
+neonatologists, neonatal nurses and auxiliaries for neonatal intensive care units is urgently required.
+Accelerating the progress on Family Planning, Maternal, Newborn and Child Health in a decade demands 
+a de novo approach, high political commitment backed by adequate önancing and the will to make 
+diﬃcult decisions for addressing redundancies and gaining eﬃciency. The recent developments on 
+RMNCAH+N investment case, UHC Basic Package and renewed government commitment to invest in 
+Continuity of essential health services is indispensable to safeguard the modest gains made during the 
+last decades. Preparedness is compulsory to withstand the eﬀect of natural disasters and health 
+emergencies. The COVID-19 pandemic hammered down this necessity once again. Family planning and 
+MNCH services were disrupted with the highest drop in out-patient consultations and deliveries during 
+the period April-May 2020 with strict lock down enforcement. However, a quick rebound was noted in 
+June and thereafter. All reproductive health programming needs to be risk-informed and should be 
+attentive to build resilience of health system in face of any future health crises.
+Under-öve mortality has dropped steadily during the last two decades at an annual rate of decline just 
+under 3% to 67 per 1,000 live births by 2019. Sixty percent of all under-öve deaths are due to neonatal 
+causes. Hence a major improvement in neonatal survival will be essential for reaching under-öve 
+mortality rate 2030 target. Pneumonia and diarrhea are the leading causes of post neonatal and early 
+child mortality. Access and utilization of services continued to improve for ARI and childhood diarrhoea. 
+70-80% of sick under-öves were taken to a health facility, and 53% of those with diarrhoea received ORS 
+øuids in 2018/19. Coverage of fully immunized children increased to 66% in 2017/18 and further increases 
+in pentavalent third dose and measles vaccination were observed in the PSLM 2018/19. Better targeting is 
+necessary: urban-rural and provincial inequalities persist and the poorest wealth quintile has much lower 
+coverage. Quality of pediatric care is a challenge whereby nutritional assessment, age-appropriate 
+vaccination, ORS plus zinc and continued feeding during diarrhea and provision of antibiotic for 
+managing ARI could be improved by strengthening knowledge and counseling skills of service providers. 
+All interventions for under-öves should pay special attention to the children from the poorest households 
+which still have lower coverage and higher mortality.
+Call to Action
+Pakistan has made several positive strides in improving maternal, newborn and child health of its people 
+which should form the basis for a much greater acceleration of progress in the coming decade to reach 
+the 2030 target. Wider health service coverage must be matched by concomitant improvements in 
+quality of care if maternal, neonatal and under-öve mortality is to be reduced substantially. Challenges of 
+health system, equity and high unmet need for family planning need urgent attention to accelerate 
+progress in the next decade. This calls for fundamental health sector and non-health sector actions for 
+delivering a priority RMNCH package of quality services to the women and children who need it most.
+IMPROVING MATERNAL, NEWBORN AND CHILD HEALTH OUTCOMES IN A DECADE
+PAKISTAN REPORT 2020
+5
+health have given an impetus to think bolder and bigger. Prioritizing action to reach the SDG and related 
+targets by 2030 is urgently required. Focusing on meeting the unmet need of FP, using the opportunity of 
+high institutional births for PPFP ; identifying the most un-served populations, improving the 
+management of the top causes of mortality in both public and private sectors e.g. PPH, eclampsia, sepsis, 
+prematurity, birth asphyxia, diarrhoea and pneumonia can give  the  highest  reduction in burden of 
+deaths.
+2. 
+Developing RMNCH acceleration package including family planning for immediate scale-up 
+The ten priorities for action in ten years (10X10 agenda) are
+1. 
+Improving RMNCH leadership and coordination mechanisms by strengthening TWGs at national 
+and provincial levels 
+4. 
+Harnessing the role of a strong private sector, already catering to two-thirds of the RMNCH needs. 
+Partnerships with professional associations and health care commissions can provide leverage in 
+this regard.
+6. 
+Resolving the serious health work force crises, nurse midwife ratio to population and attaining 
+suﬃcient numbers of neonatologists and neonatal nurses. 
+5. 
+Targeting the poor, the rural and the un-educated is imperative for reducing the coverage 
+disparities. Linking health sector eﬀorts with poverty reduction, nutrition sensitive and social 
+protection initiatives will bring eﬃciency and reduce duplication.
+7. 
+Improving timely referral of complicated cases by expanding pooled ambulance services and 
+linking district level facilities with pre-identiöed teaching hospitals. Laying out clear referral 
+protocols and responsibilities at each level of health system is needed.
+8. 
+Digital innovations for improving data recording and reporting as well as improving LMIS and 
+increasing awareness through mobile messaging
+9. 
+Investing in research and information system for tracking eﬀective quality coverage; accounting 
+for the private sector; bridging data gaps for CRVS (Civil Registration and Vital Statistics); birth 
+weight measurement, reporting of still births and standardized measures for determining quality 
+of care and cohort tracking. Extensive investment is required to scale-up and streamline MPDSR 
+and link these eﬀorts with continuous quality improvement. 
+10. 
+Developing inter-sectoral linkages for addressing the underlying risk factors of low female social 
+status, malnutrition, air pollution and inadequate WASH behaviours.  
+3. 
+Providing operational support to RMNCH acceleration package by UHC structures or RMNCH+N 
+directorates with quality of care units to provide support for implementing evidence-based 
+MNCH and FP standards
+IMPROVING MATERNAL, NEWBORN AND CHILD HEALTH OUTCOMES IN A DECADE
+PAKISTAN REPORT 2020
+6
+INTRODUCTION
+Pakistan is committed to the Sustainable Development Goals and national targets have been set for the 
+health sector. With a decade to achieve 2030 targets, the National Ministry of Health Services 
+Coordination and Regulation and Health Services Academy are initiating a series of annual reports to 
+review progress and guide action. This örst report focuses on family planning, maternal, newborn and 
+child health; and reviews the progress on SDGs and related targets for MNCH. The objective is to inform 
+the Parliamentary Committee for Health and stakeholders for political advocacy and to garner the 
+required policy and budgetary support. The timing of the preparation of this report has coincided with 
+current dialogue on development of an investment case for Universal Health Care Beneöt Package and 
+planning of RMNCAH+N through a trust fund by the Global Financing Facility to Pakistan. This report has 
+beneötted from and intends to contribute to these simultaneously on-going processes by highlighting 
+trends, inequalities in access and utilization of RMNCAH+N services and identifying priorities for action.  
+Background 
+This work has been possible through the generous grant of Bill and Melinda Gates Foundation to 
+Countdown to 2030; to improve coverage measurement and monitoring of RMNCAH+N 
+implementation, and strengthen the regional and country capacity for evidence generation and use. 
+Count down to 2030 provides independent monitoring and rigorous analysis that are crucial to 
+accountability. This Annual Review Report on Pakistan's Progress for SDG and related targets for RMNCH 
+2020 is a collaborative eﬀort by Health Services Academy, Ministry of Health Services Coordination and 
+Regulation, the National Ministry for Health Services Coordination and Regulation and the University of 
+Manitoba.
+Subsequently, the government of Pakistan has held discussions with all stakeholders for coordinating 
+and strengthening eﬀorts at federal and provincial levels to achieve Pakistan's sustainable development 
+and poverty reduction targets. The consultation process emphasized the need for national categorisation 
+of SDGs, improved data collection and enforcement of monitoring mechanisms. 
+Pakistan has displayed commendable commitment to the 2030 Agenda for Sustainable Development as 
+it was one of the örst countries to endorse it globally in 2015. On 16th February 2016, the Parliament 
+unanimously approved the Sustainable Development Goals (SDGs) as the national development agenda. 
+It also formed the Parliamentary SDGs Secretariat based at the National Assembly – one of the few 
+countries to do so. This process of legislation was the örst and crucial step in mainstreaming and localizing 
+the SDGs. 
+A dedicated SDGs SectionĨ has been formed at the federal level in the Ministry of Planning, Development 
+& Special Initiatives (MoP&SI) to monitor and coordinate as a national coordinating entity. The eﬀorts are 
+Ĩ  https://www.sdgpakistan.pk/web/sdgs
+IMPROVING MATERNAL, NEWBORN AND CHILD HEALTH OUTCOMES IN A DECADE
+PAKISTAN REPORT 2020
+7
+4. 
+Innovative approaches applied to accelerate progress on priority SDGs
+aimed to accomplish the following outcomes:
+2. 
+SDGs monitoring, reporting and evaluation capacities strengthened
+3. 
+Financing øows increasingly aligned with 2030 Agenda
+1. 
+Main streaming SDGs in plans, policies and resource allocation aligned to 2030 Agenda
+The inter-ministerial eﬀorts are also replicated at sectoral levels. In 2019, a SDG localization report⁴ on 
+Health was prepared by Health Services Academy, Islamabad in partnership with MoHSR&C, 
+provincial/regional health departments and WHO. The report called for ölling the existing gaps in 
+information, and for developing a regular system of reporting and monitoring progress in health with 
+respect to SDGs. 
+Current Situation of Family Planning and MNCH in Pakistan 
+Pakistan, as the öfth most populous country in the world has its fair share of health challenges. Health 
+system inadequacies, poverty, malnutrition, high fertility rate, low social status of  women, 
+environmental problems and risk of natural disasters are some of the realities hindering the achievement 
+of SDG targets. The country lags well behind most developing countries in access to essential health 
+services and health equity. 
+⁴  Saima Hameed, Mariyam Sarfraz 2019 SDG-3 Localization in Pakistan, Health Services Academy Islamabad, MoHSR&C and WHO.
+⁵  Jamil Arshad and Raza Zaidi, Situation Analysis 2020 Universal Health Coverage PAKISTAN: 
+   Towards Health for All by All in Pakistan, MOHSR&C, Provincial Governments of Punjab, Sindh, KPK, Baluchistan, GB and WHO.
+⁶  https://data.worldbank.org/indicator/SP.DYN.CDRT.IN?locations=PK  
+The current population growth rate is estimated around 2.1 % in 2018⁶. Pakistan still has a high fertility 
+The country's extremely high fertility is the result of inadequate and fragmented services that fail to meet 
+contraceptive needs and a preference for large families that reøects women's traditional status. Neonatal 
+mortality is among the highest in the world and half of the infant deaths result from poor maternal health 
+and nutrition. High out of pocket health expenditures and social constraints present serious constraints 
+to use limited services. However, some positive developments over the last few decades resulting in the 
+reduction of maternal mortality, improvement in skilled birth attendance and immunization coverage, 
+have been noted⁵.   
+Pakistan is second to Sri Lanka in Maternal Mortality Ratio but has fallen behind its neighbours in 
+contraceptive prevalence rates and neonatal and under-öve mortality.
+Table 1: Pakistan vis-a-vis its regional neighbours
+IMPROVING MATERNAL, NEWBORN AND CHILD HEALTH OUTCOMES IN A DECADE
+PAKISTAN REPORT 2020
+8
+rate of 3.6 children per woman in PDHS 2017-18, with higher levels in rural areas. Life expectancy at birth 
+has improved to 68 years (66 years for males and 70.1 years for females) in 2017 and is slightly lower than 
+the global average⁷. Maternal, newborn and child mortality constitute the largest share of preventable 
+deaths in Pakistan. There are an estimated 4.7 million births annually with more than 8,000 maternal 
+deaths, 248,000 newborn deaths, 184,000 still births and 405,000 under-öve deaths. About 3,500 
+obstetric östula cases are reported every year. The Contraceptive Prevalence Rate has stagnated recently 
+despite the high unmet need for family planning. About 2.5 million abortions are estimated on an annual 
+basis. The COVID-19 pandemic has also adversely aﬀected the utilization of essential MNCH services and 
+any future plans should consider the ramiöcations.
+Methods
+This report uses the conceptual framework of measuring availability, accessibility, aﬀordability, quality 
+and eﬀective coverage of key interventions. Disparities in coverage are highlighted and DHIS data from 
+public health facilities is explored for disruptions and trends in the continuity of RMNCH services. Each 
+section highlights the policies and programmes being implemented, reviews the rates of progress since 
+1990 and projects future trends. The conclusion section presents a set of scenarios and impact 
+calculations using the Lives Saved Tool (LiST). 
+Pakistan has recently önalized a basic package of Universal Health Care for implementation at the district 
+level. This package is based on evidence based priority interventions selected from the WHO document 
+on Disease Control Priorities (3rd Edition). The prioritization of interventions was based on demographic 
+needs, epidemiological trends, burden of diseases and cost eﬀective-ness of individual interventions. 
+Reproductive, maternal, newborn and child health interventions are featured prominently in this 
+package. 
+Triangulation of diﬀerent sources of information is employed to assess health system gaps and identify 
+priorities for action. In an eﬀort to identify where the main gaps are, a conceptual framework of the 
+cascade of care is used that integrates dimensions of lack of access, gaps in service readiness, lapses in the 
+provision of quality care and user factors that further reduce the potential impact of interventions on 
+speciöc RMNCH outcomes⁸. 
+⁷  Institute of Health Metrics & Evaluation (IHME), 1990-2017; BOD data for Pakistan: https://vizhub.healthdata.org/gbd-compare/
+⁸  Amouzou A, et al. BMJ Glob Health 2019;4:i114–i124. doi:10.1136/bmjgh-2018-001297
+IMPROVING MATERNAL, NEWBORN AND CHILD HEALTH OUTCOMES IN A DECADE
+PAKISTAN REPORT 2020
+9
+Target
+population
+Service
+contact
+Likelihood
+of service
+Crude
+coverage
+Quality-adjusted
+coverage
+User-adjusted
+coverage
+Outcome-adjusted
+coverage
+Population
+in need
+Visits 
+health
+service
+Visits 
+health
+service
+that is
+“ready”
+Receives
+health
+service
+Receives
+health
+service
+according
+to
+standards
+User
+adherence
+Health gain
+achieved
+Intervention
+eﬃcacy loss
+Limited availability / access / acceptability
+Lack of awareness
+Lack of service readiness
+Missed opportunity
+Inadequate service process
+Inadequate use
+1. The Conceptual Framework
+This report use data from household surveys (PDHS 2017-18 and PSLM 2019) and information from public 
+health facilities (health facility assessments and DHIS). Findings from recent MICS Surveys are also 
+included. Literature review of recent journal articles and grey literature has been used to öll in the 
+information gaps. The relevant government policies and programmes are presented in each chapter to 
+highlight the eﬀorts to improve service delivery and monitoring of progress. Lessons derived from these 
+endeavours are important to shape the future recommendations especially to bridge the hiatus between 
+service contacts and content and quality of services received (WHO standards followed, user adherence 
+and patient satisfaction).
+The chapters on family planning, maternal health, newborn health and child health highlight the fault 
+lines in the health system service delivery and propose key actions to drive progress towards SDGs. The 
+last chapter pulls out the common gaps and priority action areas in the coming decade. It emphasizes the 
+need to invest in measurements to better monitor, understand and act on the gaps in eﬀective coverage. 
+Pakistan has a multitude of regular household surveys but reliable real time monitoring needs more 
+investment in DHIS, MPDSR and sentinel surveillance for maternal, newborn and child deaths. Making 
+signiöcant progress towards universal health coverage with quality services for women's and children's 
+health is possible with focused planning, regular over-sight and monitoring to make course corrections 
+on the way.
+IMPROVING MATERNAL, NEWBORN AND CHILD HEALTH OUTCOMES IN A DECADE
+PAKISTAN REPORT 2020
+10
+CHAPTER 1.  FAMILY PLANNING / 
+REPRODUCTIVE HEALTH
+Table 2: Main points
+IMPROVING MATERNAL, NEWBORN AND CHILD HEALTH OUTCOMES IN A DECADE
+PAKISTAN REPORT 2020
+11
+This chapter brieøy reviews the main policies and targets for family planning and population, describing 
+the main program implementation eﬀorts and highlighting the larger epidemiological context of 
+population fertility trends in Pakistan. 
+Introduction
+l
+level and trends of the demand for children / family planning, 
+l
+increase the present Contraceptive Prevalence Rate of 34% to 50% by 2025 and 60% by 2030; 
+The assessment of progress uses the cascade of eﬀective coverage. Several steps in the cascade have 
+limited data but based on the national surveys (especially PDHS 2017/18), health facility data and 
+research it is possible to identify areas of progress and major challenges. This chapter assesses:
+l
+eﬀective coverage of FP (demand for modern methods satisöed).
+l
+extent to which services are received and used (contraceptive prevalence) and 
+l
+knowledge and access to services, readiness and quality of services, 
+The National Council of Common Interests has made recommendations to achieve SDGs related to 
+population and health. The recommendations of Council have been translated into a Draft Action Plan 
+(2019-24) approved by the Federal Task Force under the Chair of the President of Pakistan. The action plan 
+helps to evaluate the extent of progress towards international commitments to achieve SDG targets  
+related to population and health. The plan for implementation of Council's recommendationsĦ⁰ aims to:
+l
+reduce the present Total Fertility Rate 3.3 births per woman to 2.8 births by 2025 and 2.2 births per 
+woman by 2030; 
+Main Policies
+l
+lower the present average population growth rate of 2.4% to 1.5% by 2025, and 1.1% by 2030.
+By 2030, the SDG target (3.7.1) is that all women of reproductive age should have access to modern family 
+planning methods. In 2017, the Government of Pakistan made a commitment at the Family Planning 
+2020 Summit, which aimed to reach all citizens with high quality FP information and services⁹. This 
+included raising the contraceptive prevalence rate to 50% by ensuring the optimal involvement of the 
+public and private population and health sectors in family planning and move towards universal 
+coverage of reproductive health services meeting the SDG target 3.7 by 2030; oﬀering greater 
+contraceptive choices through an improved method mix; halving unmet need among women and girls 
+by 2020 and half of all married men knowing where birth spacing services can be obtained; reducing the 
+unmet needs among married adolescent girls; and increased funding for FP in provincial and federal 
+budgets.
+⁹  http://www.familyplanning2020.org/sites/default/öles/Govt_Pakistan_FP2020_Commitment_2017_0.pdf
+Ħ⁰ Pakistan Economic Survey Report 2019-2020
+IMPROVING MATERNAL, NEWBORN AND CHILD HEALTH OUTCOMES IN A DECADE
+PAKISTAN REPORT 2020
+12
+Program implementation eﬀorts
+Governmental eﬀorts have included the launch of family planning programmes in the 1960s through a 
+network of provincial population welfare departments. A bigger push for providing contraceptive 
+counseling and services at the doorstep of rural women came through induction of LHWs. Private sector 
+contributions were signiöcant through social marketing ventures like Green Star by PSI. In addition to 
+public sector outlets, national and international NGOs have been also involved e.g. Family Planning 
+Association of Pakistan (FPAP), Marie Stopes International and a consortium of NGOs called NATPOW. 
+Population Council, UN agencies and bilateral donors like USAID and DFID have also supported diﬀerent 
+programmes on ground. For example, a major initiative FALAH was implemented from 2007-2012 in 20 
+districts and reported increasing contraceptive use by 8% reducing the unmet need for birth spacing 
+from 14.2% to 10.8% over the same periodĦĦ. Post-partum family planning remains a window of 
+opportunity in scenario of increasing facility birthsĦħ. Postpartum intrauterine contraceptive device was 
+found to be an eﬀective, acceptable contraception with fewer complications for the patientsĦĨ.
+Provinces have prepared multi-sectoral plans and allocated major funds for engaging other sectors 
+including the private sector, Provincial line Departments, etc. These eﬀorts aim to enhance the quality 
+and coverage of services and ensure commodity security.  Meetings of the Provincial Population Task 
+Forces (PTF) (constituted in pursuance of the recommendations approved by the Council of Common 
+Interest (CCI), are being held under the duress of the respective Chief Ministers to carry forward the 
+agenda. Most provinces have included Family Planning commodities in their essential drugs list. 
+Contraceptive procurement is a challenge for some provinces, because taking part in international 
+competitive bidding with small quantities is not feasible. Other issues include integration of family 
+planning services at facilities of Department of Health and involvement of Lady Health Workers in the 
+family planning program in some provinces; access barriers; lack of quality services; religious, cultural and 
+social norms; inadequate önancing and lack of öeld staﬀ due to long term ban on recruitments by the 
+courts in Sindh and Baluchistan. 
+General epidemiological trends: slowdown of fertility decline
+The total fertility rate during the 1970s and 1980s remained above six births per womanĦ⁴. Data from 
+national surveys shows a steady decrease in total fertility rates since 1990-91 (Figure 1). There was 
+however a deceleration of the speed of the fertility decline to 1.1% average annual reduction rate (AARR) 
+during the two most recent surveys. 
+ĦĦ  https://www.popcouncil.org/research/family-advancement-for-life-and-health-falah
+Ħħ Abbasi Y, Shaikh SR, Memon KN. Barriers and missed opportunities towards immediate and early post-partum family planning 
+    methods in Pakistan. Professional Med J 2020; 27(7):1448-1453. 
+ĦĨ  Wasim T, Shaukat S, Javed L, Mukhtar S. Outcome of immediate postpartum insertion of intrauterine contraceptive device: 
+    Experience at tertiary care hospital. JPMA the Journal of the Pakistan Medical Association. 2018; 68(4):519-25.
+Ħ⁴  Sathar, Z. A., & Casterline, J. B. (1998). The onset of fertility transition in Pakistan. Population and development review, 773-796.  
+IMPROVING MATERNAL, NEWBORN AND CHILD HEALTH OUTCOMES IN A DECADE
+PAKISTAN REPORT 2020
+13
+Between PDHS 2012-13 and 2017-18, the median age at örst marriage increased from 19.5 years to 20.4 
+years among women age 25-49. Similarly, the median age at the time of the örst marriage increased from 
+24.7 years to 25.9 years among men age 30-49. During the same period, the percentage of women who 
+were married by age 18 declined from 35% to 29%, while the percentage of men who were married by age 
+22 declined from 31% to 24%.  The median age at örst birth increased to 22.8 years, as compared with 22.2 
+years in 2012-13 (women age 25-49). About one in 12 teenage women age 15-19 had begun childbearing 
+which was almost twice as high among young women with no education having started childbearing. 
+Assessment of progress 
+Desire for children: high ideal family size persistent
+With ambitious goals to slow down population growth and reduce total fertility rates, the desire for 
+children is an important indicator. In general, individual's fertility aspirations were much higher than 
+Governmental targets. The mean ideal family size among women 15-49 in the PDHS 2017/18 was 3.9 
+children, which was only modestly lower than the 2012/13 survey (4.1 children)Ħ⁵.  Women in the poorest 
+quintiles (5.0 children), with no education (4.5 children) and rural women (4.2 children) have the higher 
+ideal family sizes than their respective counterparts. Men's ideal family size was 4.3 children, which was 
+the same as in 2012/13.
+Ħ⁵  Respondents with no children were asked “If you could choose exactly the number of children to have in your whole life, how 
+many would that be?” Respondents who had children were asked “If you could go back to the time when you did not have any 
+children and could choose exactly the number of children to have in your whole life, how many would that be?”
+2.. Trends of total fertility rate (children per woman), Pakistan DHS surveys (AARR = Average Annual Rate of 
+Reduction)
+Figure 1: Trends of total fertility rate (children per woman), Pakistan DHS surveys (AARR = Average 
+Annual Rate of Reduction)
+IMPROVING MATERNAL, NEWBORN AND CHILD HEALTH OUTCOMES IN A DECADE
+PAKISTAN REPORT 2020
+14
+Knowledge is not a limiting factor in Pakistan. Knowledge of modern contraceptive methods was nearly 
+universal (over 98% of women and men) and on average respondents in the PDHS 2017/18 listed more 
+than seven methods. 
+Knowledge and access to FP services: universal knowledge but access a challenge 
+Physical access to FP services is provided by 96,000 lady health workers, 4,000 outlets of the Population 
+Welfare Department and 11,000 facilities of the health department across the country. In addition, private 
+pharmacies and clinics are also providing condoms and hormonal pills and injectable contraceptivesĦ⁶.
+Ħ⁶  Population Council July 2019, “Improving Access to Family Planning Services through the Private Sector in Pakistan – A 
+Stakeholder Analysis”  commissioned by the United Nations Population Fund (UNFPA) accessed at 
+https://www.familyplanning2020.org/sites/default/öles/Private-Sector-Stakeholder-Analysis-July-15_aa3.pdf
+3. Source of supply for current modern method users, by residence and province
+IMPROVING MATERNAL, NEWBORN AND CHILD HEALTH OUTCOMES IN A DECADE
+PAKISTAN REPORT 2020
+15
+Ħ⁷  Azmat SK et al. (2012)Barriers and perceptions regarding diﬀerent contraceptives and family planning practices amongst 
+men and women of reproductive age in rural Pakistan: a qualitative study. Pak J Public Health 2:1
+Ħ⁸  Luke Boddam-Whetham, Xaher Gul, Eman Al-Kobati, Anna C Gorter. “Vouchers in Fragile States: Reducing Barriers to Long-
+Acting Reversible Contraception in Yemen and Pakistan” Global Health: Science and Practice Aug 2016, 4 (Supplement 2) S94-
+S108; DOI: 10.9745/GHSP-D-15-00308
+A qualitative study, documented that FP is considered as an additional expenditure by male partners. 
+Besides access, another barrier towards use includes aﬀordability, where frequency of use and choice of 
+method was aﬀected by önancial limitationĦ⁷.
+Financial barriers to access can be gleaned from the fact that the current users of modern FP are 
+signiöcantly higher in the highest income quintile compared the poorest quintile. Modern contraceptive 
+use among currently married women increases according to wealth quintile, from 17% for women in the 
+lowest quintile to 30% for those in the highest quintile. A study by Marie Stopes found that vouchers 
+enabled 10 times more women than expected to choose LARCs (Long Acting Reversible Contraceptives) 
+and PMs (Permanent Methods)  in those areas of Pakistan (73,639 vs. 6,455 expected)Ħ⁸.
+Readiness and quality of services: concerns about stockouts
+The routine health information systems (DHIS2) can provide information on the availability of family 
+planning commodities at public health facilities. Figure 2 shows the proportion of all public health 
+facilities that had stockouts of speciöc FP commodities during July 2019 and June 2020.  Stockouts were 
+common for nearly all contraceptives, often exceeding half of all reporting health facilities. Injectables 
+had the lowest rate of stockouts but were still as high as 20% of facilities during most months of the year.  
+These high levels of stockouts will inøuence the choice of contraceptives women have and can lead to 
+disruptions in availability of commodities for users.
+Family planning stockouts are attributed to weak procurement capacity of provinces after the 18th 
+amendment and passing of procurement function from federal to provincial levels. At the same time 
+USAID's   support   for contraceptive supply was curtailed. Contraceptive procurement is fragmented by 
+separate purchasing through each provincial health and population welfare department as well as a 
+separate order for LHWs. Moreover contraceptives are not included in the essential medicines list for 
+buying through MSDs. Low quantities do not allow competitive rates at the international market. 
+Recently the Population unit of the National Ministry has started requesting provinces to share their need 
+for a pooled request for bids to get better pricing estimates.
+IMPROVING MATERNAL, NEWBORN AND CHILD HEALTH OUTCOMES IN A DECADE
+PAKISTAN REPORT 2020
+16
+Table 3. Measuring Quality of Family Planning and Client Satisfaction
+The month-wise DHIS data on stock-outs illustrate long standing stock-outs of all contraceptives in the 
+later half of 2019, even before the spread of COVID-19. Procurement issues and global supply chain 
+disruptions are the likely causes. The situation of injectables is better due to the local production capacity 
+and minimal reliance on imports. 
+Quality
+Diﬀerent frameworks are used to measure quality of family planning services. One of the frameworks is 
+outlined below for illustrative purposes.
+Source: Adapted from Hutchinson et al .Ħ⁹
+Ħ⁹ Hutchinson, P.L., Do, M. & Agha, S. Measuring client satisfaction and the quality of family planning services: A comparative 
+analysis of public and private health facilities in Tanzania, Kenya and Ghana. BMC Health Serv Res 11, 203 (2011). 
+https://doi.org/10.1186/1472-6963-11-203
+4. Contraceptives stockouts in Public Health facilities (DHIS July 2019-June 2020)
+IMPROVING MATERNAL, NEWBORN AND CHILD HEALTH OUTCOMES IN A DECADE
+PAKISTAN REPORT 2020
+17
+User uptake: low contraceptive prevalence rates
+Data for this section is primarily derived from two sources i.e., HMIS (Hospital management information 
+system) and PDHS (Pakistan demographic health survey). Data on family planning visits and methods of 
+modern contraceptives are obtain from HMIS and PDHS. Fertility, unmet need and demand for modern 
+contraceptive related data is derived from PDHS.
+The use of modern contraceptives in Pakistan was low (25.0% of currently married women in PDHS 
+2017/18), which slightly lower than in 2012/13, and more than 20% lower than in all countries in the South 
+Asia except Afghanistan. The PSLM reported a higher contraceptive prevalence rate among currently 
+married women, 34%, which was slightly up from the previous PSLM 2013-14 (32%). Most of the increase 
+occurred among older women 35-49 years. Both sources agree that there was little increase over time.
+Even though there were expected disparities in modern contraceptive use between urban and rural 
+residence, low – high education, poorest – richest and between the regions, the diﬀerences were smaller 
+than observed in many other countries. Modern contraceptive use among currently married women 15-
+49 was only 29% among urban women, 30% among the richest wealth quintile, 30% among women with 
+a higher education, 35% in ICT Islamabad and 27% in Punjab. 
+For informed choice, only 19% of women are informed about all three quality-of-service indicators (side 
+eﬀects, what to do in case of side eﬀects, and other available methods). On average, public sector users 
+were better informed (26%) than private sector users (9%) of all three indicators.
+Pakistan does not have a systematic mechanism to gauge the quality of family planning services. The 
+status of stock outs has already been mentioned above. On the process indicators, limited information is 
+available from PDHS 2017-18, whereby  more than three-quarters (78%) of women age 15-49 who are not 
+using a contraceptive method said they did not discuss family planning either with a LHW or at a health 
+facility in the 12 months before the survey (PDHS 2017-18). There has been a substantial decline in 
+women who were visited by LHW and discussed family planning (from 29% in 2012-13 to 19% in 2017-18). 
+By age, women age 30-34 were most likely (24%) and women age 15-19 were least likely (9%) to have 
+been visited by a LHW and discuss family planning. The percentage of women who did not discuss family 
+planning with a LHW or at a health facility is lowest in Sindh (68%) and highest in FATA (95%). Rural and 
+urban women were about equally likely to not discuss family planning at all during their visit
+Increasing skilled birth attendance and facility deliveries in Pakistan are a huge opportunity for FP 
+counselling and services. However, only 11% women were given information regarding contraception 
+during postnatal check-up (PDHS 2017-18).
+IMPROVING MATERNAL, NEWBORN AND CHILD HEALTH OUTCOMES IN A DECADE
+PAKISTAN REPORT 2020
+18
+5. Use of modern contraceptives by method, PDHS 2016/7
+The demand satisöed with modern methods, which is the FP coverage, is deöned as the contraceptive 
+users among the total of women who use modern contraceptives plus those with unmet need (for 
+spacing and limiting).  It is an eﬀective coverage indicator because it captures the desired outcome – not 
+being pregnant.
+Eﬀective coverage: demand for FP satisöed increasing
+As expected, there was little change in FP coverage between PDHS 2012/13 and 2017/18. The demand 
+satisöed with modern methods increased slightly from 47.0% in PDHS 2012/13 to 48.6% in PDHS 2017/18. 
+All methods increased from 63.8% to 66.4%, showing the continued role of the use of traditional 
+methods. The demand for FP remained low (64% and 65% respectively). The percent of currently married 
+women with unmet need for modern methods declined from 20% to 17%, suggestive of a modest 
+improvement in access.  A target of 75% by 2030 is still far.
+According to the latest FP 2020 self-report surveyħ⁰, the contraceptive prevalence rate for the year 2019 
+was estimated to be 36% which presents a major increase since the PDHS 2017/18 but the increase would 
+not be suﬃcient for the 50% target for 2020.  If these data are correct, it would be clear evidence that 
+Pakistan has gained momentum and a sense of realization that population issue needs to be addressed 
+and family planning services should be widely available at all facilities.  
+Female sterilization and male condoms remained the most common methods among modern 
+contraceptives. Implants and emergency contraception have been added to the method mix more 
+recently. Traditional methods continued to be commonly used, and most of these were withdrawal (8% in 
+2017/18).
+ħ⁰   http://www.familyplanning2020.org/sites/default/öles/Pakistan-FP2020-Questionnaire-Self-Report-2019.pdf
+IMPROVING MATERNAL, NEWBORN AND CHILD HEALTH OUTCOMES IN A DECADE
+PAKISTAN REPORT 2020
+19
+Increasing demand for FP needs to involve men. Waqas Hameed et al. suggest encouraging family-
+planning programmes to engage men within the scope of their interventions, as contraceptive use rests 
+more on couples' decisions than on women's decision only. Moreover, eﬀorts need to be made to educate 
+both partners equally about contraceptive methods that have higher eﬀectivenessħĦ.
+High Abortion rate
+Pakistan currently has one of the highest abortion rates in the world. Abortion is becoming the means to 
+exercise birth control, and most of these abortions are being conducted in unsafe environments. In 2002, 
+Pakistani women experienced about 2.4 million unintended pregnancies; nearly 900,000 of these 
+pregnancies were terminated by induced abortionħħ.  48% of pregnancies in Pakistan are unintended, of 
+which 54% are terminated, mostly in an unsafe way. Around a third of all women who undergo abortions 
+suﬀer complications, ranging from heavy bleeding to a perforated uterus and deadly infections. A 
+national survey of public-sector facilities estimated that about 200,000 women were hospitalized for 
+abortion complications in 2002ħĨ. In addition, many other women suﬀered complications but never 
+reached hospitals. Unsafe abortion is also the cause of a substantial proportion of maternal deaths 
+occurring in hospitals. A 1999–2001 university hospital study found that 11% of all maternal deaths that 
+occurred in the hospital during this period were caused by complications resulting from unsafe 
+abortionħ⁴. In an earlier hospital study (1992–1994), unsafe abortion had caused 15% of maternal 
+deathsħ⁵. While Pakistan's fertility rate is high compared with more developed countries, it is lower than 
+would be predicted by the country's low level of contraceptive use: On average, women have 4.1 live 
+births, and, in metropolitan areas, the rate is just 3.0 live births. It is diﬃcult to explain such fertility rates 
+solely in terms of contraceptive use. Widespread induced abortion is likely to an important contributing 
+factorħ⁶. The fact that women in the two less developed provinces—Balochistan and North West Frontier 
+Province—have lower contraceptive use rates and higher abortion rates than women in the more 
+developed provinces, supports this interpretation. 
+The gaps between urban and rural women were moderate in PDHS 2016/17: 74.2% and 61.0% 
+respectively. Similarly, diﬀerence by education (ranging from 59.7% among women with no education to 
+74.6% among those with higher education) and between the poorest and richest households (47.2% and 
+76.5% respectively) were observed. The regional disparities ranged from 47.9% in Baluchistan to just over 
+70% in Punjab and ICT Islamabad.
+ħĦ  W Hameed, SK Azmat, M Ali, MI Sheikh, G Abbas…(2014) Women's empowerment and contraceptive use: the role of 
+independent versus couples' decision-making, from a lower middle income country perspective - PloS one, 2014 - 
+journals.plos.org
+ħħ Population Council, Unwanted Pregnancy and Post-Abortion Complications in Pakistan: Findings From a National Study, 
+Islamabad, Pakistan: Population Council, 2004.
+ħĨ  Sathar ZA, Singh S and Fikree FF, Estimating the incidence of abortion in Pakistan, Studies in Family Planning, 2007, 38(1):11–12.
+ħ⁴  Mahmud G and Mushtaq Z, The Incidence and Outcome of Induced Abortions at One of the Hospitals of Islamabad, Islamabad, 
+Pakistan: Population Association of Pakistan, 2001.
+ħ⁵  Tayyab S and Samad N, Illegally induced abortions: a study of 37 cases, Journal of the College of Physicians and Surgeons 
+Pakistan, 1996, 6(2):104–106.
+ħ⁶   https://www.guttmacher.org/report/abortion-pakistan#
+IMPROVING MATERNAL, NEWBORN AND CHILD HEALTH OUTCOMES IN A DECADE
+PAKISTAN REPORT 2020
+20
+6. Use of modern contraception by wealth quintiles
+The DHIS data for total FP users  at community and PHC services show a negative impact of COVID-19. 
+COVID 19 impact
+7. FP visit in PHC Centre
+The demand for FP satisöed with modern methods stands at 48.2% nationally, with rural 47.1% and urban 
+49.9%. It varies by women's   education (44.5 for women with no education, 54.7% for those with primary 
+education and 49.8% for those with secondary education and above). The disparity between diﬀerent 
+income quintiles shows that the poorest women are more disadvantaged than other high income 
+groups.
+Who is left behind?
+8. FP users reported by LHWs
+IMPROVING MATERNAL, NEWBORN AND CHILD HEALTH OUTCOMES IN A DECADE
+PAKISTAN REPORT 2020
+21
+Disruption in family planning services could be minimized through a) preparedness actions, b) crisis 
+response, and c) coordinated transition back to routine services. 
+There is every possibility that due to partial lock downs, facilities may face further stock out of 
+commodities and health workers being overwhelmed with work regarding the other duties assigned for 
+COVID 19 response. These can result in unwanted pregnancies, induced abortions and potential 
+morbidity of unsafe abortions. 
+Increasing domestic violence is another sequel of the COVID-19 related lock down and economic 
+hardship. Unemployment and inability to feed the children has increased friction between spouses and 
+violence at home. A third of the women reported violence under lockdown. Most women who 
+experienced domestic violence reported humiliation and insults (87%), but in a few cases, there was also 
+physical violence, and the perpetrators were almost always husbandsħ⁷.
+ħ⁷  Population Council and UNFPA 2019.“Reproductive Healthcare in the Time of COVID-19: Perspectives of Poor Women and 
+Service Providers from RahimYar Khan, Punjab” 
+IMPROVING MATERNAL, NEWBORN AND CHILD HEALTH OUTCOMES IN A DECADE
+PAKISTAN REPORT 2020
+22
+CHAPTER 2. MATERNAL HEALTH
+Table 4: Main points
+IMPROVING MATERNAL, NEWBORN AND CHILD HEALTH OUTCOMES IN A DECADE
+PAKISTAN REPORT 2020
+23
+The assessment of progress uses the cascade of eﬀective coverage. Several steps in the cascade have a 
+good level of available data from the national (especially PDHS 2017/18) and provincial surveys (MICS), 
+public sector health facility data, health facility assessments  and research. It is possible to identify areas of 
+progress and major challenges. This chapter assesses:
+l
+level and trends of the antenatal, natal and postnatal care 
+By 2030, the SDG target (3.1.1) is that the country reduces its maternal mortality ratio to 70 per 100,000 
+live births or less.  In 2018, the Government of Pakistan has made a commitment   to increase ANC4 and 
+SBA coverage to >90% and reduce MMR by less than 70 by year 2030.
+l
+access to services, readiness and quality of services 
+Program implementation eﬀorts
+Pakistan started investing in a network of service delivery infrastructure of Basic Health Units, Rural 
+Health Centers and Tehsil and District level hospitals since the 1960s. Doctors, Nurses, Lady Health 
+Visitors, Family Welfare Workers and Community midwives are qualiöed as skilled birth attendants. A 
+breakthrough in community based maternal and child health services was observed with the launch of 
+the National Programme for Family planning and Primary Health Care in 1994 which recruited about 
+90,000 Lady Health Workers. However, the recent programme evaluations have shown a decreasing 
+Introduction
+l
+extent to which services are received and used (ANC 4+ and SBA)  
+Main policies
+This chapter brieøy reviews the main policies and targets for maternal health and describes the salient 
+program implementation eﬀorts and larger epidemiological context of maternal mortality trends in 
+Pakistan. 
+IMPROVING MATERNAL, NEWBORN AND CHILD HEALTH OUTCOMES IN A DECADE
+PAKISTAN REPORT 2020
+24
+Provincial MNCH programme units have continued through supplementary funding by subsequent -  
+PC-1s which have expired, or are near expiration. Re-introduction of MNCH directorates in the provincial 
+departments of health is needed to continue the leadership and programmatic support for MNCH 
+programming for achieving SDGs on the reduction of maternal, neonatal and under-öve mortality. 
+General epidemiological trends: decline in maternal mortality but SDG 
+target remain far oﬀ
+performance of LHWs due to resource gaps in önancing and technical supervision. 
+The Government of Pakistan continues to strengthen maternal and child health care. With devolved 
+healthcare, provincial departments of health have actively led the implementation eﬀorts. The special 
+initiatives launched by the Government of Punjab since July 2019 to December 2019 included scaling up 
+of the Sehat Insaf Card Programme; doubling the size of the LHW programme; increasing number of 24/7 
+Basic Health Units (BHUs) and Rural Health Centres (RHCs) equipped with a basic package of services, staﬀ 
+and ambulance service; establishing training institutes for nurses and paramedical staﬀ; upgrading 
+secondary care facilities; and building state of the art hospitals in major urban centers of the province. The 
+Government of Khyber Pakhtunkhwa has initiated up-gradation of several BHUs to RHC level in the 
+province from July 2019 to December 2019. Sehat Sahulat Programme has been extended to 69 % of the 
+population of the province. The Government of Balochistan is committed to enhancing health 
+infrastructure/facilities across the province. Construction of one new BHU/RHC in each Tehsil of 
+Balochistan and strengthening of 16 potential DHQs (50 Bedded Hospital) is plannedĨ⁰. Similarly Sindh, 
+AJK, GB and ICT regions have supported MNCH through multiple initiatives.
+The National MNCH Programħ⁸ is being continued with the planned outputs to upgrade hospitals and 
+health facilities in order to provide comprehensive, basic and essential EmONC facilities, train   
+community midwives and improve knowledge and skills of health care providers. The delays and 
+breaches in önancial commitment by Government and development partners; loss of operational 
+leadership due to devolution of health sector to provinces under the 18th amendment in 2011; and 
+ambiguity about the deployment of community midwives were some of the challenges encounteredħ⁹. 
+The program implementation period has shown signiöcant improvement in PDHS (2017-18) for 
+improving  antenatal care, use of skilled attendant at birth and access to life saving emergency obstetric 
+care (increase in proportion of caesarean deliveries) and reduction in MMR is noted (MMS 2019). 
+The 2019 Maternal Mortality Survey suggests a decline in maternal mortality to 186 per 100,000 live 
+births, from 276 in the PDHS 2006/07. This corresponds with an average annual rate of reduction  of 3.1% 
+Ĩ⁰   Pakistan Economic Survey Report 2019-2020
+ħ⁹  Sarfraz, M., & Hamid, S. (2016). Exploring Managers' Perspectives on MNCH Program in Pakistan: A Qualitative Study. PloS one, 
+11(1), e0146665. https://doi.org/10.1371/journal.pone.0146665
+ħ⁸  http://dynasoft.org/mnch/overview.php accessed on 17/06/2020
+IMPROVING MATERNAL, NEWBORN AND CHILD HEALTH OUTCOMES IN A DECADE
+PAKISTAN REPORT 2020
+25
+per year between 2005 and 2018ĨĦ. To reach the 2030 target of 70 per 100,000 live births an average 
+annual rate of decline of 8.3% per year is required, which is more than a doubling of the rate of decrease in 
+the last decade (Table 5).
+The decline was most pronounced in Baluchistan which registered very high maternal mortality levels in 
+PDHS 2006-07. Baluchistan still registered the highest maternal mortality. All four regions need to achieve 
+more than double the rate of decline to reach the 2030 target of 70 (Table 6). 
+Further disaggregation of maternal mortality data is limited by the relatively small number of deaths, 
+which leads to very large sampling errors. Among adolescent girls 15-19 years maternal mortality was 
+about the same as for all ages (194 per 100,000 live births), and 10% of all maternal deaths took place in 
+this age group. Maternal mortality risks were lowest for women in their twenties and highest for women 
+35-39 years (481 per 100,000 live births) accounting for one-fourth of all maternal deaths. Women in their 
+forties also had elevated maternal mortality risks but contributed to just 4% of all maternal deaths, as 
+fertility is much lower at this age.     
+Unfortunately, the causes of maternal deaths were not yet available from the PMMS 2019 Key Indicator 
+Report. PDHS 2006-07 had attributed the highest number of maternal deaths to post-partum 
+haemorrhage, sepsis and eclampsia. Professionals opine that the trends continue with exception of an 
+increasing number of women with pre-existing medical conditions such as hypertension and diabetes 
+which may be adding to more deaths in the category of indirect causes.
+The pregnancy-related mortality decline is much smaller, as the proportion of deaths due to other causes 
+besides indirect or direct maternal deaths increased considerably.  In PDHS 2006-07 16% of 193 
+pregnancy-related deaths were not maternal deaths. In PMMS 2019, 33% of 179 deaths were not 
+maternal deaths.
+ĨĦ  2005 and 2018 are the midpoints of the 3-year period of the retrospective maternal mortality estimates.
+Table 5. Maternal mortality
+All the provinces and regions have shown a signiöcant progress in reducing MMR since 2006-07.
+It is important to note that MMR is higher among women in the age group 15-19 than among 20-24 age 
+bracket. The mortality starts increasing again at older ages: for age 35-39 and is highest among those in 
+40-44 age group.
+Assessment of progress 
+Access to services   
+Female mobility, distance to health care facilities and purchasing power are some of the factors limiting 
+access. About two-thirds of women reported at least one problem in accessing health care for themselves 
+(67%). About three-öfths of women reported not wanting to go alone (58%), for two-öfths distance to a 
+health facility was a problem (42%), about one-third of women recounted problems getting money for 
+treatment (30%), and one-öfth mentioned that getting permission for accessing health care was a big 
+problem (21%).(PDHS 2017-18)
+Antenatal coverage for at least one visit increased from 73% to 86%  between 2012-13 and 2017-18 (both 
+estimates for the öve-year period preceding the surveys), indicating major progress towards near 
+universal coverage of the örst visit of ANC. More than half of pregnant women made their örst visit in the 
+örst trimester and half completed at least four visits. The Pakistan Social and Living Measurement Survey 
+(PSLM)  recorded a similar increase from 72% in 2013/14 to 84% in 2018/19. Rural ANC1 coverage was 80% 
+in the 2018/19 PSLM. Balochistan remained the province with the lowest coverage (58%).
+Antenatal Care Seeking: increasing coverage but gaps in continuity and quality 
+IMPROVING MATERNAL, NEWBORN AND CHILD HEALTH OUTCOMES IN A DECADE
+PAKISTAN REPORT 2020
+26
+Table 6. Region wise MMR and rate of reduction
+IMPROVING MATERNAL, NEWBORN AND CHILD HEALTH OUTCOMES IN A DECADE
+PAKISTAN REPORT 2020
+27
+10. Percentage of live births in the 3  years before the survey –PSLM 2019
+Younger women, ages 15-35, were more likely (85% to 88%) to use ANC services from skilled providers 
+than their older counterparts, ages 35-49 (78%). Similarly, urban women were more likely than rural 
+women to receive ANC from a skilled provider (94% and 82%, respectively). The DHIS2 data comparing 
+total ANC consultations in section on COVID-19 impact, shows that the January 2020 had a higher 
+number than January 2019 but started dipping after COVID-19 related fears and containment measures 
+reduced facility utilization.   
+Trends in births by skilled birth attendants and place of birth
+9. Percentage of women age 15-49 who had a live brith in 5 years before the survey (PSLM 2019)
+The PLSM 2018/19 showed that skilled birth attendance has leap frogged from 51% in 2001 to 71% in 
+2019. More comprehensive eﬀorts are required to cover the remaining 29%, focusing on bridging the 
+IMPROVING MATERNAL, NEWBORN AND CHILD HEALTH OUTCOMES IN A DECADE
+PAKISTAN REPORT 2020
+28
+About two thirds of all facility births are happening in the private sector though the share of private sector 
+contribution has declined from 70% in 2012-13 to 66% in 2017-18, largely due to increasing number of 
+24/7 BHUs in Punjab and Sindh. The increase in institutional deliveries is also coupled with a drastic rise in 
+caesarean deliveries from 14 % to 22% in the same period. The C-section delivery rate is higher for births in 
+private facilities (38%) than in public facilities (25%). C-section deliveries are almost twice as prevalent in 
+urban areas (32%) compared with rural areas (18%). Forty-nine percent of births to women with higher 
+education are delivered by C-section, compared with only 11% of births to women with no education. 
+Births to women in the highest wealth quintile are also more likely to be delivered by C-section (46%) than 
+births to women in the lowest quintile (8%). C-section deliveries account for only 3% of births in FATA, as 
+compared with 29% each in ICT Islamabad and Punjab. (PDHS 2017-18)
+Postnatal care: persistent gaps
+Trends in postnatal care show stagnation in coverage rates and rural-urban disparity. 62% of women age 
+15-49 who gave birth in the 2 years preceding the survey reported having a postnatal check in the örst 2 
+days after the birth, with most check-ups occurring within 4 hours of delivery (53%). However, 36% of 
+women did not receive any postnatal check during the örst 2 days after delivery. The proportion of 
+women with a postnatal check-up within 2 days after delivery has remained largely unchanged between 
+2012-13 (61%) and 2017-18 (62%). (PDHS 2017-18)
+PDHS 2017-18  had also shown that coverage of deliveries in health institutions increased to 66% from 
+48% öve years earlier. First-order births are more likely (79%) to occur in a health facility than sixth and 
+higher order births (50%). Eighty-six percent of most recent births to mothers with four or more ANC visits 
+were delivered at a health facility, as compared to only 26% of births to women with no ANC visits. The 
+proportion of deliveries taking place at a health facility was more than twice as high in ICT Islamabad as in 
+Balochistan (84% versus 35%).
+Seventy-nine percent of women who delivered in a health facility received a postnatal check within 2 
+days after the delivery as compared with only 19% of women who delivered elsewhere. Seventy-six 
+percent of urban women received a postnatal check-up within 2 days after delivery, as compared with 
+55% of rural women (PDHS 2017-18).
+rural-urban gap. The reliability on government hospitals for childbirth has increased to 29% in 2018-19 as 
+compared to 19% in 2013-14.
+Inadequacies in availability of services may occur due to lack of human resources and/or lack of key 
+commodities and diagnostics. For example, in a 2020 SARA survey in ICT, not all public sector facilities 
+were providing ANC services and gaps were seen in delivery of diﬀerent interventions.
+Service availability and readiness: higher gaps at RHC and BHU level
+IMPROVING MATERNAL, NEWBORN AND CHILD HEALTH OUTCOMES IN A DECADE
+PAKISTAN REPORT 2020
+29
+11. Service availability and readiness
+Table 7. Number of Vacant Positions reported in DHIS 2 (Jan- Dec 2019)
+The vacancies exist at PHC level facilities. For example, in Punjab 19 WMO positions were vacant at BHU 
+level and 77 at RHC level. Similarly 556 LHV positions were vacant at BHUs and 93 at RHCs. 
+Skilled birth attendance: preference for doctors and issues of availability and quality of care
+Skilled birth attendance has improved signiöcantly from 52% in 2012-13 to 69% in 2017-18- an increase of 
+17 points in 5 years' time period (PDHS 2017-18). Recent PSLM 2019 shows skilled birth attendance at 71% 
+with rural coverage at 65% and urban coverage at 85%.
+Only one percent of the facilities in ICT had guidelines on ANC and 8% had checklists or job aids; BP 
+apparatus was present in 93% of facilities and adult weighing scale in 85% while only 2% had a 
+haemoglobinometer, 12% urine dipsticks and 30% had iron folic acid tablets. 75% teaching hospitals 
+provided Basic EmOC signal functions as opposed to only 40-60% of RHCs.
+DHIS reports (Jan-Dec 2019) show signiöcant vacant positions of Gynecologists, Women Medical Oﬃcers 
+(WMOs) and Lady Health Visitors (LHVs).
+IMPROVING MATERNAL, NEWBORN AND CHILD HEALTH OUTCOMES IN A DECADE
+PAKISTAN REPORT 2020
+30
+12. Birth Attendant by cadre (PSLM 2019)
+Eﬀective quality coverage: issues of prioritization and measurement
+Improving quality of care around the time of child birth can save the highest number of maternal and 
+perinatal live. A systematic programmatic intervention and institutionalizing measurement of quality 
+care is very much needed in Pakistan. For example in Punjab, ANC1 coverage was 87%, ANC4 53% but 
+standard ANC 8 was only 15.7%. Among those who had any ANC only 52.6% reported that blood pressure 
+was measured and urine and blood samples were given at least once. (MICS Punjab 2018). 
+A recent study from SindhĨħ shows that monitoring vital signs during the initial obstetric examination was 
+conducted for less than one-in-ten women. Infection prevention practices were only observed for one-in-
+four women. Modesty was preserved for less than half of women. In spite of an absence of monitoring 
+during the örst and second stages of labour, providers augmented labour with oxytocin in two-thirds of 
+births. To prevent post-partum haemorrhage, oxytocin was administered within a minute of birth in 51% 
+of cases. A support-person was present during labour and birth for 90% of women. Dais or assistants 
+The quality of Antenatal Care needs improvement to ensure all pregnant women get their blood pressure, 
+urine and haemoglobin checked during these visits. Counselling on early initiation of breastfeeding were 
+received by (52%) and on exclusive breastfeeding (54%), while 7 in 10 reported that they had counselling 
+on maintaining a balanced diet during pregnancy. From 2012-13 to 2017-18, the proportion of mothers 
+whose birth was protected against neonatal tetanus increased by 5 percentage points from 64% to 69%.
+Ĩħ  Agha S, Fitzgerald L, Fareed A, Rajbhandari P, Rahim S, et al. (2019) Quality of labor and birth care in Sindh Province, Pakistan: 
+Findings from direct observations at health facilities. PLOS ONE 14(10): e0223701.
+ https://doi.org/10.1371/journal.pone.0223701
+IMPROVING MATERNAL, NEWBORN AND CHILD HEALTH OUTCOMES IN A DECADE
+PAKISTAN REPORT 2020
+31
+Respectful and digniöed healthcare is a fundamental right for every woman. However, many women 
+seeking childbirth services are mistreated by their birth attendants. Approximately 97% of women 
+reported experiencing at least one abusive behaviour. Experiences of mistreatment included   non-
+consented care (81%); right to information (72%); non-conödential care (69%); verbal abuse (35%); 
+abandonment of care (32%); discriminatory care (15%); and physical abuse (15%) .
+ĨĨ
+Who is left behind?
+without formal training provided labour, birth, and newborn care for 40% of deliveries during night shifts 
+at referral facilities.
+Non-medically indicated caesarean deliveries are a common issue. While there is no gold standard for 
+population C-section rates, WHO has proposed that if C-sections are above 10-15% in the population, it is 
+likely that non-medically indicated (elective) C-section is common.  A range of demand and supply 
+factors can play a role. Women may want a C-section based on information they received from health 
+workers, family and friends, or media. Medical staﬀ may favour a C-section for multiple reasons, including 
+their interpretation of risks for normal delivery versus C-section, önancial or other incentives. Eﬀorts are 
+underway with support of WHO to promote the use of Robson's classiöcation for understanding if the 
+indications for any caesarean delivery were justiöed. No study is available from Pakistan.
+The national average for ANC4+ is 52.2% with rural women having 41% and urban 71% coverage.  78.6% 
+of women with secondary education and above report having 4 ANC visits or more while the ones with 
+primary education 54.3% and no education at 31.8%.
+ĨĨ  Hameed W, Avan BI (2018) Women's experiences of mistreatment during childbirth: A comparative view of home- and facility-
+based births in Pakistan. PLoS ONE 13(3): e0194601. https://doi.org/10.1371/journal.pone.0194601
+13. 4+ ANC visits by wealth quintiles
+COVID-19 Impact
+COVID-19 containment measures like lockdown and closure of some facilities had a negative impact on 
+utilization of services at public facilities. Pakistan is estimated to have 4.7 million births in 2020 according 
+to the UN projections. The average per month is estimated around 400,000 births. Graph no. 16 shows a 
+quarter of all estimated births in public health facilities, highlighting the fact that the private sector is an 
+important player in child birth services.
+IMPROVING MATERNAL, NEWBORN AND CHILD HEALTH OUTCOMES IN A DECADE
+PAKISTAN REPORT 2020
+32
+The national average for skilled attendance at birth is 72.9% with rural women having 66.8% and urban 
+85.6% coverage.  89.6% of women with secondary education and above report having 4 ANC visits or 
+more while the ones with primary education 74.4% and no education at 60.1%.
+14. Skilled attendance at delivery by wealth quintiles
+15. Number of ANC visit/ contacts provided
+16. Number of pregnant women receiving Iron 
+        supplement in facilities
+IMPROVING MATERNAL, NEWBORN AND CHILD HEALTH OUTCOMES IN A DECADE
+PAKISTAN REPORT 2020
+33
+17. Number of facility births
+Similar trends were seen for the number of spontaneous deliveries reported from public facilities. 
+Numbers were showing improvement since last year in January 2020 but started falling in the later 
+months due to fears of contracting the infection.  
+18. Number of women and newborns receiving 
+        postnatal care
+19. Number of deliveries by caesarean section
+The numbers of caesarean deliveries showed an upward trend till March as district hospitals remained 
+open. The downward trend in April and May, 2020 was reøective of access issues due to lockdown 
+measures. 
+The average decrease in service utilization (for ANC visits, deliveries, C-sections, postnatal care) in public 
+facilities was 6.2% in March, 34.6% in April, 38.7% in May and 21% in June. This analysis helped the 
+Government and partners increase measures for restoring RMNCAH services on a priority basis.
+IMPROVING MATERNAL, NEWBORN AND CHILD HEALTH OUTCOMES IN A DECADE
+PAKISTAN REPORT 2020
+34
+CHAPTER 3. NEWBORN SURVIVAL
+Table 8: Main points
+IMPROVING MATERNAL, NEWBORN AND CHILD HEALTH OUTCOMES IN A DECADE
+PAKISTAN REPORT 2020
+35
+l
+access to services, readiness and quality of services 
+Introduction
+l
+level and trends of the neonatal mortality 
+The assessment of progress uses the cascade of eﬀective coverage. Several steps in the cascade have a 
+good level of available data from national surveys (especially PDHS 2017/18, PSLM 2018/19 and MICS), 
+public sector health facility data, health facility assessments and research.  It is possibly to identify areas of 
+progress and major challenges. This chapter assesses:
+l
+quality of  essential  newborn care and for the small and sick newborns
+This chapter brieøy reviews the main policies and targets for neonatal health and describes the main 
+program implementation eﬀorts and larger epidemiological context of neonatal mortality trends in 
+Pakistan. 
+Program Implementation Eﬀorts
+Main Policies
+By 2030, the SDG target (3.2.2) is that the country reduces its Neonatal Mortality Rate to  less than 12 per 
+1000 live births.  In 2018, the Government of Pakistan has made a commitment to reduce NMR by less 
+than 12 by year 2030.
+l
+extent to which services are received and used ( PNC ) and 
+Pakistan beneötted from being in the Saving Newborn Lives (SNL-1) with considerable advocacy eﬀorts 
+in early 2000s. Capacity building for essential newborn care, birth asphyxia management and nation-
+IMPROVING MATERNAL, NEWBORN AND CHILD HEALTH OUTCOMES IN A DECADE
+PAKISTAN REPORT 2020
+36
+An assessment on small and sick newborn care was conducted in 2019 in selected hospitals of Pakistan 
+and has revealed stark gaps in care for small and sick newborns. Perinatal death reviews are still isolated 
+eﬀorts though preliminary quality of care eﬀorts have been initiated in selected tertiary hospitals. The 
+cost of maternity care and hospital admissions for small and sick newborns is covered under the “sehat 
+sahulat” programme for impoverished families.
+Research eﬀorts have included implementation of a set of low cost community-based intervention 
+packages carried out by Lady Health Workers. The study has shown signiöcant improvements in 
+household newborn care practices and reduction in neonatal mortality ratesĨ⁴Ĩ⁵. Another cluster-
+randomised trial demonstrated that community intervention by the LHW programme led to a 20% 
+reduction in neonatal mortality and was associated with signiöcant improvements in household 
+practices and newborn care practices. However, overall eﬀective coverage by functional LHWs was only 
+48%, and they were able to perform resuscitation in only 4% of potentially eligible neonates with birth 
+asphyxia. The intervention had no eﬀect on cause-speciöc neonatal mortality due to asphyxia or 
+suspected serious infections. No eﬀects on care seeking for facility births and stillbirths in the 
+intervention clusters. The implementation of a set of low cost community-based intervention package 
+within the health system settings in Gilgit region was found to be feasible and beneöcial. Signiöcant 
+reductions in perinatal and neonatal mortality rates were noted. Current eﬀorts for implementing home-
+wide tetanus vaccination campaigns for women of reproductive age was conducted. Later, National 
+MNCH programme scaled up essential newborn care through health education by Lady Health Workers 
+and capacity building of service providers at the facility level. Pakistan was also one of the örst countries to 
+develop a national plan following the launch of Every Newborn Action Plan (ENAP) in 2014. A bottleneck 
+analysis exercise highlighted issues of missing /low coverage of interventions like sepsis management 
+and care for small and sick newborn; issues of health önancing and information systems. Evidence-based 
+neonatal care interventions were promoted and provincial ENAP plans were developed. However the 
+momentum slowed down due to lack of adequate önancing and eighteenth amendment related 
+changes. Capacity building eﬀorts for promoting use of ambu bag and mask for asphyxia management, 
+early essential newborn care and use of chlorhexidine for cord care continued mostly with the support of 
+development partners. Kangaroo Mother Care for managing stable newborns less than 2000 grams was 
+initiated in one of the teaching hospitals in Lahore after an exposure visit to Vietnam in 2014. The practice 
+has been adopted by some hospitals on voluntary basis without additional logistical support. National 
+guidelines on KMC have been developed in 2019 and uniform implementation is being ensured with help 
+of partners.
+Ĩ⁵  Memon, Z.A., Khan, G.N., Sooö, S.B. et al. Impact of a community-based perinatal and newborn preventive care package on 
+perinatal and neonatal mortality in a remote mountainous district in Northern Pakistan. BMC Pregnancy Childbirth 15, 106 
+(2015). https://doi.org/10.1186/s12884-015-0538-8
+The Lancet, Volume 377, Issue 9763, 2011, Pages 403-412,ISSN 0140-6736,https://doi.org/10.1016/S0140-6736(10)62274-
+X.(http://www.sciencedirect.com/science/article/pii/S014067361062274X)
+Ĩ⁴  Zulöqar A Bhutta, Sajid Sooö, Simon Cousens, Shah Mohammad, Zahid A Memon, Imran Ali, Asher Feroze, Farrukh Raza, 
+Amanullah Khan, Steve Wall, Jose Martines, Improvement of perinatal and newborn care in rural Pakistan through community-
+based strategies: a cluster-randomised eﬀectiveness trial,
+IMPROVING MATERNAL, NEWBORN AND CHILD HEALTH OUTCOMES IN A DECADE
+PAKISTAN REPORT 2020
+37
+Provincial costed action plans for newborn survival have been developed for Punjab and Baluchistan 
+while newborn care strategies have been developed for Sindh and KPK. The focus on care for small and 
+sick newborns is gaining momentum. The Ministry of National Health Services Regulation and 
+Coordination together with partners has developed guidelines on KMC and included the intervention in 
+the district EPHS package and plans to include it in LHWs curriculum. Sixty two percent of all deaths in 
+Pakistan are attributed to neonatal causes (IHME 2017). Low birth weight, poor quality of care around the 
+time of birth and birth spacing less than two years are the major risk factors for preventable newborn 
+deaths. Neonatal care remains the mainstay for success of RMNCAH plan and UHC beneöt package. 
+based newborn care in selected districts have also shown promising results (UNICEF).
+Pakistan has witnessed a slow reduction of NMR from 52 per 1000 live births in 2006-07 to 42 per 1000 live 
+births in 2017-18. PSLM 2018/19 report has quoted NMR of 41 per 1000 live births. The UN-IGME estimates 
+used all the survey data on neonatal mortality were for 2019 (41.2 per 1,000 live births) and estimated that 
+neonatal mortality declined at 2.1% per year during 2010-2019, with no acceleration within this period. At 
+the current rate of progress, Pakistan's projected NMR would be 32 per 1,000 live births, far above the SDG 
+target of <12, by the year 2030. The rate of decline will need to triple to at least 6% decline per year to reach 
+the 2030 target.
+ There is a considerable variation in NMR by province:-
+General Epidemiological Trends: Slight Recent Improvement in Neonatal 
+Mortality Reduction
+20. Provincial variation in NMR (PDHS 2017-18)
+All provinces and regions experienced either stagnation or increase in neonatal mortality rates till 2012-
+13. However, the last PDHS 2017-18 noted a decline in NMR for all the regions. This downward trend was 
+also documented in Punjab MICS 2017-18.
+IMPROVING MATERNAL, NEWBORN AND CHILD HEALTH OUTCOMES IN A DECADE
+PAKISTAN REPORT 2020
+38
+Ĩ⁶  Arjumand Rizvi, Zaid Bhatti, Jai K. Das & Zulöqar A. Bhutta (2015) Pakistan and the Millennium Development Goals for Maternal 
+and Child Health: progress and the way forward, Paediatrics and International Child Health, 35:4, 287-297, DOI: 
+10.1080/20469047.2015.1109257
+Ĩ⁷ NIPS/Pakistan, and Macro International. 2008. Pakistan Demographic and Health Survey 2006-07.Islamabad, Pakistan: 
+NIPS/Pakistan and Macro International
+21. Provincial NMR since 1990
+Inadequate önancing for newborn care and lag in addressing key social determinants such as poverty, 
+female education and empowerment and unregulated population growth has been quoted for 
+compromising progress for neonatal survival in Pakistan³⁶.
+Birth asphyxia, sepsis and prematurity were the leading causes for neonatal mortality in PDHS 2006-07 
+verbal autopsies³⁷.
+22. Percent distribution of neonatal deaths by cause of death, Pakistan 2006-07
+IMPROVING MATERNAL, NEWBORN AND CHILD HEALTH OUTCOMES IN A DECADE
+PAKISTAN REPORT 2020
+39
+ 
+ 
+Another studyĨ⁸ concluded that neither delivery in a health facility nor by health professionals was 
+associated with fewer neonatal deaths. Almost all (88%) neonates who died received treatment and 75% 
+died in the hospital.  A high neonatal mortality rate, often due to preventable conditions was found in an 
+urban population with good access to professional care suggesting the need to improve health service 
+quality to decrease neonatal mortality. A systematic reviewĨ⁹⁴⁰, suggested a 29% reduction in NMR with 
+increase of facility deliveries. Comprehensive emergency obstetric care and basic emergency obstetric 
+care resulted in a reduction of intra-partum related neonatal deaths by 85% and 40% respectively⁴Ħ. A 
+lower reduction in NMR in Pakistan vis-à-vis the increase in proportion of facility deliveries is likely to be 
+due to poor quality of care. 
+Pakistan's still birth rate has been estimated as 30.6 per 1000 births with 190,483 still births a year⁴ħ. The 
+average annual rate of decline between 2010 and 2019 was 2.0%. (the PDHS 2017/18 had a perinatal 
+mortality of 57 per 1,000 births which included a stillbirth rate of 23.5 per 1,000, but underreporting of 
+stillbirths in common in surveys).
+Still Birth Rate 
+⁴⁰  Vivek V. Shukla, Wal demar A. Carlo. Review of the evidence for interventions to reduce perinatal mortality in low- and middle-
+income countries. International Journal of Pediatrics and Adolescent Medicine Volume 7, Issue1, March 2020, Pages 4-10
+Ĩ⁹  Tura, G., Fantahun, M. & Worku, A. The eﬀect of health facility delivery on neonatal mortality: systematic review and meta-
+analysis. 
+ 
+18 (2013). https://doi.org/10.1186/1471-2393-13-18
+BMC Pregnancy Childbirth13, 
+⁴ħ  A Neglected Tragedy: The global burden of still births- Report of the UN Inter-agency Group for Child Mortality Estimation, 
+2020
+Ĩ⁸  Jehan I, Harris H, Salats,et al. Neonatal mortality, risk factors and causes: a prospective population-based cohort study in urban 
+Pakistan. 
+2009,
+: 130-138
+Bull World Health Organ 
+ 87
+⁴Ħ  A.C. Lee, S. Cousens, S.N. Wall, S. Niermeyer, G.L. Darmstadt, W.A. Carlo, et al.Neonatal resuscitation and immediate newborn 
+assessment and stimulation for the prevention of neonatal deaths: a systematic review, meta-analysis and Delphi estimation of 
+mortality eﬀect BMC Publ Health, 11 (3) (2011), p. S12
+Table 9. Estimates of Still birth rate (UN-IGME)
+Table 10. Number of still births
+IMPROVING MATERNAL, NEWBORN AND CHILD HEALTH OUTCOMES IN A DECADE
+PAKISTAN REPORT 2020
+40
+However the quality of postnatal care contacts has shown gaps in content of care and the signal functions 
+performed. Of all the neonates receiving PNC, sixty-four percent of infants born in the 2 years preceding 
+the survey had their umbilical cord examined, and 46% had their temperature measured. Forty-öve 
+percent were counselled on breastfeeding, and more than one fourth of mothers received counselling on 
+newborn danger signs (27%) and were observed while breastfeeding (26%). Only 19% of newborns were 
+weighed during the örst 2 days after their birth. Fifty eight percent of newborns receiving a PNC contact 
+had at least two signal functions performed.
+Postnatal Care Seeking: increasing coverage but gaps in quality 
+PDHS (2017-18) showed that 64% of newborns received a postnatal check within the örst 2 days after 
+birth. Two in öve newborns (41%) had a postnatal check within the örst hour of life. Only 34% of newborns 
+residing in Balochistan received postnatal care during the örst 2 days after birth, compared with 77% of 
+newborns in ICT Islamabad.
+Fifty-nine percent of newborns received their örst postnatal check from a doctor, nurse, midwife, Lady 
+Health Visitor, or community midwife. The proportion of newborns with a postnatal check by these 
+providers was higher among örst births (69%), those whose mothers had higher education (85%), and 
+those born to mothers in the highest wealth quintile (86%).
+Assessment of progress 
+23. PNC signal functions performed (PDHS 2017-18)
+Similar provincial variations for PNC signal functions are also seen whereby all regions show a higher 
+coverage for cord examination but low on skin to skin contact and measuring weight at birth.
+IMPROVING MATERNAL, NEWBORN AND CHILD HEALTH OUTCOMES IN A DECADE
+PAKISTAN REPORT 2020
+41
+While WHO guidelines recommend four PNC visits, there is a lack of understanding and clear 
+programmatic guidance on number of visits, timing and reporting for health providers. PNC checklists 
+were developed for LHWs but no updates are available on their use. Currently, no additional home visits 
+are speciöed for low birth weight (LBW) and pre-term newborns.  Pre-discharge PNC for newborns 
+delivering at health facilities needs improvement with explicit guidelines and job-aids.
+Service availability and readiness:  gaps in essential newborn care and facilities for small and sick 
+newborn care
+Pakistan needs to align its service packages to the recent UNICEF and WHO guidance for setting up 
+essential, specialized and intensive care for newborns. The Universal Health Care district implementation 
+package provides an immediate opportunity to include and scale-up the required neonatal care 
+interventions at appropriate levels of care.
+24. Coverage of PNC signal functions
+IMPROVING MATERNAL, NEWBORN AND CHILD HEALTH OUTCOMES IN A DECADE
+PAKISTAN REPORT 2020
+42
+Table 11: Standards of care and evidence-based interventions
+Facility readiness was also very low in ICT (SARA Survey 2019), whereby 31 facilities varying from tertiary 
+hospitals to BHUs showed the following percentage availability of newborn care services.
+Sepsis is a major cause of neonatal death but stark deöciencies exist in managing PSBI (Possible 
+Suspected Bacterial Infections). In Punjab, only 10.9% medical oﬃcers and 2.7% other relevant staﬀ at 
+PHC Facilities were trained on Integrated Management of Newborn and Childhood Illness (IMNCI) 
+guidelines. Availability of medicines varied from 35% in primary facilities to 84% in referral facilities⁴⁴. 
+⁴⁴  PSBI baseline Assessment Report 2018, Bureau of Statistics BOS, Govt. of Punjab
+⁴Ĩ  Survive and thrive: transforming care for every small and sick newborn. Geneva: World Health Organization; 2019. Licence: 
+CC BY-NC-SA 3.0 IGO.
+Table 12. Facility readiness in ICT (SARA Survey 2019)
+Table: Inpatient care for small and sick newborns: requirements for care at diﬀerent health system 
+levels⁴Ĩ
+IMPROVING MATERNAL, NEWBORN AND CHILD HEALTH OUTCOMES IN A DECADE
+PAKISTAN REPORT 2020
+43
+⁴⁵  Hasan Nawaz Tahir, Zafar Fatmi (2019)Kangaroo mother care: opportunities and implications for rural Pakistan, J Pak Med 
+Assoc  69 (11):1725-1729
+⁴⁶  United Nations Children's Fund (UNICEF), World Health Organization (WHO). UNICEF-WHO Low birth weight estimates: Levels 
+and trends 2000–2015. Geneva: World Health Organization; 2019 Licence: CC BY-NC-SA 3.0 IGO.
+The AKU and UNICEF study on Situation Analysis on Stillbirths, Newborn Deaths and Small & Sick 
+Newborn Care 2019, was a örst systematic attempt to understand the gaps in coverage and quality of 
+interventions for the small and sick newborns. In a sample of 23 facilities across the country providing in-
+patient care for newborns (including teaching hospitals), 100% had paediatricians while only 13% had 
+neonatologists, 9% had neonatal surgeons and  13% had neonatal nurses. On a closer examination, the 
+teaching hospitals have consultant neonatologists but there are no positions for this speciality at DHQ 
+and THQ level. Similarly neonatal nursing is an under-developed specialization in Pakistan⁴⁵.
+“A newborn's weight at birth is an important marker of maternal and fetal health and nutrition. Low 
+birth weight newborns have a higher risk of dying in the örst 28 days of life. Those who survive are 
+more likely to suﬀer from stunted growth and lower IQ. The consequences of low birth weight 
+continue into adulthood, increasing the risk of adult onset chronic conditions such as obesity and 
+diabetes .”
+⁴⁶
+Availability of services for low birth weight and pre-term infants, like Kangaroo Mother Care, is limited to a 
+few tertiary hospitals, presently. National guidelines on KMC have been developed. However, the 
+intervention is still not captured in DHIS and coverage of eligible neonates cannot be determined. Post-
+discharge follow-up has been rated as one of the biggest challenges of the KMC units. Linkages with local 
+BHUs and follow-up by LHWs needs to be developed.  Propositions to scale-up KMC include three 
+pathways: 1) champion-led approach in which a small group led by community person initiates and 
+maintains the KMC intervention; 2) the project-initiated approach focused on project driven and donor 
+funded implementation of KMC and 3) the approach of health systems redesigning incorporated KMC in 
+the existing health system structure. A study had advocated that the combination of all three pathways 
+may lead to a more rapid scale-up of KMC even in resource constrained settings, such as rural Pakistan.
+According to the PDHS 2017-18, 22% of all live births had low birth weight. One-third (34%) of live births 
+to mother's under age 20 had a low birth weight compared with one öfth (21%) of births to mothers age 
+20-34. Babies of high birth order are more likely to be of low birth weight. Twenty-öve percent of live 
+births with a birth order of 6 or higher had a low birth weight compared with 21% of those with a birth 
+order of 2-5. Similarly, babies born to mothers who smoke cigarettes were more likely to have a low birth 
+weight than babies born to mothers who did not smoke (28% and 22%, respectively). Babies born in 
+households in the lowest wealth quintile were more likely (33%) to be of low birth weight than those born 
+in households in the highest quintile (19%). Punjab had the highest percentage of babies (24%) with a 
+75% of tertiary hospitals in ICT were providing counselling on immediate and exclusive breastfeeding 
+compared to 60% RHCs.
+IMPROVING MATERNAL, NEWBORN AND CHILD HEALTH OUTCOMES IN A DECADE
+PAKISTAN REPORT 2020
+44
+Increasing facility births have not led to a proportional decline in the neonatal mortality in Pakistan. Poor 
+quality of care at birth and during the postnatal period is evident in maternal counselling, skin to skin 
+contact after birth and measuring weight at birth, as they are particularly low in all provinces and regions.
+Eﬀective quality coverage: issues of prioritization and measurement
+reported birth weight of less than 2.5 kilograms. It is closely followed by Sindh at 23%. In Pakistan, 860,000 
+babies are born too soon (preterm: <37 weeks gestation) each year and 101,600 children under öve die 
+due to direct preterm complications⁴⁷.
+Table 13. Key maternal and newborn indicators regionswise
+The UNICEF and AKU study on small and sick newborn care revealed that most of the facilities lacked 
+Kangaroo Mother Care Units and do not routinely undertake maintenance of incubators, radiant warmers 
+and phototherapy lights; only 13 % facilities had a training of staﬀ on counseling of parents; 39% of the 
+facilities were designed as “baby friendly”; 35% facilities monitored their nosocomial infection rates; and 
+approximately 40% of the facilities lacked authority over budget. Majority of the facilities did not conduct 
+inter-disciplinary (87%) and management team meetings (83%). Perinatal and neonatal death reviews 
+was not a common practice across 57% of the surveyed facilities. Patient record reviews showed that 
+none of the facilities record all essential aspects in newborn assessment and admission history and none 
+⁴⁷   https://www.healthynewbornnetwork.org/hnn-content/uploads/Pakistan20171.pdf
+IMPROVING MATERNAL, NEWBORN AND CHILD HEALTH OUTCOMES IN A DECADE
+PAKISTAN REPORT 2020
+45
+of the facilities undertook the complete newborn assessment. None of the facilities had compiled 
+information on neonatal deaths and stillbirths; recording of very low birth weight was missing in most 
+(75%) of the facilities and  most  (77%) of the facilities did not receive feedback on out-referrals. The study 
+also captured experiences and perceptions of caregivers' regarding önancial burden during their stay in 
+the facility. Around 90% of the caregivers reported spending out of pocket payments to bear expenses for 
+infant care. 54% of the caregivers considered out of pocket payment expensive.
+25. Experience and perceptions of caregivers' regarding önancial burden during their stay in the facility.
+Improving quality of care for small and sick newborns has shown signiöcant impact on reducing Neonatal 
+Mortality Rate in multiple settings⁴⁸. Having standardized recording and reporting tools, setting up 
+quality of care teams and supporting them with training and enabling environment, perinatal death 
+reviews and family-centred care are some of the successful strategies that can be adopted. Orientation of 
+service providers on WHO's standards for small and sick newborn care⁴⁹ is in dire need.
+Sick newborn care has been included in the list of services covered under the 'sehat sahulat' card scheme. 
+The direct medical costs are covered, however it is clear that other major costs of diapers, food and 
+transport is substantial. Formula milk may not be required if mothers are allowed to stay in and expressed 
+milk is encouraged.
+Some eﬀorts have been initiated for neonatal death reviews including sms reporting in Punjab based on 
+LHW reports and testing the validity of the WHO revised verbal autopsy tool in determining causes of 
+⁴⁹  Standards for improving quality of care for small and sick newborns in health facilities. Geneva: World Health Organization; 
+2020. Licence: CC BY-NC-SA 3.0 IGO.
+⁴⁸  Nabila Zaka, et al., Quality improvement initiatives for hospitalised small and sick newborns in low- and middle-income 
+countries: a systematic review, Implementation Science, 13, 1, (2018).
+IMPROVING MATERNAL, NEWBORN AND CHILD HEALTH OUTCOMES IN A DECADE
+PAKISTAN REPORT 2020
+46
+⁵⁰  Sooö, S.B., Ariﬀ, S., Khan, U. et al. Diagnostic accuracy of WHO verbal autopsy tool for ascertaining causes of neonatal deaths in 
+the urban setting of Pakistan: a hospital-based prospective study. BMC Pediatr 15, 144 (2015).  https://doi.org/10.1186/s12887-
+015-0450-4
+⁵Ħ  Sankar, M., Natarajan, C., Das, R. et al. When do newborns die? A systematic review of timing of overall and cause-speciöc 
+neonatal deaths in developing countries. J Perinatol 36, S1–S11 (2016). https://doi.org/10.1038/jp.2016.27
+Who is left behind?
+Global evidence suggests that about 62% of total neonatal deaths occurred during the örst 3 days of life; 
+the örst day alone accounted for two-thirds⁵Ħ. Timely and quality PNC services are important for well-
+timed detection and management of any complications. Post Natal Care for babies is 64.2% nationally 
+with wide variation (rural 57.7 versus urban 77.3). PNC coverage also varies with maternal education, with 
+50.3% for mothers with no education, 65% for primary education and 81.7% with secondary education 
+and above. High diﬀerence is noted between the poorest and richest quintiles as shown in the graph. 
+(DHS 2017-18)
+neonatal deaths⁵⁰. However perinatal death reviews, as part of the overall MPDSR system, is a huge gap in 
+Pakistan.
+The PSLM 2019 report highlights the disparities by household residence in Neonatal Mortality Rate. The 
+NMR is 41/1000 live births nationally with 32/1000 live births for urban and 44/1000 live births for rural 
+areas.  
+26. Postnatal care by wealth quintiles
+IMPROVING MATERNAL, NEWBORN AND CHILD HEALTH OUTCOMES IN A DECADE
+PAKISTAN REPORT 2020
+47
+COVID-19 Impact
+Ministry of Health Services, Regulation and Coordination has documented a decline in PNC cases after 
+lock down measures in April and May 2020. The number of PNC consultations in 2020 were signiöcantly 
+higher than 2019 but dropped during the months of April and May during extensive lockdown period.
+27. Postnatal care consultations (DHIS data)
+Strengthening Intensive Care Units for COVID-19 is an opportunity to strengthen neonatal needs for ICUs 
+and safe oxygen. Similarly the system set-up for sentinel surveillance from public and private health 
+facilities can also be sustained for running SAAVY (Sample Vital Statistics and Verbal Autopsy) for neonatal 
+deaths.
+IMPROVING MATERNAL, NEWBORN AND CHILD HEALTH OUTCOMES IN A DECADE
+PAKISTAN REPORT 2020
+48
+Table 14: Main points
+CHAPTER 4: CHILD HEALTH 
+IMPROVING MATERNAL, NEWBORN AND CHILD HEALTH OUTCOMES IN A DECADE
+PAKISTAN REPORT 2020
+49
+In 1998, Pakistan piloted the Integrated Management of Childhood Illnesses (IMCI) strategy in two 
+districts of Abbottabad and Multan. By 2012 all districts have started implementing the IMCI program. 
+Neonatal care was added to 'IMCI' later making it 'IMNCI'.
+Program implementation eﬀorts
+Introduction
+This chapter brieøy reviews the main policies and targets for child health and describes main program 
+implementation eﬀorts. This chapter also presents the epidemiological context of under-öve mortality 
+trends in Pakistan. 
+The assessment of progress uses the cascade of eﬀective coverage which aims to disentangle issues 
+related to access, utilization, readiness and quality of services. Several steps in the cascade have a good 
+level of available data from the population-based surveys (especially PDHS 2017/18 and regional MICS 
+surveys), public sector health facility data, health facility assessments and research, allowing the 
+identiöcation of areas of progress and major challenges. Maternal and child nutrition is an important 
+underlying risk factor; but is not included in this analysis and planned to be covered in the annual report 
+for 2021. 
+This chapter assesses:
+l
+level and trends of the care for pneumonia, diarrhoea and malaria
+l
+extent to which services are received and used (immunization ) and 
+l
+eﬀective coverage for full immunization
+l
+access to services, readiness and quality of services 
+Main Policies
+By 2030, the SDG target (3.2) is that globally under-öve mortality rate is reduced to 25 per 1000 live births 
+or less. De facto, many countries have translated this into a national target.  In 2018, the Government of 
+Pakistan made a commitment to reduce U5MR by less than 25 per 1000 live births by 2030.
+IMPROVING MATERNAL, NEWBORN AND CHILD HEALTH OUTCOMES IN A DECADE
+PAKISTAN REPORT 2020
+50
+⁵⁸  http://www.epi.gov.pk/vaccine-preventable-diseases/pneumonia/
+⁵⁷  Ali, N. K., & Bhutta, Z. A. (2003). A review of rotavirus diarrhea in Pakistan: how much do we know?. Journal of the College of 
+Physicians and Surgeons--Pakistan : JCPSP, 13(5), 297–301.
+⁵⁹  https://www.harpnet.org/wp-content/uploads/2019/11/Evaluating-the-Scale-up-of-PSBI-_WEBINAR-20-11-19.pdf
+⁶⁰  Afshan, K., Narjis, G., Qureshi, I.Z. and Cappello, M. (2020), Social determinants and causes of child mortality in Pakistan: 
+Analysis of national demographic health surveys from 1990 to 2013. J Paediatr Child Health, 56: 457-472. doi:10.1111/jpc.14670
+⁵⁶  http://www.epi.gov.pk/vaccine-preventable-diseases/diarrhoea/
+⁵Ĩ  Hafeez, A., Mohamud, B., Shiekh, M., Shah, S., Jooma, R. (2011). Lady health workers programme in Pakistan: challenges, 
+achievements and the way forward.JPMA: Journal of the Pakistan Medical Association, 61(3), 210-215.
+⁵⁴  https://www.youtube.com/watch?v=dKApdH4wmzg
+⁵⁵   Assad Hafeez et al.(2012)The detailed assessment of Mother Child Week, Coverage Survey Report prepared for the Ministry of 
+Health and NP for FP and PHC.
+⁵ħ  Huma Amin ,Hafsa Yasin ,Syed Hasan Danish ,Farah Ahmad ,Shahida Rasheed ,Nosheen Zehra ,Gati Ara , Appraisal of 
+knowledge, attitude and practices of trained doctors regarding IMNCI, Pak. J. Med. Dent. 2015; 4 (1): 36-40
+Vaccinations for rota virus⁵⁶ and pneumococcal pneumonia have been added to the Expanded 
+Programme for Immunization (EPI). A  multi-center study in 5 developing countries including Pakistan 
+revealed that Rotavirus was found to be the most frequently detected pathogen in diarrheal episodes, 
+during the örst year of life, with the highest incidence (20%) occurring among 6-11 months old⁵⁷. In 
+addition, there are 15 million episodes of ARI every year among under-öves in Pakistan⁵⁸. 
+A study showed that belonging to the lowest wealth quintile, lack of maternal education, previous birth 
+interval < 2 years, örst birth order and below average birth size were associated (p < 0.05) with a greater 
+risk of child mortality in Pakistan. Common factors associated with child mortality were fever, diarrhoea 
+and pneumonia⁶⁰.
+This was further strengthened by training conducted under the National MNCH Programme.  However, 
+studies have highlighted a gap in understanding the management guidelines of IMNCI despite training⁵ħ. 
+Lady Health Workers also played a crucial role to perform their regular home visits and deliver promotive, 
+preventive and simple but essential curative home health care services including the most common 
+diseases encountered among the under 5 children population i.e. diarrhoea, respiratory tract infections 
+and fever; by eagerly managing anaemia, early initiation of breastfeeding and childhood feeding, and 
+immunization⁵Ĩ. Mother and Child Health Weeks⁵⁴ were conducted bi-annually to provide household 
+awareness about child health, provide deworming tablets with refresher trainings to service providers at 
+primary health care facility and conduct catch-up immunization starting from 2007. These campaigns still 
+continue with names of child health and nutrition weeks in certain districts after the eighteenth 
+amendment. An evaluation of mother-child weeks had shown signiöcant improvements in coverage 
+over-time and rated it as a doable strategy for providing a bundle of required interventions at periodic 
+intervals, with low cost (Rs.43) per beneöciary. Recommendations were made to expand the focus to non-
+LHW areas for equity and invest in communication campaign for raising family awareness and 
+community involvement⁵⁵. 
+Pakistan also piloted the implementation of WHO's revised guidelines of Possible Suspected Bacterial 
+Infection in Sindh⁵⁹ and has started scaling up in four Punjab since 2018. 
+IMPROVING MATERNAL, NEWBORN AND CHILD HEALTH OUTCOMES IN A DECADE
+PAKISTAN REPORT 2020
+51
+28. Trends in childhood mortality, 1990 to 2018
+Table 15. Under-öve mortality per 1000 live birth in the Pakistan DHS 2006-07 and Pakistan DHS 2017-18 with 
+rates of change and required pace of decline to achieve the SDG target
+Pakistan needs investments in strengthening implementation of policies designed to reduce child 
+mortality amongst the most vulnerable. Strengthening birth and death registration and using sentinel 
+sites for surveillance of child deaths are required to guide programmatic improvements.
+The PDHS 2017-18 indicates a decline in under-öve mortality to 74 per 1000 live births, from 89 in the 
+PDHS 2006/07, both for the 3-year period preceding the survey. The under-5 mortality in PSLM 2018/19 
+was even lower (59 per 1,000 live births). The UN IGME considered this an underestimate of their  
+estimated under-5 mortality in 2019 at 67 per 1,000 live births (with an average annual rate of reduction of 
+2.9% per year. These estimates imply an average annual rate of decrease of 8% per year to reach the 2030 
+target of 25 per 1000 live births, almost three times faster than the rate of decline in the last decade.
+General epidemiological trends: minimal decline in under-öve mortality with elusive SDG target
+IMPROVING MATERNAL, NEWBORN AND CHILD HEALTH OUTCOMES IN A DECADE
+PAKISTAN REPORT 2020
+52
+29. Trends in infant mortality rate 1990-2019
+30. Trends in Provincial Under-öve Mortality Rates
+All provinces and regions with trend data have shown some progress in reducing U5MR since 1990 .
+In Pakistan, the majority of under-öve deaths are attributed to neonatal complications of prematurity, 
+intra-partum related events and sepsis. Other than these diarrhoea and pneumonia are the leading cause 
+of death in children under öve, according to global estimates that included the PDHS 2006/07. 
+IMPROVING MATERNAL, NEWBORN AND CHILD HEALTH OUTCOMES IN A DECADE
+PAKISTAN REPORT 2020
+53
+31. Causes of under-öve deaths
+Surveillance for congenital anomalies has not yet been initiated at scale in Pakistan. The causes and 
+patterns need to be understood for a focused action plan. Congenital anomalies can cause miscarriage, 
+stillbirth, and for those who survive, lifelong physical and psychological diﬃculties. The lack of medical, 
+surgical and support services to care for children aﬀected, especially in low-resource settings, can take a 
+toll on families and children⁶Ħ.
+Access to services   
+Child health care services, preventative and curative including immunization are part and parcel of 
+primary health care service provision in Pakistan. At community level, Lady Health Workers are trained in 
+growth monitoring and IMNCI; treat mild cases and refer the sick children to health care facilities. The EPI 
+programme runs the immunization services through the öxed centre and outreach by vaccinators. Polio 
+vaccination campaigns are supported by LHWs, vaccinators and local volunteers. Recent declines in 
+availability of medicines with LHWs is a grave concern. Health facility data also show chronic shortages of 
+essential medicines. For example, ICT SARA survey 2020 shows that 66% of facilities (tertiary hospitals, 
+CHCs, RHCs, FWCs, BHUs and dispensaries) were providing preventative and curative services for children 
+under-öve. The FWCs and dispensaries were particularly low on availability of child health services.
+Assessment of progress 
+⁶Ħ  WHO,CDC, March of Dimes (2020) Birth defects surveillance: a manual for programme managers and Birth defects surveillance: 
+quick reference handbook of selected congenital anomalies.
+Source: http://proöles.countdown2030.org/#/cp/PAK
+CAUSES OF DEATH UNDER FIVE - 2017
+Globally nearly half of child deaths are
+aƩributable to undernutriƟon 
+Mauve categories represent neonatal causes
+IMPROVING MATERNAL, NEWBORN AND CHILD HEALTH OUTCOMES IN A DECADE
+PAKISTAN REPORT 2020
+54
+The readiness scores for medicines and equipment were also un-satisfactory in ICT SARA survey. 
+Table 16. Access to services in ICT
+Table 17. Access to services in ICT
+An appraisal of Knowledge, Attitude and Practices of trained doctors  regarding IMNCI revealed gaps in 
+knowledge and practices of trained doctors⁶ħ regarding management according to IMNCI guidelines. 
+This is also substantiated by recent ICT SARA survey öndings as shown above.
+Innovations like on-line courses on IMNCI for doctors are being successfully tried in Punjab and can 
+reduce the training costs signiöcantly. Inclusion of IMNCI and growth monitoring to pre-service curricula 
+is also recommended. 
+Similar gaps were also found in ICT SARA survey for immunization related guidelines, staﬀ capacities and 
+equipment.
+⁶ħ  Amin H, Yasin H, Danish, SH, Ahmad F, Rasheed S, Zehra N, Ara G. Appraisal of knowledge, attitudes and practices of trained 
+doctors regarding IMNCI. Pak J Med Dent 2015; 4(1):47-53.
+IMPROVING MATERNAL, NEWBORN AND CHILD HEALTH OUTCOMES IN A DECADE
+PAKISTAN REPORT 2020
+55
+Table 18. Immunization related guidelines in ICT
+Improving access through engagement of the private sector is important. The private sector caters to a 
+substantial need for child health care except immunization. General Physicians and pharmacies are 
+providers for treatment of common childhood illnesses. PDHS 2017-18 documented that a private 
+hospital or clinic was the source of advice or treatment for more than half of the children (52%).
+Incidence of ARI has declined from 16% in 2012-13 to 14% in 2017-18. The prevalence of symptoms of ARI 
+was highest among children age 6-11 months and age 12-23 months (17%) and lowest among children 
+48-59 months (10%).
+PDHS 2017-18 showed that 14% of children under age 5 showed symptoms of acute respiratory infection 
+(ARI), 84% were taken to a health facility or care provider for advice or treatment, 51% sought treatment in 
+the same or next day, and 46% were given antibiotics as treatment.
+Utilization of Services / Contact Coverage
+Care seeking for pneumonia
+IMPROVING MATERNAL, NEWBORN AND CHILD HEALTH OUTCOMES IN A DECADE
+PAKISTAN REPORT 2020
+56
+32. Percent of children under 5 years with symptoms of pneumonia taken to appropriate health provider
+33. Percent of children under 5 years with symptoms of pneumonia taken to appropriate health provider
+Care seeking for diarrhea
+Children in households from the lowest wealth quintile are least likely to receive immediate treatment for 
+ARI (36%), receiving treatment on the same or next day, compared with 68% of children in the highest 
+wealth quintile. Children in Balochistan with symptoms of ARI are least likely to seek advice or treatment 
+(62%) compared with those in Punjab (86%), Sindh (85%) and Khyber Pakhtun Khwa and ICT (84% each). 
+They are also least likely to receive antibiotic drugs.
+There is a downward trend in the prevalence of diarrhoea in children under age 5 from 23% in the 2012-13 
+PDHS to 19% in the 2017-18 PDHS. The practice of seeking advice or treatment for diarrhoea improved 
+from 61% in 2012-13 to 71% in 2017-18. In the PSLM 2018/19 diarrhoea in the last 15 days was reported for 
+only 6% of children under-5. Among those, 84% were taken to a health facility and 53% received ORS. 
+IMPROVING MATERNAL, NEWBORN AND CHILD HEALTH OUTCOMES IN A DECADE
+PAKISTAN REPORT 2020
+57
+34. Provincial trends for treatment of diarrhoea among children under-öve
+Immunization Services
+Co-packaging of ORS and Zinc and the “Diarrhea Pack” are two promising interventions to increase the 
+use of zinc. The Diarrhoea Pack comprises of the two packets of low osmolality ORS, one strip of 10 zinc 
+tablets, two packets of water puriöcation sachets and one pictorial leaøet with educational material 
+including importance of hand washing, use of toilet facilities and safe storage of water and food, 
+distributed through community health workers. A study⁶Ĩ assessing the use of the Diarrhoea Pack has 
+shown a signiöcant increase in uptake of ORS and Zinc along with the reduction in antibiotic use, diarrhea 
+burden and hospitalization in intervention clusters when compared with the control clusters. 
+The percentage of fully immunised children ages 12-23 months has increased markedly over a 5-year 
+span, from 54% in 2012-13 to 66% in 2017-18. The PSLM 2018/19 shows coverage by vaccine for children 
+aged 12-23 months. Pentavalent third dose and measles coverage were 85% and 77% respectively. This 
+compares to 75% and 73% respectively for the year before in the PDHS 2017/18. Although the surveys 
+may have design or implementation diﬀerences, these data suggest that immunization coverage is still 
+increasing. 
+Only 37% of the children with diarrhoea were given oral rehydration salts, and only 8% were given zinc 
+with ORS.  Appropriate stool disposal and sanitation is important for prevention of diarrhoea. Only 36% of 
+children's stools were disposed of appropriately. (PDHS 2017-18)
+http://www.biomedcentral.com/1471-2458/13/922
+⁶Ĩ  Habib et al.  2013. A study to evaluate the acceptability, feasibility and impact of packaged interventions (“Diarrhea Pack”) for 
+prevention and treatment of childhood diarrhea in rural Pakistan BMC Public Health 2013, 13:922 
+IMPROVING MATERNAL, NEWBORN AND CHILD HEALTH OUTCOMES IN A DECADE
+PAKISTAN REPORT 2020
+58
+35. Percentage of children age 12-23 months vaccinated at any time before the survey
+Vaccination card ownership and availability is important as a card ensures that children receive all the 
+recommended vaccinations. Eighty öve percent of children aged 12-13 months were reported to have a 
+vaccination card; however only 63% of children's vaccination cards could be seen at the time of the 
+interview. Plastic coated EPI books are now being used to address this issue.
+Source: PSLM 2018-19
+Figure 36: Coverage of immunization
+PSLM 2019 shows an improvement in national coverage for all antigens (as shown above in Fig 36 ). 
+Measles coverage has been stagnant and drops due to a time gap and possible omission by parents after 
+Penta 3.
+IMPROVING MATERNAL, NEWBORN AND CHILD HEALTH OUTCOMES IN A DECADE
+PAKISTAN REPORT 2020
+59
+Table 19. stock outs of pneumonia and diarrhoea commodities in ICT
+The same survey had the following öndings for the availability of immunization services:
+Readiness of services: stock outs of pneumonia and diarrhoea commodities and missed 
+opportunities for immunization
+ICT SARA survey found sub-optimal availability of essential medicines and commodities in public sector 
+facilities. It is note-worthy that co-packaged ORS and Zinc is not yet a part of the Essential Medicine List.
+Table 20. Missed opportunities for immunization in ICT
+Availability of vaccines was lowest at FWCs and dispensaries. The facilities reporting stock-outs for all the 
+vaccines in the last 3 months varied from 3-5%. HPV is not part of Pakistan's EPI programme at the 
+moment.
+IMPROVING MATERNAL, NEWBORN AND CHILD HEALTH OUTCOMES IN A DECADE
+PAKISTAN REPORT 2020
+60
+Quality of care: issues of prioritization and measurement
+For the purpose of this document, combined use of ORS and zinc, use of antibiotic for treatment of 
+pneumonia and age appropriate vaccination are reviewed as measures of quality child health care. 
+Although the practice of seeking advice or treatment for diarrhoea in children has increased from 61% in 
+the 2012-13 PDHS to 71% in 2017-18 PDHS; many gaps in quality of care have been observed. It is highly 
+recommended that ORS and zinc be given to children with diarrhoea to reduce the risk of childhood 
+morbidity and mortality. According to the PDHS 2017-18, about 37% of children with diarrhoea in the last 
+2 weeks were given ORS and only 1 in 4 (8%) children received zinc with ORS. Only 9% of children who had 
+diarrhoea were given more liquids than usual for rapid rehydration, while 55% were given the same 
+amount as usual and 35% were given somewhat less or much less than usual. Thirty percent of children 
+with diarrhoea received unnecessary antibiotics and 21% received anti-motility drugs. Safe disposal of 
+child faeces is only practiced in 36% of households. Knowledge and counselling skills of service providers 
+need improvement to adhere to evidence-based practices and encourage care-givers to improve quality 
+of early care seeking and appropriate management. 
+Table 21. Vaccine stock out in ICT
+IMPROVING MATERNAL, NEWBORN AND CHILD HEALTH OUTCOMES IN A DECADE
+PAKISTAN REPORT 2020
+61
+37. Reasons for not visiting Govt. facility örst for diarrhoea treatment- PSLM 2018-19
+Care was sought for seventy six percent of children with Acute Respiratory Infection (ARI) but timely care-
+seeking on the same or next day was reported by only 35.6%. Out of 76% children for whom any care was 
+sought, only 50.6% of children received antibiotic for management of ARI. 
+Overall 66% of children age 12-23 months have had all basic vaccines. Childhood vaccinations should be 
+speciöc to the age of the child. Only 51% of children had all age-appropriate vaccinations. Only 4% did not 
+have any type of vaccine at any time before the survey.
+The WHO Standards for improving quality of care for children and young adolescents aged 0–15 years in 
+health facilities⁶⁴ have been framed in the best interest of children and take into consideration a child's 
+right to health while recognizing that their health, physical, psychosocial, developmental and 
+communication needs diﬀer from those of adults. Evidence based care is required with competent 
+service providers, necessary triaging, nutrition assessment, well equipped facilities, referral support, up-
+dated patient records and in line with fulölment of human rights. The gaps in service delivery have been 
+highlighted in the sections above. Examples exist from countries showing post neonatal mortality 
+reduction by improving quality of care⁶⁵. No systematic eﬀort is yet in place to measure and implement 
+standards of care for children and young adolescents.
+Who is left behind?
+Urban rural disparity and diﬀerentials in Infant Mortality Rates by education status of the mother were 
+noted in the recent PSLM 2019. 
+⁶⁴  Standards for improving the quality of care for children and young adolescents in health facilities. Geneva: World Health 
+Organization; 2018. Licence: CC BY-NC-SA 3.0 IGO.
+⁶⁵  Kavita Singh, et al., Evaluating the impact of a hospital scale-up phase of a quality improvement intervention in Ghana on 
+mortality for children under öve, International Journal for Quality in Health Care, Volume 31, Issue 10, December 2019, Pages 
+752–758, https://doi.org/10.1093/intqhc/mzz073
+IMPROVING MATERNAL, NEWBORN AND CHILD HEALTH OUTCOMES IN A DECADE
+PAKISTAN REPORT 2020
+62
+38. Infant mortality by household residence PSLM
+39. Infant mortality by maternal education PSLM 2013-14
+The variance in care seeking by wealth quintiles was also noted for pneumonia care seeking, diarrhoea 
+treatment (use of ORS) and DPT3 coverage in PDHS 2017-18.
+40. Care seeking for symptoms of pneumonia by wealth quintiles
+IMPROVING MATERNAL, NEWBORN AND CHILD HEALTH OUTCOMES IN A DECADE
+PAKISTAN REPORT 2020
+63
+41. Diarrhoea treatment- ORS by wealth quintiles
+It is interesting to note that while care seeking for pneumonia is 21.9 points lower among the poorest as 
+compared to the richest quintile, use of ORS is similar among the highest and lowest quintiles with about 
+a öve point reduction for the remaining income groups. This pattern needs further exploration as to the 
+patterns of non-önancial causes on low ORS use.
+42. DPT3 by wealth quintiles
+Children living in the poorest households are disproportionately disadvantaged for DPT3 coverage and 
+need a targeted approach for service delivery.
+COVID-19 Impact
+COVID-19 containment measures such as lockdown and closure of some facilities, had a negative impact 
+on utilization of child health services at public facilities. DHIS reports compared for 2019 and 2020 clearly 
+show the declining trends of consultations at government facilities. During April – May – June the 
+number of children with ARI seen in facilities was down by 41% compared to the preceding year. The 
+corresponding number of decrease in diarrhoea consultations was 39.7%.
+IMPROVING MATERNAL, NEWBORN AND CHILD HEALTH OUTCOMES IN A DECADE
+PAKISTAN REPORT 2020
+64
+43. Number of children with acute respiratory infection seen in facilities
+44. Number of children treated for diarrhoea
+A similar decline in DPT3 vaccination was also registered during March to May 2020 with more drastic 
+lockdown measures. However the service quickly resumed with advocacy eﬀorts of immunization 
+programmes. The decline in vaccinations was large (34.2% decline) during April-June but almost nil 
+during July.
+45. Number of children <1 year receiving DPT3 vaccine
+IMPROVING MATERNAL, NEWBORN AND CHILD HEALTH OUTCOMES IN A DECADE
+PAKISTAN REPORT 2020
+65
+⁶⁶  Subhash Chandir etal. 2020. Impact of COVID-19 pandemic response on uptake of routine immunizations in Sindh, Pakistan: 
+An analysis of provincial electronic immunization registry data,Vaccine, Volume 38, Issue 45, 2020,Pages 7146-7155, ISSN 0264-
+410X, https://doi.org/10.1016/j.vaccine.2020.08.019.
+⁶⁷   http://www.epi.gov.pk/wp-content/uploads/2020/04/Federal-EPI-Updates-April-2020-1.pdf
+⁶⁸   https://www.app.com.pk/national/unicef-launches-guideline-for-covid-19-management-in-children/
+A study⁶⁶ in Sindh province also showed a 52.5% decline in the daily average total number of vaccinations 
+administered during lockdown compared to baseline, especially at the öxed sites. One out of every two 
+children in Sindh province had missed their routine vaccinations during the provincial COVID-19 
+lockdown. 
+The number of measles cases was down during April to July 2020 as compared to 2019.  This may be 
+associated with reduced transmission because of the containment measures and with the lower chance 
+of women taking their sick children to a health facility.
+46. Number of children classiöed with measles
+By September 30th 2020, 4,634 children under-öve were reported to be positive for COVID-19 in Pakistan. 
+8
+Guidelines for COVID management in children were developed and launched in July 2020⁶  through 
+collaborative eﬀorts of the UNICEF and Pakistan Pediatric Association, under the leadership of 
+MoNHSR&C.
+The Ministry of National Health Services, Regulations and Coordination has taken major steps to 
+reinvigorate the immunization program to mitigate the impact of COVID-19. Low coverage areas were 
+identiöed to accelerate outreach activities to cover children out of pocket, strengthen existing EPI centres 
+and integrate of EPI and PEI (Polio Eradication Initiative) strategies for increasing equitable coverage of 
+7
+immunization against vaccine preventable diseases (VPD)⁶ . 
+IMPROVING MATERNAL, NEWBORN AND CHILD HEALTH OUTCOMES IN A DECADE
+PAKISTAN REPORT 2020
+66
+Accelerating the progress on family planning, maternal, newborn and child health in a decade demands a 
+de novo approach, high political commitment backed by adequate önancing and the will to make 
+diﬃcult decisions for addressing redundancies and gaining eﬃciency. The recent developments in the 
+RMNCAH+N investment case, UHC Basic Package and renewed Government commitment to invest in 
+health have given an impetus to think bolder and bigger. A few key priorities for action are discussed in 
+this chapter.
+The private sector caters to almost 70% of all health care service delivery in Pakistan but no system exists 
+to capture their information. Health Care Commissions in Punjab, Sindh and KPK are evaluating private 
+facilities for meeting Minimum Service Delivery Standards. This information is conödential for individual 
+facilities but aggregates can be released periodically to assess progress. There is as yet no provision of 
+capacity building support for public and private health facilities for quality improvement. Private 
+Tracking Eﬀective Quality Coverage and Health Gains
+Health facility assessments are useful to gauge facility readiness. Punjab, Sindh and ICT have used SARA 
+survey for assessing public health facilities. The öndings from the most recent ICT SARA survey were used 
+to illustrate the gaps in commodities/medicines, staﬃng and availability of services in this report. DHIS 
+reports have the potential of providing real time information from public health facilities. For example, 
+the eﬀect of COVID-19 on health facility usage through DHIS information has enabled the decision-
+makers to take timely measures for continuation of essential RMNCAH services. On the other hand, we 
+could not assemble evidence on how the information on staﬀ vacancies, stock-outs and maternal and U5 
+death is being used. DHIS does not report on causes of newborn deaths nor does it include reporting of 
+still births (antepartum or intra-partum). Data from THQ hospitals and teaching hospitals is not included 
+or linked to DHIS. Any future endeavours in this regard should consider inter-operability.
+The previous chapters have examined progress for family planning and maternal, newborn and child 
+health using a six-step coverage framework, starting from a target population to (1) service contact, (2) 
+likelihood of services, (3) crude coverage, (4) quality-adjusted coverage, (5) user-adherence-adjusted 
+coverage and (6) outcome-adjusted coverage. Clear inferences can be made only if all the subsequent 
+coverage levels are nested in the preceding ones and population denominator remains constant. For 
+these purposes, PDHS 2017-18 is used as it allows some measure of quality care as well as highlights 
+disparities by province and region, age, urban or rural residence, socio-economic status, sex of the child 
+and mother's educational status. PSLM 2019 oﬀers relatively recent data but does not cover regions (ICT, 
+AJK and GB) and disaggregation variables are limited. Recent MICS data, though more elaborate on 
+content of care, is not available for all provinces/regions. The sample sizes and design of each survey is 
+also diﬀerent which limits the comparability of information. The One Health Survey has been 
+recommended in the past to overcome these limitations and should be seriously considered for 
+eﬃciently managing the data needs.  
+CHAPTER 5: CALL FOR ACTION 
+IMPROVING MATERNAL, NEWBORN AND CHILD HEALTH OUTCOMES IN A DECADE
+PAKISTAN REPORT 2020
+67
+The existing provincial Essential Packages for community based and primary health care and hospital 
+services need a review to align with the newly endorsed UHC BP of services. The implementation of UHC 
+oﬀers the prospect of registration of families and creating unique IDs of patients for electronic medical 
+records. Thus the monitoring and measurement eﬀorts for cohort tracking will be possible to identify 
+lapses in the eﬀective quality coverage.
+A quality health system is needed to deliver the FP and MNCH interventions for achieving the desired 
+health outcomes. At the current rate of progress, SDG targets for maternal, newborn and child mortality 
+will remain elusive. There are no magic bullet answers for mammoth health system challenges. With the 
+eighteenth amendment in place and health being a provincial responsibility, the departments of health 
+have a pivotal role to play. Provincial lead on health is a great opportunity to situate health in the political 
+priorities of the government and make the improvements at a quicker pace with attention to inter-district 
+disparities and variations. This however runs the risk of fragmentation and lack of a uniöed approach 
+which creates eﬃciencies. The National Ministry of Health Services Coordination and Regulation has 
+successfully provided the platform of RMNCAH Technical Working Group which can be further 
+strengthened.
+hospitals are included in the list of empaneled facilities for using the 'sehat sahulat' card; and have shared 
+the information on COVID-19 cases and number of available beds and ventilators. Partnerships with the 
+private sector also exist to notify Dengue fever and TB cases. These examples show promise of bringing 
+private health establishments into the health information system and simpliöed recording and reporting 
+forms can be introduced through a participatory approach with GP associations.
+Data availability for most of the SDG and UHC related indicators is reasonably adequate in Pakistan. 
+However, huge gaps exist for CRVS (Civil Registration and Vital Statistics); birth weight measurement, 
+reporting of still births and standardized measures for determining quality of care and cohort tracking. 
+Extensive investment is required to scale-up and streamline MPDSR and link these eﬀorts with 
+continuous quality improvement.
+Strengthening the Health System
+Governance and leadership, especially at the provincial and district levels are key to design and deliver 
+results. Under the current scenario, none of the provinces have the position of Director MCH. The 
+Provincial MNCH programme units are on the verge of extinction as soon the extended PC-1s expire with 
+exception of Sindh province where a Deputy DG RMNCAH position has been announced. Whether new 
+positions for a technical team to oversee FP and MNCH are created or not will determine the provincial 
+capacity to run an accelerated initiative to reach SDG targets. It may be practical to house this expertise in 
+units under consideration for UHC basic package implementation for sustainability. The needs for 
+technical assistance should be channelled through the National RMNCAH Technical Working Group for 
+eﬀective management.
+IMPROVING MATERNAL, NEWBORN AND CHILD HEALTH OUTCOMES IN A DECADE
+PAKISTAN REPORT 2020
+68
+The low level of human development, coupled with security, poverty, socio-economic challenges, health 
+emergencies and recurrent humanitarian crises are some of the macro level challenges resulting in 
+Quality of care standards needs implementation for Family Planning, MNH and pediatric care with clinical 
+mentoring guidelines and periodic third party assessments. Provincial health care commissions can 
+support these assessments. However the capacity of public health managers and clinicians also needs to 
+be built and an enabling environment ensured. Patients should be partners in health care, empowered 
+and regularly consulted to evaluate their satisfaction and compliance.
+Service delivery improvements are dependent on resolving the serious health work force crises. Both pre-
+service and in-service trainings should be need based and cater to the competency gaps. Staﬀ retention 
+and motivation issues also need to be addressed. Referral pathways from district hospitals to teaching 
+hospitals should be explicitly outlined with each teaching hospital linked to a few feeder district 
+hospitals. This will create a rapport and enable teaching hospitals to take mentoring role for the teams at 
+district hospitals. The models of pooled ambulance service have shown promising results and can be 
+replicated in all districts.
+Most of the MNCH and FP commodities are already included in the essential medicine list with exception 
+of some brands of contraceptive implants and co-packaged ORS and Zinc. Procurement processes need 
+clear SOPs and uniöed guidelines. Logistic Management and Information System (LMIS) strengthening is 
+urgently needed to avoid stock outs.
+Information systems inclusive of digital innovations are indispensable for timely and evidence-based 
+decision making. COVID-19 surveillance measures have created a unique opportunity to integrate 
+maternal, newborn and child death reporting in sentinel surveillance. Maternal Perinatal Death 
+Surveillance and Response is a key to identify problems in patient management and health system. 
+Linking these problems with quality improvement processes can guarantee incremental improvements 
+and prevent unnecessary mortality. The newly created Integrated Disease Surveillance and Response 
+units at district level can oversee the MPDSR activities and provide support to the health facilities.
+Addressing the Underlying Causes of Preventable Mortality
+The underlying malnutrition, air pollution and inadequate WASH behaviours drive maternal and child 
+mortality, decreases resistance to environmental insults and increases the risk of respiratory infections 
+and diarrhoea.  Addressing these causes need inter-sectoral collaboration and a leadership by the health 
+sector in advocacy and building a coherent response. The low level of human development, coupled with 
+security, poverty, socio-economic challenges, health emergencies and recurrent humanitarian crises all 
+contribute to vulnerabilities for women and children. MNCH and family planning need to be positioned at 
+the centre of all development and risk preparedness eﬀorts.
+Leaving No One Behind
+IMPROVING MATERNAL, NEWBORN AND CHILD HEALTH OUTCOMES IN A DECADE
+PAKISTAN REPORT 2020
+69
+The concept of Universal Health Care (UHC) implies that all people and communities can use the 
+promotive, preventive, curative, rehabilitative and palliative health services they need, of suﬃcient 
+quality to be eﬀective, while also ensuring that the use of these services does not expose the user to 
+önancial hardship. Access to essential health services and health equity are the key challenges in a 
+country of 224 million people where an estimated 46 million people are living below the poverty line. 
+There has been a consistent and signiöcant decline in poverty over the years. The poverty head count 
+measure fell from 64.3% in 2001 to 24.3% in 2015. However, since 2015, the pace of poverty reduction is 
+likely to have halted due to macroeconomic crisis and associated slow-down in growth. In this context, 
+the outbreak of the recent COVID-19 pandemic and the containment measures adopted by the 
+government, are expected to increase poverty in the country. Less than one percent of the Gross 
+Domestic Product (GDP) is being spent as governmental health expenditure and share of out of pocket 
+health expenditure in Pakistan is around 57.6% of the total health expenditure, which is very high. In 
+addition to the existing challenges of access to essential health services and health equity, the COVID-19 
+pandemic has intensiöed the need for investment in development of an equitable and resilient health 
+system and mechanism for önancial risk protection especially for vulnerable populations. 
+Pakistan can only accelerate progress towards ending preventable mortality for mothers, newborns and 
+children or achieve family planning goals by truly following the principles of National Health Vision 
+Strategy. Despite signiöcant progress over the years, the historical rates of reduction in maternal and child 
+deaths and contraceptive prevalence rate are too low to achieve the SDG targets by 2030. With the 
+COVID-19 pandemic and signs of economic recession, the health budgets may shrink or be diverted to 
+containment measures. Keeping RMNCAH+N as a priority should be considered as an investment in 
+future human capital and building a resilient health system. 
+Greater granularity of equity analyses contributes to identify subgroups of women and children who are 
+being left behind and monitor the impact of eﬀorts to reduce inequalities in order to achieve the health-
+related SDGs⁶⁹. The household registration for recipients of BISP, 'sehat sahulat' card and 'Ehsaas' 
+programme remain a unique opportunity to map and target the poorest. The health sector can use 
+district ranking by UHC and Multi-Dimensional Poverty indices to prioritize districts for equity focused 
+programming.
+perpetual inequities in health care provision. At meso level, inadequate health önancing, weak leadership 
+capacities at district level, multiple parallel and fragmented health care structures and serious crises of 
+the health workforce has resulted in a weak health system.  At micro-level, low literacy, malnutrition and 
+poor social status of women hamper proactive and timely health care seeking. 
+Prioritizing Action to Reach the SDG and Related Targets by 2030
+⁶⁹  Victora C, Boerma T, Requejo J, et al. Analyses of inequalities in RMNCH: rising to the challenge of the SDGs. BMJ Glob Health 
+2019;4:e001295. doi:10.1136/ bmjgh-2018-001295
+IMPROVING MATERNAL, NEWBORN AND CHILD HEALTH OUTCOMES IN A DECADE
+PAKISTAN REPORT 2020
+70
+A minimum package of MNCH and FP interventions can be immediately rolled out. A simulation was run 
+using the Johns Hopkins Lives Saved Tool (LiST) to model the impact of increasing the eﬀective coverage 
+of this bundle of interventions to 80%, from 2021 to 2025. Two scenarios were run with the priority MNCH 
+package without family planning and the priority MNCH package with family planning as envisaged in 
+Government targets.
+The bundle of interventions for increasing coverage to 80% in scenario 1 included ANC 4+, skilled 
+attendance at birth, basic and comprehensive Emergency Obstetric Care, essential newborn care, small 
+and sick newborn care, treatment of diarrhoea with ORS + Zinc, treatment of Pneumonia with antibiotics, 
+full immunization, hand washing with soap and improved water supply. In scenario 2, the CPR was 
+increased by 20% in addition to all the interventions in scenario 1.
+Table 22: Percent reduction in number of deaths
+1. Improving RMNCH leadership and coordination mechanisms by strengthening TWGs at national and 
+provincial levels;
+3. Providing operational support to RMNCH acceleration package by UHC structures or RMNCH+N 
+directorates with quality of care units to provide support for implementing evidence-based MNCH 
+and FP standards;
+ The highest number of deaths averted among mothers was related to PPH, eclampsia and sepsis. Among 
+the newborns, maximum mortality reduction was achieved for prematurity and asphyxia. The post-
+neonatal deaths of children under-öve registered the largest decrease for diarrhoea and pneumonia-
+related deaths. This is understandable, considering the total burden of deaths by cause in these age 
+groups. Apart from the high impact evidence-based interventions for maternal, newborn and child 
+health; it is important to acknowledge the accelerator eﬀect of family planning. This is not impossible 
+considering 22% women already have an unmet need for FP. The 70% institutional deliveries are due to 
+un-tapped counselling and FP service delivery opportunities if post-partum family planning is pushed to 
+scale. With this strategy, Pakistan will deönitely move closer to achieving the SDG 2030 targets.
+The ten priorities for action in the next ten years (10X10 agenda) are summarized below:
+2. Developing RMNCH acceleration package including family planning for immediate scale-up; 
+IMPROVING MATERNAL, NEWBORN AND CHILD HEALTH OUTCOMES IN A DECADE
+PAKISTAN REPORT 2020
+71
+5.  Targeting the poor, the rural and the un-educated is imperative for reducing the coverage disparities. 
+Linking health sector eﬀorts with poverty reduction, nutrition sensitive and social protection 
+initiatives will bring eﬃciency and reduce duplication;
+4. Harnessing the role of a strong private sector, already catering to two-thirds of the RMNCH needs. 
+Partnerships with professional associations and health care commissions can provide leverage in this 
+regard;
+7. Improving timely referral of complicated cases by expanding pooled ambulance services and linking 
+district level facilities with pre-identiöed teaching hospitals. Laying out clear referral protocols and 
+responsibilities at each level of health system is needed;
+6. Resolving the serious health work force crises, nurse midwife ratio to population and attaining 
+suﬃcient numbers of neonatologists and neonatal nurses;
+8. Digital innovations for improving data recording and reporting as well as improving LMIS and 
+increasing awareness through mobile messaging;
+9. Investing in research and information system for tracking eﬀective quality coverage at least on 
+annual basis; accounting for the private sector; bridging data gaps for CRVS (Civil Registration and 
+Vital Statistics); birth weight measurement, reporting of still births and standardized measures for 
+determining quality of care and cohort tracking. Extensive investment is required to scale-up and 
+streamline MPDSR and link these eﬀorts with continuous quality improvement; and
+10. Developing inter-sectoral linkages for addressing the underlying risk factors of low female social 
+status, malnutrition, air pollution and inadequate WASH behaviours.
+Pakistan has indeed made some positive strides in improving maternal, newborn and child health of its 
+people in the last decades. Challenges of the health system, and equity and high unmet need for family 
+planning need urgent attention to accelerate progress in the next decade. This calls for fundamental 
+health sector reforms to deliver a high-priority eﬀective RMNCAH package of quality services to the 
+women and children who need it most.

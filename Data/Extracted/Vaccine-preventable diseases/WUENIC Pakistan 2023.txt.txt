@@ -1,0 +1,1710 @@
+©UNICEF/U.S. CDC/UNI408835/Hillier
+WUENIC 2023 revision,
+Published 15 July 2024
+Pakistan
+WHO/UNICEF Estimates of National Immunization Coverage 
+(WUENIC), 2023 revision
+Every year, WHO and UNICEF jointly review submissions from Member States on national immunization coverage, including 
+annual administrative and official coverage, finalized survey reports and data from both published and grey literature. The 
+data is triangulated with consideration of potential biases and local expert opinions to differentiate between accurately 
+reflective empirical data and potentially misleading data, to assess the most likely coverage levels for each country.
+WHO and UNICEF produce country-specific estimates by individually reviewing each country's data without borrowing from 
+other countries in the absence of data. These estimates are not based on ad hoc adjustments to reported data; sometimes, 
+empirical data come from a single source, typically nationally reported coverage data. If no data are available for a specific 
+country-vaccine-year combination, data from earlier and later years are considered and interpolated to fill in the gaps. When 
+data sources are conflicting and show significant variations, efforts are made to determine the most likely estimate, taking 
+into account potential biases in the available data.
+This slide deck presents the latest WUENIC estimates (published 15 July 2024) for Pakistan.
+Methods:
+• Burton et al. 2009. WHO and UNICEF estimates of national infant immunization coverage: methods and processes.
+• Burton et al. 2012. A formal representation of the WHO and UNICEF estimates of national immunization coverage: a computational logic 
+approach.
+• Brown et al. 2013. An introduction to the grade of confidence used to characterize uncertainty around the WHO and UNICEF estimates of 
+national immunization coverage.
+Definitions of immunization terms
+Vaccine coverage
+Percentage of infants (children under one year of age) who received certain vaccine-doses. For example, coverage of DTP3 is the percentage of infants who 
+received all three doses of diphtheria, tetanus, and pertussis (DTP) vaccine. 
+Unvaccinated
+An infant that did not receive the first dose of a vaccine series. The term "zero-dose“ is used to describe children unvaccinated with DTP1.
+Under-vaccinated
+An infant who received some but not all the recommended vaccine-doses in the national schedule. 
+Vaccine-Doses
+•
+Bacillus Calmette-Guerin (BCG): vaccine against tuberculosis
+•
+Hepatitis B birth dose, given within 24 hours after birth (HepBB)
+•
+Diphtheria, tetanus, and pertussis vaccine, first dose (DTP1) and third dose (DTP3)
+•
+Hepatitis B vaccine, third dose (HepB3)
+•
+Haemophilus influenzae type B vaccine, third dose (Hib3)
+•
+Poliomyelitis vaccine, third dose (Polio3)
+•
+Inactivated polio vaccine, first dose (IPV1) and second dose (IPV2): second dose is only shown for oral polio vaccine (OPV) using countries
+•
+Measles containing vaccine, first dose (MCV1) and second dose (MCV2)
+•
+Rotavirus vaccine, last dose (RotaC)
+•
+Pneumococcal vaccine, third dose (PCV3)
+•
+Yellow Fever vaccine (YFV) 
+•
+Meningococcal A vaccine (MengA) 
+•
+Human Papillomavirus vaccine, last dose (HPVc): vaccine to protect against certain types of human papillomavirus that can lead to cancer or genital warts
+The Immunization Agenda 2030 (IA2030)
+The IA2030 is a global strategy endorsed by the World Health Assembly aiming to ensure everyone, everywhere, at every age benefits from vaccines for improved 
+health and well-being by 2030. It focuses on increasing vaccine coverage, equity, sustainability and pandemic preparedness while promoting life-course 
+immunization and integrating immunization with other health services.
+WUENIC 2023 revision
+60
+62
+63
+61
+63
+68
+71
+75
+75
+76
+79
+93
+95
+96
+69
+71
+72
+74
+75
+73
+72
+70
+69
+67
+67
+77
+83
+85
+86
+86
+84
+87
+88
+90
+82
+84
+74
+78
+82
+80
+65
+68
+80
+78
+82
+82
+83
+82
+83
+85
+86
+61
+63
+64
+80
+78
+78
+77
+77
+75
+74
+74
+83
+84
+84
+85
+86
+86
+86
+90
+93
+91
+78
+78
+80
+82
+82
+83
+87
+90
+87
+90
+93
+94
+61
+63
+66
+68
+63
+63
+64
+65
+69
+72
+75
+75
+80
+84
+80
+83
+85
+86
+62
+62
+65
+60
+63
+64
+65
+69
+72
+75
+75
+80
+84
+80
+83
+85
+86
+63
+64
+65
+69
+72
+75
+75
+80
+84
+80
+83
+85
+86
+67
+75
+84
+83
+83
+90
+86
+80
+84
+81
+83
+81
+82
+84
+67
+67
+67
+74
+77
+79
+79
+66
+67
+63
+63
+64
+65
+69
+72
+75
+75
+75
+84
+83
+59
+59
+57
+56
+56
+57
+59
+12
+58
+59
+59
+54
+53
+52
+52
+54
+53
+52
+52
+40
+52
+52
+20
+56
+29
+57
+30
+34
+38
+42
+43
+48
+54
+58
+54
+53
+52
+52
+2000 2001 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023
+RotaC
+RCV1
+POL3
+PCV3
+MCV2
+MCV1
+IPV2
+IPV1
+Hib3
+HepBB
+HepB3
+DTP3
+DTP1
+BCG
+Vaccine coverage (%)  
+0
+60 70 80 90 100
+Vaccine coverage, Pakistan, 2000-2023
+Source: WHO/UNICEF Estimates of National Immunization Coverage, 2023 revision
+This heatmap shows trends in 
+vaccine coverage since 2000, 
+with green cells indicating 
+coverage of 90% or more.
+In 2013, none of the 9 vaccines 
+in the national immunization 
+schedule achieved coverage of 
+90% or more. Vaccine coverage 
+ranged from 43% to 84%.
+In 2023, 3 out of 14 (21%) 
+vaccines in the schedule 
+achieved coverage of 90% or 
+more. Vaccine coverage ranged 
+from 40% to 96%.
+Since 2003, estimates have been 
+made for 9 new vaccines. HepBB 
+is the newest vaccine reported 
+(2023), which achieved 40% 
+coverage in 2023.
+DTP1
+WUENIC 2023 revision
+90
+87
+90
+93
+94
+84
+80
+83
+85
+86
+1.6
+1.5
+2.1
+1.1
+0.6
+0.8
+0.7
+0.5
+0.4
+0.5
+0.5
+0.9
+0.6
+0.4
+0.4
+0.5
+0.5
+0.5
+2.2
+2
+3
+1.8
+1
+1.3
+1.1
+1
+0.9
+0M
+1M
+2M
+3M
+0
+25
+50
+75
+100
+2000
+2005
+2010
+2015
+2019
+2020
+2021
+2022
+2023
+Number un- and under-vaccinated (millions)
+DTP Coverage (%)
+DTP1
+DTP3
+Drop-out
+Zero-dose
+Estimated coverage and number of un- and under-vaccinated children for DTP, Pakistan, 2000-2023
+1
+0.9
+0.6
+0.4
+0.4
+0.5
+2019
+2023
+0.00M
+0.25M
+0.50M
+0.75M
+1.00M
+Un- and under-vaccinated (millions)
+Source: WHO/UNICEF Estimates of National Immunization Coverage, 2023 revision
+The key goal of the Immunization 
+Agenda 2030 is to make 
+vaccination available to 
+everyone, everywhere, by 2030.
+This chart shows diphtheria, 
+tetanus and pertussis-containing 
+vaccine first (DTP1) and third 
+dose (DTP3) coverage trends, 
+the number of zero-dose children 
+and DTP drop-out in Pakistan.
+In 2023, DTP1 coverage in 
+Pakistan remained relatively 
+constant within 1% at 94%. The 
+number of children missing out 
+on any DTP vaccination (zero-
+dose children) improved from 
+460,000 in 2022 to 396,000 in 
+2023.
+DTP3 coverage remained 
+relatively constant within 1% at 
+86% in 2023, leaving 925,000 
+children vulnerable to vaccine-
+preventable diseases.
+WUENIC 2023 revision
+69
+73
+67
+82
+90
+94
+89
+93
+0
+25
+50
+75
+100
+2000
+2005
+2010
+2015
+2019
+2023
+Coverage (%)
+Pakistan
+Global
+ROSA
+DTP1 coverage, Pakistan, 2000-2023
+-21
+-17
+-23
+-8
+0
+4
+-1
+0
+-20
+-10
+0
+10
+2000
+2005
+2010
+2015
+2019
+2023
+Difference (% points)
+Pakistan
+Global
+ROSA
+DTP1 coverage difference compared to 2019, Pakistan
+639,000
+396,000
+2019
+2023
+0
+200,000
+400,000
+600,000
+Number of zero-dose children, Pakistan, 2019 and 2023
+Source: WHO/UNICEF Estimates of National Immunization Coverage, 2023 revision
+Note: Coverage difference compared to 2019 - values above zero indicate coverage higher than in 2019 and values below zero indicate coverage lower than in 2019.
+In 2023, DTP1 coverage in 
+Pakistan (94%) was 5 
+percentage points higher than the 
+global average (89%) and 1 
+percentage point higher than 
+average across all ROSA 
+countries (93%).
+National DTP1 coverage was 4 
+percentage points higher than in 
+2019 (90%).
+This equates to 396,000 zero-
+dose children in 2023 compared 
+to 639,000 zero-dose children in 
+2019.
+WUENIC 2023 revision
+67
+93
+94
+96
+99
+99
+99
+99
+2
+1
+3
+5
+4
+0
+25
+50
+75
+100
+Afghanistan
+India
+Pakistan
+Nepal
+Bangladesh
+Bhutan
+Maldives
+Sri Lanka
+Coverage (%)
+Top 5 zero-dose
+Not top 5 zero-dose (no stripes)
+DTP1 coverage and ranking of number zero-dose, by country, ROSA, 2023
+Source: WHO/UNICEF Estimates of National Immunization Coverage, 2023 revision
+Note: Bars are ranked by ascending coverage. Numbers in bubbles display top 5 rank based on absolute number of zero-dose children.
+This chart shows DTP1 coverage 
+in countries in ROSA from lowest 
+to highest coverage, and the rank 
+of the top 5 countries with the 
+most zero-dose children, based 
+on absolute numbers.
+In 2023, Pakistan ranked number 
+3 out of 8 countries for lowest 
+DTP1 coverage (based on tied 
+ranks).
+Pakistan was in the top 5 
+countries with the most zero-
+dose children (rank=3).
+Note: Large cohort countries may 
+have high numbers of zero-dose 
+children despite high vaccine 
+coverage. It is important to 
+consider both coverage and 
+absolute numbers of 
+unvaccinated children to ensure 
+vulnerable countries with small 
+birth cohorts are not overlooked.
+WUENIC 2023 revision
+India
+Nigeria
+Indonesia
+Ethiopia
+Philippines
+DRC
+Brazil
+Pakistan
+Angola
+Myanmar
+Tanzania
+Mozambique
+Afghanistan
+Somalia
+Mexico
+Madagascar
+Cameroon
+DPRK
+Chad
+Viet Nam
+Nigeria
+India
+Ethiopia
+DRC
+Sudan
+Indonesia
+Yemen
+Afghanistan
+Angola
+Pakistan
+Somalia
+Viet Nam
+Madagascar
+Mexico
+South Africa
+Mali
+DPRK
+China
+Guinea
+Myanmar
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+2021
+2023
+IA2030 top 20 zero-dose countries rank, 2021-2023
+Source: WHO/UNICEF Estimates of National Immunization Coverage, 2023 revision
+Note: Countries in ROSA are highlighted in colour
+20 countries were prioritised in 
+the context of the Immunization 
+Agenda 2030 (IA2030), based on 
+their number of zero-dose 
+children in 2021. This chart 
+compares the ranking of the top 
+20 countries in 2021 and 2023. 
+Rank 1 indicates the country with 
+the highest absolute number of 
+zero-dose children.
+Pakistan was in the top 20 
+countries in 2021 and 2023.
+WUENIC 2023 revision
+India (2,736,000)
+Pakistan (651,000)
+Afghanistan (503,000)
+Nepal (45,000)
+Bangladesh (33,000)
+Sri Lanka (13,000)
+Maldives (<200)
+Bhutan (<100)
+India (1,592,000)
+Afghanistan (467,000)
+Pakistan (396,000)
+Bangladesh (34,000)
+Nepal (23,000)
+Sri Lanka (3,000)
+Bhutan (<100)
+Maldives (<100)
+1
+2
+3
+4
+5
+6
+7
+8
+2021
+2022
+2023
+Countries ranked by number of zero-dose children, ROSA, 2021-2023
+Source: WHO/UNICEF Estimates of National Immunization Coverage, 2023 revision
+Note: Number in parentheses is the number of zero-dose children
+This chart compares the ranking 
+of countries in ROSA based on 
+the absolute number of zero-
+dose children, with rank 1 
+representing the country with the 
+most zero-dose children.
+In 2021, Pakistan ranked number 
+2 out of 8 countries with 651,000 
+zero-dose children.
+In 2023, Pakistan ranked number 
+3 out of 8 countries with 396,000 
+zero-dose children.
+Note: Absolute numbers of zero-
+dose children is based on a 
+combination of programme 
+performance and surviving infant 
+target population size. Countries 
+may climb to a higher rank 
+despite a decline in number of 
+zero-dose children as the ranking 
+also depends on performance of 
+other countries in the region.
+WUENIC 2023 revision
+0
+500,000
+1,000,000
+1,500,000
+2,000,000
+2000
+2005
+2010
+2015
+2019
+2023
+2025
+2030
+Number of zero-dose children
+Estimate
+IA2030 zero-dose target
+Estimated number of zero-dose children, 2000-2023 and target by 2030, Pakistan
+Source: WHO/UNICEF Estimates of National Immunization Coverage, 2023 revision.
+Note: The Immunization Agenda 2030 (IA2030) calls on all countries to reduce the number of zero dose children in 2019 by half by 2030.
+Dark blue bars are the estimated number of zero-dose children in 2000-2023, light blue bar is the target number of zero-dose children by 2030.
+Line shows trajectory the country needs to be on, and points show annual goals to meet the target by 2030, assuming a linear decline.
+IA2030 aims to leave no one 
+behind with immunization and 
+calls on all countries to reduce 
+the number of zero dose children 
+by half by 2030.
+This chart shows:
+• Estimated number of zero-dose 
+children in 2000-2023 (dark blue 
+bars)
+• Zero-dose target by 2030 (light 
+blue bar)
+• Annual goals to reach the 2030 
+target based on a linear trajectory 
+of decline (points)
+In 2023, the number of zero-dose 
+children was approximately 27% 
+lower than (ie. the country had 
+achieved) the annual goal.
+WUENIC 2023 revision
+69
+73
+67
+82
+90
+87
+90
+93
+94
+5.3
+5.4
+6.3
+6.3
+6.4
+6.4
+6.5
+6.6
+6.6
+3.7
+1.6
+4
+1.5
+4.2
+2.1
+5.2
+1.1
+5.8
+0.6
+5.6
+0.8
+5.9
+0.7
+6.1
+0.5
+6.2
+0.4
+0M
+3M
+6M
+9M
+12M
+0
+25
+50
+75
+100
+2000
+2005
+2010
+2015
+2019
+2020
+2021
+2022
+2023
+Number of children (millions)
+DTP1 Coverage (%)
+DTP1 coverage
+Unvaccinated (zero-dose)
+Vaccinated
+Estimated DTP1 coverage, and number of vaccinated and unvaccinated children, Pakistan, 2000-2023
+6.4
+6.6
+5.8
+0.6
+6.2
+0.4
+2019
+2023
+0 M
+2 M
+4 M
+6 M
+Number of children (millions)
+Source: WHO/UNICEF Estimates of National Immunization Coverage, 2023 revision
+DTP1 coverage in 2023 (94%) 
+was higher than in 2019 (90%).
+The number of children 
+vaccinated with DTP1 increased 
+8% compared to in 2019.
+The number of surviving infants 
+increased approximately 3% 
+compared to in 2019.
+In 2023, 500,000 more children 
+were vaccinated than in 2019.
+In 2023, there were 200,000 
+more surviving infants (target 
+population) than in 2019.
+For vaccine coverage to 
+increase, the number of children 
+vaccinated must increase at a 
+faster rate than the population 
+increases.
+DTP3
+WUENIC 2023 revision
+59
+63
+52
+72
+84
+86
+84
+90
+0
+25
+50
+75
+100
+2000
+2005
+2010
+2015
+2019
+2023
+Coverage (%)
+Pakistan
+Global
+ROSA
+DTP3 coverage, Pakistan, 2000-2023
+-25
+-21
+-32
+-12
+0
+2
+-2
+1
+-30
+-20
+-10
+0
+10
+2000
+2005
+2010
+2015
+2019
+2023
+Difference (% points)
+Pakistan
+Global
+ROSA
+DTP3 coverage difference compared to 2019, Pakistan
+1,023,000
+925,000
+2019
+2023
+0
+250,000
+500,000
+750,000
+1,000,000
+Number of un- and undervaccinated children , Pakistan, 2019 and 2023
+Source: WHO/UNICEF Estimates of National Immunization Coverage, 2023 revision
+Note: Coverage difference compared to 2019 - values above zero indicate coverage higher than in 2019 and values below zero indicate coverage lower than in 2019.
+In 2023, DTP3 coverage in 
+Pakistan (86%) was 2 
+percentage points higher than the 
+global average (84%) and 4 
+percentage points lower than the 
+average across all ROSA 
+countries (90%).
+National DTP3 coverage was 2 
+percentage points higher than in 
+2019 (84%).
+This equates to 925,000 un- and 
+undervaccinated children in 2023 
+compared to 1,023,000 un- and 
+undervaccinated children in 
+2019.
+WUENIC 2023 revision
+60
+86
+91
+94
+98
+99
+99
+99
+3
+2
+1
+5
+4
+0
+25
+50
+75
+100
+Afghanistan
+Pakistan
+India
+Nepal
+Bangladesh
+Bhutan
+Maldives
+Sri Lanka
+Coverage (%)
+Top 5 un- and undervaccinated
+Not top 5 un- and undervaccinated (no stripes)
+DTP3 coverage and ranking of number un- and undervaccinated, by country, ROSA, 2023
+Source: WHO/UNICEF Estimates of National Immunization Coverage, 2023 revision
+Note: Bars are ranked by ascending coverage. Numbers in bubbles display top 5 rank based on absolute number of un- and undervaccinated children.
+This chart shows DTP3 coverage 
+in countries in ROSA from lowest 
+to highest coverage, and the rank 
+of the top 5 countries with the 
+most un- and undervaccinated 
+children, based on absolute 
+numbers.
+In 2023, Pakistan ranked number 
+2 out of 8 countries for lowest 
+DTP3 coverage (based on tied 
+ranks).
+Pakistan was in the top 5 countries 
+with the most un- and 
+undervaccinated children (rank=2).
+Note: Large cohort countries may 
+have high numbers of un- and 
+undervaccinated children despite 
+high vaccine coverage. It is 
+important to consider both 
+coverage and absolute numbers of 
+unvaccinated children to ensure 
+vulnerable countries with small 
+birth cohorts are not overlooked.
+WUENIC 2023 revision
+59
+63
+52
+72
+84
+80
+83
+85
+86
+5.3
+5.4
+6.3
+6.3
+6.4
+6.4
+6.5
+6.6
+6.6
+3.1
+2.2
+3.4
+2
+3.3
+3
+4.6
+1.8
+5.4
+1
+5.1
+1.3
+5.4
+1.1
+5.6
+1
+5.7
+0.9
+0M
+3M
+6M
+9M
+12M
+0
+25
+50
+75
+100
+2000
+2005
+2010
+2015
+2019
+2020
+2021
+2022
+2023
+Number of children (millions)
+DTP3 Coverage (%)
+DTP3 coverage
+Unvaccinated
+Vaccinated
+Estimated DTP3 coverage, and number of vaccinated and unvaccinated children, Pakistan, 2000-2023
+6.4
+6.6
+5.4
+1
+5.7
+0.9
+2019
+2023
+0 M
+2 M
+4 M
+6 M
+Number of children (millions)
+Source: WHO/UNICEF Estimates of National Immunization Coverage, 2023 revision
+Note: Unvaccinated includes zero-dose and undervaccinated children
+DTP3 coverage in 2023 (86%) 
+was higher than in 2019 (84%).
+The number of children 
+vaccinated with DTP3 increased 
+6% compared to in 2019.
+The number of surviving infants 
+increased approximately 3% 
+compared to in 2019.
+In 2023, 300,000 more children 
+were vaccinated than in 2019.
+In 2023, there were 200,000 
+more surviving infants (target 
+population) than in 2019.
+For vaccine coverage to 
+increase, the number of children 
+vaccinated must increase at a 
+faster rate than the population 
+increases.
+MCV1
+WUENIC 2023 revision
+81
+83
+81
+82
+84
+80
+74
+77
+79
+79
+2.3
+2.1
+2.7
+1.6
+1.2
+1.1
+1.2
+1.2
+1.1
+1.1
+1.2
+0.4
+0.3
+0.1
+0.1
+0.2
+3.8
+2.8
+1.6
+1.4
+1.3
+1.3
+1.3
+0M
+1M
+2M
+3M
+4M
+0
+25
+50
+75
+100
+2000
+2005
+2010
+2015
+2019
+2023
+Un- and under-vaccinated (millions)
+MCV Coverage (%)
+MCV1
+MCV2
+No MCV1
+No MCV2
+Estimated coverage and number of un- and under-vaccinated children for MCV, Pakistan, 2000-2023
+1.6
+1.3
+1.2
+1.1
+0.4
+0.2
+2019
+2023
+0.0M
+0.5M
+1.0M
+1.5M
+Un- and under-vaccinated (millions)
+Source: WHO/UNICEF Estimates of National Immunization Coverage, 2023 revision
+Note: Lines show vaccine coverage and bars show number of children.
+There may be discrepancies in total numbers due to rounding.
+Measles, because of its high 
+transmissibility, acts as a 'canary 
+in the coalmine', quickly exposing 
+any immunity gaps in the 
+population. The coverage of 
+measles containing vaccine 
+(MCV) is thus often used as a 
+tracer for protection.
+The percentage of children 
+receiving MCV1 – typically at 9 or 
+12 months depending on the 
+national vaccination schedule –
+increased to 84%. This is greater 
+than in 2019, where coverage 
+was 81%.
+1,057,000 children missed their 
+routine first dose of measles 
+vaccine.
+MCV2 is typically administered to 
+children between 18 months and 
+five years old. MCV2 coverage 
+remained relatively constant 
+(within {cvg_noise}%) at at 80% 
+in 2023.
+WUENIC 2023 revision
+61
+57
+75
+57
+81
+84
+83
+90
+0
+25
+50
+75
+100
+2000
+2005
+2010
+2015
+2019
+2023
+Coverage (%)
+Pakistan
+Global
+ROSA
+MCV1 coverage, Pakistan, 2000-2023
+-20
+-24
+-6
+-24
+0
+3
+-3
+-1
+-30
+-20
+-10
+0
+10
+2000
+2005
+2010
+2015
+2019
+2023
+Difference (% points)
+Pakistan
+Global
+ROSA
+MCV1 coverage difference compared to 2019, Pakistan
+1,215,000
+1,057,000
+2019
+2023
+0
+250,000
+500,000
+750,000
+1,000,000
+1,250,000
+Number of infants unprotected against measles, Pakistan, 2019 and 2023
+Source: WHO/UNICEF Estimates of National Immunization Coverage, 2023 revision
+Note: Coverage difference compared to 2019 - values above zero indicate coverage higher than in 2019 and values below zero indicate coverage lower than in 2019.
+In 2023, MCV1 coverage in 
+Pakistan (84%) was 1 
+percentage point higher than the 
+global average (83%) and 6 
+percentage points lower than the 
+average across all ROSA 
+countries (90%).
+National MCV1 coverage was 3 
+percentage points higher than in 
+2019 (81%).
+This equates to 1,057,000 
+unvaccinated children in 2023 
+compared to 1,215,000 
+unvaccinated children in 2019.
+WUENIC 2023 revision
+55
+84
+93
+93
+97
+99
+99
+99
+3
+2
+1
+5
+4
+0
+25
+50
+75
+100
+Afghanistan
+Pakistan
+India
+Nepal
+Bangladesh
+Bhutan
+Maldives
+Sri Lanka
+Coverage (%)
+Top 5 unvaccinated
+Not top 5 unvaccinated (no stripes)
+MCV1 coverage and ranking of number unvaccinated, by country, ROSA, 2023
+Source: WHO/UNICEF Estimates of National Immunization Coverage, 2023 revision
+Note: Bars are ranked by ascending coverage. Numbers in bubbles display top 5 rank based on absolute number of unvaccinated children.
+This chart shows MCV1 
+coverage in countries in ROSA 
+from lowest to highest coverage, 
+and the rank of the top 5 
+countries with the most 
+unvaccinated children, based on 
+absolute numbers.
+In 2023, Pakistan ranked number 
+2 out of 8 countries for lowest 
+MCV1 coverage (based on tied 
+ranks).
+Pakistan was in the top 5 
+countries with the most 
+unvaccinated children (rank=2).
+Note: Large cohort countries may 
+have high numbers of 
+unvaccinated children despite 
+high vaccine coverage. It is 
+important to consider both 
+coverage and absolute numbers 
+of unvaccinated children to 
+ensure vulnerable countries with 
+small birth cohorts are not 
+overlooked.
+WUENIC 2023 revision
+61
+57
+75
+57
+81
+83
+81
+82
+84
+5.4
+6.3
+6.3
+5.3
+6.4
+6.4
+6.5
+6.6
+6.6
+3.3
+2.1
+3.6
+2.7
+4.8
+1.6
+3
+2.3
+5.2
+1.2
+5.3
+1.1
+5.3
+1.2
+5.4
+1.2
+5.5
+1.1
+0M
+3M
+6M
+9M
+12M
+0
+25
+50
+75
+100
+2000
+2005
+2010
+2015
+2019
+2020
+2021
+2022
+2023
+Number of children (millions)
+MCV1 Coverage (%)
+MCV1 coverage
+Unvaccinated
+Vaccinated
+Estimated MCV1 coverage, and number of vaccinated and unvaccinated children, Pakistan, 2000-2023
+6.4
+6.6
+5.2
+1.2
+5.5
+1.1
+2019
+2023
+0 M
+2 M
+4 M
+6 M
+Number of children (millions)
+Source: WHO/UNICEF Estimates of National Immunization Coverage, 2023 revision
+MCV1 coverage in 2023 (84%) 
+was higher than in 2019 (81%).
+The number of children 
+vaccinated with MCV1 increased 
+7% compared to in 2019.
+The number of surviving infants 
+increased approximately 3% 
+compared to in 2019.
+In 2023, 400,000 more children 
+were vaccinated than in 2019.
+In 2023, there were 200,000 
+more surviving infants (target 
+population) than in 2019.
+For vaccine coverage to 
+increase, the number of children 
+vaccinated must increase at a 
+faster rate than the population 
+increases.
+Childhood immunization:
+Additional charts
+14
+7
+9
+6
+3
+0
+10
+20
+30
+2000
+2005
+2010
+2015
+2019
+2023
+Drop-out rate (%)
+Pakistan
+Global
+ROSA
+Drop-out rate between 
+DTP1 and DTP3 (%)
+17
+10
+11
+7
+3
+0
+10
+20
+30
+2000
+2005
+2010
+2015
+2019
+2023
+Drop-out rate (%)
+Pakistan
+Global
+ROSA
+Drop-out rate between 
+DTP1 and MCV1 (%)
+Source: WHO/UNICEF Estimates of National Immunization Coverage, 2023 revision
+Drop-out classification: <5% = low, 5-10% = medium, >10% = high
+Vaccine drop-out, Pakistan, 2000-2023
+Drop-out rates show the 
+percentage of children who 
+received DTP1, but not 
+DTP3/MCV1. Low drop-out rates 
+indicate high retention of children 
+in immunization programmes.
+This chart shows trends in drop-
+out rates between DTP1 and 
+DTP3, and DTP1 and MCV1.
+In 2023, 9% of children who 
+received DTP1 did not receive 
+DTP3 (left), and 11% of children 
+who received DTP1 did not 
+receive MCV1 (right).
+The medium DTP drop-out rates 
+imply moderate ability to provide a 
+complete series of vaccines early 
+in life. The high DTP-MCV drop-
+out rates imply poor retention in 
+immunization programmes and 
+ability to provide a full course of 
+vaccines in infancy (up to one 
+year).
+In 2023, Pakistan DTP drop-out 
+was higher and DTP-MCV drop-
+out was higher than global drop-
+out rates, respectively.
+WUENIC 2023 revision
+74
+96
+93
+20
+86
+84
+65
+86
+83
+69
+94
+90
+57
+84
+81
+61
+86
+84
+59
+86
+84
+30
+80
+74
+12
+90
+86
+PCV3
+POL3
+ROTAC
+IPV1
+MCV1
+MCV2
+BCG
+DTP1
+DTP3
+2000
+2005
+2010
+2015
+2019
+2023
+2000
+2005
+2010
+2015
+2019
+2023
+2000
+2005
+2010
+2015
+2019
+2023
+0
+20
+40
+60
+80
+100
+0
+20
+40
+60
+80
+100
+0
+20
+40
+60
+80
+100
+Coverage (%)
+Coverage of recommended childhood vaccines, Pakistan, 2000-2023.
+Source: WHO/UNICEF Estimates of National Immunization Coverage, 2023 revision
+Note: Data labels are shown for 2000 (or first year of reporting), 2019 and 2023
+This chart shows trends in 
+coverage of 9 core routine 
+vaccines recommended in 
+childhood.
+In 2023, MCV2 had the lowest 
+coverage (80%), followed by 
+MCV1 (84%).
+Compared to 2019, coverage of 9 
+vaccines increased (BCG, DTP1, 
+DTP3, IPV1, MCV1, MCV2, 
+PCV3, POL3 and ROTAC).
+Compared to 2022, coverage of 8 
+vaccines increased (BCG, DTP1, 
+DTP3, MCV1, MCV2, PCV3, 
+POL3 and ROTAC) and one 
+vaccine decreased (IPV1).
+WUENIC 2023 revision
+DTP3: 86%
+HepB3: 86%
+Hib3: 86%
+IPV1: 86%
+MCV1: 84%
+MCV2: 80%
+PcV3: 86%
+Polio3: 86%
+Rubella: 84%
+RotaC: 90%
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+2000
+2005
+2010
+2015
+2019
+2023
+Coverage (%)
+Vaccine coverage (%), Pakistan, 2000-2023
+Source: WHO/UNICEF Estimates of National Immunization Coverage, 2023 revision.
+Numbers in the data label bubbles refer to vaccine coverage in the latest year estimates are available.
+This chart shows trends in 
+coverage of 9 vaccines (complete 
+series).
+In 2023, MCV2 had the lowest 
+coverage of all vaccines (80%), 
+followed by MCV1 (84%).
+Coverage of 9 vaccines 
+increased (DTP3, HepB3, Hib3, 
+IPV1, MCV1, MCV2, PcV3, 
+Polio3 and RotaC) compared to 
+respective coverage in 2019.
+Coverage of 9 vaccines 
+increased (DTP3, HepB3, Hib3, 
+MCV1, MCV2, PcV3, Polio3, 
+RotaC and Rubella) and 1 
+vaccine decreased (IPV1) 
+compared to respective coverage 
+in 2022.
+WUENIC 2023 revision
+RotaC
+Polio3
+PcV3
+MCV2
+MCV1
+IPV1
+Hib3
+HepB3
+DTP3
+DTP1
+BCG
+0
+25
+50
+75
+100
+Coverage (%)
+2019
+2022
+2023
+Vaccine coverage, Pakistan, 2019-2023
+Source: WHO/UNICEF Estimates of National Immunization Coverage, 2023 revision.
+Note: The grey bar spans vaccine coverage across all years 2019-2023 and the dots represent coverage in specific years.
+Coverage is shown for vaccines with data all years 2019-2023.
+Vaccine names are coloured based on if coverage is lower (red), the same as (blue) or higher (green) than in 2019
+This chart shows the range of 
+coverage across all years 2019 
+to 2023 (grey bars), and 
+coverage in specific years (dots), 
+by vaccine. The chart can be 
+used for assessing recovery to 
+pre-pandemic levels.
+DTP1 coverage increased 
+between 2019 (90%) and 2022 
+(93%). DTP1 coverage increased 
+in 2023 (94%) compared to 2022, 
+and was higher than in 2019. In 
+2019-2023, DTP1 coverage was 
+at it's lowest level in 2020 (87%).
+In 2022, 0 vaccines had lower 
+coverage than in 2019.
+In 2023, 0 vaccines had lower 
+coverage than in 2019.
+In 2023, 2 vaccines had lower 
+coverage than in 2022.
+SDG 3.b.1
+WUENIC 2023 revision
+80
+86
+86
+65
+59
+30
+0
+20
+40
+60
+80
+100
+90
+2000
+2005
+2010
+2015
+2019
+2023
+Coverage (%)
+DTP3
+MCV2
+PCV3
+SDG 3.b.1: Proportion of the target population covered by all vaccines included
+in their national programme, Pakistan, 2000-2023
+Source: WHO/UNICEF Estimates of National Immunization Coverage, 2023 revision
+Note: The four vaccination coverage indicators contribute to SDG indicator 3.b.1 are: DTP3, MCV2, PCV3 and HPVc
+The Immunization Agenda 2030 (IA2030) global target is 90% coverage of all four antigens by 2030.
+Data are missing for vaccines that have not been introduced by the country.
+Four vaccination coverage 
+indicators contribute to 
+Sustainable Development Goal 3, 
+indicator b.1: DTP3, PCV3, 
+MCV2 and HPV.
+The IA2030 global target is 90% 
+coverage of all four antigens by 
+2030.
+Pakistan has 3 out of the 4 SDG 
+vaccines.
+In 2023, Pakistan had achieved 
+at least 90% coverage of none 
+out of the 4 vaccines.
+Additional resources
+WUENIC 2023 revision
+Immunization Regional 
+Snapshots
+Interactive, multi-page profiles 
+displaying national and regional 
+WUENIC data by UNICEF region. 
+The dashboard includes:
+• Key messages 
+• Trends in vaccine coverage and 
+number of unvaccinated children, 
+• Comparisons between countries 
+and regions,
+•
+Maps
+• Progress compared to 2019
+The profiles can be downloaded and 
+are useful for users specifically 
+interested in immunization data within 
+UNICEF regions.
+https://data.unicef.org/resource
+s/regional-immunization-
+snapshots/
+Regional slide decks: 
+UNICEF, WHO, World Bank, 
+Gavi and African Union regions
+WUENIC 2023 revision
+WUENIC country profiles
+WUENIC Analytics Dashboard
+Interactive immunization regional 
+snapshots: UNICEF regions
+Additional 
+resources
+Additional 
+immunization data 
+resources can be 
+found at:
+Interactive WUENIC 
+country profiles can 
+be found at:
+Interactive WUENIC country profiles
+Datasets: 
+WUENIC, HPV, survey database
+https://data.unicef
+.org/resources/im
+munization/
+https://worldhealt
+horg.shinyapps.io/
+wuenic-trends/

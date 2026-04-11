@@ -1,0 +1,1187 @@
+eCommons@AKU
+Department of Paediatrics and Child Health
+Division of Woman and Child Health
+November 2017
+Water, sanitation and hygiene interventions for
+acute childhood diarrhea: a systematic review to
+provide estimates for the lives saved tool
+Nazia Darvesh
+The Hospital for Sick Children
+Jai K. Das
+Aga Khan University, jai.das@aku.edu
+Tyler Vaivada
+The Hospital for Sick Children
+Michelle F. Gaffey
+The Hospital for Sick Children
+Kumanan Rasanathan
+UNICEF
+See next page for additional authors
+Follow this and additional works at: https://ecommons.aku.edu/
+pakistan_fhs_mc_women_childhealth_paediatr
+Part of the Pediatrics Commons
+Recommended Citation
+Darvesh, N., Das, J. K., Vaivada, T., Gaffey, M. F., Rasanathan, K., Bhutta, Z. A. (2017). Water, sanitation and hygiene interventions for
+acute childhood diarrhea: a systematic review to provide estimates for the lives saved tool. BMC Public Health, 17(Suppl 4), 776.
+Available at: https://ecommons.aku.edu/pakistan_fhs_mc_women_childhealth_paediatr/346
+Authors
+Nazia Darvesh, Jai K. Das, Tyler Vaivada, Michelle F. Gaffey, Kumanan Rasanathan, and Zulfiqar Ahmed
+Bhutta
+This article is available at eCommons@AKU: https://ecommons.aku.edu/pakistan_fhs_mc_women_childhealth_paediatr/346
+RESEARCH
+Open Access
+Water, sanitation and hygiene interventions
+for acute childhood diarrhea: a systematic
+review to provide estimates for the Lives
+Saved Tool
+Nazia Darvesh1, Jai K. Das2, Tyler Vaivada1, Michelle F. Gaffey1, Kumanan Rasanathan3, Zulfiqar A. Bhutta1,4*
+and for the Social Determinants of Health Study Team
+Abstract
+Background: In the Sustainable Development Goals (SDGs) era, there is growing recognition of the responsibilities
+of non-health sectors in improving the health of children. Interventions to improve access to clean water, sanitation
+facilities, and hygiene behaviours (WASH) represent key opportunities to improve child health and well-being by
+preventing the spread of infectious diseases and improving nutritional status.
+Methods: We conducted a systematic review of studies evaluating the effects of WASH interventions on childhood
+diarrhea in children 0–5 years old. Searches were run up to September 2016. We screened the titles and abstracts
+of retrieved articles, followed by screening of the full-text reports of relevant studies. We abstracted study
+characteristics and quantitative data, and assessed study quality. Meta-analyses were performed for similar
+intervention and outcome pairs.
+Results: Pooled analyses showed diarrhea risk reductions from the following interventions: point-of-use water
+filtration (pooled risk ratio (RR): 0.47, 95% confidence interval (CI): 0.36–0.62), point-of-use water disinfection
+(pooled RR: 0.69, 95% CI: 0.60–0.79), and hygiene education with soap provision (pooled RR: 0.73, 95% CI: 0.57–0.94).
+Quality ratings were low or very low for most studies, and heterogeneity was high in pooled analyses. Improvements
+to the water supply and water disinfection at source did not show significant effects on diarrhea risk, nor did the one
+eligible study examining the effect of latrine construction.
+Conclusions: Various WASH interventions show diarrhea risk reductions between 27% and 53% in children 0–5 years old,
+depending on intervention type, providing ample evidence to support the scale-up of WASH in low and middle-income
+countries (LMICs). Due to the overall low quality of the evidence and high heterogeneity, further research is required to
+accurately estimate the magnitude of the effects of these interventions in different contexts.
+Keywords: Lives saved tool, LiST, Water, Sanitation, Hygiene, Wash, Diarrhea
+* Correspondence: zulfiqar.bhutta@sickkids.ca
+1Centre for Global Child Health, The Hospital for Sick Children, 686 Bay
+Street, Toronto, ON M6S 1S6, Canada
+4Centre of Excellence in Women and Child Health, Aga Khan University,
+Karachi, Pakistan
+Full list of author information is available at the end of the article
+© The Author(s). 2017 Open Access This article is distributed under the terms of the Creative Commons Attribution 4.0
+International License (http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and
+reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to
+the Creative Commons license, and indicate if changes were made. The Creative Commons Public Domain Dedication waiver
+(http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated.
+The Author(s) BMC Public Health 2017, 17(Suppl 4):776
+DOI 10.1186/s12889-017-4746-1
+Background
+Clean water, availability of toilets and good hygiene prac-
+tices are essential for the survival and development of
+children. Globally, there are 2.4 billion people who live
+without adequate sanitation, 663 million do not have ac-
+cess to improved water sources and 946 million still
+defecate in the open [1]. While there has been progress,
+it has been slow and uneven, with 96% of the global
+urban population using improved drinking water sources
+in 2015 compared to 84% of the rural population; 82%
+of the global urban population uses improved sanitation
+facilities compared to 51% of the rural population [1].
+Children under the age of five years are the most
+affected as they are prone to water-borne diseases, espe-
+cially diarrhea. It is estimated that over 800,000 children
+die annually from preventable diseases caused by poor
+water, lack of sanitation and poor hygiene [2]. Diarrhea
+is one of the leading causes of morbidity and mortality
+in children, and while there has been progress in the
+reduction of diarrhea-associated mortality [3], the reduc-
+tion in incidence and morbidity has varied in different
+regions and between socio-economic classes. In particu-
+lar, the relationship of early exposure to pathogens,
+diarrheal burdens, and high rates of stunting, also called
+environmental enteropathy, is well appreciated [4]. Poor
+status of water, sanitation and hygiene (WASH) and re-
+lated interventions can impact growth and development
+of children in multiple ways [4] and there is consensus
+that improvement in undernutrition would
+not be
+possible without improving WASH conditions of under-
+privileged children around the world.
+There are several interventions for improving WASH
+that have been implemented in varying contexts world-
+wide, with the evidence evaluated for their impact on
+health and social outcomes. The evidence so far has been
+sparse, complex, and not of sufficient quality to propose
+any conclusive impact of these interventions on broader
+health and other outcomes. Some of these difficulties
+relate to endpoints such as environmental enteropathy or
+developmental outcomes, and in other instances studies
+are not sufficiently powered to assess mortality outcomes.
+Diarrhea is a relevant outcome that has been evaluated
+relatively rigorously and has been used extensively in
+previous reviews to evaluate the effectiveness of WASH
+interventions in childhood [3–10]. We aimed to update
+the evidence synthesis presented by Cairncross et al. [7]
+which has guided interventions for the existing Lives
+Saved Tool (LiST) since 2010, and to propose fresh
+estimates for modeling within LiST.
+Methods
+Search and data abstraction
+We systematically reviewed the published literature up
+to September 2016. We relied on a search that was
+previously conducted by our team for a broader evalu-
+ation of WASH interventions in September 2014 and
+updated that search in September 2016 to incorporate
+relevant new evidence. The search was conducted in
+Medline, CINAHL, EMBASE, CAB Abstracts, Cochrane,
+BLDS, EconLit, IDEAS, SIGLE, WHOLIS and JOLIS.
+Further articles from secondary sources were retrieved
+by screening the reference list of a Gapmap by Wad-
+dington and colleagues [11] and the reference lists of
+relevant reviews and reports [3–9]. A search strategy
+was designed including Medical Subject Heading Terms
+(MeSH) and keywords using various combinations. No
+language or date restrictions were employed in the
+electronic searches.
+We initially screened, in duplicate, the titles and ab-
+stracts of retrieved articles to determine whether they
+met our inclusion and exclusion criteria. The full-texts
+of all selected studies were then retrieved and assessed
+by two reviewers for eligibility. In duplicate, we ab-
+stracted descriptive and quantitative data from included
+studies into a standardized form.
+Inclusion/exclusion criteria
+Two authors independently assessed study eligibility using
+pre-defined inclusion and exclusion criteria. Discrepancies
+between the reviewers in the decision to include or
+exclude studies were resolved by discussion aimed at
+reaching consensus or by consulting with a third author.
+We limited included studies to randomized controlled
+trials (RCTs), cluster randomized controlled trials (cRCTs)
+and quasi-experimental (QE) trials where the following
+WASH
+interventions
+were
+evaluated
+in
+community
+settings in children 0–5 years old:
+1. Water quality improvement at source and point-of-use
+2. Promotion of handwashing with soap
+3. Safe excreta disposal
+We included studies published in English that evaluated
+the impact of these interventions on acute childhood diar-
+rhea in children 0–5 years old. Our outcomes of interest
+included diarrhea-related mortality, diarrhea-related mor-
+bidity and risk of diarrhea. We excluded studies reporting
+only behavioral outcomes. We excluded studies compar-
+ing the effect of different interventions without a control
+group; studies conducted in specific settings such as
+schools, daycares, and hospitals; studies where the inter-
+vention was the use of hand scrubs or disinfectants; stu-
+dies measuring the impact on dysentery only, specific
+pathogens such as cholera or soil-transmitted helminths
+(STHs), or general gastrointestinal outcomes like highly-
+credible gastrointestinal illness (HCGI); studies conducted
+in emergency settings or refugee camps; or studies
+conducted only with specific populations such as HIV-
+The Author(s) BMC Public Health 2017, 17(Suppl 4):776
+Page 102 of 158
+infected persons. We also excluded studies where multiple
+interventions were evaluated together and the impact of a
+single intervention could not be inferred, or where the
+data were not reported sufficiently to be included in a
+meta-analysis.
+Assessment of risk of bias
+The quality of studies was assessed using methods
+adapted from the Cochrane ‘Risk of bias’ assessment
+tool [12] and the Child Health Epidemiology Refe-
+rence
+Group
+(CHERG)
+guidelines
+[13].
+For
+each
+study,
+two
+reviewers
+independently
+assessed
+the
+quality of included studies for the following domains;
+allocation concealment, sequence generation; blinding
+of outcome assessors, blinding of participants and
+personnel,
+and
+incomplete
+outcome
+data.
+During
+quality assessment, RCTs and cRCTs started at a
+‘high’
+rating
+and
+quasi-experimental
+(QE)
+studies
+started at a ‘low’ rating with each study’s rating
+adjusted accordingly and given either high, moderate,
+low or very low scores. Where a study reported
+multiple outcomes, we assigned a separate overall
+study score for each, depending on how the outcome
+was measured.
+Data analysis
+We entered the abstracted effect estimates into Review
+Manager (RevMan) 5.3 and made calculations where
+necessary [12, 14]. In duplicate, the effect of the inter-
+ventions on diarrheal outcomes was extracted, and
+calculated when necessary. These included risk ratios
+(RRs), odds ratios (ORs), rate ratios, means ratios, and
+longitudinal prevalence ratios, depending on how the in-
+dividual study authors chose to display the effect. For
+treating all effect measures as equivalent, the design ef-
+fect was considered for the various effect measures for
+common outcomes like diarrhea. The different measures
+of effect were then converted to a single measure for such
+outcomes [15]. In our analysis, ORs were transformed into
+RRs using an assumed control risk and formula recom-
+mended by Higgins et al. [12].
+Where studies presented outcomes at different time
+points, we selected the effect estimate from the longest
+follow-up time. When studies provided effect estimates
+separated into different age strata of children 0–5 years
+old, we combined the point estimates from each stratum
+in RevMan using fixed effects models and then added
+the resulting pooled effect estimate into our main meta-
+analysis [16]. To quantitatively synthesize the available
+Fig. 1 Search flow diagram
+The Author(s) BMC Public Health 2017, 17(Suppl 4):776
+Page 103 of 158
+Table 1 Characteristics of included studies
+Study
+Country
+Study design
+Intervention
+Estimates on diarrhea
+(RR [95% CI])
+Improved water quality at source
+Alam 1989 [17]
+Bangladesh
+QE
+Hand Pump
+0.83 [0.71, 0.97]
+Opryszko 2010 [18]
+Afghanistan
+cRCT
+Hand Pump
+1.22 [0.86, 1.73]
+Jensen 2003 [19]
+Pakistan
+QE
+Chlorination
+0.95 [0.35, 2.60]
+Ryder 1985 [20]
+Panama
+QE
+Improved Supply
+1.34 [1.11, 1.62]
+Semenza 1998 [21]
+Uzbekistan
+cRCT
+Improved Supply
+0.65 [0.44, 0.95]
+Improved water quality at point-of-use
+Water Filtration
+Aceituno 2012 [22]
+Honduras
+RCT
+Biosand Filter
+0.62 [0.36, 1.08]
+Boisson 2009 [23]
+Ethiopia
+RCT
+Lifestraw
+0.97 [0.67, 1.40]
+Boisson 2010 [24]
+Democratic Republic of Congo
+RCT
+Lifestraw
+0.85 [0.56, 1.29]
+Brown 2007 [25]
+Cambodia
+QE
+Ceramic Filter
+0.52 [0.32, 0.85]
+Brown 2008 [26]
+Cambodia
+RCT
+Ceramic Filter (Iron rich)
+0.58 [0.41, 0.82]
+Ceramic Filter with Vessel
+0.65 [0.46, 0.92]
+Clasen 2004 [27]
+Bolivia
+RCT
+Ceramic Filter
+0.41 [0.17, 1.02]
+Clasen 2005 [28]
+Colombia
+RCT
+Ceramic Filter
+0.63 [0.45, 0.89]
+Du Preez 2008 [29]
+South Africa and Zimbabwe
+RCT
+Ceramic Filter
+0.21 [0.12, 0.37]
+Lindquist 2014 [30]
+Bolivia
+cRCT
+Hollow water filter
+0.21 [0.15, 0.29]
+Hollow water filter with
+behavior change campaign
+0.27 [0.22, 0.33]
+Stauber 2009 [31]
+Dominican Republic
+RCT
+Biosand Filter
+0.46 [0.35, 0.60]
+Stauber 2012a [32]
+Ghana
+cRCT
+Biosand Filter
+0.26 [0.07, 0.97]
+Stauber 2012b [33]
+Cambodia
+cRCT
+Biosand Filter
+0.45 [0.26, 0.78]
+Tiwari 2009 [34]
+Kenya
+cRCT
+Biosand Filter
+0.49 [0.24, 1.00]
+Water Disinfection
+Boisson 2013 [35]
+India
+RCT
+Chlorination
+0.95 [0.79, 1.14]
+Chiller 2006 [36]
+Republic of Guatemala
+cRCT
+Flocculent disinfectant
+0.63 [0.48, 0.82]
+Crump 2005 [37]
+Kenya
+cRCT
+Flocculent disinfectant
+0.75 [0.59, 0.95]
+Chlorination
+0.83 [0.66, 1.04]
+Du Preez 2011 [38]
+Kenya
+RCT
+SODIS
+0.73 [0.63, 0.85]
+Harshfield 2012 [39]
+Haiti
+QE
+Chlorination
+0.61 [0.45, 0.83]
+Jain 2010 [40]
+Ghana
+RCT
+Chlorination
+1.13 [0.92, 1.39]
+Kirchhoff 1985 [41]
+Brazil
+QE
+Chlorination
+0.97 [0.84, 1.12]
+Luby 2006 (1) [42]
+Pakistan
+cRCT
+Chlorination
+0.39 [0.17, 0.89]
+Flocculent disinfectant
+0.54 [0.31, 0.94]
+Mahfouz 1995 [43]
+Saudi Arabia
+QE
+Chlorination
+0.55 [0.30, 1.00]
+McGuigan 2011 [44]
+Cambodia
+cRCT
+SODIS
+0.37 [0.29, 0.47]
+Mengistie 2013 [45]
+Ethiopia
+RCT
+Chlorination
+0.43 [0.38, 0.49]
+Mausezahl 2009 [46]
+Bolivia
+cRCT
+SODIS
+0.74 [0.50, 1.10]
+Opryszko 2010 [18]
+Afghanistan
+cRCT
+Chlorination
+1.20 [0.84, 1.71]
+Quick 1999 [47]
+Bolivia
+cRCT
+Chlorination
+0.56 [0.45, 0.69]
+Rai 2010 [48]
+India
+RCT
+SODIS
+0.24 [0.10, 0.60]
+Reller 2003 (1) [49]
+Republic of Guatemala
+RCT
+Chlorination
+0.77 [0.29, 2.08]
+Chlorination with vessel
+0.92 [0.65, 1.30]
+The Author(s) BMC Public Health 2017, 17(Suppl 4):776
+Page 104 of 158
+evidence, we grouped together similar intervention and
+outcome types and conducted meta-analyses using the
+generic inverse variance method. Random effects models
+were used to estimate the average effect of the interven-
+tion under the assumption that the intervention effects
+from individual studies were drawn from a distribution
+of effects rather than indicating the same fixed effect.
+For each intervention-outcome pair, the pooled RR was re-
+ported with a 95% confidence interval (CI). Subgroup ana-
+lysis was conducted for the difference in the intervention.
+Quality of evidence
+After each study was assessed for methodological quality
+and assigned a rating according to the CHERG adapta-
+tion of the GRADE technique [13], the quality of the
+overall evidence for each intervention and outcome
+combination was assessed on a four-level scale (high,
+moderate, low, very low).
+Results
+Figure 1 shows the results of the search strategy and
+altogether a total of 44 studies were identified to be in-
+cluded in the review. The characteristics of included
+studies are described in Table 1. The quality assessment
+of these studies suggests that the evidence is of low to
+very low quality (Table 2).
+Water quality improvement
+We identified five studies that provided water quality
+improvement intervention at the water supply [17–21];
+two studies were cRCTs and three were QE. All of these
+studies were conducted in low and middle-income
+(LMIC) settings and the interventions included im-
+proved
+supply
+systems,
+hand
+pumps,
+and
+water
+disinfection (chlorination). The combined analysis sug-
+gested no effect of water quality interventions at source
+on risk of diarrhea (pooled RR: 0.98 95%CI: 0.73, 1.32)
+and the subgroup analyses for the various interventions
+also suggested no effects (Fig. 2).
+We identified 32 studies for inclusion in analysis that
+had a water quality improvement intervention at point-
+of-use [18, 21–51]; 27 of these were RCTs or cRCTs
+while five were QE study designs. Studies were from Af-
+rica (Kenya, Ghana, Democratic Republic of the Congo,
+Ethiopia, Zimbabwe, South Africa), Asia (Bangladesh,
+Pakistan, India, Afghanistan, Saudi Arabia, Uzbekistan,
+Cambodia), South America (Bolivia, Brazil, Colombia),
+Central America (Honduras, Guatemala), and the Carib-
+bean (Haiti, Dominican Republic). There were a range of
+interventions delivered which were broadly categorized
+into ‘water filtration’ [22–34] and ‘water disinfection’
+[18, 21, 35–51] interventions. Water filtration interven-
+tions included biosand filters, ceramic filters, lifestraws,
+and hollow water filters while disinfection interventions
+included chlorination, use of flocculent-disinfectant, and
+solar disinfection (SODIS). One study reported the im-
+pact of flocculent-disinfectant on all-cause mortality in
+children under the age of two years and reported a 65%
+reduction (RR: 0.35, 95%CI: 0.13, 0.94) [37]. Overall,
+‘water quality interventions at the point-of-use’ showed a
+significant decrease in risk of diarrhea by 40% (RR: 0.60,
+95%CI: 0.53, 0.68), while the subgroup analyses sug-
+gested a 53% decrease (pooled RR: 0.47, 95% CI: 0.36,
+0.62) with respect to water filtration and a 31% decrease
+(pooled RR: 0.69, 95% CI: 0.60, 0.79) with respect to
+water disinfection (Fig. 3). A further subgroup analysis
+suggested a significant effect for each of the specific
+interventions except for lifestraw (Fig. 4).
+Table 1 Characteristics of included studies (Continued)
+Flocculent disinfectant
+0.69 [0.50, 0.95]
+Flocculent disinfectant with vessel
+1.05 [0.78, 1.41]
+Rose 2006 [50]
+India
+QE
+SODIS
+0.64 [0.48, 0.86]
+Semenza 1998 [21]
+Uzbekistan
+cRCT
+Chlorination
+0.33 [0.19, 0.57]
+Sobsey 2003 [51]
+Bangladesh
+RCT
+Chlorination
+0.78 [0.73, 0.83]
+HANDWASHING WITH SOAP
+Han 1989 [52]
+Myanmar
+cRCT
+With Provision of Soap
+0.70 [0.54, 0.93]
+Langford 2011 [53]
+Nepal
+cRCT
+With Provision of Soap
+0.74 [0.54, 1.01]
+Luby 2004a [54]
+Pakistan
+cRCT
+With Provision of Soap
+0.55 [0.45, 0.68]
+Nicholson 2014 [55]
+India
+cRCT
+With Provision of Soap
+1.10 [0.77, 1.57]
+Shahid 1996 [56]
+Bangladesh
+QE
+With Provision of Soap
+0.53 [0.44, 0.62]
+Sircar 1987 [57]
+India
+QE
+With Provision of Soap
+1.13 [0.79, 1.62]
+Safe disposal of excreta
+Clasen 2014 [64]
+India
+cRCT
+Latrine promotion and construction
+0.97 [0.83–1.12]
+The Author(s) BMC Public Health 2017, 17(Suppl 4):776
+Page 105 of 158
+Handwashing with soap
+We identified six studies which evaluated the effect of
+handwashing with soap [52–57]; four were cRCTs and
+two were QE study designs. All studies were conducted
+in South Asian countries. Study participants were pro-
+vided soap with education about handwashing before
+eating or food handling, after defecation or handling of
+child stools, or a combination of these. No study re-
+ported on mortality and the analysis suggests that hand-
+washing with soap leads to a 27% decrease in risk of
+diarrhea (pooled RR: 0.73, 95% CI: 0.57, 0.94) (Fig. 5).
+Excreta disposal
+The search for studies for excreta disposal interven-
+tions resulted in few studies with study designs that
+met our inclusion criteria, and some studies had
+other interventions including water supply interven-
+tions
+or
+multiple
+interventions
+evaluated
+together,
+hence the impact of excreta disposal alone could not
+be ascertained [58–63]. One study was included which
+showed that latrine construction in India increased mean
+village-level latrine coverage from 9% of households to
+63% in the intervention group, but there was no impact
+on the risk of diarrhea in children younger than 5 years
+(RR: 0.97, 95% CI: 0.83–1.12)[64].
+Discussion
+The review findings suggest that point-of-use water
+quality improvement interventions are effective in redu-
+cing the risk of diarrhea by 40% in children 0–5 years
+Table 2 Quality assessment of the evidence
+Quality Assessment
+Number
+of
+studies
+Study
+design(s)
+Limitations
+Consistency
+Generalizability
+Overall quality of evidence (justification)
+Effect Of Water Quality Interventions at Source
+Outcome: Diarrhea incidence or prevalence
+5
+2 cRCT,
+3 QE
+3 very low,
+1 low, 1
+moderate
+quality study
+I2 = 81%
+Studies favoured
+intervention,
+control, or
+showed no effect
+Children 0–5 years; low and middle income
+countries (Afghanistan, Bangladesh, Pakistan,
+Panama, Uzbekistan)
+Very low
+(considerable heterogeneity, non-significant
+pooled estimate)
+Point-Of-Use Water Treatment Interventions
+Intervention: Water filters and water disinfection, Outcome: Diarrhea incidence or prevalence
+32
+15 RCT,
+12 cRCT,
+5 QE
+17 very low,
+11 low, 4
+moderate
+quality studies
+I2 = 89%
+Studies either
+favoured
+intervention or
+showed no effect
+Children 0–5 years; low and middle
+income countries
+(Afghanistan, Bangladesh, Bolivia, Brazil,
+Cambodia, Colombia, Democratic Republic
+of Congo, Dominican Republic, Ethiopia,
+Ghana, Guatemala, Haiti, India, Honduras,
+Kenya, Pakistan, Saudi Arabia [rural], South
+Africa, Uzbekistan, Zimbabwe)
+Low
+(15 studies were low or moderate quality,
+large significant magnitude of effect,
+considerable heterogeneity warrants further
+research on the magnitude of the benefit)
+Intervention: Water filters, Outcome: Diarrhea incidence or prevalence
+13
+8 RCT,
+4 cRCT,
+1 QE
+8 very low,
+5 low quality
+studies
+I2 = 84%
+Studies generally
+favoured
+intervention
+Children 0–5 years; low and middle income
+countries (Bolivia, Cambodia, Colombia,
+Democratic Republic of Congo, Dominican
+Republic, Ethiopia, Ghana, Honduras, Kenya,
+South Africa, Zimbabwe)
+Very low
+(mostly very low quality studies)
+Intervention: Water disinfection, Outcome: Diarrhea incidence or prevalence
+19
+7 RCT,
+8 cRCT,
+4 QE
+9 very low,
+6 low, 4
+moderate
+quality studies
+I2 = 87%
+Studies either
+favoured
+intervention or
+showed no effect
+Children 0–5 years; low and middle income
+countries
+(Afghanistan, Bangladesh, Bolivia, Brazil,
+Cambodia, India, Ethiopia, Ghana, Guatemala,
+Haiti, Kenya, Pakistan, Saudi Arabia [rural],
+Uzbekistan)
+Low
+(studies ranged from very low to moderate
+quality, large significant magnitude of effect,
+considerable heterogeneity warrants further
+research on the magnitude of the benefit)
+Hand Washing Education with Soap Interventions
+Outcome: Diarrhea incidence or prevalence
+6
+4 cRCT,
+2 QE
+5 very low,
+1 low quality
+study
+I2 = 81%
+Studies either
+favoured
+intervention or
+showed no effect
+Children 0–5 years; low and middle
+income countries (Bangladesh, India,
+Myanmar, Nepal, Pakistan)
+Very low
+(most studies very low quality, considerable
+heterogeneity)
+The Author(s) BMC Public Health 2017, 17(Suppl 4):776
+Page 106 of 158
+Fig. 2 Forest plot for the effect of water quality improvement at source on diarrhea
+Fig. 3 Forest plot for the effect of water quality improvement at point-of-use on diarrhea
+The Author(s) BMC Public Health 2017, 17(Suppl 4):776
+Page 107 of 158
+old in communities living in LMICs and subgroup ana-
+lyses suggest greater impacts with water filtration (53%)
+than with water disinfection (31%). In addition, hand
+washing promotion with soap can lead to 27% reduction
+in risk of diarrhea. Evidence for the effect of water supply
+interventions at source and safe excreta of stools is insuffi-
+cient to conclude an impact on childhood diarrhea. The
+overall quality of evidence is low to very low since most
+studies were not blinded – a design which may be difficult
+and unethical to adhere to in this context.
+We did a de novo search for studies with specific
+inclusion and exclusion criteria which could provide pre-
+cise estimates for inclusion in LiST, and also updated the
+evidence since the last LiST review which was published
+Fig. 4 Forest plot for the effect of water quality improvement at point-of-use on diarrhea
+The Author(s) BMC Public Health 2017, 17(Suppl 4):776
+Page 108 of 158
+more than five years ago. As only one study for water
+quality improvement assessed all-cause mortality and
+the number of events were less than 50 [37], we propose
+our estimates based on diarrhea risk reductions 40% and
+27% for point-of-use water quality interventions and
+handwashing with soap respectively. The evidence for
+water quality interventions at source and safe excreta
+disposal is too limited to propose an estimate for LiST.
+Our results are broadly consistent with prior reviews in
+this area [3–10], though the estimated magnitudes of
+intervention effect are different than those proposed by
+Cairncross et al. [7], which were 17%% and 48% for water
+quality interventions and handwashing with soap, respect-
+ively. In addition to the inclusion of more recent evidence
+in the present review, the differences between the present
+and previous LiST review may be attributable to choice of
+effect measure, study designs, populations and settings.
+The previous LiST review [7] included observational
+studies and evidence from settings other than those in
+LMIC
+communities,
+including
+studies
+conducted
+in
+schools, daycare
+centres, refugee
+camps,
+out-patient
+clinics,
+and
+hospitals,
+and
+it
+also
+included
+studies
+conducted in children over the age of five. The previous
+review also included studies with primary outcomes of
+typhoid, cholera or dysentery, while we only included
+studies reporting on diarrhea. We propose an estimate for
+water quality improvement at point-of-use only, as the
+evidence is more consistent, while there is limited
+evidence for water quality improvement at source and
+suggest a non-significant impact on diarrhea.
+While point-of-use water quality interventions and
+handwashing promotion with soap appear to be effective
+in reducing diarrhea, much of the evidence is from trials
+conducted in small populations over short time periods.
+More evidence is needed on compliance over a longer
+duration to assess sustainability. The challenge is to find
+ways of encouraging people to maintain handwashing
+habits in the longer term. The need to conduct research
+with
+longer
+follow-up
+duration
+using
+a
+structured
+method of assessing the primary outcome is pertinent,
+since it has been observed that the choice of method
+may
+have
+significant
+effects
+on
+the
+precision
+of
+estimates. Outcome assessors should be blinded so as to
+reduce the bias in estimates of effect size. Self-reported
+outcome measurements such as diarrhea frequency are
+prone to recall and other biases, which contributed in
+part to the low methodological quality ratings overall.
+There are a number of large scale trials underway with
+results eagerly awaited which might shed further light
+on the short and long-term impact of WASH interven-
+tions at scale [65].
+The importance of WASH strategies for reducing
+childhood diarrhea is fairly established, but the challenge
+remains to make their availability universal. Sustainable
+Development Goal (SDG) 6 covers the whole water
+cycle, and includes targets for universal access to drink-
+ing water, sanitation, and hygiene that are significantly
+more ambitious than the previous targets of the Millen-
+nium Development Goals (MDGs). To accomplish these
+goals, changing behaviours and social norms is essential,
+governance and accountability should be ensured, and
+inequalities will have to be eliminated.
+Abbreviations
+CHERG: Child Health Epidemiology Reference Group; cRCT: cluster
+randomized controlled trials; GRADE: Grading of Recommendations
+Assessment, Development and Evaluation; LMIC: low and middle-income
+countries; QE: quasi-experimental; RCT: randomized controlled trials;
+SDG: Sustainable Development Goals; WASH: water, sanitation and hygiene
+Acknowledgements
+Not applicable.
+Funding
+The publication costs for all supplement articles were funded by a grant
+from the Bill & Melinda Gates Foundation (JHU Grant 115,621, Award
+Number OPP1084423 for the “Development and Use of the Lives Saved
+Tool (LiST)”).”
+Fig. 5 Forest plot for the effect of handwashing with soap on diarrhea
+The Author(s) BMC Public Health 2017, 17(Suppl 4):776
+Page 109 of 158
+Availability of data and materials
+Not applicable.
+About this supplement
+This article has been published as part of BMC Public Health Volume 17
+Supplement 4, 2017: The Lives Saved Tool in 2017: Updates, Applications,
+and Future Directions. The full contents of the supplement are available
+online at https://bmcpublichealth.biomedcentral.com/articles/supplements/
+volume-17-supplement-4
+Authors’ contributions
+All authors contributed to the review. All authors reviewed and approved of
+the final manuscript.
+Authors’ information
+Social Determinants of Health Study Team.
+Zulfiqar A Bhutta, Nazia Darvesh, Andreea Seusan, Jelena Savic, Nisso
+Nurova, Azim Rattansi, Daina Als, Tyler Vaivada, Michelle F Gaffey
+(SickKids Centre for Global Child Health); Sue Cavill, Kumananan
+Rasanathan (UNICEF); Jai K Das (AKU).
+Ethics approval and consent to participate
+Not applicable.
+Consent for publication
+Not applicable.
+Competing interests
+We do not have any financial or non-financial competing interests for this
+review.
+Publisher’s Note
+Springer Nature remains neutral with regard to jurisdictional claims in
+published maps and institutional affiliations.
+Author details
+1Centre for Global Child Health, The Hospital for Sick Children, 686 Bay
+Street, Toronto, ON M6S 1S6, Canada. 2Division of Women and Child Health,
+Aga Khan University, Karachi, Pakistan. 3UNICEF, New York, NY, USA. 4Centre
+of Excellence in Women and Child Health, Aga Khan University, Karachi,
+Pakistan.
+Published: 7 November 2017
+References
+1.
+UNICEF/WHO. Progress on sanitation and drinking water. Update and MDG
+Assessment. 2015 [cited 2017 Apr 25]. Available from: https://www.unicef.
+org/publications/index_82419.html .
+2.
+Mills JE, Cumming O, editors. The impact of water, sanitation and hygiene
+on key health and social outcomes: Review of evidence. UNICEF [Internet].
+2016 Jun [cited 2017 Apr 25] Available from: https://www.unicef.org/wash/
+files/The_Impact_of_WASH_on_Key_Social_and_Health_Outcomes_Review_
+of_Evidence.pdf.
+3.
+Fewtrell L, Kaufmann RB, Kay D, Enanoria W, Haller L, Colford JM Jr. Water,
+sanitation, and hygiene interventions to reduce diarrhea in less developed
+countries: a systematic review and meta-analysis. Lancet Infect Dis. 2005;5(1):42–52.
+4.
+Arnold BF, Colford JM. Treating water with cholorine at point-of-use to
+improve water quality and reduce child diarrhea in developing countries: a
+systematic review and meta-analysis. Am J Trop Med Hyg. 2007;76(2):354–64.
+5.
+Waddington H, Snilstveit B, White H, Fewtrell L. Water, sanitation and
+hygiene interventions to combat childhood diarrhea in developing
+countries. New Delhi, India: 3ie; 2009 Aug [cited 2017 Apr 25] Available
+from: http://www.3ieimpact.org/evidence/systematic-reviews/details/23/.
+6.
+Wolf J, Prüss-Ustün A, Cumming O, Bartram J, Bonjour S, Cairncross S, et al.
+Assessing the impact of drinking water and sanitation on diarrheal disease
+in low- and middle income settings: systematic review and meta-regression.
+Tropical Med Int Health. 2014;19(8):928–42.
+7.
+Cairncross S, Hunt C, Boisson S, Bostoen K, Curtis V, Fung ICH, et al. Water,
+sanitation and hygiene for the prevention of diarrhea. Int J Epidemiol. 2010;
+39(Suppl 1):i193–205.
+8.
+Clasen TF, Alexander KT, Sinclair D, Boisson S, Peletz R, Chang HH, et al.
+Interventions to improve water quality for preventing diarrhea. Cochrane
+Database Syst Rev. 2015, Issue 10. Art. No.: CD004794. DOI: https://doi.org/
+10.1002/14651858.CD004794.pub3.
+9.
+Ejemot-Nwadiaro RI, Ehiri JE, Arikpo D, Meremikwu MM, Critchley JA. Hand
+washing promotion for preventing diarrhea. Cochrane Database Syst Rev.
+2015, Issue 9. Art. No.: CD004265. DOI: https://doi.org/10.1002/14651858.
+CD004265.pub3.
+10.
+Clasen TF, Bostoen K, Schmidt WP, Boisson S, Fung ICH, Jenkins MW, et al.
+Interventions to improve disposal of human excreta for preventing diarrhea.
+Cochrane Database Syst Rev. 2010, Issue 6. Art. No.: CD007180. DOI: https://
+doi.org/10.1002/14651858.CD007180.pub2.
+11.
+Water, Sanitation and Hygiene Evidence Gap Map. 2015 [cited 2017 Apr 25].
+Available from: http://gapmaps.3ieimpact.org/evidence-maps/water-
+sanitation-and-hygiene-evidence-gap-map.
+12.
+Higgins JPT, Green S. Cochrane Handbook for Systematic Reviews of
+Interventions Version 5.3.0 (updated October 2015). The Cochrane
+Collaboration. 2015 [cited 2017 Apr 25]. Available from: http://training.
+cochrane.org/handbook .
+13.
+Walker N, Fischer-Walker C, Bryce J, Bahl R, Cousens S. Effects CRGoI:
+Standards for CHERG reviews of intervention effects on child survival. Int J
+Epidemiol. 2010;39(Suppl 1):i21–31.
+14.
+Review Manager (RevMan) In., 5.3 edn: Copenhagen: The Nordic Cochrane
+Centre, The Cochrane Collaboration; 2014.
+15.
+Zhang J, Yu KF. What’s the relative risk? A method of correcting the odds
+ratio in cohort studies of common outcomes. JAMA. 1998;280(19):1690–1.
+16.
+Borenstein M, Larry V.H, Julian PT H, Rothstein HR. Introduction to Meta-
+Analysis: John Wiley & Sons, Ltd. 2009.
+17.
+Alam N, Wojtyniak B, Henry FJ, Rahaman MM. Mothers' personal and
+domestic hygiene and diarrhea incidence in young children in rural
+Bangladesh. Int J Epidemiol. 1989;18(1):242–7.
+18.
+Opryszko MC, Majeed SW, Hansen PM, Myers JA, Baba D, Thompson RE,
+Burnham G. Water and hygiene interventions to reduce diarrhea in
+rural Afghanistan: a randomized controlled study. J Water Health. 2010;
+8(4):687–702.
+19.
+Jensen PK, Ensink JHJ, Jayasinghe G, van der Hoek W, Cairncross S, Dalsgaard A.
+Effect of chlorination of drinking-water on water quality and childhood diarrhea
+in a village in Pakistan. J Health Popul Nutr. 2003;21(1):26–31.
+20.
+Ryder RW, Reeves WC, Singh N, Hall CB, Kapikian AZ, Gomez B, et al. The
+childhood health effects of an improved water supply system on a remote
+Panamanian island. Am J Trop Med Hyg. 1985;34(5):921–4.
+21.
+Semenza JC, Roberts L, Henderson A, Bogan J, Rubin CH. Water distribution
+system and diarrheal disease transmission: a case study in Uzbekistan. Am J
+Trop Med Hyg. 1998;59(6):941–6.
+22.
+Fabiszewski de Aceituno AM, Stauber CE, Walters AR, Meza Sanchez RE,
+Sobsey MD. A randomized controlled trial of the plastic-housing BioSand
+filter and its impact on diarrheal disease in Copan. Honduras Am J Trop
+Med Hyg. 2012;86(6):913–21.
+23.
+Boisson S, Schmidt WP, Berhanu T, Gezahegn H, Clasen T. Randomized
+controlled trial in rural Ethiopia to assess a portable water treatment device.
+Environmental science & technology. 2009;43(15):5934–9.
+24.
+Boisson S, Kiyombo M, Sthreshley L, Tumba S, Makambo J, Clasen T. Field
+assessment of a novel household-based water filtration device: a
+randomised, placebo-controlled trial in the Democratic Republic of Congo.
+PLoS One. 2010;5(9):e12613.
+25.
+Brown J, Sobsey M, Proum S. Improving Household Drinking Water Quality Use
+of Ceramic Water Filters in Cambodia. 2007 [cited 2017 Apr 25]. Available
+from: https://www.unicef.org/eapro/WSP_UNICEF_FN_CWP_Final.pdf.
+26.
+Brown J, Sobsey MD, Loomis D. Local drinking water filters reduce diarrheal
+disease in Cambodia: a randomized, controlled trial of the ceramic water
+purifier. T Am J Trop Med Hyg. 2008;79(3):394–400.
+27.
+Clasen TF, Brown J, Collin S, Suntura O, Cairncross S. Reducing diarrhea
+through the use of household-based ceramic water filters: a randomized,
+controlled trial in rural Bolivia. Am J Trop Med Hyg. 2004;70(6):651–7.
+28.
+Clasen T, Garcia Parra G, Boisson S, Collin S. Household-based ceramic water
+filters for the prevention of diarrhea: a randomized, controlled trial of a pilot
+program in Colombia. Am J Trop Med Hyg. 2005;73(4):790–5.
+29.
+Du Preez M, Conroy RM, Wright JA, Moyo S, Potgieter N, Gundry SW. Use of
+ceramic water filtration in the prevention of diarrheal disease: a randomized
+controlled trial in rural South Africa and Zimbabwe. Am J Trop Med Hyg.
+2008;79(5):696–701.
+The Author(s) BMC Public Health 2017, 17(Suppl 4):776
+Page 110 of 158
+30.
+Lindquist ED, George CM, Perin J, Neiswender de Calani KJ, Norman WR,
+Davis TP, et al. A cluster randomized controlled trial to reduce childhood
+diarrhea using hollow fiber water filter and/or hygiene-sanitation
+educational interventions. Am J Trop Med Hyg. 2014;91(1):190–7.
+31.
+Stauber CE, Ortiz GM, Loomis DP, Sobsey MD. A randomized controlled trial
+of the concrete biosand filter and its impact on diarrheal disease in Bonao,
+Dominican Republic. Am J Trop Med Hyg. 2009;80(2):286–93.
+32.
+Stauber CE, Kominek B, Liang KR, Osman MK, Sobsey MD. Evaluation of the
+impact of the plastic BioSand filter on health and drinking water quality in
+rural tamale, Ghana. Int J Environ Res Public Health. 2012;9(11):3806–23.
+33.
+Stauber CE, Printy ER, McCarty FA, Liang KR, Sobsey MD. Cluster randomized
+controlled trial of the plastic BioSand water filter in Cambodia.
+Environmental science & technology. 2012;46(2):722–8.
+34.
+Tiwari SS, Schmidt WP, Darby J, Kariuki ZG, Jenkins MW. Intermittent slow
+sand filtration for preventing diarrhea among children in Kenyan
+households using unimproved water sources: randomized controlled trial.
+Tropical Med Int Health. 2009;14(11):1374–82.
+35.
+Boisson S, Stevenson M, Shapiro L, Kumar V, Singh LP, Ward D, et al. Effect
+of household-based drinking water chlorination on diarrhea among
+children under five in Orissa, India: a double-blind randomised placebo-
+controlled trial. PLoS Med. 2013;10(8):e1001497.
+36.
+Chiller TM, Mendoza CE, Lopez MB, Alvarez M, Hoekstra RM, Keswick BH,
+et al. Reducing diarrhea in Guatemalan children: randomized controlled trial
+of flocculant-disinfectant for drinking-water. Bull World Health Organ. 2006;
+84(1):28–35.
+37.
+Crump JA, Otieno PO, Slutsker L, Keswick BH, Rosen DH, Hoekstra RM, et al.
+Household based treatment of drinking water with flocculant-disinfectant
+for preventing diarrhea in areas with turbid source water in rural western
+Kenya: cluster randomised controlled trial. BMJ (Clinical research ed). 2005;
+331(7515):478.
+38.
+du Preez M, Conroy RM, Ligondo S, Hennessy J, Elmore-Meegan M, Soita A,
+et al. Randomized intervention study of solar disinfection of drinking water
+in the prevention of dysentery in Kenyan children aged under 5 years.
+Environmental science & technology. 2011;45(21):9315–23.
+39.
+Harshfield E, Lantagne D, Turbes A, Null C. Evaluating the sustained health
+impact of household chlorination of drinking water in rural Haiti. Am J Trop
+Med Hyg. 2012;87(5):786–95.
+40.
+Jain S, Sahanoon OK, Blanton E, Schmitz A, Wannemuehler KA, Hoekstra RM,
+et al. Sodium dichloroisocyanurate tablets for routine treatment of
+household drinking water in periurban Ghana: a randomized controlled trial.
+Am J Trop Med Hyg. 2010;82(1):16–22.
+41.
+Kirchhoff LV, McClelland KE, Do Carmo Pinho M, Araujo JG, de Sousa MA,
+Guerrant RL. Feasibility and efficacy of in-home water chlorination in rural
+North-eastern Brazil. J Hyg. 1985;94(2):173–80.
+42.
+Luby SP, Agboatwalla M, Painter J, Altaf A, Billhimer W, Keswick B, et al.
+Combining drinking water treatment and hand washing for diarrhea prevention,
+a cluster randomised controlled trial. Tropical Med Int Health. 2006;11(4):479–89.
+43.
+Mahfouz AA, Abdel-Moneim M, Al-Erian RA, al-Amari OM. Impact of chlorination
+of water in domestic storage tanks on childhood diarrhea: a community trial in
+the rural areas of Saudi Arabia. J Trop Med Hyg. 1995;98(2):126–30.
+44.
+McGuigan KG, Samaiyar P, du Preez M, Conroy RM. High compliance
+randomized controlled field trial of solar disinfection of drinking water and
+its impact on childhood diarrhea in rural Cambodia. Environmental science
+& technology. 2011;45(18):7862–7.
+45.
+Mengistie B, Berhane Y, Worku A. Household water chlorination reduces
+incidence of diarrhea among under-five children in rural Ethiopia: a cluster
+randomized controlled trial. PLoS One. 2013;8(10):e77887.
+46.
+Mausezahl D, Christen A, Pacheco GD, Tellez FA, Iriarte M, Zapata ME, et al.
+Solar drinking water disinfection (SODIS) to reduce childhood diarrhea in rural
+Bolivia: a cluster-randomized, controlled trial. PLoS Med. 2009;6(8):e1000125.
+47.
+Quick RE, Venczel LV, Mintz ED, Soleto L, Aparicio J, Gironaz M, et al.
+Diarrhea prevention in Bolivia through point-of-use water treatment and
+safe storage: a promising new strategy. Epidemiol Infect. 1999;122(1):83–90.
+48.
+Rai B, Pal R, Kar S, Tsering DC. Solar disinfection improves drinking water
+quality to prevent diarrhea in under-five children in sikkim. India J Glob
+Infect Dis. 2010;2(3):221–5.
+49.
+Reller ME, Mendoza CE, Lopez MB, Alvarez M, Hoekstra RM, Olson CA, et al.
+A randomized controlled trial of household-based flocculant-disinfectant
+drinking water treatment for diarrhea prevention in rural Guatemala. Am J
+Trop Med Hyg. 2003;69(4):411–9.
+50.
+Rose A, Roy S, Abraham V, Holmgren G, George K, Balraj V, et al. Solar
+disinfection of water for diarrheal prevention in southern India. Arch Dis
+Child. 2006;91(2):139–41.
+51.
+Sobsey MD, Handzel T, Venczel L. Chlorination and safe storage of
+household drinking water in developing countries to reduce waterborne
+disease. Water Sci Technol. 2003;47(3):221–8.
+52.
+Aung Myo H, Thein H. Prevention of diarrhea and dysentery by hand
+washing. Trans R Soc Trop Med Hyg. 1989;83(1):128–31.
+53.
+Langford R, Lunn P, Panter-Brick C. Hand-washing, subclinical infections, and
+growth: a longitudinal evaluation of an intervention in Nepali slums. Am J
+Hum Biol. 2011;23(5):621–9.
+54.
+Luby SP, Agboatwalla M, Painter J, Altaf A, Billhimer WL, Hoekstra RM. Effect of
+intensive handwashing promotion on childhood diarrhea in high-risk communities
+in Pakistan: a randomized controlled trial. JAMA. 2004;291(21):2547–54.
+55.
+Nicholson JA, Naeeni M, Hoptroff M, Matheson JR, Roberts AJ, Taylor D,
+et al. An investigation of the effects of a hand washing intervention on
+health outcomes and school absence using a randomised trial in Indian
+urban communities. Tropical Med Int Health. 2014;19(3):284–92.
+56.
+Shahid NS, Greenough WB 3rd, Samadi AR, Huq MI, Rahman N. Hand
+washing with soap reduces diarrhea and spread of bacterial pathogens in a
+Bangladesh village. J Diarrhoeal Dis Res. 1996;14(2):85–9.
+57.
+Sircar BK, Sengupta PG, Mondal SK, Gupta DN, Saha NC, Ghosh S, et al.
+Effect of handwashing on the incidence of diarrhea in a Calcutta slum.
+J Diarrhoeal Dis Res. 1987;5(2):112–4.
+58.
+KMA, Hoque BA, Hasan KZ, Patwary MY, SRA H, Rahman MM, et al.
+Reduction in diarrheal diseases in children in rural Bangladesh by
+environmental and behavioural modifications. Trans R Soc Trop Med Hyg.
+1990;84(3):433–8.
+59.
+Garrett V, Ogutu P, Mabonga P, Ombeki S, Mwaki A, Aluoch G, et al.
+Diarrhea prevention in a high-risk rural Kenyan population through point-
+of-use chlorination, safe water storage, sanitation, and rainwater harvesting.
+Epidemiol Infect. 2008;136(11):1463–71.
+60.
+Huttly SR, Blum D, Kirkwood BR, Emeh RN, Okeke N, Ajala M, et al. The Imo
+state (Nigeria) drinking water supply and sanitation project, 2: impact on
+dracunculiasis, diarrhea and nutritional status. Trans R Soc Trop Med Hyg.
+1990;84(2):316–21.
+61.
+Hu X-R, Liu G, Liu S-P, Yan-Xin H, Zhang X-M, Fan YY, et al. [Field evaluation
+of the effect of diarrhea control of methanogenesis treatment of human
+and animal faeces and rubbish of cellulose nature in the rural areas of
+Xiang Cheng]. Henan Yu Fang Yi Xue Za Zhi [Henan Journal of Preventative
+Medicine]. 1988;1988:11–13.
+62.
+Messou E, Sangare SV, Josseran R, Le Corre C, Guelain J. Effect of hygiene
+and water sanitation and oral rehydration on diarrhea and mortality of
+children children less than five years old in the south of Ivory Coast. Bull
+Soc Pathol Exot. 1997;90(1):44–7.
+63.
+Rubenstein A, Boyle J, Odoroff CL, Kunitz SJ. Effect of improved sanitary
+facilities on infant diarrhea in a Hopi village. Public Health Rep. 1969;
+84(12):1093–7.
+64.
+Clasen T, Boisson S, Routray P, Torondel B, Bell M, Cumming O, Ensink J,
+et al. Effectiveness of a rural sanitation programme on diarrhea, soil-
+transmitted helminth infection, and child malnutrition in Odisha, India: a
+cluster-randomised trial. Lancet Glob Health. 2014;2(11):e645–53.
+65.
+The Sanitation Hygiene Infant Nutrition Efficacy (SHINE) Trial Team. The
+sanitation hygiene infant nutrition efficacy (SHINE) trial: rationle, design, and
+methods. Clin Infect Dis. 2015;61(Supp7):S685–702.
+The Author(s) BMC Public Health 2017, 17(Suppl 4):776
+Page 111 of 158

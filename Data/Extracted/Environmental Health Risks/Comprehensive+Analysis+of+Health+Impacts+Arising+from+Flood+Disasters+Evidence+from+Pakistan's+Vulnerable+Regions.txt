@@ -1,0 +1,649 @@
+52 
+ 
+ Journal of Economics, Management & Business Administration 
+(JEMBA) 
+ISSN Print: 2957-4218 
+ISSN Online: 2957-4226 
+Volume 3, Number 2, 2024, Pages 52 – 64 
+Journal Home Page 
+https://journals.airsd.org/index.php/jemba/index 
+Comprehensive Analysis of Health Impacts Arising from Flood Disasters: 
+Evidence from Pakistan's Vulnerable Regions 
+Shahnaz Bhutto1, Kainat Vighio2, Naushad Bhutto3 & Sunana Alam1 
+1Department of Sociology, School of Public Administration, Hohai University Nanjing China  
+2Department of Rural Sociology, FASS, Sindh Agriculture University Tandojam, Pakistan 
+3Department of Agricultural Economics, FASS, Sindh Agriculture University Tandojam Pakistan 
+ARTICLE INFO 
+ABSTRACT 
+Article History: 
+ 
+Received: 
+   December         05, 2024 
+Revised: 
+   December         20, 2024 
+Accepted: 
+   December         24, 2024 
+Available Online:          December         25, 2024 
+ 
+Climate change has resulted in progressively erratic environmental 
+conditions, leading to significant health repercussions. On a global 
+scale, inundations and extreme climatic events substantially 
+contribute to escalating rates of morbidity and mortality annually. 
+These calamities not only amplify fatality figures but also present 
+considerable health challenges for those who survive. This 
+research assesses the susceptibility and health ramifications 
+associated with devastating flooding through the examination of 
+injury, illness, and mortality trends. The method involved in this 
+research was a literature based conducting 40 studies from 
+different sources including Google scholar, Science Direct, Scopus 
+and Websites online to find out the situations of health departments 
+during floods and other weather conditions. The results underscore 
+the significant repercussions of flooding on public health, 
+encompassing immediate effects such as physical injuries, 
+infections, and disruptions in healthcare provision. Flooding is 
+often connected to a greater risk of disease outbreaks, comprising 
+dengue fever, hepatitis E, conjunctivitis, leptospirosis, and 
+digestive disorders, particularly impacting those who are displaced 
+or dwell in unsanitary environments. Furthermore, investigations 
+concludes that the physical health impacts resulting from flooding 
+are heightened due to the psychological trauma and mental health 
+struggles among those who endure it. To more effectively tackle the 
+health ramifications of flooding, this research advocates for policy 
+initiatives directed at enhancing the resilience and efficacy of 
+existing flood response frameworks. 
+Keywords:  
+ 
+Health Impacts; Flood; Vulnerable regions; 
+Pakistan 
+ 
+© 2024 The Authors, Published by AIRSD. This is an Open 
+Access Article under the Creative Common Attribution Non-
+Commercial 4.0 
+Corresponding Author’s Email: shahnaz.socio.95@gmail.com   
+Introduction 
+Climate change constitutes one of the most urgent global issues of our time, endangering 
+the sustainability of ecosystems and the livelihoods of populations, particularly within rural 
+sectors of developing countries (Khoso et al., 2024). It is well observed in Pakistan, that the 
+climate change has been the major concern of increasing day by day consequence floods in 
+Journal of Economics, Management & Business Administration (JEMBA) Volume 3, Number 2, 2024  
+53 
+ 
+Indus River at greater extent and assembling more loss in recent years. Throughout the past 
+decade, these floods have dramatically affected infrastructure and local communities 
+(UNFPA, 2022). The ramifications of climate change are extensive, influencing food 
+security, access to potable water, public health, ecosystems, and the livelihoods of both 
+humans and wildlife, regardless of geographic location or socio-economic status (Shafi et 
+al., 2022; Adams, 2009). Research findings robustly suggest that anthropogenic activities 
+serve as a principal catalyst for the ongoing climate alterations, with specialists cautioning 
+that certain changes may become irreversible, disproportionately impacting marginalized 
+and vulnerable groups. Flooding, in particular, represents a severe threat to public health, 
+resulting in fatalities and widespread social upheaval (Khushi et al., 2024; Ajani and Van, 
+2021; Huang et al., 2024; Khan et al., 2024). Moreover, political and institutional 
+inefficiencies frequently exacerbate the health hazards encountered by affected 
+communities, obstructing their capacity to adapt and recuperate from environmental crises 
+(Rehman, 2022). The escalating frequency and intensity of extreme weather phenomena, 
+combined with inadequate flood management strategies in urban planning, have intensified 
+global apprehension regarding the risks associated with climate change. Floods caused 
+either by heavy rains or streamflow of canals origins the natural disaster almost covering 
+more than regions with specifically, social, political, economic, agricultural, infrastructure 
+as well health concerns. (Khan, 2022). The Himalayan region, which contains substantial 
+glacial resources, is particularly susceptible to increasing temperatures, endangering 
+essential natural assets (Caney, 2012). Intense rainfall, often attributed to climate change, is 
+the primary factor behind recurrent floods in this area, which constitute approximately 40% 
+of all natural calamities (Shah et al., 2020). Vulnerable to climate change's consequences, 
+Pakistan encounters several challenges like flash floods driven by quick glacial melting, 
+increased monsoon rainfall, prolonged heatwaves, water scarcity, rising sea levels, food 
+insecurity, and drought conditions, particularly in the southern area of Sindh. These 
+occurrences are leading to significant population displacement. Furthermore, the nations 
+antiquated land administration system, deeply entrenched in colonial legacies and devoid of 
+meaningful reforms, has exacerbated urban development issues, thereby heightening 
+susceptibility to environmental catastrophes (Baqir et al., 2012). Besides that, the rainfall at 
+greater extent are considered to be the major aspect towards the negative health concerns 
+including diarrhea, malaria, high fever and skin irritation specifically the under developing 
+nations providing economic challenges to the communities. Climate change exacerbates 
+these difficulties by inducing unpredictable variations in environmental conditions that 
+negatively affect human health (Gardiner, 2004). Annually, floods result in disease 
+outbreaks, increased mortality rates, and ongoing health risks for survivors. Given the 
+widespread and destructive implications of flooding, it has emerged as a global issue 
+necessitating coordinated international initiatives to alleviate its consequences. Tackling 
+this pressing concern requires comprehensive assessment and strategic planning to mitigate 
+the health impacts of flooding, especially as climate change continues to modify 
+environmental dynamics. Collaborative efforts involving all stakeholders are imperative in 
+addressing this escalating threat. 
+Literature Review 
+Flood damages and health risks from 2003 to 2022 
+Since its establishment, Pakistan has encountered a variety of natural calamities, including 
+floods, earthquakes, windstorms, and droughts. These occurrences have resulted in 
+considerable devastation to infrastructure, livelihoods, healthcare systems, education, 
+Journal of Economics, Management & Business Administration (JEMBA) Volume 3, Number 2, 2024  
+54 
+ 
+communication networks, and businesses (Mahesar, 2022). Being home to the largest number 
+of glaciers outside the Polar Regions, Pakistan is especially vulnerable to flooding and other  
+ 
+Fig-1: Area hit by the monsoon rains in Pakistan 
+water-related catastrophes as shown in fig-1. The monsoon season, intensified by climate 
+change, amplifies socio-economic difficulties and has significant implications for public 
+health. 
+Flooding remains a persistent challenge across multiple regions of Pakistan. For example, in 
+2003, excessive monsoon precipitation led to severe flooding in Sindh Province. Karachi 
+faced urban flooding due to 284.5 mm of rain within a span of two days, resulting in 
+widespread devastation. In Thatta District, 404 mm of rainfall instigated calamitous flash 
+floods (The express tribune, 2004). These incidents resulted in 484 deaths and considerable 
+damage across numerous municipalities within the province (Islamic Relief Worldwide, 
+2009; Monson, 2011). In a similar vein, in 2010, unprecedented rainfall in Khyber 
+Pakhtunkhwa and Punjab triggered disastrous flooding throughout the country. This calamity 
+impacted approximately 20 million individuals, leading to over 2,000 fatalities (Pakistan 
+Flood, 2010). Although the immediate death toll was relatively modest, the long-term health 
+Journal of Economics, Management & Business Administration (JEMBA) Volume 3, Number 2, 2024  
+55 
+ 
+repercussions were severe, with 77% of households indicating injuries or illnesses associated 
+with the flooding (Kirsch et al., 2012). The subsequent floods in 2011 and 2012 resulted in 
+extensive devastation in Sindh, Punjab, and Khyber Pakhtunkhwa, culminating in significant 
+loss of life, the displacement of millions, and harm to agricultural land and infrastructure 
+(The express tribune, 2014). Analogous patterns of destruction were evident during floods in 
+2014 and 2022, which were fueled by intense monsoon rains and glacial melting. The 2022 
+floods, characterized as the most catastrophic in Pakistan's history, impacted 33 million 
+people, displacing nearly 8 million, and resulted in over 1,700 deaths, with children 
+constituting one-third of the fatalities (Gishkori, 2022; Ahmed, 2022). These occurrences 
+underscore the nation’s susceptibility to climate-induced disasters. Floods not only precipitate 
+immediate fatalities and bodily harm but also engender long-term health complications 
+(Shreshta, 2008). Contaminated floodwaters heighten the risk of infectious diseases, 
+including diarrhea, malaria, leptospirosis, as well as skin and respiratory infections (Baqir et 
+al., 2012). The destruction of healthcare infrastructure, encompassing hospitals and clinics, 
+obstructs the provision of essential medical services and places additional strain on already 
+precarious health systems (Piel et al., 2018). Additionally, Flood causes multiple disorders to 
+vulnerable community’s specifically pregnant women and the children in terms of asthma, 
+dermatological cancers, vomiting and worsening the health conditions presenting diverse 
+health disorders affecting life at greater extent. According to UNFPA (2022), approximately 
+650,000 pregnant women were impacted by the floods of 2022, with over 73,000 anticipated 
+to give birth within a month, many lacking access to sufficient healthcare services. 
+However, the healthcare system in Pakistan are well noted by insufficient infrastructure 
+regarding disaster management and poor government frameworks. Political inadequacies and 
+inadequate allocation of resources have impeded effective interventions during health 
+emergencies triggered by natural calamities (Rehman, 2022). For example, the devastation of 
+more than 2,000 healthcare facilities during the floods of 2022 interrupted immunization 
+initiatives and heightened the susceptibility to disease outbreaks, particularly within displaced 
+communities (Shafi et al., 2022).  
+The economic ramifications of climate-induced disasters in Pakistan are profound, with 
+estimated losses reaching $80 billion from 1996 to 2016 (Ilyas, 2022). Inefficient land 
+management, absence of strategic urban planning, and substandard flood management 
+protocols further intensify the nation's susceptibility. Scholarly research underscores the 
+pressing necessity for comprehensive reforms in developmental strategies and resource 
+allocation to enhance resilience against natural disasters. This entails addressing disparities in 
+health access, augmenting reproductive healthcare services, and guaranteeing sufficient 
+housing and sanitation for populations affected by flooding (Lockie, 2017).  
+Confronting these issues necessitates collaborative efforts to embed health considerations 
+within disaster management frameworks. Enhancing healthcare infrastructure, bolstering 
+governance, and ensuring equitable access to crucial services can mitigate the enduring 
+consequences of floods on public health and overall welfare. 
+Methods 
+In order to collect data for the present investigation, we curated a selection of 40 esteemed 
+scholarly articles from diverse online repositories and platforms, including Google Scholar, 
+Science Direct, Websites, and Scopus as highlighted in Fig-2. The selected documents were 
+published within the timeframe of 2003 to 2022. Particular emphasis was placed on 
+contemporary literature that has garnered significant citations. The criteria for the selection of 
+Journal of Economics, Management & Business Administration (JEMBA) Volume 3, Number 2, 2024  
+56 
+ 
+pertinent literature were fundamentally anchored on the following considerations: Research 
+articles disseminated in peer-reviewed journals possessing an established impact factor. Peer-
+reviewed scientific reports concerning floods published by globally acknowledged publishers. 
+News articles. Literature that integrated keywords such as flood, climate, health, social 
+impacts, developing nations, and floods in Pakistan. 
+ 
+ 
+ 
+ 
+ 
+ 
+Fig-2: Literature Search Sources 
+Results and Discussion 
+With regards to the flood destruction and its impacts on health, table-1 shows the health 
+impacts of flood focusing different research. Where the data was conducted from the various 
+sources of Search engines and the websites. Major health impacts due to flood shown as the, 
+Mortality, Injuries and Health Issues, Mental Health, Infectious Diseases, Waterborne Diseases, 
+Maternal Health, Children’s Health, Damage to Healthcare Systems, Malnutrition, Vector-
+borne Diseases, and Respiratory Illnesses. The results have highlighted that, the floods in 
+Pakistan have caused severe health-related consequences in various aspects. Death tolls have 
+been significant, with more than 1,700 fatalities in the 2022 floods, of which 33% were 
+children, alongside major losses in previous disasters, including 2,000 deaths in 2010 and 815 
+in 2003. Numerous households reported injuries and health problems, with 77% being affected 
+during the 2010 floods. Widespread cases of diseases such as malaria, diarrhea, leptospirosis, 
+and respiratory infections were observed throughout these events. Mental health issues, such as 
+psychological distress, became increasingly common. Infectious diseases like malaria, dengue, 
+and hepatitis E, as well as waterborne diseases such as cholera and typhoid, surged due to 
+contaminated water supplies. Maternal health was significantly affected, with over 73,000 
+pregnant women in 2022 unable to access adequate care due to damaged infrastructure and 
+sanitation issues. Millions of children were at risk of malnutrition and diseases, with the 2022 
+floods impacting 16 million. Healthcare systems were overwhelmed, with over 2,000 facilities 
+damaged in 2022, disrupting vaccination and essential medical services. Food shortages and is 
+Placement exacerbated malnutrition, while stagnant floodwaters increased mosquito-borne 
+illnesses such as dengue and malaria. Overcrowding in shelters further led to rising respiratory 
+infections, reflecting the extensive health crisis caused by these disasters. 
+Table 1: Health Impacts of Flood on Local Life 
+Health Impact 
+Area 
+Details 
+Flood 
+Event/Year 
+Source/Reference 
+Mortality 
+Over 1,700 deaths, with 
+2022 Floods 
+Pakistan Floods (2022), 
+Flood disasters 
+Google 
+Scholar=10 
+Scopus, 
+Elsevier=20 
+Websites 
+reports=10 
+Journal of Economics, Management & Business Administration (JEMBA) Volume 3, Number 2, 2024  
+57 
+ 
+33% being children. 
+Giskori (2022) 
+ 
+At least 2,000 fatalities. 
+2010 Floods 
+Pakistan Floods (2010), 
+Zaidi (2010) 
+ 
+Over 815 deaths due to 
+flash floods. 
+2003 Floods 
+(Sindh & 
+Balochistan) 
+Islamic Relief Worldwide 
+(2009), Monson (2011) 
+Injuries and 
+Health Issues 
+77% of households reported 
+injuries or health 
+conditions. 
+2010 Floods 
+Kirsch et al. (2012) 
+ 
+Increased cases of 
+leptospirosis, malaria, 
+diarrhea, and respiratory 
+diseases. 
+Multiple 
+Floods (2003-
+2022) 
+Baqir et al. (2012), 
+Bandino et al. (2015) 
+Mental Health Increased psychological 
+stress and mental health 
+disorders. 
+Recurrent 
+Flood Events 
+Paavola (2017) 
+Infectious 
+Diseases 
+Outbreaks of malaria, 
+dengue, hepatitis E, and 
+gastrointestinal diseases. 
+2022 Floods 
+and Earlier 
+Events 
+Khan (2022), Salek et al. 
+(2020) 
+Waterborne 
+Diseases 
+Widespread cholera and 
+diarrhea due to 
+contamination of drinking 
+water supplies. 
+2022 Floods 
+UNFPA (2022), Shah et 
+al. (2020) 
+ 
+Increase in typhoid and 
+dysentery cases. 
+2010-2022 
+Floods 
+Winter et al. (2022) 
+Maternal 
+Health 
+73,000 pregnant women 
+expected to deliver without 
+adequate medical facilities. 
+2022 Floods 
+UNFPA (2022), Salek et 
+al. (2020) 
+ 
+Severe challenges due to 
+lack of sanitation, hygiene 
+products, and health 
+services. 
+Multiple Flood 
+Events 
+UNFPA (2022) 
+Children’s 
+Health 
+Approximately 16 million 
+children were affected, with 
+many at risk of malnutrition 
+and disease outbreaks. 
+2022 Floods 
+Giskori (2022) 
+Damage to 
+Healthcare 
+Systems 
+Over 2,000 healthcare 
+facilities damaged or 
+destroyed, impacting 
+vaccination campaigns and 
+treatment services. 
+2022 Floods 
+Geddes (2022), Rehman 
+(2022) 
+ 
+Disruption to critical 
+healthcare services and lack 
+of medical resources. 
+Multiple 
+Floods (2003-
+2022) 
+Piel et al. (2018), 
+Bandino et al. (2015) 
+Malnutrition 
+Significant rise in 
+malnutrition due to food 
+shortages and displacement. 
+2010 and 2022 
+Floods 
+Pakistan Floods (2010, 
+2022) 
+Journal of Economics, Management & Business Administration (JEMBA) Volume 3, Number 2, 2024  
+58 
+ 
+Vector-borne 
+Diseases 
+Increase in mosquito-borne 
+diseases like malaria and 
+dengue due to stagnant 
+water. 
+Multiple Flood 
+Events 
+Baqir et al. (2012), 
+Daniel et al. (2021) 
+Respiratory 
+Illnesses 
+Rising respiratory infections 
+due to overcrowding in 
+shelters and poor air quality. 
+2022 Floods 
+and Earlier 
+Events 
+Baqir et al. (2012) 
+ 
+ 
+Floods destruction in Sindh Province 
+Fig-3 shows the flood destructions in different areas of Sindh province of Pakistan. Where 
+High rate of flood destruction presented in picture is in Jacobabad with almost 60%. Besides 
+that, Larkana and Qambar Shahdadkot has considered to be the second highest affected areas 
+in Sindh with almost 50%. Following that, the other areas were also presented with different 
+percentage. Results show that, northern areas were affected by flood at greater extent.  
+Climate change has precipitated substantial ecological disturbances, which have subsequently 
+resulted in significant health repercussions (Khoso et al., 2024). Global phenomena such as 
+flooding and extreme meteorological events impose a  
+Considerable burden of morbidity and mortality annually. In Pakistan, recurrent flooding is a 
+direct consequence of the nation's pronounced monsoon precipitation. Any nation would 
+encounter formidable challenges in managing floods of the severity and scale witnessed in 
+recent years in Pakistan (BBC, 2014). These inundations have underscored critical 
+deficiencies in the country’s existing capabilities, including insufficient warning systems, 
+limited readiness, ineffective disaster response, and the absence of comprehensive flood 
+management strategies (Rehman, 2022). 
+ 
+Journal of Economics, Management & Business Administration (JEMBA) Volume 3, Number 2, 2024  
+59 
+ 
+Fig-4: Streamflow simulation of along Indus basin (Source: (Nanditha et al 2023) 
+The figure-4 illustrates annual stream flow data from 2001 to 2022 for several gauging 
+stations along the Indus River and its tributaries, highlighting notable spatial and temporal 
+variations. Sub-figures (a) and (b) depict stream flow trends at the Kotri Barrage and Upper 
+Panjab stations, showing significant increases during high-monsoon years such as 2010 and 
+2022, with flows exceeding historical thresholds. Sub-figures (c) to (f) provide data from four 
+sub-stations (STN-1 to STN-4), where sharp spikes are evident during extreme flood years, 
+particularly 2010, 2013, and 2022, when stream flow’s surpassed the 99.9th and 99.5th 
+percentile thresholds (red lines). Sub-figure (g) illustrates the percentage departure of stream 
+flow from average levels across all stations, with STN-1, STN-2, STN-3, and STN-4 showing 
+larger deviations compared to Kotri and Upper Panjab. The accompanying map (h) identifies 
+the locations of these gauging stations within the Indus River Basin. Overall, the figure 
+highlights the increasing intensity of extreme hydrological events in the region, likely 
+influenced by climatic and monsoonal variability. 
+Journal of Economics, Management & Business Administration (JEMBA) Volume 3, Number 2, 2024  
+60 
+ 
+Consequently, the nation confronts considerable health threats, with elevated mortality rates 
+following substantial flooding incidents (Bell, 2011). This research analyzed patterns of  
+Fig-5: Flood related mortality in Pakistan (2010-2022) (WHO-2023) 
+Illness to evaluate the susceptibility and health ramifications of flooding. A systematic review 
+of various reports and studies disclosed that extreme weather events intensify health issues, 
+particularly within displaced and unsanitary populations, where outbreaks of diseases such as 
+fever, dengue, and gastrointestinal disorders are prevalent (Fox, 2019). 
+Flood related mortality rates have been extended at greater extent in 2010. As predicted in 
+fig-5, that mortality rate in 2010 was almost 1985 and many of the households have been 
+displaced that not only affected the lives but also the source of income, houses, and caused 
+displacement at greater extent. While, the figure has some further fluctuations in different 
+years. So far, death rates in 20222 were further considered to be the second high with 1739. 
+The literature above highlighted that the death rates in northern areas of Sindh were 
+consequently noted with displacement as well as health concerns.  
+ Furthermore, flood-affected individuals frequently endure psychological distress and mental 
+health complications. Our extensive literature review indicates that efficacious policies are 
+imperative to diminish flood-related morbidity and mortality. Catastrophic flooding has 
+profound effects on both physical and mental health, often through the proliferation of 
+bacteria, viruses, and other pathogens. Such diseases can encompass diarrhea, cholera, 
+dengue fever, and hepatitis E. Stagnant floodwaters create optimal environments for 
+mosquitoes and other disease vectors. Beyond infectious ailments, the ramifications of 
+flooding also encompass long-term health issues, including chronic respiratory conditions, 
+anxiety, and depression. Displaced populations are especially vulnerable, as they often lack 
+access to clean water, sanitation, and healthcare services. Specific demographics, including 
+the elderly, pregnant women, children, and those with pre-existing health concerns, exhibit 
+heightened susceptibility.  
+Journal of Economics, Management & Business Administration (JEMBA) Volume 3, Number 2, 2024  
+61 
+ 
+Low-income communities residing in informal settlements are particularly at risk, as they 
+frequently inhabit flood-prone regions and lack essential infrastructure and services (Dawn, 
+2012). Indigenous populations, migrant laborers, and refugees are also more exposed due to 
+restricted access to healthcare and legal safeguards (Chaudhry, 2017). The research findings 
+underscore the necessity for extensive recovery initiatives to alleviate the health and 
+economic consequences of flooding in Pakistan. Floods inflict severe damage on 
+infrastructure, diminish productivity, and escalate healthcare expenditures. This situation 
+necessitates a concentrated effort to restore employment, agricultural systems, and private 
+households (BBC, 2014). The revival of public health facilities and the reconstruction of vital 
+infrastructure, such as roads, bridges, and educational institutions, are also crucial. To attain 
+these objectives, a comprehensive framework for resilient recovery, rehabilitation, and 
+reconstruction is indispensable. Pakistan requires a transparent and inclusive strategy, 
+grounded in collaboration among the public and private sectors, academic institutions, think 
+tanks, and the international community, wherein all stakeholders work towards a unified  
+Fig-6: Flood affects in Pakistan, 2022.  
+Objective. Concurrently, disaster preparedness and response initiatives should prioritize the 
+protection of the most vulnerable populations. The implementation of effective policies and 
+interventions can mitigate the health impacts associated with floods and extreme climatic 
+events.  
+According to UN, in 2022, more than 30 million people were affected due to the monsoon 
+floods, where the Sindh province was affected at large as shown in the fig-6. This 
+investigation does not concentrate on specific interventions, indicating that further research is 
+essential to address this deficiency. Future research endeavors ought to investigate various 
+vulnerability determinants, encompassing social, economic, and political dimensions. 
+Furthermore, there is a necessity for investigations into community-centered interventions 
+that can enhance resilience and mitigate flooding impacts. The formulation of effective 
+policies and strategies is imperative to curtail the economic repercussions instigated by floods 
+and to foster sustainable development (Global Register of Major Flood Events, 2007). This 
+extensive review underscores the critical necessity for interventions aimed at diminishing 
+flood-associated morbidity and mortality. Catastrophic floods can yield significant health 
+repercussions, particularly for at-risk populations. The deployment of efficacious policies and 
+Journal of Economics, Management & Business Administration (JEMBA) Volume 3, Number 2, 2024  
+62 
+ 
+interventions can bolster resilience against prospective extreme weather phenomena. 
+Additional research is warranted to evaluate the efficacy of such interventions and to 
+comprehend the elements that heighten vulnerability to flooding events. A synergistic, multi-
+sectoral strategy is essential to tackle the health ramifications of floods, necessitating 
+collaboration among governmental entities, civil society, and the private sector. 
+Conclusions and Strategies 
+The focus of this research mainly relied over the health impacts on livelihood regarding the 
+flood. The literature based research provided a sight full consequences regarding the flood 
+and its impacts on health. On behalf of the results, the study concludes that that climate 
+change has been the major factor of flood including heavy rainfall as predicted in the 
+literature. It is also concluded that the flood affected health concerns noted in the literature 
+was asthma, respiratory issues, skin irritations, malaria and other were well observed 
+specifically in children, pregnant women, elder and the old age. Where, there is a need of 
+health interventions in the study area to fulfil the gap and provide a better environment and 
+sustainability. Government policies have a key role to play in increasing health access and 
+managing disaster risks during floods. This includes ensuring access to podiatry and mental 
+health services. A proactive and coordinated humanitarian response is essential to reduce 
+health disparities and support the well-being of displaced populations. Governments can 
+implement strategies to mitigate the health impacts of floods, such as subsidies, tax 
+exemptions, and other financial measures. This approach requires addressing the political and 
+social factors that influence flood management decisions. Ecosystems play a key role in 
+shaping climate change and can be key factors in building social resilience. Managing 
+ecosystems based on principles of biodiversity science can help communities adapt to climate 
+change. Flood risk management strategies can help address gaps in disaster preparedness and 
+response. Effective flood management depends on active participation, coordination, and 
+engagement of the public and private sectors, with clear and enforceable regulations. It is 
+important to create a balance of certainty and flexibility in regulations to respond to changing 
+circumstances. 
+Limitations of the study 
+The study is in line with literature based research which has some certain limitations, firstly, 
+the research should be carried out to conduct primary data on mixed method approaches to 
+gain more justifiable results. Secondly, the research is only a literature, conducting systematic 
+analysis or secondary analysis could provide more benefits in research outcomes. Thirdly, the 
+research should be carried out on comparative parameters to be adjusted for policy measures 
+to be taken for better health conditions.   
+References 
+1. Adams, J., and Luchsinger, G. (2009). Climate change and drylands: beyond the 
+drought. New York: UNDP Drylands Development Centre. 
+2. Ahmed, M. (2022). Floods Wreak Havoc Across Pakistan, Killing Over 900 People 
+Since Mid-June and Leaving Thousands Without Homes. 
+3. Ajani, A., and Van, D. G. K. (2021). Climate change in rural Pakistan: evidence and 
+experiences from a peoplecentered perspective. Sustain Sci, 16, 1999-2011 
+4. Bandino, J. P., Hang, A., and Norton, S. A. (2015). Flood-related skin diseases: a 
+literature review. Dermatology Online Journal, 21(5). 
+Journal of Economics, Management & Business Administration (JEMBA) Volume 3, Number 2, 2024  
+63 
+ 
+5. Baqir, M., Ejaz, K., Masood, A., and Ahmad, N. (2012). Health impacts of floods in 
+Pakistan. Disaster Prevention and Management: An International Journal, 21(4):504-
+516. 
+6. BBC News. (2014). Alert in Multan as Pakistan flood river peaks. Bbc.com. 12 
+September 2014. Retrieved 24 February 2023. 
+7. Bell, J. (2011). Climate change and human health: what are the research trends? A 
+scoping review protocol. Environmental Health, 10(Suppl 1), S10. 
+8. Caney, S. (2012). Just emissions. Philosophy and Public Affairs, 40(4):255-300. 
+9. Chaudhry, P. (2017). Floods in Pakistan: A Historical Perspective. In P. Chaudhry 
+(Ed.), Flood Risk Management in Remote and Impoverished Areas, Springer,1-16. 
+10. Crowther, T.W., Todd-Brown, K.E.O., Rowe, C.W., Carey, J.C., Machmuller, M.B., 
+Snoek, B.L., Fang, S., Zhou, G., Allison, S.D., Blair, J.M., Bridgham, S.D., Burton, 
+A.J., Carrilo, y., Reich, P.B., Clark, J.S., Classen, A.T., Dijkstra, F.a., Elberling, B., 
+Emmett, B.A., Estiarte, M., Frey, S.D., Guo, J., and Harte J. (2016). Quantifying 
+global soil carbon losses in response to warming. Nature, 540(7631):104-108. 
+11.  Daniel, M., Lantagne, D., and Parker, E. (2021). The impact of natural disasters on 
+infectious diseases: a systematic review. International Journal of Environmental 
+Research and Public Health, 18(4):1460. 
+12. Dawn. (2012). Floods triggered by downpours wreak widespread devastation. 
+Dawn.Com. 10 September 2012. Retrieved 20 December 2022. 
+13. Fox, G., and Sheehan, M. C. (2019). The links between climate change, disasters, 
+migration, and social resilience in Asia: A literature review. International Journal of 
+Environmental Research and Public Health, 16(19):3573. 
+14. Gardiner S.M. (2004). Ethics and global climate change. Environmental Ethics, 
+114(3):555-600. 
+15. Geddes, L. (2022). Pakistan floods: how the humanitarian disaster unfolded. New 
+Scientist. Retrieved from https://www.newscientist.com/article/dn 19428-pakistan-
+floods- how-thehumanitarian-disaster-unfolded/ 
+16. Gishkori, Z. (2022). Deadly floods claim over 1,000 lives and affects 1/5th of Pakistan. 
+Samaa TV. 
+17. Global Register of Major Flood Events. (2007). Scroll Down and Look For Links to 
+Maps In The Country Column. Retrieved 13 March 2023. 
+18. Huang, Y., Rahman, S. U., Meo, M. S., Ali, M. S. E., & Khan, S. (2024). Revisiting 
+the environmental Kuznets curve: assessing the impact of climate policy uncertainty 
+in the Belt and Road Initiative. Environmental Science and Pollution Research, 31(7), 
+10579-10593. 
+19. Ilyas, F. (2022). Starving Flood Victims Face Infectious Diseases under Open Sky in 
+Sindh. Retrieved from https://www.dawn.com/news/1708410/s tarving-flood-victims-
+face- infectiousdiseases-under-open-sky-in-sindh. 
+20. Islamic Relief Worldwide. (2009). Where We Work. Islamic-relief.com. 24 Nabeela 
+Farah 942 October 2009. Retrieved 19 February 2023. 
+21. Khan, M. K., Ahmad, I., e Ali, M. S., & Azhar, U. (2024). Role of Climate Policies 
+and Environmental Regulations for Business Growth: Evidence from Sustainable 
+Development Perspective. iRASD Journal of Economics, 6(1), 199-214. 
+22. Khan, S. (2022). Floods and human health: a case study of Pakistan. International 
+Journal of Disaster Risk Reduction, 62. 
+23. Khoso, A. R., Gu, J., Bhutto, S., Muhammad Javed Sheikh, Vighio, K., & Arshad Ali 
+Narejo. (2024). Climate change and its impacts in rural areas of Pakistan: a Literature 
+review. Journal of Environmental Science and Economics, 3(1), 18–26. 
+https://doi.org/10.56556/jescae.v3i1.731 
+Journal of Economics, Management & Business Administration (JEMBA) Volume 3, Number 2, 2024  
+64 
+ 
+24. Khushi, S. R., Khoso, A. R., Bhutto, S., & Narejo, A. A. (2024). The long-term health 
+impacts of repeated flood events: A Review. Journal of Environmental and Energy 
+Economics, 11-19. 
+25. Kirsch, T.D., Wadhwani, C., Sauer, L., Doocy, S., and Catlett, C. (2012). Impact of the 
+2010 Pakistan Floods on Rural and Urban Populations at six Months. PLOSS, 
+Currents Disasters, doi: 10.1371/4fdfb212d2432. 
+26. Lockie, S. (2017). Responsibility and agency within alternative food networks: 
+assembling the “citizen consumer”. Agriculture and Human Values, 34(1):67-81. 
+27. Mahesar, A. (2022). Pakistan Today, Flood Induced Migration in Sindh. Retrieved 
+from: 
+https://www.pakistantoday.com.pk/2022 
+/09/27/flood-induced-migration-in 
+sindh.  
+28. Monsoon. (2011). A backlash of the floods? History of Pakistan floods in Detail 
+Pakistan Weather Portal (PWP). Pakistan Weather Portal. 13 June 2011. Retrieved 19 
+February 2023. 
+29. Nanditha, J. S., Kushwaha, A. P., Singh,R., Malik, I., Solanki, H., Chuphal, D.S., et al. 
+(2023). The Pakistan flood ofAugust 2022: Causes and implications.Earth's Future, 
+11, e2022EF003230. 
+30. Paavola, J. (2017). Health impacts of climate change and health and social inequalities 
+in the UK. Environmental Health, 16(1):113. 
+31. Pakistan 
+Flood. 
+(2022). 
+Pakistan 
+Floods 
+2021. 
+Retrieved 
+fromhttps://www.pakistanflood.org/. 
+32. Pakistan Floods. (2010). The Deluge of Disaster-Facts and Figures as of 15 September 
+2010. Retrieved 20 March 2023. 
+33. Piel, L., Finlayson, B., and McMahon, T. (2018). Updated world map of the Köppen- 
+Geiger climate classification. Hydrology and Earth System Sciences Discussions, 
+4(2):439-473. 
+34. Rehman, A. (2022). The impact of COVID-19 and floods on human health in Pakistan. 
+Journal of Public Health, 30(1):23-28. 
+35. Shafi, S., Khan, A., and Khan, M. (2022). Land Administration System in Pakistan: A 
+Critical Review. Land Administration and Management in Pakistan: Issues and 
+Challenges, Springer, 1-18. 
+36. Shah, S. A., Khan, M. A., and Khan, M. A. (2020). Floods and health in Pakistan: a 
+systematic review of the literature. International Journal of Disaster Risk Reduction, 
+51. 
+37. Shreshta, M. S. (2008). Impact of Floods in South Asia, Journal of South Asia 
+Disaster Studies, http://saarcsdmc.nic.in/pdf/publications/ journal/chapter-6.pdf. 
+38. The Express Tribune, 2014. Heavy monsoon rains kill over 40 in Pakistan. 
+Tribune.com.pk. 4 September 2014. Retrieved 27 February 2023. 
+39. The Express Tribune. (2011). Floods worsen, 270 killed: officials. The Express 
+Tribune. 13 September 2011. Retrieved 01 January 2023. 
+40. United Nations Population Fund. (2022). Pregnant women and girls face heightened 
+risks 
+in 
+wake 
+of 
+Pakistan 
+floods. 
+Retrieved 
+from 
+https://www.unfpa.org/news/pregnant 
+women-and-girls-face-heightened-riskswake-
+pakistan-floods 
+41. Winter, T., Kienberger, S., and Greiving, S. (2022). The impact of floods on health 
+and well-being: a systematic review and meta-analysis. International Journal of 
+Environmental Research and Public Health, 19(1):113. 
+42. Zaidi, S. (2010). Pakistan flood 2010: an opportunity to build back better.International 
+Workshop on Floods in Pakistan. 280:167-178.  

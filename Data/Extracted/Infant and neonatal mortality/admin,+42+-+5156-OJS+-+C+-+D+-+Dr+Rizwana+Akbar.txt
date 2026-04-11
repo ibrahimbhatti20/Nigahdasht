@@ -1,0 +1,498 @@
+Antenatal Care and Neonatal Mortality and Morbidity 
+Pak Armed Forces Med J 2021; 71 (2): 562-66  
+562 
+ANTENATAL CARE AND NEONATAL MORTALITY AND MORBIDITY IN THREE HOSPITALS 
+OF PUNJAB, PAKISTAN 
+Rizwana Akbar, Naila Azam*, Fatima Ali Raza Mughal*, Mahmood Ur Rahman**, Ahmed Tariq***, Maira Wajahat**** 
+Combined Military Hospital/ National University of Medical Sciences (NUMS) Rawalpindi Pakistan, *Foundation University Medical College Islamabad 
+Pakistan, **HITEC Institute of Medical Sciences, Taxilla/National University of Medical Sciences (NUMS) Pakistan, ***Army Medical College/National University 
+of Medical Sciences (NUMS) Rawalpindi Pakistan, ****Pak Emirates Military Hospital/National University of Medical Sciences (NUMS) Rawalpindi Pakistan 
+ABSTRACT 
+Objective: To find out the association between neonatal morbidity & mortality and the number of ante-natal visits of the 
+mother of the newborn.  
+Study Design: Comparative cross-sectional study. 
+Place and Duration of Study: Neonatal Intensive Care Units (NICUs) of three military hospitals of the Punjab province, from 
+Jan to Mar 2019. 
+Methodology: Data of all newborns (total of 3065 neonates) delivered in selected Military Hospitals, and all newborns 
+admitted to Neonatal Intensive care units, of Military Hospitals born in same hospital (in born) and born outside the Military 
+Hospital (out born) during this period along with their mothers was collected. Neonatal morbidity and mortality in the 
+selected hospitals was recorded. Mothers were classified as booked and unbooked according to the number of antenatal care 
+visits. Data was analyzed by Statistical Packages for Social Science (SPSS) version 20.  
+Results: Neonatal morbidity including prematurity, low birth weight, birth asphyxia, neonatal sepsis, pneumonia, diarrhoea, 
+congenital malformation, and fits was significantly less (p-value <0.001) in children whose mothers had at least 4 or more 
+antenatal visits (booked) than those newborns whose mothers had less than 4 antenatal visits (unbooked). The neonatal 
+mortality in booked mothers was less than half of that in unbooked mothers. 
+Conclusion: Booked mothers had better outcomes in terms of neonatal health and survival, and the neonatal health and 
+survival was strongly correlated with the number of antenatal visits of the mother.  
+Keywords: Antenatal visits, Neonatal mortality, Neonatal morbidity, Prevention. 
+ 
+INTRODUCTION 
+Every year, millions of children under 5 years of 
+age die of preventable diseases1. These deaths reflect 
+the limited access of children to basic health needs, 
+such as vaccination, treatment of infectious diseases, 
+adequate nutrition and sanitation2.  According to the 
+UN Millennium Development Goals3, Goal 4 was to 
+reduce Child Mortality Rate which could not be met 
+without substantial reduction in neonatal mortality 
+especially in the developing countries like Pakistan4,5. 
+In September 2015, with the end of the era of the 
+Millennium Development Goals, the international 
+community agreed on a new framework, the Sustain-
+able Development Goals6 (SDGs). Goal 3 in the SDGs is 
+to ensure healthy lives i.e. “good health and wellbeing 
+and promote wellbeing for all at all ages”. The SDG 
+target number 3.2 for child mortality represented a re-
+newed commitment to the world’s children7. The goal 
+is to end preventable deaths of newborns and children 
+under 5 years of age by the end of 2030. It aims to 
+reduce neonatal mortality to as low as 12 deaths per 
+thousand live births and under 5 mortality to at least 
+as low as 25 deaths per thousand live births”8.  
+In 2017, out of 5.4 million annual deaths of chil-
+dren below 5 years of age, about 2.5 million were neo-
+nates4. Trends show that the proportion of child deaths 
+that are in the neonatal period has increased in all 
+regions of the world and globally was 41% in 20108, 
+whereas, in 2017, this has increased to 46.2% of all 
+under 5 deaths4. The main direct causes of neonatal 
+death are estimated to be preterm birth, Asphyxia, res-
+piratory distress, severe infections (sepsis), Pneumo-
+nia, and congenital abnormalities9.  
+Neonatal mortality, Infant Mortality and Under 5 
+years mortality rates are important health indicators    
+of a country10. There has been a steady decline in the 
+under 5 year mortality rate in Pakistan from 138/1000 
+live births in 1990 to 74.9/1000 live births in 2017, a 
+45.72% decline. The neonatal mortality rate of 44.2 per 
+1000 live births of Pakistan in 2017 accounted for 
+59.01% of under 5 mortality rate in 2017. There has 
+been a downward trend in the infant mortality rate as 
+well, a total decline of 32.9% between 1990 and 2017, 
+from 91/1000 live births to 61/1000 live births4. 
+This is an Open Access article distributed under the terms of the Creative Commons Attribution License (http://creativecommons.org/licenses/by/4.0), which permits 
+unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited. 
+Correspondence: Dr Rizwana Akbar, Neonatal Intensive Care Units, 
+Combined Military Hospital Rawalpindi Pakistan 
+Received: 24 Aug 2020; revised received: 28 Dec 2020; accepted: 31 Dec 2020 
+ra 2838@yahoo.com
+Original Article  
+Open Access 
+Antenatal Care and Neonatal Mortality and Morbidity 
+Pak Armed Forces Med J 2021; 71 (2): 562-66  
+563 
+As 74% of neonatal deaths occur in the first week 
+of life, they are attributable to maternal causes as well, 
+which are preventable. Quality antenatal care with an 
+appropriate number of visits, appropriately distributed 
+during pregnancy can help detect the morbidities du-
+ring pregnancy and thus help to reduce the complica-
+tions during pregnancy and labour9. This can improve 
+outcomes of pregnancy and thus reduce preventable 
+neonatal deaths. 
+This study aimed to find the difference in neo-
+natal morbidity and mortality among booked and 
+unbooked mothers for antenatal care. 
+METHODOLOGY 
+This was a comparative cross-sectional study. 
+Data was collected from the Neonatal Intensive Care 
+Units (NICUs) of military hospitals of Rawalpindi, 
+Jhelum and Mangla and Consulting National data 
+from Pakistan Demographic Health Survey (PDHS) 
+2017-1811. 
+Data Collection was completed in three Months 
+from January to March 2019. The study population 
+included newborns who were delivered in the three 
+selected hospitals and all newborns admitted in NICUs 
+of pediatric departments of the three hospitals deli-
+vered within (inborn) or outside (outborn) these hospi-
+tals. Informed consent was taken from their mothers/ 
+next of kin. Newborns of mothers/next of kin who did 
+not give written informed consent and newborns who 
+did not reach the selected military hospitals were 
+excluded from the study.  
+Neonatal morbidity and mortality in the selected 
+hospitals was recorded. Mothers were classified as 
+booked and unbooked according to the number of ant-
+enatal care visits. At least 4 antenatal visits were reco-
+mmended for mothers in the focused ANC (FANC) 
+model by WHO in 2002. However according to WHO, 
+since November 2016, “Antenatal care models with a 
+minimum of eight contacts were recommended to re-
+duce perinatal mortality and improve women’s expe-
+rience of care”. In this study we considered mothers 
+with 4 or more visits as booked for antenatal care. If a 
+mother had 3 antenatal visits she was considered as 
+partially booked. If a mother had less than 2 visits or 
+no antenatal care visits she was considered unbooked. 
+However for inference of results mothers with 4 or 
+more ANC visits were considered as booked, those 
+with less than 4 visits were considered as unbooked. 
+This study was conducted after approval from the 
+Ethics Review Board of Armed Forces Postgraduate 
+Medical Institute. Permission was sought from the 
+Commanding Officers / Commandants of the respec-
+tive hospitals for the collection of data. Coding was 
+used to guarantee the confidentiality of data/ infor-
+mation. No monetary compensation was given to the 
+study participants. 
+Data was analyzed by Statistical Packages for 
+Social Science (SPSS) version 20. The responses of the 
+questionnaires were coded and scored to facilitate the 
+entry of data. Quantitative variables were reported     
+as Mean ± SD (Standard Deviation) while categorical 
+variables were reported as frequencies and percen-
+tages. The results of the study have been presented in 
+the form of tables in the results section. For inferential 
+statistics, chi-square test was applied to find an asso-
+ciation between variables. The confidence interval was 
+taken as 95% and a margin of error 5%, p-value ≤0.05 
+was considered statistically significant. 
+RESULTS 
+A total of 3065 neonates including inborn and 
+outborn babies were included in the study. 2382 were 
+from Rawalpindi, 351 were from Jhelum and 332 were 
+from Mangla. Out of a total of 3065 neonates, 1532 
+(50%) were female and 1533 (50%) were male. 
+Mostly all newborns were full term. Mothers of 
+585 (19.1%) were unbooked, they had less than 2 visits, 
+mothers of 2198 (71.7%) were partially booked, they 
+had 3 visits, and mothers of 282 (9.2%) had 4 or more 
+ANC visits and were booked (figure). 
+The newborns of mothers who had 4 or more 
+ANC visits (booked) had significantly lower morbidity 
+as compared to newborns of mothers who had <4 
+ANC visits (unbooked) during pregnancy. There were 
+strong statistically significant differences between pre-
+maturity (p=0.001), low birth weight (p=0.001), Birth 
+asphyxia (p=0.001), neonatal sepsis (p=0.001), pneu-
+monia (p=0.001), diarrhoea (p=0.019), congenital mal-
+ 
+Figure: Booked vs unbooked mothers. 
+Antenatal Care and Neonatal Mortality and Morbidity 
+Pak Armed Forces Med J 2021; 71 (2): 562-66  
+564 
+formation (p=0.01), fits (p=0.001), post-term (0.001) in 
+booked and unbooked status of mothers (table-I). 
+Out of 3065 neonates, 153 (4.99%) neonates died. 
+This shows a mortality rate of 49.9 deaths per 1000 live 
+births. In Rawalpindi there were 124 (5.3%) neonatal 
+deaths, in Jhelum there were 13 (3.7)% neonatal deaths 
+while in Mangla there were 16 (4.8%) neonatal deaths. 
+Mortality was significantly higher in children of un-
+booked mothers compared to booked and partially 
+booked mothers. 
+DISCUSSION 
+The objectives of the study were to find out              
+the frequency of neonatal mortality and morbidity in 
+Neonatal Intensive Care Units (NICUs) of pediatric 
+departments of three military hospitals of Mangla, 
+Rawalpindi and Jehlum and compare the neonatal 
+mortality and morbidity in cases where mothers were 
+booked for antenatal care with those of unbooked 
+mothers in the same setting, thus to study the impact 
+of antenatal care on neonatal morbidity and mortality. 
+The study showed that there was a highly signi-
+ficant association between the number of antenatal 
+visits of the mother and the mortality and morbidity of 
+newborns. Mothers with 4 or more antenatal visits had 
+much better pregnancy outcomes. There was a statisti-
+cally significant difference in neonatal mortality and 
+morbidity in booked and unbooked mothers. The neo-
+natal mortality in booked mothers was less than one 
+half of that in unbooked mothers.  
+Out of 3065 newborns, 1837 (60%) were admitted 
+in NICU and had some morbidity, out of which 398 
+(13%) had Prematurity, 245 (8%) had low birth weight, 
+306 (10%) had Birth asphyxia, 214 (7%) had neonatal 
+sepsis, 153 (5%) had pneumonia, 61 (2%) had Diarr-
+hoea, 31 (1%) had congenital malformations, 214 (7%) 
+had jaundice, 92 (3%) had Fits, 31 (1%) were post term 
+and 92 (3%) had other morbidities. 
+Among the newborns admitted in NICUs of the 
+selected military hospital 52% were female and 48% 
+were male. Out of the total 153 neonatal deaths in our 
+study 53% were male and 47 % were female. 
+Among the newborns admitted in NICUs with11 
+prematurity, 3.4% were newborns whose mothers were 
+booked (had 4 or more ANC visits), whereas 96.6% 
+were newborns whose mothers had less than 4 ANC 
+visits. 
+Table-I: Association of neonatal morbidity with booked and unbooked status of mothers. 
+Neonatal Morbidity 
+Un Booked 
+Partially Booked 
+Booked 
+p-value 
+Prematurity 
+88 (22.7) 
+287 (74) 
+13(3.4) 
+0.001 
+Low birth weigh 
+82 (35.5) 
+133 (57.6) 
+16 (6.4) 
+0.001 
+Birth asphyxia 
+105 (27.8) 
+160 (53.2) 
+36 (12) 
+0.001 
+Neonatal sepsis 
+59 (27.8) 
+127 (59.9) 
+26 (12.3) 
+0.001 
+Pneumonia 
+31 (20.4) 
+91 (59.9) 
+30 (19.7) 
+0.001 
+Diarrhoea 
+17 (30.4) 
+26 (47.3) 
+12 (21.8) 
+0.019 
+Congenital malformations 
+17 (54.8) 
+13 (41.9) 
+1 (3.2) 
+0.001 
+Jaundice 
+36 (17.9) 
+149 (74.1) 
+16 (8) 
+0.963 
+Fits 
+37 (39.4) 
+52 (55.3) 
+5 (5.3) 
+0.001 
+Post term 
+4 (57.1) 
+3 (42.4) 
+- 
+0.007 
+Others 
+38 (44.7) 
+22 (25.9) 
+25 (29.4) 
+0.001 
+Table-II: Neonatal Mortality Rate in booked and 
+unbooked mothers of newborns admitted in Neonatal 
+Intensive Care Units of the selected military hospitals. 
+Booking Status of Mothers 
+Neonatal Mortality Rates 
+Booked 
+21/1000 live births 
+Partially Booked 
+49.9/1000 live births 
+Unbooked 
+87.6/1000 live births 
+Table-III: Frequency of neonatal morbidity in cases of 
+neonatal mortality. 
+ 
+n (%) 
+Prematurity 
+112 (61.9) 
+Low birth weigh 
+72 (39.8) 
+Birth asphyxia 
+40 (22.1) 
+Neonatal sepsis 
+66 (36.5) 
+Pneumonia 
+16 (8.8) 
+Diarrhoea 
+7 (3.9) 
+Congenital malformations 
+9 (5) 
+Jaundice 
+37 (20.4) 
+Fits 
+53 (29.3) 
+Post term 
+1 (0.6) 
+Others 
+11 (0.6) 
+Table-IV: Association of neonatal mortality with booked 
+and unbooked status of mothers of newborns admitted in 
+Neonatal Intensive Care Units of the selected hospitals. 
+Neonatal 
+Mortality  Unbooked 
+Partially 
+booked 
+Booked 
+p-
+value 
+Yes 
+22 (8.7) 
+124 (5.1) 
+7 (2.1) 
+0.023 
+No 
+229 (91.3) 
+2369 (94.9) 
+315 (97.9) 
+Antenatal Care and Neonatal Mortality and Morbidity 
+Pak Armed Forces Med J 2021; 71 (2): 562-66  
+565 
+Low birth weight, 6.4% were newborns whose 
+mothers were booked (had 4 or more ANC visits), 
+whereas 93.6% were newborns whose mothers had less 
+than 4 ANC visits. 
+Birth Asphyxia, 12% were newborns whose mot-
+hers were booked (had 4 or more ANC visits), whereas 
+88% were newborns whose mothers had less than 4 
+ANC visits. 
+Neonatal Sepsis, 12.3% were newborns whose 
+mothers were booked (had 4 or more ANC visits), 
+whereas 87.7% were newborns whose mothers had less 
+than 4 ANC visits. 
+Pneumonia, 19.7% were newborns whose mothers 
+were booked (had 4 or more ANC visits), whereas 
+80.3% were newborns whose mothers had less than 4 
+ANC visits. 
+Diarrhoea, 21.8% were newborns whose mothers 
+were booked (had 4 or more ANC visits), whereas 
+78.2% were newborns whose mothers had less than 4 
+ANC visits. 
+Jaundice, 8% were newborns whose mothers were 
+booked (had 4 or more ANC visits), whereas 92% were 
+newborns whose mothers had less than 4 ANC visits. 
+Fits, 5.3% were newborns whose mothers were 
+booked (had 4 or more ANC visits), whereas 94.7% 
+were newborns whose mothers had less than 4 ANC 
+visits. 
+Mothers of all 7 newborns who were post term 
+were unbooked. 
+The NMR of Pakistan in 2017 was 44.2 deaths per 
+1000 live births12,13. In our study, the NMR was 49.9 
+deaths per 1000 live births. 
+The frequency of prematurity14, LBW15, birth 
+asphyxia16 has been reported to be lower in ANC users 
+than those who did not attend ANC. Also ANC non-
+users have a higher percentage (49%) of anemia as 
+compared to ANC users (29%)17. Our study was con-
+sistent with these studies. 
+A study using secondary data recommends that   
+in order to reduce neonatal mortality there is a need         
+to implement interventions focusing on antenatal       
+care effective referral system and retraining of health 
+care providers to manage delivery complications and 
+smaller than average birth size babies in resource-poor 
+communities of Pakistan18. Our study also concluded 
+that better use of ANC facilities can result in better pre-
+gnancy outcomes and can reduce neonatal mortality in 
+Pakistan. 
+In Iran, the NMR in this Neonatal Intensive Care 
+Unit was 6.44 /1000 during 7 years period19. The 
+strong association between the mortality rate in the 
+Neonatal Intensive Care Unit with preterm birth and 
+low birth weight indicated the necessity of prenatal 
+care aimed at preventing preterm labor20,21. Our study 
+also showed that the neonatal mortality in booked 
+mothers was less than one half of that in unbooked 
+mothers. 
+ACKNOWLEDGEMENT 
+We are extremely grateful to Prof Dr Shahzad   
+Ali Khan, HOD of Public Health at Health Services 
+Academy Islamabad for his valuable input and kind 
+guidance at every stage of this research. We extend our 
+heartfelt gratitude to the administration and faculty of 
+AFPGMI and all our seniors and colleagues for their 
+support and cooperation.  
+CONCLUSION 
+In our study, it is concluded that not only the 
+booked mothers in the selected military hospitals had 
+better outcomes in terms of neonatal survival and 
+health but neonatal health was strongly correlated 
+with the number of antenatal visits of the mother. Neo-
+natal morbidity and mortality can thus be prevented 
+by increasing the utilization of existing antenatal care 
+services, resulting in improved maternal, neonatal and 
+perinatal health. 
+CONFLICT OF INTEREST 
+This study has no conflict of interest to be 
+declared by any author. 
+REFERENCES 
+1. Gulland A. Children under 5 dying from preventable diseases, 
+says UN. Br Med J 2016; 353.  
+2. UNICEF, WHO, World Bank, UN-DESA Population Division. 
+UN Inter-agency Group for Child Mortality Estimation: Levels 
+and Trends in Child Mortality: Estimates Developed by the UN 
+Inter-agency Group for Child. UNICEF. 2014. Available from: 
+http://www.unicef.org/media/files/Levels_and_Trends_in_Ch
+ild_Mortality_2014.pdf 
+3. United Nations Millennium Development Goals Report 2009. 
+Available from: https://www.un.org/millenniumgoals/pdf/ 
+MDG_Report_2009_ENG.pdf 
+4. Bellamy C. The state of the world’s children: Childhood       
+Under Threat. United Nations Children’s Fund (UNICEF).          
+2005. Available from: https://www.unicef.org/sowc/archive/ 
+English/The%20State%20of%20the%20World%27s%20Children
+%202005.pdf  
+5. Imdad A, Salam R. Effects of neonatal nutrition interventions on 
+neonatal mortality and child health and deve-lopment outcomes: 
+a systematic review. Campbell Sys Rev 2019; 15(1-2).  
+6. Gupta J, Vegelin C. Sustainable development goals and inclusive 
+development. Int Environ Agreements Polit Law Econ 2016; 
+16(3): 433-48. 
+Antenatal Care and Neonatal Mortality and Morbidity 
+Pak Armed Forces Med J 2021; 71 (2): 562-66  
+566 
+7. Kancherla V, Redpath B, Oakley GP. Reductions in child mor-
+tality by preventing spina bifida and anencephaly: Implications 
+in achieving Target 3.2 of the Sustainable Development Goals in 
+developing countries. Birth Defects Res 2019; 111(14): 958-66.  
+8. Oestergaard MZ. Neonatal mortality levels for 193 countries in 
+2009 with trends since 1990: A systematic analysis of progress, 
+projections, and priorities. PLoS Med 2011; 8(8): e1001080.  
+9. Bhutta ZA, Hafeez A, Rizvi A. Reproductive, maternal, newborn, 
+and child health in Pakistan: Challenges and opportunities. 
+Lancet 2013; 381(9884): 2207-18.  
+10. Goli S, Arokiasamy P. Maternal and child mortality indicators 
+across 187 countries of the world: Converging or diverging. Glob 
+Public Health 2014; 9(3): 342-60.  
+11. Akbar R. Neonatal mortality and morbidity in booked and 
+unbooked mothers in military hospitals (A comparative cross 
+sectional study) [Thesis]. Rawalpindi, PK; AFPGMI: 2019. 
+12. Pakistan Demographic Health Survey PDHS 2018. Available 
+from: http://catalog.ihsn.org/index.php/catalog/7970. 
+13. Nishtar S. Gateway Health Indicators of Pakistan - Gateway 
+Paper II. Heartfile. 2007. Available from: http://www.heartfile. 
+org/pdf/GWP-II.pdf  
+14. Neel S, Malhotra N, Swaminathan E, Neel PB, Lazar J, Gireesh 
+EV, et al. Study of integrated approach of antenatal care to imp-
+rove the gestational age at birth. World J Anemia 2018; 2(1): 1-10.  
+15. Swain D. The incidence and factors of low birth weight among 
+newborns with special reference to nursing practice in odisha – 
+an observational study. Int J Obstet Perinat Neonatal Nurs 2017; 
+3(1): 26-32.  
+16. Wayessa ZJ, Belachew T, Joseph J. Birth asphyxia and associated 
+factors among newborns delivered in Jimma zone public hospi-
+tals, Southwest Ethiopia: A cross-sectional study. J Midwifery 
+Reprod Heal 2018; 6(2): 1289-95.  
+17. Tabinda Z, Khan S. Perinatal outcomes in antenatal service users 
+versus non-users in an insured population of Northern Punjab, 
+Pakistan. Pakistan J Public Heal 2012. Available from: https:// 
+www.cabdirect.org/cabdirect/abstract/20133095756.  
+18. Nisar Y Bin, Dibley MJ. Determinants of neonatal mortality in 
+Pakistan: Secondary analysis of Pakistan Demographic and 
+Health Survey 2006-07. BMC Public Health 2014; 14(1): 1-5.  
+19. Hoseini B, Sadati MR. Assessment of neonatal mortality in the 
+Neonatal Intensive Care Unit in Sabzevar City for the period of 
+2006–2013. Electron Physician 2015. Available from: https:// 
+www.ncbi.nlm.nih.gov/pmc/articles/PMC4700895/ 
+20. McClure EM, Goldenberg RL, Jobe AH, Miodovnik M, Thomas 
+MK, Buekens P, et al. Reducing neonatal mortality associated 
+with preterm birth: Gaps in knowledge of the impact of antenatal 
+corticosteroids on preterm birth outcomes in low-middle          
+income countries. Joao Paolo Souza. Reprod Health 2016; 13(1): 
+61-66.  
+21. Townsel C, Emmer SF, Campbell WA, Hussain N. Gender diffe-
+rences in respiratory morbidity and mortality of preterm neona-
+tes. Front Pediatr 2017; 5(1): 1-9.  
+ 
+ 

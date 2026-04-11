@@ -1,0 +1,4499 @@
+ 
+ 
+ 
+1 
+ 
+ 
+ 
+ 
+ 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Copyright© 
+Pakistan Council of Research in Water Resources 
+(PCRWR), Khayaban-e-Johar, H-8/1, Islamabad 
+ 
+ 
+ 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+4 
+ 
+ 
+ 
+ 
+ 
+ 
+5 
+ 
+ 
+i 
+ 
+ 
+ 
+6 
+ 
+ 
+ii 
+ 
+ 
+ 
+7 
+ 
+Foreword 
+ 
+In a world increasingly defined by the dual crises of water scarcity and climate change, the 
+Pakistan Council of Research in Water Resources (PCRWR) has continued to demonstrate 
+its commitment to advancing water security and sustainability in Pakistan. The year 2023-
+24 has been a remarkable period for PCRWR, marked by innovative research, strategic 
+collaborations, and impactful projects that address the pressing water-related challenges 
+faced by the nation. 
+ 
+PCRWR efforts have not only focused on traditional water management but have also 
+embraced integrated approaches to enhance the resilience and sustainability of water 
+resources. From groundwater assessment and adaptive irrigation techniques to the 
+development of comprehensive water quality assessments, PCRWR has been at the 
+forefront of ensuring that the country’s water needs are met while safeguarding public 
+health and the environment. 
+ 
+A significant highlight of this year has been the expansion of our water quality monitoring 
+network across both rural and urban areas. This initiative identified critical challenges such 
+as microbial contamination, chemical pollutants, and the presence of heavy metals, 
+disseminated findings drove an improvement in water treatment and filtration systems in 
+the provinces. Our work on the surface water bodies has highlighted key pollution issues, 
+emphasizing the need for enhanced interprovincial pollution control mechanism. Our 
+project on sea water intrusion and coastal erosion along the Sindh and Balochistan coasts 
+has also provided valuable insights for coastal management. 
+ 
+Moreover, we have pioneered the use of innovative approaches such as hybrid wetlands 
+for wastewater treatment, which earned UNESCO Global Ecohydrology Recognition, and 
+have launched several key studies including the Impact Assessment of Indus Waters Treaty 
+on Command Areas of Eastern Rivers and the Mapping of Water Resources in Islamabad. 
+These initiatives, along with our expanded efforts in groundwater recharge projects in 
+Balochistan Khyber Pakhtunkhwa and Islamabad, demonstrate our dedication to 
+addressing the multifaceted challenges of water management. 
+ 
+PCRWR has also strengthened its global partnerships, recognizing that water issues are 
+not confined by borders and require collective action. Collaborations with international 
+organizations, research institutes, and local communities have been pivotal in developing 
+practical solutions for water management and water quality, thus promoting water 
+conservation practices across the country. 
+ 
+As we navigate the complexities of climate change and its impact on our water resources, 
+our commitment to securing Pakistan’s water future remains unwavering. This annual 
+report is a testament to the hard work and dedication of our team, partners, and 
+stakeholders who have worked tirelessly to translate our vision into reality. Our research 
+will not only address immediate water and climate challenges but will also support meeting 
+the objectives set in the National Water Policy 2018 and aligned policies, enabling 
+continuous improvement approaches for sustainable water management. 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+         Dr. Hifza Rasheed 
+Director General, PCRWR 
+ 
+iii 
+ 
+ 
+ 
+8 
+ 
+ 
+iv 
+ 
+ 
+ 
+i 
+ 
+Contents 
+ 
+About PCRWR ---------------------------- 1 
+• Introduction ------------------------------------- 3 
+• Functions of PCRWR ----------------------- 4 
+• Research Establishments -------------------- 5 
+• Major Research Areas ----------------------- 6 
+R&D Activities ----------------------------- 9 
+• Impact Assessment of Indus Waters 
+Treaty on Command Areas of Eastern 
+Rivers --------------------------------------------- 11 
+• Real-Time Groundwater Monitoring 
+and Advisory System for Chaj Doab - 12 
+• Assessment of Transboundary Pollution 
+in Eastern Rivers ----------------------------- 13 
+• Monitoring Sea Water Intrusion, Sea 
+Level Rise, Coastal Erosion & Land 
+Subsidence along Sindh and 
+Balochistan Coast --------------------------- 15 
+• Environmental Flow Assessment of 
+Critical Sites on the Ravi River --------- 17 
+• Mapping of Water Resources in 
+Islamabad --------------------------------------- 19 
+• Joint Discharge Measurement on Indus  
+River-Technical Support to IRSA ----- 21 
+• Determination of Water Requirements 
+of Sugarcane under Different Water 
+table Depths ----------------------------------- 21 
+• Evaluation of Water Productivity of 
+Rice-Wheat on Raised Bed at R&D 
+Farm Sialmore -------------------------------- 22 
+• Water Requirement of Sugarcane in 
+Central Punjab -------------------------------- 22 
+• Development of Demonstration Sites 
+for Groundwater Recharge in 
+Balochistan ------------------------------------- 24 
+• Water Quality Monitoring in Karachi:  
+Cholera & Naegleria Fowleri Outbreak 
+Response ---------------------------------------- 25 
+• Water Quality Testing and Chlorination 
+of WASA-Quetta and PHED WSS-Sibi 
+Water Supply Systems --------------------- 26 
+• Quarterly Monitoring of Mineral and  
+Bottled Water ---------------------------------- 27 
+• Groundwater Recharge through 
+Rainwater Harvesting in Khyber 
+Pukhtunkhwa ---------------------------------- 28 
+• Establishment of Rainwater Harvesting 
+Systems for Groundwater Recharge in 
+DG Khan and Rajanpur ------------------- 28 
+• Drought Disaster Preparedness and 
+Management in Cholistan Desert ------ 29 
+• Investigation of Microbial Diversity and 
+Physico-Chemical Analysis of Tobas in 
+Cholistan Desert ------------------------------ 29 
+• Performance Evaluation of Water 
+Filtration Plants in Punjab ---------------- 30 
+• Pumping Test Activities-------------------- 31 
+• Improving the Tricycle Protocol: One 
+Health Surveillance -------------------------- 31 
+Key Events -------------------------------- 33 
+• Pakistan Water Week 2023 --------------- 35 
+• Consultative Workshop on 
+Environmental Flow Assessment in the 
+Indus Basin ------------------------------------- 39 
+• Celebration of Global Hand Washing 
+Day 2023 ---------------------------------------- 40 
+• Consultative Workshop on Managing 
+Cryosphere and Water Risks in 
+Pakistan ------------------------------------------ 42 
+• Panel Discussion on Need for 
+Integrated Approaches for Rainwater 
+Harvesting Systems -------------------------- 43 
+• 8th International Water Conference ---- 44 
+• Inaugural Ceremony of Intelligent 
+Irrigation Technology Promotion 
+Center --------------------------------------------- 46 
+• In-Country Capacity Building Training 
+Program for Enhancing Water Quality 
+Systems to Achieve SDG 6.1 in 
+Pakistan ------------------------------------------ 47 
+• Seminar on Disaster Risk Management 
+in Pakistan -------------------------------------- 48 
+v 
+ 
+ 
+ 
+2 
+ 
+• 2nd KOICA Performance Sharing 
+Workshop -------------------------------------- 49 
+• Enhancing Water Quality Monitoring 
+to Achieve SDG-6 in Pakistan ---------- 49 
+• Research Colloquium on World Water 
+Day 2024 ---------------------------------------- 50 
+• Stakeholders Consultation on Final 
+Draft of the Governance Framework for 
+the Protection of the Karez System 
+Cultural Landscape ------------------------- 51 
+• Meeting of the Pakistan National 
+Committee on Intergovernmental 
+Hydrological Programme (PNC-IHP) of 
+UNESCO --------------------------------------- 52 
+• Stakeholders Consultation to Develop 
+AMR Surveillance Strategy -------------- 53 
+• Focus Group Discussions on 
+Sustainable Groundwater Governance 
+in Pakistan -------------------------------------- 54 
+• 6th Meeting of Steering Committee on 
+the Possible Nomination of the Karez 
+Cultural Landscape of Balochistan as a 
+World Heritage Site ------------------------- 55 
+• PCRWR's Role in Implementing 
+WASH-FIT in Healthcare Facilities -- 55 
+• Virtual Participation in Third Phase of 
+the Project "Water in the World We 
+Want” Cambodia ---------------------------- 56 
+• Vehicles Handover Ceremony ---------- 57 
+• Participation in IHP Regional Steering 
+Committee ------------------------------------- 57 
+• PCRWR’s Hybrid Wetlands Earn 
+UNESCO Ecohydrology Recognition 58 
+• Launching Ceremony of Technical 
+Reports------------------------------------------- 59 
+• Establishment of Advanced Molecular 
+Laboratory for AMR Surveillance ---- 60 
+• ISO 17025:2017 Accreditation and EPA 
+Certification ------------------------------------ 60 
+Human Resource Development --------- 63 
+• Two-Days Training of Trainers on Risk-
+Based Water Quality Surveillance & 
+Monitoring ------------------------------------- 65 
+• Two-Day Training of Teachers on 
+WASH in Schools --------------------------- 65 
+• Capacity Building Training for Water 
+Quality Laboratories ------------------------ 65 
+• Two Days Training on Application of 
+Drone Techniques ---------------------------- 66 
+• Two-Day Training Workshop on Water 
+Testing Techniques Held in 
+Collaboration with Muslim Hands ---- 66 
+• Two-Day Teacher Training on 
+Rainwater Harvesting and WASH 
+Practices Held at Islamabad Model 
+Schools ------------------------------------------- 67 
+• PCRWR Completes One-Year Capacity 
+Building Program on Enhancing Water 
+Quality for SDG 6---------------------------- 68 
+• Farmers Field Day --------------------------- 68 
+• Training Workshop on “Sun Satellite 
+Approach for Farmers of Malva and KT 
+Bandar” ------------------------------------------ 69 
+• One day Field Training Program ------- 69 
+• Capacity Building Training Workshop 
+in South Punjab ------------------------------- 70 
+• Capacity Building Training for Water 
+Quality and WASH Facilities ----------- 70 
+• PCRWR Officials Attended Training 
+Program on Enhancing Water Quality 
+System -------------------------------------------- 70 
+Visits and Meetings ---------------------- 71 
+• Visit of KOICA Delegation to 
+PCRWR, Islamabad ------------------------ 73 
+• Chinese Delegation Visited PCRWR - 73 
+• Meeting with DevCon Pakistan--------- 73 
+• Visit of UN-Habitat Delegates to 
+PCRWR, Lahore ----------------------------- 74 
+• PCRWR Officials Visited Henan 
+University, China ----------------------------- 74 
+• A delegation from UNICEF and 
+Irrigation Department Visited PCRWR, 
+Lahore -------------------------------------------- 74 
+• Visit of UNICEF Water Expert to 
+PCRWR, Islamabad ------------------------ 75 
+• Winrock International Experts Visited 
+PCRWR ----------------------------------------- 75 
+• Director General, ICIMOD Visited 
+PCRWR ----------------------------------------- 75 
+vi 
+ 
+ 
+ 
+3 
+ 
+• Delegation of WaterAid,  Lasoona 
+Relief & Development Organization 
+Visited PCRWR ------------------------------ 76 
+• Representatives of DePaul University 
+Visit to PCRWR ----------------------------- 76 
+• Field Visit of UNICEF Team ----------- 76 
+• Senior Advisor UNOPS Asia Region 
+Visited, PCRWR ----------------------------- 77 
+• Visit of Officers from Agriculture 
+Department Punjab ------------------------- 77 
+• Representatives of Fatima Fertilizer 
+Limited Visited PCRWR ----------------- 77 
+• Exposure Visit of Green Urban 
+Development Participants to PCRWR, 
+Islamabad --------------------------------------- 78 
+• Visit of Sr. Joint Secretary, MoWR to 
+PCRWR ----------------------------------------- 78 
+• Deputy Secretary (Budget), MoWR 
+Visit to PCRWR ------------------------------ 78 
+• Visit by RDF Officials and Farmers to 
+PCRWR ----------------------------------------- 79 
+• Meeting with Sindh Environmental 
+Protection Agency --------------------------- 79 
+• PTV and PCRWR Teams Visited 
+Manchar Lake --------------------------------- 79 
+Collaborations ---------------------------- 81 
+Services ------------------------------------- 85 
+Research Publications ------------------- 89 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+vii 
+ 
+ 
+ 
+4 
+ 
+ 
+ 
+viii 
+ 
+ 
+ 
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+About 
+PCRWR 
+ 
+ 
+ 
+1 
+ 
+ 
+ 
+2 
+ 
+2 
+ 
+ 
+ 
+3 
+ 
+Introduction 
+ 
+PCRWR is an apex research body of Ministry of Water Resources and is the only 
+organization in water sector at federal level. It is mandated to conduct, organize, coordinate 
+and promote research on all aspects of water resources including irrigation (surface and 
+groundwater), drainage, soil reclamation, drinking water, rainwater harvesting, etc. With 
+its headquarters at Islamabad, it has eight Regional Offices located at Lahore, Karachi, 
+Quetta, Bahawalpur, Peshawar, Tandojam, Gilgit and Muzaffarabad besides having 24 
+water quality testing laboratories and seven research and demonstration farms across the 
+country.  
+ 
+The Council was established in 1964, under a resolution and named as Irrigation, Drainage 
+and Flood Control Research Council (IDFCRC) under the Ministry of Natural Resources. 
+Later it was renamed as Pakistan Council of Research in Water Resources in 1985 under 
+the administrative control of Ministry of Science and Technology. In 2007, it was given the 
+status of a corporate body through an Act of Parliament. In March, 2022, PCRWR was 
+brought under the administrative control of Ministry of Water Resources through the 
+decision of the Federal Cabinet. Ever since its inception, the organization has determined 
+its research and development activities according to the mandate provided to it. Its research 
+and development activities are either financed by Federal Government or by international 
+donors as well as research agencies. The patronage from Government of Pakistan and 
+knowledge support from international partners has resulted into the emergence of PCRWR 
+as the most vibrant organization on water-related issues.  
+ 
+The Council is governed by a Board of Governors while Chairman, PCRWR is the Chief 
+Executive. The Chairman is supported by the Secretary, Director Generals, Directors and 
+other professionals. The total strength of the Council consists over 500 employees including; 
+specialized staff (engineers, scientists, technicians, sub-engineers), administrative and 
+management staff (administration, finance, coordination). 
+ 
+ 
+ 
+ 
+ 
+ 
+4 
+ 
+Functions of PCRWR 
+ 
+PCRWR is committed to advancing water resource management through comprehensive 
+research, policy development, and monitoring. By promoting innovative technologies and 
+providing training, PCRWR empowers stakeholders while ensuring accessible data and 
+fostering partnerships to enhance water conservation and quality across the country. Some 
+of the core functions of PCRWR are;  
+. 
+ 
+PCRWR Functions
+Research 
+Conduct, organize, coordinate and promote 
+research on all aspects of water resources
+Irrigation, drainage, reclamation, drinking 
+water and  industrial effluent
+Monitoring
+National water quality 
+monitoring programme (urban & rural)
+Technologies 
+Water conservation and treatment 
+technologies for irrigation, drinking and 
+industrial effluent
+National Database
+National water resources information 
+center
+Capacity Building, 
+Contractual & 
+Consultancy Services
+Public & private organizations
+Policy 
+Recommendations
+Water quality, conservation, utilization, 
+management and technology development
+Mass Awareness
+Mobile media advisory service, seminars, 
+workshops, conferences, scientific papers & 
+reports
+ 
+ 
+ 
+5 
+ 
+Research Establishments 
+ 
+PCRWR has played its role, as a leading water sector research and development (R&D) 
+organization through a well-established state of the art research and dissemination 
+infrastructure: 
+ 
+• Headquarters in Islamabad with eight regional oﬃces at Tandojam, Quetta, 
+Bahawalpur, Lahore, Peshawar, Karachi, Muzafarabad and Gilgit 
+ 
+• Water testing laboratories in 24 cities including; Islamabad, Lahore, Bahawalpur, 
+Tandojam, Quetta, Peshawar, Faisalabad, Gujranwala, Mianwali, Sahiwal, Sargodha, 
+Sialkot, DG Khan, Multan, Badin, Hyderabad, Karachi, Nawabshah, Sukkur, Loralai, 
+Abbottabad, DI Khan, Muzaffarabad and Gilgit 
+ 
+• National Capacity Building Institute (NCBI) Islamabad 
+ 
+• A network of seven research and demonstration stations in different agro-climatic zones 
+of the country. 
+ 
+• GIS and Geo-hydrological laboratory, Islamabad 
+ 
+• Library Information and Documentation Centre, Islamabad 
+ 
+• Drainage type lysimeters located at Tandojam, Lahore, Quetta, and Peshawar to 
+determine crop water requirements 
+ 
+• Soil Physics Laboratory, Islamabad 
+ 
+ 
+ 
+ 
+6 
+ 
+Major Research Areas 
+ 
+Mandate of PCRWR is broad in relation to the areas of different research in the country. 
+However, the focused research areas are prioritized keeping in view the present resources 
+and needs of the country. 
+ 
+PCRWR conducts its research keeping in view the needs of the country and in line with the 
+Pakistan vision 2025, National Water Policy 2018, SDGs, PCRWR's research agenda and 
+other related policies, such as Food Security Policy, Climate Change Policy, and Drinking 
+Water Policy etc. 
+ 
+ 
+Water 
+Management 
+Requirement 
+Water 
+Conservation 
+ 
+Investigations/ 
+ 
+ 
+Management 
+ 
+Water Quality 
+Water Quality 
+Assessment and 
+Management 
+ 
+ 
+ 
+Dryland 
+ 
+Dryland 
+Agriculture 
+ 
+ 
+ 
+ 
+7 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+7 
+ 
+ 
+ 
+8 
+ 
+ 
+ 
+8 
+ 
+ 
+ 
+9 
+ 
+ 
+ 
+ 
+ 
+R&D 
+Activities 
+ 
+ 
+9 
+ 
+ 
+ 
+10 
+ 
+ 
+ 
+ 
+10 
+ 
+ 
+ 
+11 
+ 
+Impact Assessment of Indus Waters Treaty on 
+Command Areas of Eastern Rivers 
+ 
+PCRWR is conducting a research project titled "Impact Assessment of Indus Waters Treaty 
+on Command Areas of Eastern Rivers." The 1960 Indus Waters Treaty between India and 
+Pakistan outlines water rights for the Indus River System. India’s diversion of eastern river 
+waters has affected Pakistan's resources, prompting the construction of link canals and 
+reservoirs. Challenges such as excess floodwater from India, groundwater over-abstraction, 
+and pollution from transboundary drains threaten water quality and ecosystems in Pakistan. 
+The treaty allocates 33 MAF to India and 177 MAF to Pakistan, with India benefiting from 
+western rivers for irrigation and power, while Pakistan faces limitations and climate change 
+impact.  
+ 
+Objectives: 
+ 
+1. Assess the impacts of the Indus Waters Treaty (IWT) on the paths and beds of eastern 
+rivers, flood plains, and the availability and quality of surface and groundwater 
+resources in the command areas of eastern rivers in Pakistan. 
+2. Study the effects of the treaty on cultivated areas, cropping patterns, crop productivity, 
+and the economic conditions of farmers. 
+3. Understand the impacts on the ecosystem, marine life, and flora/fauna in the study 
+area. 
+ 
+Progress (2023-24): 
+ 
+Data collection for the impact assessment is underway. Interviews with farmers from various 
+points along each river (head, middle, and tail) have been conducted to gather primary data. 
+Secondary data from relevant departments is being compiled for analysis. Additionally, water 
+samples from deep and shallow aquifers, as well as river water, have been collected and are 
+being analyzed. This data will form the basis for assessing the IWT's impacts on the command 
+areas of eastern rivers and will be detailed in the study's final report. 
+ 
+ 
+ 
+ 
+ 
+12 
+ 
+Real-Time Groundwater Monitoring and 
+Advisory System for Chaj Doab 
+ 
+Groundwater faces challenges from over-abstraction, affecting both its quantity and quality. 
+The National Water Policy (NWP) 2018 emphasizes the need for better monitoring, 
+regulation, recharge promotion, and groundwater atlases. PCRWR has previously mapped 
+groundwater in the Indus Plains and tested real-time monitoring with IWMI-Pakistan. 
+ 
+Chaj Doab, located between the Chenab and Jhelum rivers and spanning 14,000 km², 
+experiences issues like water table depletion, quality deterioration, waterlogging, and salinity. 
+Current manual and seasonal monitoring is insufficient. To address these challenges, 
+PCRWR is conducting a research project titled "Real-Time Groundwater Monitoring and 
+Advisory System for Chaj Doab," aiming to develop an advanced monitoring and advisory 
+system for the region. 
+ 
+Objectives: 
+ 
+1. Develop a real-time groundwater monitoring network with wireless data transmission 
+to track groundwater quality and levels. 
+2. Provide groundwater advisory services to farmers and groundwater managers, and 
+estimate groundwater budgeting to assist policymakers in informed decision-making. 
+3. Enhance the capacity of water professionals in groundwater monitoring and 
+sustainable management through technology transfer. 
+ 
+Progress (2023-24): 
+ 
+• 
+Conducted a reconnaissance survey to assess the hydrological characteristics of Chaj 
+Doab. 
+• 
+Prepared a GIS-based map for site identification and installed MLOW/CTDs. 
+• 
+Performed geophysical investigations for site evaluations. 
+• 
+Collected secondary data on water table depth and conducted a farmer survey for 
+hydrological information. 
+• 
+Gathered groundwater samples for physio-chemical and isotopic analysis. 
+ 
+ 
+ 
+ 
+ 
+13 
+ 
+Assessment of Transboundary Pollution in 
+Eastern Rivers  
+ 
+PCRWR has conducted the Assessment of Transboundary Pollution in Eastern Rivers (Ravi 
+and Sutlej) & Associated Drains from October 2023 to April 2024. This study monitors 
+transboundary pollution in the Ravi and Sutlej rivers and their associated drains to inform 
+effective water management at local, national, and transboundary levels. 
+ 
+Key Activities: 
+ 
+• 
+Sampling and Analysis: Water samples were collected and analysed for physico-
+chemical, microbiological, heavy metal, and wastewater parameters. Results were 
+compared against drinking water, irrigation, aquatic life, and recreational standards from 
+Pakistan, India, and international guidelines. 
+ 
+• 
+Pollution Assessment: Monitoring results from October 2023 to April 2024 identified 
+several parameters—Dissolved Oxygen (DO), Chemical Oxygen Demand (COD), 
+Biochemical Oxygen Demand (BOD), Total Suspended Solids (TSS), Total Phosphate, 
+Total Nitrogen, and heavy metals—exceeding permissible limits in both the Sutlej and 
+Ravi rivers. 
+ 
+• 
+Site-Specific Findings: Significant pollution was detected in the Ravi River at Gavota 
+Ujh River and Gavota Ravi River, indicating transboundary pollution. The Sutlej River 
+showed minimal chemical or biological pollution but did have heavy metal 
+contamination. 
+ 
+• 
+Drain Analysis: The Fazlika Drain, Kasur Nallah, and Hudiara Drain exhibited high 
+pollution levels upon entering Pakistan, with wastewater parameters exceeding National 
+Environmental Quality Standards (NEQS). 
+ 
+The study highlighted the critical pollution issues and emphasizes the need for enhanced 
+transboundary cooperation to address water quality challenges. 
+ 
+ 
+ 
+14 
+ 
+ 
+ 
+Graphical representation of month wise trend of potential contaminants in River Sutlej Site-1 
+ 
+ 
+ 
+15 
+ 
+Monitoring Sea Water Intrusion, Sea Level 
+Rise, Coastal Erosion & Land Subsidence along 
+Sindh and Balochistan Coast  
+ 
+In collaboration with the National Institute of Oceanography (NIO) and funded by the 
+Government of Pakistan (GoP), Pakistan Council of Research in Water Resources (PCRWR) 
+initiated a five-year project to address critical coastal challenges. The project focuses on 
+monitoring sea water intrusion, sea level rise, coastal erosion, and land subsidence along the 
+Sindh and Balochistan coasts. A key objective is to establish a network of Multi-Level 
+Observation Wells (MLOWs) to monitor groundwater levels and salinity changes in these 
+vulnerable areas. 
+ 
+Objectives 
+ 
+• Establish a network of MLOWs for continuous monitoring of groundwater levels and 
+salinity fluctuations. 
+• Provide data-driven insights for effective coastal management and mitigation of sea 
+water intrusion. 
+• Conduct quarterly water quality and resistivity surveys to assess long-term coastal 
+sustainability. 
+ 
+Progress (2023-2024) 
+ 
+During 2023-2024, significant progress was made in monitoring and managing sea water 
+intrusion along the Sindh and Balochistan coasts. PCRWR Karachi office monitored 141 
+Multi-Level Observation Wells (MLOWs) quarterly for groundwater levels and quality, 
+collecting 1,901 water samples for comprehensive physico-chemical analysis. Additionally, 
+20 MLOWs were repaired, and four new ones were installed to ensure continuous data 
+collection. Electrical Resistivity Survey (ERS) was conducted on a 10 km x 10 km grid across 
+key districts, completing 202 out of 291 planned points to map groundwater salinity. These 
+efforts provide critical data to address the impacts of sea water intrusion, coastal erosion, and 
+rising sea levels. 
+ 
+ 
+Time Period 
+Water Samples Collected 
+Remarks 
+July – September 2023 
+476 
+Analyzed 
+for 
+Cations 
+&  
+Anions 
+October- December 2023 
+461 
+January – March 2024 
+481 
+April – June 2024 
+483 
+Total 
+1901 
+. 
+ 
+ 
+ 
+16 
+ 
+ 
+ 
+Map showing the installation of MLOWs along River Indus 
+ERS Survey Location & Grid Map under Sea Water Intrusion Project 
+ 
+ 
+ 
+17 
+ 
+Environmental Flow Assessment of Critical 
+Sites on the Ravi River 
+PCRWR conducted an environmental flow (E-flow) study from Ravi Siphon to Head Balloki, 
+covering a 100 km stretch of the river. The assessment focused on critical parameters such as 
+fish populations, macro-invertebrates, wildlife, riparian vegetation, discharge, and water 
+quality across four key sites. 
+ 
+Key Findings: 
+ 
+1. Ravi Siphon: This site serves as a reference with medium pollution levels. It supports 
+a diverse aquatic fauna and flora, indicating relatively better water quality. 
+ 
+2. Shahdara Bridge: The area is heavily polluted due to nearby discharge from Shahdara 
+drain/pumping station. Dissolved Oxygen levels are critically low at 1 mg/L, and no 
+aquatic life was observed, only scavenger birds. 
+ 
+3. Manga Mandi: This site is heavily polluted, particularly by the Hudiara drain. The 
+absence of fish and other aquatic life highlights severe pollution issues. 
+ 
+4. Head Balloki: Despite being the downstream terminus for upstream pollution, this site 
+shows moderate pollution levels. The presence of water from the UCC and Qadirabad 
+Balloki Link Canal has diluted the pollution to some extent. 
+ 
+Riparian Vegetation and Wildlife Observations: 
+ 
+• 
+Riparian Vegetation: At Head Balloki, Eichhornia crassipes (water hyacinth) 
+indicates moderate pollution. Alternanthera paronychioides and xerophylloides, 
+found at Shahdara and Manga Mandi, suggest high pollution levels. Polygonum 
+glabratum, observed at Ravi Siphon, is beneficial for wildlife and erosion control. 
+ 
+• 
+Wildlife: A total of 28 species of water-dependent birds were recorded. Ravi Siphon 
+had the highest diversity with 15 water-dependent birds, 19 terrestrial birds, 6 wild 
+mammals, and 1 monitor lizard. Shahdara had fewer species with an increase in 
+scavenger birds. Manga Mandi saw reduced wildlife presence, while Head Balloki 
+maintained a relatively healthy habitat with 14 water-dependent birds, 7 terrestrial 
+birds, and 6 wild mammals. 
+ 
+The study concludes that there is a critical need for improved E-flow management, especially 
+from Shahdara Bridge to Manga Mandi, to address pollution and support the river's ecological 
+health, particularly during dry seasons. Future studies will further evaluate E-flow 
+requirements at these critical sites 
+ 
+ 
+ 
+18 
+ 
+. 
+ 
+Pollution Load identification in River Ravi selected sites in term of BOD 
+Pollution Load identification in River Ravi selected sites in term of COD 
+ 
+ 
+ 
+19 
+ 
+Mapping of Water Resources in Islamabad 
+Islamabad faces increasing water demand as a rapidly growing city. A comprehensive 
+mapping study of water resources was conducted to understand water availability, manage 
+water effectively, identify vulnerable areas, conserve the environment, and plan for climate 
+change impacts. The initial mapping was done in January 2024, followed by another 
+assessment in June 2024 under extreme climate conditions, including heat waves. The study 
+focused on streams, dams, and tube wells, assessing both urban and rural water sources, 
+including filtration plants and water supply schemes. 
+ 
+Objective 
+ 
+The primary objective was to map and assess water resources in Islamabad to understand 
+their availability, distribution, and impact on aquatic ecosystems. The study aimed to develop 
+strategies for water management and environmental conservation in the face of climate 
+variability. 
+ 
+Key Activities 
+ 
+1. Discharge Flow Measurement: Flow in 26 stream sites was measured using non-
+contact radar technology. The highest flow rate in January 2024 was observed at 
+streams passing through Gulberg (1959 lps), while the lowest was recorded behind the 
+Marriott Hotel in F-6 (28 lps). In June 2024, flow rates increased, with a maximum of 
+2424 lps in Gulberg streams and a minimum of 55 lps at the I-15 stream terminal point. 
+2. Water Quality Assessment of Streams: Samples were collected from 31 streams and 
+tributaries 
+for 
+testing 
+physico-chemical, 
+heavy 
+metals, 
+wastewater, 
+and 
+microbiological parameters. 77% of streams showed Dissolved Oxygen (DO) levels 
+below 3 mg/L, indicating hypoxic conditions, with the lowest DO level recorded at 
+Niki Lai Terminal point, Mandi Morr (2.0 mg/L). 52% of streams had high Chemical 
+Oxygen Demand (COD) and Biochemical Oxygen Demand (BOD) levels, pointing to 
+poor wastewater treatment. Total Nitrogen, Oil and Grease, and Total Suspended 
+Solids (TSS) also exceeded permissible limits in 19% of samples. 
+3. Water Quality Assessment of Drinking Water Sources: A total of 288 water sources 
+were monitored, including 127 tube wells, 108 filtration plants, 41 rural water supply 
+schemes, and 12 waterworks. Of these, 66% were found to provide safe drinking water, 
+while 34% were unsafe due to microbial contamination, turbidity, and nitrate levels. 
+Unsafe sources included 36% of filtration plants, 17% of tube wells, 80% of rural water 
+supply schemes, and 42% of waterworks. 
+4. Groundwater Potential Investigation: Depth to Water Table (DTW) measurements 
+were taken from 309 groundwater sources in 2023 using a grid system (1 km x 1 km in 
+urban areas and 2 km x 2 km in rural areas). Geophysical surveys were conducted at 
+350 sites to map groundwater potential at depths of 50 m, 100 m, 150 m, and 300 m. 
+5. Digital Terrain Model (DTM) and Mapping: A 3D Digital Terrain Model (DTM) 
+was developed, representing terrain and water resource distribution to enhance the 
+understanding of groundwater potential and surface water dynamics in Islamabad. 
+ 
+Recommendations 
+ 
+The study recommends establishing a coordinated water quality monitoring and pollution 
+control system for the ICT area, enforcing water and environmental legislation, and adopting 
+demand-side water management approaches. The Islamabad Water Act, developed in 
+collaboration with PCRWR and partner agencies, should be finalized and enforced. 
+ 
+ 
+ 
+20 
+ 
+. 
+ 
+0
+1
+2
+3
+4
+5
+6
+7
+8
+DO (mg/L)
+Stream Locations
+Dissolved Oxygen (DO) Level in Streams of Islamabad
+0
+200
+400
+600
+800
+1000
+1200
+COD (mg/L)
+Stream Locations
+COD Level of Streams in Islamabad
+COD
+Permissible Limit NEQS
+ 
+ 
+ 
+21 
+ 
+Joint Discharge Measurement on Indus River-
+Technical Support to IRSA 
+ 
+The Indus River System Authority (IRSA) designated Pakistan Council of Research in Water 
+Resources (PCRWR) as a neutral expert to conduct joint discharge measurements. These 
+measurements were carried out from May 15 to May 21, 2024, at key locations including 
+downstream of the Taunsa Barrage, Chachran Bridge, and Guddu Barrage. Using advanced 
+technology such as the Acoustic Doppler Current Profiler (ADCP), PCRWR led this effort 
+under the supervision of an IRSA-appointed committee. The primary objective was to assess 
+the pre-monsoon flow conditions in the Indus River. 
+ 
+To ensure accuracy and transparency, PCRWR conducted a thorough reconnaissance survey 
+to select appropriate sites for discharge measurements. The actual discharge measurements 
+were taken in the presence of all relevant stakeholders, including the Punjab Irrigation 
+Department (PID), Sindh Irrigation Department (SID), and Balochistan Irrigation 
+Department (BID). This collaborative approach, overseen by the designated committee, 
+aimed to bridge trust gaps between stakeholders by utilizing PCRWR's expertise and state-of-
+the-art technology. 
+Determination of Water Requirements of 
+Sugarcane under Different Water table Depths 
+ 
+PCRWR is conducting research to determine the water requirements of sugarcane under 
+varying water table depths. By evaluating water needs, groundwater contribution, crop 
+coefficient, yield, and water productivity, this study aims to optimize water use and improve 
+agricultural outcomes in different conditions. 
+ 
+Achievements 
+During the study, sugarcane was cultivated under three different water table conditions: 
+• 
+1.75 m Water Table Depth (WTD): 
+o Evapotranspiration (ET): 1948 mm 
+o Groundwater Contribution (S): 281 mm 
+o Yield: 117 tons per hectare 
+o Water Use Efficiency (WUE): 6.00 kg/m³ 
+• 
+2.00 m Water Table Depth (WTD): 
+o Evapotranspiration (ET): 1916 mm 
+o Groundwater Contribution (S): 163 mm 
+o Yield: 136 tons per hectare 
+o Water Use Efficiency (WUE): 6.99 kg/m³ 
+• 
+Free Drainage: 
+o Evapotranspiration (ET): 1864 mm 
+o Groundwater Contribution (S): 0 mm 
+o Yield: 123 tons per hectare 
+o Water Use Efficiency (WUE): 6.58 kg/m³ 
+Initial Findings 
+• 
+The highest yield and water use efficiency were observed at a 2.0 m water table depth. 
+• 
+Groundwater contribution is a crucial component of water balance, indicating 
+potential for reducing surface water usage in the Lower Indus Basin. 
+ 
+These findings contribute to a better understanding of water requirements for sugarcane, 
+offering insights into effective irrigation practices and enhancing crop productivity 
+ 
+ 
+ 
+22 
+ 
+Evaluation of Water Productivity of Rice-
+Wheat on Raised Bed at R&D Farm Sialmore 
+ 
+PCRWR is advancing efficient irrigation techniques, such as bed and furrow irrigation, 
+through regular studies. These methods reduce water wastage, minimize pollution from 
+fertilizers and pesticides, and support higher cropping intensity while managing salt-affected 
+soils. PCRWR’s research aims to optimize these techniques, enhancing water use efficiency 
+and contributing to sustainable agriculture in Pakistan. 
+Objectives 
+• 
+Assess the water conservation potential of raised bed planting compared to 
+conventional flood irrigation. 
+• 
+Evaluate the cost-effectiveness of bed planting versus traditional irrigation methods. 
+Achievements 
+Rice (Kharif 2023) 
+ 
+• 
+Raised Beds: Required 2872 mm of water with 43 irrigations. 
+• 
+Direct Seeded Rice (DSR - Flat): Needed 2158 mm of water with 55 irrigations. 
+• 
+Conventional Method: Used 2624 mm of water with 36 irrigations. 
+ 
+Farmers traditionally used between 2786 and 3374 mm of water with 35 to 40 irrigations. 
+ 
+Wheat (Rabi 2023-24) 
+• 
+On Bed: 360 mm of water with a yield of 2936 kg/ha. 
+• 
+On Ridges: 368 mm of water with a yield of 3500 kg/ha. 
+• 
+Broad Cast Method: 378 mm of water with a yield of 4065 kg/ha. 
+• 
+Zero Tillage: 560 mm of water with a yield of 4600 kg/ha. 
+ 
+This research demonstrates significant water savings and yield benefits with alternative 
+irrigation methods, emphasizing the effectiveness of raised bed planting and other water 
+conservation techniques. 
+ 
+Water Requirement of Sugarcane in Central 
+Punjab  
+ 
+PCRWR is conducting a study to optimize water use for the 77400 variety of sugarcane. By 
+assessing crop yield, height, and water use efficiency (WUE) under controlled conditions, this 
+research aims to provide valuable insights for improving water management and enhancing 
+agricultural productivity. 
+Achievements 
+In the 2023-24 season, sugarcane was grown at the lysimeter station in Lahore. Key findings 
+include: 
+• 
+Water Applied: 113 cm 
+• 
+Rainfall: 96 cm 
+• 
+Consumptive Use: 144 cm 
+• 
+Crop Coefficient (Kc): 0.86 
+• 
+Yield: 70.5 tons per hectare 
+• 
+Water Use Efficiency (WUE): 292 kg per cubic meter 
+ 
+This data helps in understanding how much water is required for optimal sugarcane growth, guiding 
+better irrigation practices and enhancing crop productivity 
+ 
+ 
+ 
+ 
+23 
+ 
+Cultivation of Various Sugarcane Varieties under 
+Different Irrigation Methods 
+ 
+PCRWR is conducting research to optimize the cultivation of various sugarcane varieties 
+under different irrigation methods, including ring-pit, raised bed, and ridge irrigation. By 
+assessing yield, agronomic parameters, water productivity, soil salinity, water saving, and 
+economic viability, this study aims to enhance water management and improve agricultural 
+outcomes. 
+ 
+Objective: 
+• To determine the yield, agronomic parameters and water productivity of sugarcane 
+varieties grown on ring-pit, raised bed and ridge irrigation 
+• To assess the soil salinity behavior, water saving and economic viability of sugarcane 
+varieties grown on ring-pit, raised bed and ridge irrigation 
+ 
+Achievements 
+The study examined sugarcane varieties—CPD-251, NIA-2012, and Thatta-10—under three 
+irrigation methods: 
+ 
+Yield and Yield Parameters 
+Ring-Pit 
+Raised Bed 
+Ridges 
+CPD-
+251 
+NIA-
+2012 
+Thatta-
+10 
+CPD-
+251 
+NIA-
+2012 
+Thatta-
+10 
+CPD-
+251 
+NIA-
+2012 
+Thatta-
+10 
+Water Applied (mm) 
+903 
+1247 
+1597 
+Rainfall (mm) 
+423 
+Effective rainfall (mm) 
+231 
+Total water used (mm) 
+1134 
+1477 
+1827 
+Yield (Ton/ha) 
+86 
+102 
+84 
+111 
+127 
+88 
+120 
+111 
+77 
+WUE (kg/mᶟ) 
+7.58 
+8.99 
+7.41 
+7.52 
+8.6 
+5.96 
+6.57 
+6.08 
+4.21 
+ 
+ 
+Initial Findings 
+ 
+The highest yield and water use efficiency were observed with the raised bed irrigation 
+method, particularly for the NIA-2012 variety. Ring-pit irrigation also demonstrated high 
+water use efficiency, indicating potential for water savings. These findings offer valuable 
+insights into effective irrigation practices for different sugarcane varieties, guiding better water 
+management and enhancing crop productivity. 
+ 
+ 
+ 
+ 
+24 
+ 
+Development of Demonstration Sites for 
+Groundwater Recharge in Balochistan 
+ 
+Pakistan Council of Research in Water Resources (PCRWR), in collaboration with UNICEF 
+Pakistan, initiated a project to pilot groundwater recharge interventions from June 2023 to 
+November 2023, in response to the critical issue of groundwater over-extraction in 
+Balochistan, driven by rising water demand and excessive tube well installations. 
+Groundwater levels in Balochistan have been depleting at alarming rates, with declines of up 
+to 5 meters annually in some regions. This project focused on balancing groundwater 
+abstraction with natural recharge to promote sustainable water management. 
+ 
+Objectives: 
+• 
+Demonstrate and promote nature-based solutions for groundwater recharge. 
+• 
+Build climate resilience against floods and droughts. 
+ 
+Interventions: 
+The project implemented several interventions across four districts: Quetta, Pishin, Loralai, 
+and Kalat. Based on detailed investigations, the following interventions were executed: 
+ 
+1. BUITEMS, Quetta: Rooftop rainwater harvesting with storage tanks and a recharge 
+well for surface runoff. 
+2. Bostan, Pishin: Leaky dam, check structures, and ditches/ponds with inverted wells. 
+3. University of Loralai, Loralai: Check structures and ditches/ponds with inverted 
+wells. 
+4. Zawai, Kalat: Reservoir, check dam, check structures, and inverted well. 
+ 
+Impact Assessment: 
+• 
+Bostan Site: Anticipated annual groundwater recharge of approximately 6.0 million 
+gallons. 
+• 
+BUITEMS Site: Anticipated recharge of 0.63 million gallons annually, out of 2.01 
+million gallons of potential runoff. 
+• 
+University of Loralai Site: Expected annual recharge of 6.57 million gallons, out of 
+17.0 million gallons of runoff. 
+ 
+Piezometers have been installed at each site to monitor groundwater levels, and the actual 
+impact of these recharge interventions will be evaluated during the rainy season. This project 
+is a critical step in addressing groundwater depletion and building climate resilience in 
+Balochistan. 
+ 
+ 
+ 
+ 
+25 
+ 
+Water Quality Monitoring in Karachi: Cholera 
+& Naegleria Fowleri Outbreak Response  
+ 
+Karachi has been facing water-borne diseases, including cholera, primarily due to the supply 
+of contaminated and non-chlorinated water. With rising cholera cases during emergencies, 
+PCRWR, in collaboration with UNICEF, initiated a project to monitor water quality and 
+mitigate bacterial contamination in tap water. The study aimed to detect harmful bacteria like 
+Vibrio cholerae, E. coli, and total coliforms in household water, and reduce contamination 
+through chlorination. The effectiveness of chlorination was assessed by testing water samples 
+for free residual chlorine and bacterial presence at both the source and consumer end. 
+ 
+Objectives 
+ 
+• 
+Monitor and test water quality to identify contaminated hotspot areas in Karachi. 
+• 
+Implement secondary chlorination at 15 water pumping stations to control bacterial 
+contamination and prevent outbreaks. 
+ 
+Progress 
+ 
+PCRWR monitored water quality across Karachi, analyzing 1,476 water samples for 
+parameters including electric conductivity, pH, turbidity, and bacteria such as Vibrio cholerae 
+and E. coli. Results showed 10% of samples tested positive for Vibrio cholerae, 38% were 
+contaminated with E. coli, and 57% contained total coliforms. 
+ 
+To combat the risk of a cholera outbreak, secondary chlorination using sodium hypochlorite 
+was introduced at 17 locations, including 16 pumping stations and one reservoir. This process 
+treated approximately 158 MGD of water, serving an estimated 4.51 million people with safe 
+drinking water. Post-chlorination monitoring revealed a significant reduction in bacterial 
+contamination, with Vibrio cholerae cases dropping to less than 5% and a decrease in fecal 
+contamination at consumer ends. This project continues to provide vital insights into 
+managing water quality and preventing water-borne diseases in Karachi. 
+48.84
+39.4
+64.84
+56.05
+80.2
+33.41
+23.3
+44.42
+32.25
+61.54
+9.25
+4.7
+11.4
+5.65
+19.23
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+East
+South
+Malir
+Central
+Korangi
+District-wise bacteriological contamination (%age) in Karachi
+T.Coliforms (%)
+E.Coli (%)
+V. Cholera (%)
+ 
+ 
+ 
+26 
+ 
+Water Quality Testing and Chlorination of 
+WASA-Quetta and PHED WSS-Sibi Water 
+Supply Systems 
+PCRWR initiated a project in collaboration with UNICEF focused on water quality testing 
+and chlorination of the water supply systems in Quetta (WASA) and Sibi (PHED-WSS), 
+aiming to provide safe drinking water to the population. The project addresses water 
+contamination caused by pathogens that lead to diseases such as diarrhea, cholera, and 
+gastroenteritis. Effective chlorination methods were applied to mitigate these health risks. 
+ 
+Objectives 
+ 
+• 
+Monitor the water quality of 48 reservoirs and tube wells at 30 WASA locations in Quetta. 
+• 
+Disinfect water sources using sodium hypochlorite. 
+• 
+Map water sources based on the results of water quality analysis and provide 
+recommendations for improving safety. 
+ 
+Progress 
+ 
+In Quetta, 152 water samples were tested, with 45% deemed unsafe due to contamination. 
+Key issues included 13% of samples failing physical safety standards, 15% chemical 
+contamination, and 32.2% containing coliform bacteria. In Sibi, 50 water sources were 
+monitored, with 98% of samples found unsafe, primarily due to turbidity, coliform bacteria, 
+and E. coli contamination. 
+ 
+To address these issues, sodium hypochlorite was used for chlorination at district water supply 
+schemes in both Quetta and Sibi. In Quetta, the installation of chlorination systems in key 
+reservoirs helped ensure fecal contamination was largely eliminated from the city's water 
+supply. In Sibi, four auto-chlorinators were installed at two water supply schemes to maintain 
+consistent chlorination levels, providing a reliable supply of clean water to the community. 
+Chlorination efforts resulted in residual chlorine levels of 0.75-1.0 mg/L at the source, and 
+0.1-0.25 ppm at the consumer end. 
+ 
+Additionally, PCRWR conducted post-flood water quality monitoring in flood-affected 
+districts of Sindh, with 45.2% of sources found unsafe for human consumption due to high 
+TDS, coliform bacteria, and fecal contamination. The results were shared with relevant 
+authorities for the selection of safer water sources. 
+ 
+District  
+Sources  
+Dadu 
+392 
+Naushero Feroze 
+160 
+Khairpur  
+377 
+Mirpurkhas 
+159 
+Sanghar  
+103 
+Total  
+1191 
+ 
+ 
+ 
+ 
+ 
+27 
+ 
+Quarterly Monitoring of Mineral and Bottled 
+Water 
+ 
+Pakistan Council of Research in Water Resources (PCRWR), under the Ministry of Water 
+Resources, conducts quarterly monitoring of mineral and bottled water to ensure quality and 
+consumer safety. The initiative aims to identify sub-standard products and enhance the overall 
+quality of bottled and mineral water available to the public. 
+ 
+Key Results: 
+ 
+From July 2023 to June 2024, a total of 763 bottled and mineral water samples were collected 
+from major cities across Pakistan, including Islamabad, Karachi, Lahore, Quetta, and others. 
+These samples were analyzed at the ISO-17025 accredited National Water Quality 
+Laboratory (NWQL) of PCRWR for physico-chemical and microbiological parameters. The 
+results were compared with the permissible limits set by the Pakistan Standard Quality 
+Control Authority (PSQCA). 
+ 
+The monitoring revealed that 673 samples met safety standards, while 90 samples were 
+deemed unsafe due to contamination. Unsafe samples were identified based on high levels of 
+chemical contaminants such as Arsenic, Sodium, Potassium, and Total Dissolved Solids 
+(TDS), or microbiological contaminants like Total Coliforms, Fecal Coliforms, and E. coli. 
+Such contamination poses significant health risks, including waterborne diseases and long-
+term health issues from chemical exposure. 
+ 
+Quarterly findings are shared with the public through print and electronic media and posted 
+on the PCRWR official website. Additionally, reports are sent to the Chief Secretaries of all 
+provinces and the PSQCA, prompting legal actions against identified sub-standard brands. 
+This has led to several interventions by PSQCA and provincial food authorities. 
+ 
+Summary of Findings: 
+ 
+• 
+July-Sep 2023: 197 brands tested; 172 safe (87%), 25 unsafe (13%). 
+• 
+Oct-Dec 2023: 172 brands tested; 149 safe (87%), 23 unsafe (13%). 
+• 
+Jan-Mar 2024: 185 brands tested; 166 safe (90%), 19 unsafe (10%). 
+• 
+Apr-Jun 2024: 209 brands tested; 186 safe (89%), 23 unsafe (11%). 
+ 
+This ongoing monitoring effort is crucial for safeguarding public health and ensuring that 
+bottled and mineral water meet established safety standards. 
+ 
+0
+20
+40
+60
+80
+100
+July-Sep
+Oct-Dec
+Jan-Mar
+Apr-Jun
+2023
+2024
+Quarterly Monitoring of Bottled/Mineral Water Brands 
+Safe %age
+Unsafe %age
+ 
+ 
+ 
+28 
+ 
+Groundwater Recharge through Rainwater 
+Harvesting in Khyber Pukhtunkhwa 
+ 
+Pakistan Council of Research in Water Resources (PCRWR) in collaboration with UNICEF 
+and the Public Health Engineering Department (PHED) of the Government of Khyber 
+Pakhtunkhwa, has successfully completed groundwater recharge initiatives through rainwater 
+harvesting in the Mansehra, Kohat, and Hangu districts. 
+ 
+In Mansehra, the interventions were implemented at three major sites, with subsequent 
+groundwater table monitoring using a portable TLC Meter. Similarly, in the water-stressed 
+areas of Kohat and Hangu, interventions were carried out at four key sites. Instruments were 
+installed at all locations to monitor the groundwater table effectively. This project aims to 
+enhance water conservation and recharge efforts in these regions, addressing the growing 
+water scarcity challenges.  
+ 
+Establishment of Rainwater Harvesting Systems 
+for Groundwater Recharge in DG Khan and 
+Rajanpur 
+ 
+PCRWR, in collaboration with UNICEF, launched the "Establishment of Rainwater 
+Harvesting System for Groundwater Recharge" project in DG Khan and Rajanpur. This 
+initiative builds on a prior PCRWR study, "Water Quality Monitoring and Mitigation in 
+Flood Affected Areas of Southern Punjab," which found that 72% of groundwater in these 
+districts was unsafe due to high Total Dissolved Solids (TDS). The new project aims to 
+improve groundwater quality and quantity through rainwater harvesting, involving a 
+comprehensive feasibility study to identify potential sites for interventions. 
+ 
+Scope and Objectives: 
+• 
+Assess current water quality and provide safe drinking water and sanitation to reduce 
+water-borne diseases in flood-affected areas. 
+• 
+Train local stakeholders and service providers in emergency safe drinking water 
+provision. 
+ 
+Methodology: 
+1. Stakeholder Consultation: Meetings were conducted with over 60 community 
+representatives to align interventions with local needs. 
+2. Technical Field Surveys and Mapping: 
+o A digital elevation map was created using DEM (30m x 30m). 
+o Geophysical surveys identified suitable sites for groundwater recharge. 
+o Water table depth was measured, and a water quality profile was developed 
+based on 1,300 samples. 
+o Surface water potential, land use, and catchment area were analyzed for 
+runoff estimation. 
+ 
+Proposed Interventions: 
+Based on extensive field surveys, specific interventions have been proposed at various sites 
+in DG Khan and Rajanpur to enhance groundwater recharge and improve water quality. 
+ 
+ 
+ 
+29 
+ 
+Drought Disaster Preparedness and 
+Management in Cholistan Desert 
+ 
+In Cholistan Desert, the primary source of fresh water is rainwater collected in natural 
+depressions or man-made ponds, locally known as “tobas.” With over 1,200 tobas, the total 
+water requirement for Cholistan’s 1.66 million inhabitants and livestock is estimated at 2,333 
+million gallons (Mgal), while the available storage capacity is 1,458 Mgal. This leaves a deficit 
+of 876 Mgal, impacting both humans and wildlife. To address this, PCRWR and UNICEF 
+have initiated a project to mitigate drought conditions in the region. 
+ 
+Objectives 
+1. Develop sustainable surface water storage through rainwater harvesting to provide 
+drinking water for humans and livestock during severe droughts. 
+2. Improve the quality of groundwater for human and livestock consumption in 
+marginalized Cholistan areas 
+ 
+Implementation Methodology 
+The project will develop rainwater harvesting ponds at approximately twenty locations based 
+on feasibility surveys. These ponds are designed to collect 70-80 million gallons of rainwater 
+for human and livestock use. Ponds will be constructed at optimal catchment points to 
+maximize runoff, using similar designs to existing PCRWR ponds. The capacity of each pond 
+will vary based on catchment size, rainfall, and soil characteristics. 
+ 
+Project Benefits and Analysis 
+The project aims to alleviate poverty by ensuring adequate drinking water for humans and 
+livestock during droughts, improving living conditions in South Punjab. It will also foster a 
+sense of ownership and national cohesion, strengthening the social fabric. As a social sector 
+initiative, it underscores the importance of environmental protection and effective governance 
+in providing essential services. 
+ 
+Investigation of Microbial Diversity and 
+Physico-Chemical Analysis of Tobas in 
+Cholistan Desert 
+ 
+PCRWR’s Regional Office in Bahawalpur has initiated a collaborative project with the 
+Biochemistry Department of the Institute of Biochemistry and Biotechnology (IBBB) at The 
+Islamia University of Bahawalpur. The project, titled “Investigation of Microbial Diversity 
+and Physico-Chemical Analysis of Tobas in Cholistan Desert,” aims to assess the microbial 
+diversity and physico-chemical properties of selected tobas in the Cholistan Desert. 
+ 
+Collaboration Activities 
+ 
+1. Technical Support: PCRWR provides technical assistance for the collection of 
+samples and the physico-chemical analysis of tobas in Cholistan Desert. 
+ 
+2. Capacity Building: The project includes training and internships for students to 
+enhance their skills and knowledge. 
+ 
+3. Joint Activities: Collaborative academic and research initiatives, including short-term 
+academic programs, are being undertaken. 
+ 
+ 
+ 
+ 
+30 
+ 
+Performance Evaluation of Water Filtration 
+Plants in Punjab  
+ 
+PCRWR conducted a comprehensive evaluation of 2,543 water filtration plants installed 
+across Punjab. in collaboration with WaterAid Pakistan. All water samples from these plants 
+were analyzed at PCRWR’s Head Office, Regional, and District water quality laboratories. 
+ 
+The evaluation revealed that 1,619 (75%) of the 2,146 operational plants provided safe 
+drinking water. Conversely, 527 (25%) of the plants were identified as delivering unsafe water. 
+The analysis of the 2,543 plants uncovered 11 major water quality issues in the unsafe water, 
+including: 
+ 
+• 
+Iron: 7 plants (0.3%) 
+• 
+Color: 11 plants (0.5%) 
+• 
+Turbidity: 52 plants (2%) 
+• 
+Nitrates: 54 plants (2%) 
+• 
+Chlorides: 58 plants (3%) 
+• 
+Taste: 40 plants (2%) 
+• 
+Fluoride: 55 plants (3%) 
+• 
+Arsenic: 76 plants (3%) 
+• 
+Hardness: 82 plants (4%) 
+• 
+Total Dissolved Solids (TDS): 116 plants (5%) 
+• 
+Total Coliforms: 279 plants (13%) 
+ 
+Ranking of Parameters and Cities Exceeding NDWQS Permissible Limits 
+ 
+The primary causes of unsafe water supply were found to be outdated infrastructure, leakage 
+in the distribution system, intermittent supply, inadequate regular water quality surveillance, 
+insufficient technical capacity of water supply agencies, lack of public awareness regarding 
+quality issues, and improper disposal of solid and liquid waste. 
+ 
+Given that 25% of the functional plants were found to be unsafe, it is imperative for 
+implementing agencies to develop a comprehensive maintenance plan to enhance the safety 
+of public water filtration plants. It is recommended that regular training and certification 
+programs for plant operators be established to ensure proper operation and maintenance of 
+the filtration systems. 
+ 
+ 
+ 
+ 
+31 
+ 
+Pumping Test Activities 
+ 
+PCRWR Regional Office, Lahore carried out an extensive pumping test from January 5th to 
+19th, 2023, at the Fauji Fertilizer Company (FFC). The study was conducted on five 
+strategically placed piezometers (observation wells) installed between two main wells, each 
+positioned equidistantly with a depth of 40 meters. The primary objective of the test was to 
+evaluate the drawdown rates associated with pump operations and to develop an optimized 
+schedule for pump rest periods based on the cone of depression formed during extraction.  
+ 
+The pumping test involved continuous monitoring of groundwater levels in the observation 
+wells to assess the rate at which water levels dropped, or "drew down," in response to the 
+pumping activity. This data was critical in understanding the interaction between the wells 
+and the surrounding aquifer system. By measuring the drawdown at different points and 
+intervals, the PCRWR team was able to accurately map the cone of depression, a key factor 
+in determining the influence of the pumping on the aquifer and surrounding water sources. 
+ 
+In addition to analyzing the drawdown, the test also aimed to optimize the operational 
+efficiency of the pumps. Based on the observed data, a rest schedule was designed to allow 
+the aquifer to naturally replenish during non-pumping periods, thereby preventing over-
+extraction and ensuring the sustainability of the water resource. This approach is crucial for 
+maintaining the balance between water demand and aquifer recovery, particularly in 
+industrial operations like those at FFC, where water is a critical component. 
+ 
+Improving the Tricycle Protocol: One Health 
+Surveillance  
+ 
+ 
+PCRWR collaborated with the National Institute of Health (NIH) on the research project 
+titled “Improving the Tricycle Protocol: Upscaling to National Monitoring, Detection of CPE 
+and WGS Pipelines for One Health Surveillance (TRIuMPH),” focusing on Antimicrobial 
+Resistance (AMR) from January 2023 to April 2024. The project engaged seven officials from 
+PCRWR’s Water Quality Laboratories in Islamabad, Lahore, and Peshawar. While NIH 
+addressed human health and NARC focused on the animal sector, PCRWR’s role centered 
+on the environmental aspect. 
+ 
+As part of this project, samples were collected monthly from upstream and downstream river 
+sites, wastewater, and wet markets in Islamabad, Lahore, and Khyber Pakhtunkhwa (KPK). 
+These samples were analyzed for E. coli resistant bacteria using culture techniques and 
+antimicrobial sensitivity testing. The project also included training with both didactic sessions 
+and hands-on laboratory practice. The PCRWR team successfully completed the laboratory 
+work for this project. 
+ 
+ 
+ 
+ 
+ 
+32 
+ 
+ 
+ 
+ 
+32 
+ 
+ 
+ 
+33 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Key Events 
+ 
+ 
+ 
+ 
+34 
+33 
+ 
+ 
+ 
+34 
+ 
+34 
+ 
+ 
+ 
+35 
+ 
+Pakistan Water Week 2023 
+ 
+Pakistan Council of Research in Water Resources (PCRWR), in collaboration with the 
+International Water Management Institute (IWMI) Pakistan and other esteemed partners, 
+organized Pakistan Water Week 2023 from December 4th to 8th, 2023 in Islamabad. This year's 
+theme "Transformative Pathways for Water and Food Systems in a Climate Resilient Pakistan" 
+guided a series of events designed to address persistent water and food security issues under 
+the influence of climate change. 
+ 
+ 
+A three-day international conference, held from 
+December 4th to 6th, 2023, was inaugurated by Prof. Dr. 
+Iqrar Ahmad Khan, Vice Chancellor of the University 
+of Agriculture Faisalabad. In his inaugural address, Prof. Dr. Khan emphasized the need for 
+transformative pathways in water management, noting that traditional agricultural practices, 
+while still prevalent in Pakistan, are outdated and inefficient. He stressed the urgent need for 
+technological 
+advancements 
+and 
+innovative methods to enhance water 
+security. He highlighted importance of 
+the developing a comprehensive and 
+inclusive roadmap to address the 
+imminent water crisis and the impacts 
+of climate change, aiming for a 
+Climate Resilient Pakistan. 
+ 
+Dr. Mark Smith, Director General of 
+IWMI, underscored the impact of 
+climate change on water regimes 
+globally, 
+with 
+Pakistan 
+being 
+particularly vulnerable. He acknowledged ongoing global efforts to combat rising 
+temperatures, including discussions at the Conference of Parties (COP) in Dubai. Dr. Smith 
+praised the collaborative efforts of PCRWR, IWMI, CGIAR (Consultative Group on 
+International Agricultural Research), and provincial governments in advancing water and 
+food security policies. He also announced CGIAR’s new initiative on Fragility, Conflict, and 
+Migration (FCM) in Pakistan, aimed at bolstering the resilience of food, land, and water 
+systems in fragile and conflict-affected regions. 
+Ms. Claudia Ringler, Co-Lead of 
+NEXUS Gains and Director of Natural 
+Resources and Resilience, highlighted 
+the alarming rise in global hunger, with 
+the number of hungry people increasing 
+from 564 million in 2014 to 735 million 
+in 2022. In Pakistan alone, 43 million 
+people are affected. She cited an 
+estimated loss of USD 2.1 billion due to 
+climate change in Pakistan and called 
+for both First World nations and 
+vulnerable countries like Pakistan to 
+implement effective climate adaptation 
+and mitigation strategies. Ms. Ringler 
+Prof. Dr. Iqrar Ahmad Khan, Vice Chancellor (UAF) 
+Dr. Mark Smith addresses the PWW 2023 
+International 
+Conference 
+ 
+ 
+ 
+36 
+ 
+advocated for the NEXUS Gains Approach, which aims to improve water, energy, food, 
+ecosystem, and health sectors collectively, potentially reducing rice acreage in Pakistan by 15 
+percent and saving two million acre-feet of water. 
+ 
+Dr. Mohsin Hafeez, Director, IWMI, noted that Pakistan, with the sixth-largest population 
+globally, ranks 77th in the food security 
+index and is the eighth most climate-
+vulnerable 
+country. 
+These 
+factors 
+significantly impact the nation's water 
+and food security. Despite reports 
+indicating that 90% of water is used for 
+agriculture, 
+Dr. 
+Hafeez 
+expressed 
+concerns about the accuracy of these 
+figures due to insufficient scientific 
+studies. He emphasized that Pakistan 
+Water Week 2023 seeks to address the 
+critical climate challenges faced by 
+Pakistan. 
+ 
+ 
+ 
+Following the international conference, 
+Pakistan Water Week 2023 continued 
+with a two-day national workshop held 
+in Islamabad on December 7th and 8th, 
+2023. The workshop featured a diverse 
+range of engaging activities and events 
+designed to foster broader participation 
+and raise awareness about water and 
+food security issues. 
+ 
+The workshop included interactive ice-
+breaker activities and energizers to 
+stimulate participant engagement. A 
+highlight of the event was the industrial exhibition, showcasing innovative technologies and 
+Photo of esteemed speakers of the occasion 
+Photo of esteemed guests at PWW 2023 
+Mr. Ahmad Irfan Aslam, Federal Minister for Water inaugurating 
+PWW Exhibition Resources  
+National Events 
+ 
+ 
+ 
+37 
+ 
+solutions relevant to water management and conservation. Additionally, the workshop 
+featured a series of student competitions, including debates, poster presentations, essay 
+writing, student board games, final year projects, and documentaries. These competitions 
+provided a platform for students to present their ideas and research on various aspects of water 
+and food systems, promoting creative and critical thinking. 
+ 
+The Technology Showcasing Exhibition was officially inaugurated by Mr. Ahmad Irfan 
+Aslam, Federal Minister for Water Resources, who emphasized the importance of 
+technological innovation in addressing water challenges. The exhibition allowed participants 
+to explore cutting-edge technologies and solutions that have the potential to transform water 
+management practices. 
+ 
+The workshop concluded with a closing ceremony where winners of the student competitions 
+were recognized and celebrated. Awards, including cash prizes, certificates, and shields, were 
+presented to the top performers, acknowledging their contributions and excellence in their 
+respective fields. This event not only highlighted the achievements of young researchers and 
+innovators but also underscored the significance of engaging the next generation in addressing 
+critical water and food security challenges. 
+ 
+Overall, the national workshop complemented the international conference by broadening 
+the scope of discussions and involving a wider audience in the dialogue on creating a climate-
+resilient Pakistan. 
+Glimpse of the Exhibition at PWW 2023 
+ 
+ 
+ 
+38 
+ 
+ 
+ 
+Some Glimpse of Students' activities and participation at PWW 2023 
+ 
+ 
+ 
+39 
+ 
+Consultative Workshop on 
+Environmental Flow Assessment in the Indus 
+Basin 
+ 
+Pakistan Council of Research in Water Resources (PCRWR), in collaboration with 
+International Water Management Institute (IWMI), has embarked on a crucial series of 
+stakeholder consultations to address Environmental Flow (E-Flow) assessment and 
+management across Pakistan. As part of this initiative, PCRWR and IWMI, Pakistan jointly 
+organized a pivotal workshop on “Environment Flow Assessment in the Indus Basin” held in 
+Islamabad on November 14, 2023. 
+ 
+This workshop was a significant event, bringing together experts from a range of national and 
+provincial institutions, including the Indus River System Authority (IRSA), Consultative 
+Group on International Agricultural Research (CGIAR), World Wildlife Fund (WWF), 
+federal and provincial water resource management departments and the Federal Flood 
+Commission (FFC). The event provided a platform for engaging key professionals, planners, 
+and policymakers in the water sector. 
+ 
+The primary objective of the workshop was to collect valuable first-hand information and 
+insights from these stakeholders. By facilitating direct dialogue among experts and decision-
+makers, the workshop aimed to enhance understanding of the challenges and opportunities 
+related to E-Flow management in the Indus Basin. This collaborative approach is essential 
+for developing effective strategies to ensure sustainable water resources and ecosystem health 
+in one of Pakistan's most critical river systems. 
+ 
+The outcomes of this workshop are expected to play a crucial role in shaping future policies 
+and practices, ultimately contributing to the sustainable management of the Indus Basin's 
+water resources and supporting broader environmental and ecological goals.  
+Dr. Mohsin Hafeez address the workshop participants 
+ 
+ 
+ 
+40 
+ 
+Celebration of  
+Global Hand Washing Day 2023 
+ 
+Pakistan Council of Research in Water Resources (PCRWR), in collaboration with UNOPS, 
+UNICEF, Water Aid, Muslim Aid, WHO, and Save the Children, spearheaded a nationwide 
+initiative to promote WASH (Water, Sanitation, and Hygiene) awareness in observance of 
+Global Hand Washing Day on October 15, 2023. This initiative involved organizing a series 
+of educational sessions across government schools and universities throughout Pakistan, 
+underscoring a pivotal commitment to enhancing public health and sustainable water 
+management practices. 
+ 
+The WASH Awareness Sessions were conducted in various educational institutions to reach 
+a broad audience, including students and faculty members. These sessions were meticulously 
+crafted to engage participants through a variety of interactive methods. Practical 
+demonstrations, interactive discussions, and expert-led presentations were integral to the 
+sessions, designed to instill a thorough understanding of WASH principles and their 
+significance in daily life. 
+ 
+Hand washing, a fundamental aspect of hygiene, was highlighted as a key component of these 
+educational efforts. Emphasizing the critical importance of proper hand hygiene, the sessions 
+aimed to educate participants about the role of hand washing in preventing the spread of 
+diseases and maintaining overall health. The workshops aimed not only to convey the 
+importance of hand hygiene but also to empower individuals with the knowledge and skills 
+necessary to implement these practices consistently. By integrating these principles into 
+everyday routines, the initiative sought to foster a culture of hygiene and sustainability within 
+educational settings. 
+ 
+This effort reflects a broader commitment to public health and the promotion of sustainable 
+practices. The collaborative approach taken by PCRWR and its partners highlights the 
+importance of collective action in addressing water, sanitation, and hygiene challenges. The 
+success of these awareness sessions underscores the value of educational initiatives in driving 
+long-term behavioral change and improving community health outcomes, paving the way for 
+healthier and more resilient communities across Pakistan. 
+ 
+ 
+Group photo of the participants with children 
+ 
+ 
+ 
+41 
+ 
+ 
+ 
+ 
+ 
+ 
+Glimpse of the Global Hand Washing Day Celebration Activities across Pakistan 
+ 
+ 
+ 
+42 
+ 
+Consultative Workshop on  
+Managing Cryosphere and Water Risks in 
+Pakistan 
+ 
+International Centre for Integrated Mountain Development (ICIMOD), in collaboration with 
+Pakistan Council of Research in Water Resources (PCRWR), organized a consultative 
+workshop on "Managing Cryosphere and Water Risks in Pakistan" on July 4-5, 2023, at 
+Islamabad. This workshop was a significant event aimed at addressing critical issues related 
+to the cryosphere and its impact on water resources in the Hindu Kush Himalaya (HKH) 
+region.  
+ 
+Dr. Muhammad Ashraf, Chairman of PCRWR, and Mr. Muhammad Ismail, Country 
+Manager of ICIMOD, extended a warm welcome to the distinguished guests. Mr. Ismail 
+highlighted ICIMOD’s efforts in managing water risks associated with the cryosphere, 
+emphasizing the organization's role in the HKH region. Dr. Ashraf, in his opening remarks, 
+referred to the HKH region as the "Mother Well" of Pakistan’s water resources, highlighting 
+its significance as the primary source of water for the region. He emphasized the need to 
+establish effective linkages between upstream and downstream water users to protect and 
+conserve the cryosphere sustainably. 
+ 
+The workshop featured contributions from experts representing various national 
+organizations and regional member countries. These discussions aimed to address the 
+multifaceted challenges associated with the cryosphere and its impact on water resources. The 
+primary goal of the workshop was to enhance coordination among regional member countries 
+and the Upper Indus Basin Network, fostering collaborative efforts to sustainably manage 
+risks to the cryosphere in the HKH region. By sharing research-based knowledge and ongoing 
+interventions, the workshop sought to promote a unified approach to managing water risks 
+and improving climate resilience in the face of evolving environmental challenges 
+Group photo of workshop participants 
+ 
+ 
+ 
+43 
+ 
+Panel Discussion on  
+Need for Integrated Approaches for Rainwater 
+Harvesting Systems to Mitigate Urban Flooding 
+in Metropolitan Cities of Pakistan 
+ 
+PCRWR in collaboration with UN-Habitat, hosted a pivotal panel discussion titled "Need for 
+Integrated Approaches for Rainwater Harvesting Systems to Mitigate Urban Flooding in Metropolitan 
+Cities of Pakistan” on March 6, 2024, at PCRWR, Islamabad. The panel featured distinguished 
+experts including Dr. Rashid Aftab, Director of the Riphah Institute of Public Policy; Ms. 
+Almas Shakoor from the Shehrsaz Foundation; Mr. Abdul Qayyum from UN-Habitat; and 
+Mr. Dilshad Arshad, Director, PCRWR. The discussion centered on exploring innovative 
+solutions for managing urban flooding through integrated rainwater harvesting systems. 
+ 
+The panelists emphasized that while technological solutions are critical, the role of human 
+capital and effective coordination among urban communities is equally crucial. They argued 
+that integrating rainwater harvesting systems can mitigate flooding, but achieving this 
+requires a coordinated approach that involves community engagement, policy support, and 
+efficient implementation strategies. 
+ 
+The discussion conveyed a key message: in addressing environmental challenges such as 
+urban flooding, the potential of human capital and community involvement should not be 
+underestimated. Effective coordination among various stakeholders is essential for leveraging 
+these resources and implementing successful rainwater harvesting systems.  
+Photo of key panelist of panel discussion 
+ 
+ 
+ 
+44 
+ 
+8th International Water Conference 
+ 
+Pakistan Council of Research in Water Resources (PCRWR) in collaboration with Riphah 
+International University and UNICEF Pakistan organized the 8th International Water 
+Conference (8IWC) on March 6-7, 2024 at PCRWR, Islamabad. The theme of the conference 
+this year was "Valuing Water for Sustainability". The conference was inaugurated by Dr. Hifza 
+Rasheed, Director General, PCRWR, who highlighted Pakistan's vulnerability to climate 
+change and its impact on water resources. She called for immediate and coordinated action 
+to address the emerging challenges in water management. Dr. Rashid Aftab, Director, Public 
+Policy at Riphah University, provided an overview of the two-day event, which was 
+structured around thematic sessions and panel discussions aimed at promoting sustainable 
+water practices. 
+ 
+Distinguished 
+guests 
+of 
+honor, 
+including Dr. Anis Ahmed, Vice 
+Chancellor of Riphah University, and 
+Prof. 
+Dr. 
+Muhammad 
+Abid, 
+UNESCO 
+Chair 
+at 
+COMSATS 
+University Wah Campus, delivered 
+keynote addresses. They emphasized 
+the importance of behavioral change 
+and integrated data collection in water 
+conservation efforts. Prof. Dr. Athar 
+Hussain, Head of the Department of 
+Meteorology 
+at 
+COMSATS 
+Islamabad, presented his research on 
+climate 
+change 
+and 
+proposed 
+measures to reduce its impact on 
+water resources. 
+ 
+Dr. Muhammad Ashraf, Advisor to the International Water Management Institute (IWMI) 
+and Former Chairman of PCRWR, offered insights into the ecological and religious 
+significance of water, stressing the need for behavioral change to prevent water wastage. Ms. 
+Kiran Kazi, UNICEF Representative, focused on the role of innovation and collaboration in 
+addressing water sector challenges, highlighting the importance of engaging youth as key 
+agents of change. 
+ 
+The conference featured panel discussions: "Leveraging Innovation to Secure Pakistan’s Water 
+Future". Thematic sessions covered 
+critical areas such as "Climate 
+Change 
+Adaptability, 
+Water 
+Governance, and Glacial Lake 
+Outburst Floods (GLOF)," "Water 
+Sanitation and Hygiene (WASH)," 
+and "Water Productivity: Water, 
+Energy, Food Nexus & Hydro 
+Diplomacy." 
+A 
+total 
+of 
+52 
+participants 
+presented 
+their 
+research 
+findings, 
+contributing 
+valuable 
+insights 
+into 
+water 
+sustainability. 
+ 
+Dr. Rashid Aftab concluded the 
+conference with closing remarks, 
+Professor Dr. Anis Ahmad Khan addressing on the occasion 
+Group photo of panelists 
+ 
+ 
+ 
+45 
+ 
+summarizing the key outcomes and reinforcing the need for continued efforts toward water 
+sustainability. The event concluded with Ms. Saiqa Imran, Director of Water Quality at 
+PCRWR, delivering the vote of thanks and distributing certificates and shields to participants 
+and organizers.  The 8IWC underscored the critical importance of valuing water in the face 
+of climate change and urbanization, fostering a collaborative approach to ensuring a 
+sustainable water future for Pakistan. 
+ 
+ 
+Group photo of workshop participants 
+Group photo of panel discussion participants 
+ 
+ 
+ 
+46 
+ 
+Inaugural Ceremony of 
+Intelligent Irrigation Technology Promotion 
+Center  
+ 
+PCRWR held the inaugural ceremony for the Intelligent Irrigation Technology Promotion 
+Center at its R&D farm in Sialmore. The event took place at the PCRWR Headquarters, 
+Islamabad on November 30, 2023, and was attended by representatives from PCRWR and 
+the China Water Resources Bei Fang Investigation Design and Research Co. Limited 
+(BIDR). 
+ 
+The ceremony was initiated by Dr. Hifza Rasheed, Director General, PCRWR, who 
+welcomed the attendees and addressed the significant challenges faced in water resources 
+management in Pakistan. Dr. Rasheed underscored the urgent need for technological 
+innovation to address these challenges. Ms. Bareerah Fatima, Deputy Director, PCRWR, 
+provided an overview of PCRWR's research infrastructure. She detailed the various 
+agroecological zones and the spatial and temporal variations in water resource availability 
+and use.  
+ 
+Mr. Liu Hairui, Vice President, BIDR, highlighted the Chinese government's various 
+initiatives in water management. He expressed hope that the collaboration between PCRWR 
+and BIDR would effectively address issues related to crop productivity and water 
+management at the farm level. The ceremony concluded with Dr. Hifza Rasheed and Mr. Liu 
+Hairui, accompanied by their teams, officially inaugurating the Intelligent Irrigation 
+Technology Promotion Center. 
+ 
+ 
+A glimpse of the ceremony 
+ 
+ 
+ 
+47 
+ 
+In-Country Capacity Building Training Program for  
+Enhancing Water Quality Systems to Achieve 
+SDG 6.1 in Pakistan 
+ 
+PCRWR in collaboration with the Ministry of Climate Change, Government of Pakistan, and 
+the Korea International Cooperation Agency (KOICA), organized a specialized training 
+program at PCRWR, Islamabad on August 15, 2023. This program was designed to enhance 
+water quality systems and contribute to achieving Sustainable Development Goal (SDG) 6.1. 
+ 
+The training session was attended by 
+professionals from the Public Health 
+Engineering Departments (PHED) of 
+Punjab and Khyber Pakhtunkhwa. Mr. 
+Jeho Yeon, Director, KOICA, Dr. 
+Jaewon Choi from K-Water, and Ms. 
+Heejung Son, Senior Manager of 
+Capacity Building from K-Water, were 
+the distinguished guests who addressed 
+the attendees.  
+ 
+Dr. Muhammad Ashraf, Chairman, PCRWR, highlighted the significance of human resource 
+development in enhancing performance and productivity within the water sector. Dr. Hifza 
+Rasheed, Director General, PCRWR, provided an overview of the training program and 
+discussed the current water quality 
+scenario in Pakistan. Mr. Jeho Yeon 
+explained the program's 
+objectives, 
+emphasizing 
+the 
+importance 
+of 
+equipping professionals with technical 
+knowledge to strengthen water quality 
+monitoring systems and meet SDG 
+targets. Ms. Heejung Son provided 
+insights 
+into 
+the 
+Master 
+Training 
+Program conducted at the K-Water 
+Academy in Korea.  
+Mr. Jeho Yeon, Director of KOICA address the participants 
+Picture of Ms. Heejung Son, Senior Manager K Water 
+Group photo of participants 
+ 
+ 
+ 
+48 
+ 
+Seminar on  
+Disaster Risk Management in Pakistan 
+ 
+A one-day seminar on "Disaster Risk Management in Pakistan" was jointly organized by the 
+Pakistan Council of Research in Water Resources (PCRWR), the Society of Economic 
+Geologists and Mineral Technologists (SEGMITE), Pakistan Science Foundation (PSF), and 
+the Sindh Environmental Protection Agency (SEPA) at PCRWR, Tandojam on August 24, 
+2023. The seminar provided a crucial platform for addressing disaster risk management, an 
+area of increasing importance given the escalating frequency and severity of natural and man-
+made disasters in Pakistan. 
+ 
+The seminar brought together a diverse group of experts, policymakers, and practitioners who 
+shared their knowledge on various aspects of disaster risk management, including assessment, 
+preparedness, mitigation, and response. Presentations covered a wide range of topics, 
+providing insights into current practices and challenges in managing disaster risks. These were 
+further enriched by panel discussions that facilitated a dynamic exchange of ideas on the 
+complexities and opportunities in the field. 
+ 
+Participants commended PCRWR for organizing the event and emphasized the critical need 
+for increased public awareness and engagement in disaster preparedness. The seminar 
+highlighted the necessity of integrating scientific research with practical policy measures and 
+community-based strategies to build resilience and improve response mechanisms.  
+ 
+ 
+ 
+Group photo of the workshop 
+ 
+ 
+ 
+49 
+ 
+2nd KOICA Performance Sharing Workshop  
+Enhancing Water Quality Monitoring to 
+Achieve SDG-6 in Pakistan 
+ 
+ 
+PCRWR, in collaboration with the Korea International Cooperation Agency (KOICA) and 
+the Ministry of Climate Change, hosted the 2nd Performance Sharing Workshop under the 
+project "Enhancing Water Quality Monitoring to Achieve SDG-6 in Pakistan" on September 20, 
+2023, in Islamabad. This workshop was a key event aimed at evaluating and sharing progress 
+on the project’s objectives and accomplishments. 
+ 
+The workshop was attended by notable figures including, Mr. Je Ho Yeon, Country Director 
+of KOICA; Mr. Jawad Rabbani, Deputy Director, Ministry of Planning Development and 
+Special Initiatives (MoPD&SI); Dr. Hifza Rasheed, Director General, PCRWR; and Sardar 
+Khan Zimree, Director General, Water Management at the Capital Development Authority 
+(CDA). 
+ 
+Dr. Hifza Rasheed, emphasized PCRWR's key role in advancing water quality monitoring 
+and the impact of local training programs on improving water management practices to 
+achieve SDG 6. Mr. Je Ho Yeon, KOICA's Country Director, praised PCRWR's efforts in 
+water quality monitoring and highlighted the importance of ongoing collaboration. The 
+workshop provided a platform for performance evaluation, knowledge exchange, and 
+strengthened commitment to enhancing water quality monitoring and achieving SDG 6 in 
+Pakistan.  
+ 
+Group photo of workshop participants 
+ 
+ 
+ 
+50 
+ 
+Research Colloquium on  
+World Water Day 2024 
+ 
+ 
+PCRWR hosted a Research Colloquium at its Regional Office in Lahore on March 28, 2024 
+in observance of World Water Day 2024. The event brought together a diverse group of 
+participants from various research-oriented institutions, including the University of 
+Engineering and Technology (UET) Center of Excellence in Water Resource Engineering 
+(CEWRE), the Irrigation Research Institute (IRI), the University of Veterinary and Animal 
+Sciences (UVAS), and the University of Agriculture Faisalabad (UAF), among others. 
+ 
+The colloquium featured presentations from Engr. Faakhar Raza, Regional Director, 
+PCRWR, who provided an overview of PCRWR’s research activities and ongoing projects. 
+This included a discussion on key initiatives aimed at advancing water research and 
+management in Pakistan. 
+ 
+Attendees also shared the results and insights from their individual research efforts, 
+contributing to a comprehensive discussion on current trends, challenges, and opportunities 
+in the field of water resource management. The event facilitated an exchange of knowledge 
+and ideas, promoting the potential for joint studies and collaborations with PCRWR. This 
+collaborative approach is vital for enhancing the quality and progression of water research 
+initiatives and addressing critical water issues in Pakistan. The Research Colloquium 
+underscored the importance of collaborative research in advancing water resource 
+management and highlighted the role of academic and research institutions in contributing to 
+sustainable solutions for water challenges.  
+ 
+ 
+ 
+ 
+ 
+Group photo of the participants 
+ 
+ 
+ 
+51 
+ 
+Stakeholders Consultation on 
+Final Draft of the Governance Framework for 
+the Protection of the Karez System Cultural 
+Landscape 
+ 
+PCRWR organized a stakeholders' consultation meeting at BUITEMS, Quetta on November 
+23, 2023 to review the final draft of the Governance Framework for the protection of the 
+Karez System Cultural Landscape (KSCL). This framework is a key component of the 
+nomination dossier for securing World Heritage status for the Karez System. 
+ 
+The development of the Governance Framework involved a comprehensive literature review 
+of existing studies, policy instruments, acts, and regulations related to the Karez System. 
+Following this, extensive consultations with stakeholders were organized to gather valuable 
+insights and feedback. A renowned law firm was engaged to draft and finalize the document, 
+ensuring its robustness and alignment with legal standards. 
+ 
+The consultation was attended by various stakeholders who provided constructive feedback 
+and expressed their support for the initiative. They acknowledged the efforts of PCRWR and 
+UNESCO in advancing the preservation of the Karez System and committed to supporting 
+the nomination of the KSCL for inclusion in the World Heritage list. 
+ 
+The feedback received during this meeting will be helpful in refining the Governance 
+Framework and enhancing its effectiveness in protecting the Karez System Cultural 
+Landscape. This collaborative effort highlights the importance of stakeholder engagement in 
+safeguarding cultural heritage.  
+ 
+Glimpse of the occasion 
+ 
+ 
+ 
+52 
+ 
+Meeting of the  
+Pakistan National Committee on 
+Intergovernmental Hydrological Programme 
+(PNC-IHP) of UNESCO 
+ 
+A significant meeting of the Pakistan National Committee on the Intergovernmental 
+Hydrological Programme (IHP) of UNESCO was held at the PCRWR Headquarters, 
+Islamabad on September 5, 2023. The meeting was chaired by Dr. Muhammad Ashraf, 
+Chairman, PCRWR, and attended by approximately 25 participants from IHP member and 
+stakeholder organizations, with an additional 7 participants joining virtually from provincial 
+governments. Dr. Muhammad Ashraf opened the meeting by welcoming all attendees and 
+providing an overview of the salient features of the IHP-IX phase. He emphasized the crucial 
+role of collaboration among committee members to enhance the committee's effectiveness 
+and vibrancy. 
+ 
+Dr. Youssef Filali-Meknassi, Director of UNESCO, acknowledged the efforts of the PNC-
+IHP and expressed gratitude to the participants for their active engagement. He elaborated on 
+various projects and initiatives undertaken by UNESCO to improve water management and 
+governance in Pakistan, including capacity-building activities for water professionals. 
+ 
+Following the inaugural session, detailed presentations were delivered by provincial 
+representatives and other stakeholder organizations, focusing on activities related to IHP-IX. 
+The meeting also included in-depth discussions aimed at identifying practical steps forward 
+for advancing the objectives of the IHP and addressing water resource challenges in Pakistan. 
+ 
+ 
+ 
+Group photo of the participants 
+ 
+ 
+ 
+53 
+ 
+Stakeholders Consultation to 
+Develop AMR Surveillance Strategy 
+ 
+PCRWR hosted a pivotal meeting of major stakeholders at its headquarters in Islamabad to 
+discuss the development of an Antimicrobial Resistance (AMR) Surveillance Strategy for 
+Pakistan on April 30, 2024. AMR is currently ranked among the top 10 global health 
+challenges, and in Pakistan, the issue is exacerbated by the uncontrolled use of antibiotics and 
+biocides across human health, agriculture, aquaculture, and livestock sectors. In response, 
+PCRWR, in collaboration with the Ministry of Health, is actively engaged in several 
+initiatives, including the development of the AMR Surveillance Strategy, the National Action 
+Plan 2.0, and AMR Stewardship in Pakistan. 
+ 
+The Microbiology Laboratory of NWQL at PCRWR Islamabad has been selected for the 
+implementation of Fleming's Fund Phase II for AMR surveillance in the environment. This 
+phase aims to establish a robust AMR Surveillance Strategy tailored to Pakistan's unique 
+environmental conditions. The meeting, chaired by Dr. Hifza Rasheed, Director General, 
+PCRWR. 
+ 
+During the meeting, the participants engaged in detailed discussions on the Terms of 
+Reference (TORs) for the proposed Technical Working Group, aiming to develop a 
+comprehensive and effective AMR Surveillance Strategy. Following the discussions, the 
+stakeholders visited the Microbiology Laboratory of NWQL, where they explored potential 
+areas for future collaboration. The attendees expressed keen interest in partnering with 
+PCRWR for ongoing and future initiatives related to AMR surveillance. This meeting marked 
+a significant step toward strengthening Pakistan's response to AMR by fostering collaboration 
+among key stakeholders.  
+ 
+Glimpse of the meeting 
+ 
+ 
+ 
+54 
+ 
+Focus Group Discussions on  
+Sustainable Groundwater Governance in 
+Pakistan 
+ 
+A two days of Focus Group Discussions (FGD) as part of the initiative "Exploring the Corridors 
+of Science, Policy, and Practice Interface - Sustainable Groundwater Governance in Pakistan," were 
+held on September 18-19, 2023. The discussions took place at PCRWR in Lahore and at the 
+PCRWR R&D Centre in Sialmore, respectively. 
+ 
+The FGDs brought together a diverse group of participants, including researchers from 
+academic institutions such as the Center of Excellence in Water Resource Engineering 
+(CEWRE), as well as stakeholders from the On-Farm Water Management (OFWM) sector, 
+the Water Resource Zone (WRZ), and various development sectors. These sessions were 
+instrumental in exploring the multifaceted issues surrounding groundwater governance, with 
+a focus on both scientific research and practical application. 
+ 
+In addition to academic and sectoral experts, farmers from various regions in District 
+Sargodha were invited to the PCRWR R&D Centre in Sialmore. Their participation was 
+crucial for providing firsthand insights into groundwater usage and the challenges associated 
+with both the quantity and quality of groundwater in agricultural practices. The discussions 
+highlighted key issues such as groundwater depletion, contamination, and the need for 
+sustainable management practices. 
+ 
+The engagement of diverse stakeholders in these FGDs underscored the importance of 
+integrating scientific research with practical experiences to develop effective strategies for 
+groundwater management. This initiative is a critical step towards achieving sustainable 
+groundwater governance and addressing the pressing challenges faced by both agricultural 
+and non-agricultural sectors in Pakistan. 
+ 
+A glimpse of the FGD 
+ 
+ 
+ 
+55 
+ 
+6th Meeting of  
+Steering Committee on the Possible Nomination 
+of the Karez Cultural Landscape of Balochistan 
+as a World Heritage Site 
+ 
+The 6th meeting of the Steering Committee for the potential nomination of the Karez System 
+Cultural Landscape (KSCL) of Balochistan as a World Heritage site was held on November 
+24, 2023, at Quetta. The primary aim of this meeting was to update the committee on the 
+finalized governance framework developed with the support of PCRWR and UNESCO. 
+ 
+During the meeting, the representative from the legal firm responsible for drafting the 
+framework presented a comprehensive overview of the document. This presentation detailed 
+the governance strategies designed to protect and manage the Karez System Cultural 
+Landscape effectively. 
+ 
+The committee members expressed their appreciation for the collaborative efforts of PCRWR 
+and UNESCO in advancing this important initiative. They provided valuable feedback on the 
+governance framework, suggesting enhancements to ensure its effectiveness and practical 
+implementation. 
+ 
+This meeting was crucial for refining the 
+governance framework and reinforcing 
+the steps needed for the successful 
+nomination 
+of 
+the 
+Karez 
+System 
+Cultural Landscape as a World Heritage 
+site. The insights and recommendations 
+provided by the committee will play a 
+significant 
+role 
+in 
+advancing 
+this 
+nomination and preserving the cultural 
+heritage of the Karez system. 
+PCRWR's Role in Implementing WASH-FIT in 
+Healthcare Facilities 
+ 
+The Pakistan Council of Research in Water Resources (PCRWR) has been instrumental in 
+implementing the Water and Sanitation for Health Facility Improvement Tool (WASH-FIT) 
+across healthcare facilities in Pakistan. In collaboration with UNICEF, PCRWR provided 
+technical support to customize the WASH-FIT tools for the specific requirements of 
+healthcare environments. 
+ 
+PCRWR also conducted assessments of the national health WASH infrastructure, with a 
+particular emphasis on waste management. These initiatives are pivotal in improving WASH 
+conditions in healthcare facilities, supporting global efforts to enhance healthcare 
+infrastructure and reduce infection rates. 
+ 
+Glimpse of the meeting 
+ 
+ 
+ 
+56 
+ 
+Virtual Participation in  
+Third Phase of the Project "Water in the World 
+We Want” Cambodia 
+ 
+PCRWR participated virtually in the final workshop of the third phase of the "Water in the 
+World We Want" project from February 20 to 22, 2024 held in Cambodia. This initiative, led 
+by the United Nations University Institute for Water, Environment and Health (UNU-
+INWEH), focuses on accelerating the achievement of water-related Sustainable Development 
+Goals (SDGs). As a regional hub and focal organization for this project, PCRWR has been 
+involved since its initial phase in 2017. 
+ 
+The final workshop, held in Phnom Penh, Cambodia, was jointly organized by UNOSD, 
+UNU-INWEH, the Ministry of Environment of the Republic of Korea, the Korea 
+Environment Corporation (K-eco), UNESCO International Centre for Water Security and 
+Sustainable Management (UNESCO i-WSSM), the Korea Water Resources Corporation (K-
+water), and the United Nations Environment Programme (UNEP). 
+ 
+During the workshop, PCRWR’s research team presented key achievements and lessons 
+learned from their involvement in the project. Two knowledge products developed by 
+PCRWR were also launched during this forum. The event brought together participants from 
+Brazil, the Republic of Korea, Cambodia, and Tunisia to share insights and advancements 
+related to water management and SDG implementation. 
+ 
+ 
+ 
+ 
+57 
+ 
+Vehicles Handover Ceremony  
+ 
+A delegation from the PCRWR, led by Dr. Hifza Rasheed, Director General (Water Quality), 
+attended the Vehicles Handover Ceremony for the project "Capacity Building on Water 
+Quality Monitoring and SDG 6 (6.1) Reporting (KOICA/MoCC)" at the Office of the Chief 
+Minister KPK in Peshawar on January 25, 2024,. The ceremony marked the handover of 
+eight mobile water testing laboratories to the Government of Khyber Pakhtunkhwa and a 
+field monitoring van worth Rs. 11 million to PCRWR. 
+ 
+The event was attended by senior officials from the Government of Khyber Pakhtunkhwa, as 
+well as Country Directors of KOICA and UNOPS. The Chief Minister of Khyber 
+Pakhtunkhwa officially handed over the keys to the field monitoring van to the representatives 
+of PCRWR and the Public Health Engineering Department (PHED) of Khyber 
+Pakhtunkhwa, signifying a collaborative effort to enhance water quality monitoring and 
+reporting in the region 
+  
+Participation in  
+IHP Regional Steering Committee 
+ 
+Dr. Hifza Rasheed, Director General PCRWR, participated in the 29th IHP Regional Steering 
+Committee (RSC) Meeting for Asia and the Pacific alongside the 9th International Conference 
+on Flood Management (ICFM9) at the Epochal Tsukuba International Congress Center in 
+Tsukuba, Japan, from February 19-22, 2023. 
+ 
+In her detailed presentation, Dr. Rasheed addressed the recent flood challenges in Pakistan, 
+emphasizing the country's vulnerability to climate change, the impacts of the 2022 floods, and 
+the legal frameworks for improved water governance. She outlined flood control and 
+management efforts in Pakistan, including ongoing projects and strategies for flood resilience. 
+Dr. Rasheed also highlighted PCRWR’s flood response and Japan's support for flood relief 
+activities. 
+ 
+A glimpse of the ceremony 
+ 
+ 
+ 
+58 
+ 
+Participation in 3rd High-Level Water Conference on  
+International Decade for Action 2018-2028 
+ 
+PCRWR participated in the 3rd High-
+Level Water Conference on the 
+International Decade for Action 2018-
+2028 held in Dushanbe, Tajikistan 
+from June 10-13, 2024. At the 
+conference, PCRWR was involved in 
+a side event titled "Accelerating the 
+Achievements 
+of 
+Water-Related 
+SDGs: The SDG 6 Policy Support 
+System (SDG-PSS)," organized by the 
+United Nations Office for Sustainable 
+Development. 
+ 
+During 
+this 
+side 
+event, 
+Mr. 
+Muhammad Kashif Manzoor, Deputy Director, PCRWR, presented on the application of the 
+SDG 6.0 Policy Support System and its implementation within Pakistan. As a panelist, he 
+shared insights and experiences related to the use of SDG-PSS in advancing water-related 
+Sustainable Development Goals (SDGs) and contributed to discussions on effective strategies 
+for achieving these goals. 
+ 
+PCRWR’s Hybrid Wetlands Earn UNESCO 
+Ecohydrology Recognition 
+Pakistan Council of Research in Water Resources (PCRWR) has pioneered the use of treated 
+wastewater for horticultural and agricultural applications in response to water scarcity 
+exacerbated by climate change. PCRWR's innovative approach involves the construction of 
+hybrid wetlands designed to effectively remove pollutants, enhance cost-efficiency, and 
+conserve energy. 
+ 
+Aligned with Pakistan's National Water Policy, PCRWR's model constructed wetlands 
+covering 700 sq. ft demonstrate the principles of Reduce, Recycle, and Reuse. These wetlands 
+facilitate environmentally sustainable water conservation, improve water quality, and support 
+biomass production. By channeling wastewater from three building blocks, including 
+chemical and microbiology laboratories, to these hybrid wetlands, PCRWR ensures 
+compliance with national environmental standards. The treated water is repurposed for 
+irrigation and land flushing, creating a 
+synergistic 
+system 
+that 
+mitigates 
+ecological risks and bolsters aquatic 
+resilience. 
+ 
+This innovative system has recently 
+been recognized and included in the 
+Global 
+Network 
+of 
+UNESCO 
+Ecohydrology Demonstration Sites for 
+2024, marking a significant achievement 
+in the field of ecohydrology. 
+ 
+Group photo of participants 
+Picture wastewater recycling system for wetlands development 
+ 
+ 
+ 
+59 
+ 
+Launching Ceremony of Technical Reports 
+ 
+The Drainage and Reclamation Institute of Pakistan (DRIP), a key unit of the Pakistan 
+Council of Research in Water Resources (PCRWR), hosted a ceremony to launch two 
+significant technical reports in Tando Jam on February 27, 2024. The reports, titled “Exploring 
+Groundwater Dynamics: A Comprehensive Investigation and Spatial Mapping in Canal Command 
+Areas of Sindh” and “Beneath the Sands: A Comprehensive Study of Groundwater in the Tharparkar 
+Region,” provide an in-depth analysis of groundwater issues in Sindh. 
+ 
+The event was presided over by the Vice Chancellor of Sindh Agriculture University (SAU) 
+Tando Jam and co-chaired by notable experts including Dr. Muhammad Ashraf, Former 
+Chairman of PCRWR; Mr. Mohsin Hafeez, Country Representative of IWMI Pakistan 
+Office; Mr. Jai Ram, General Manager of Sindh Irrigation and Drainage Authority (SIDA); 
+and Dr. Bakhshal Khan Lashari, Professor Emeritus at Mehran University of Engineering 
+and Technology (MUET). 
+ 
+The ceremony was attended by a diverse group of professionals from institutions such as 
+Mehran University, Sindh Agriculture University, Pakistan Agricultural Research Council 
+(PARC), Nuclear Institute of Agriculture, WAPDA, and Sindh Agriculture Water 
+Management and Extension Departments. 
+ 
+This event marks a pivotal step in enhancing the understanding of groundwater dynamics in 
+Sindh, offering new avenues for future research and collaboration. It underscored the critical 
+role of PCRWR's work in the Tharparkar region and the canal command areas, serving as a 
+platform for knowledge-sharing among experts. The insights and data provided by these 
+reports are expected to guide future water resource management strategies, fostering a 
+collaborative approach to addressing groundwater challenges in the region. 
+ 
+ 
+Group photo of participants 
+ 
+ 
+ 
+60 
+ 
+Establishment of  
+Advanced Molecular Laboratory for AMR 
+Surveillance 
+ 
+PCRWR in collaboration with UNOPS, has established a state-of-the-art Molecular 
+Laboratory at the National Water Quality Laboratory (NWQL) in Islamabad. The laboratory 
+is equipped with two high-tech instruments, Vitek and Polymerase Chain Reaction (PCR) 
+systems, to characterize antimicrobials and trace their resistance development, transmission, 
+and spread trends in the environment. 
+ 
+PCRWR professionals have already completed a collaborative study with the National 
+Institute of Health (NIH) and the World Health Organization (WHO) on antimicrobial 
+environment surveillance. This study identified the frequency of resistant E. coli in surface 
+water bodies and wastewater, contributing valuable insights into environmental AMR 
+patterns. 
+ 
+Additionally, PCRWR experts are participating in the Fleming Fund Fellowship Scheme to 
+enhance their laboratory technical skills for science-based environmental surveillance. The 
+focus is on using Vibrio cholerae as an 
+indicator 
+organism 
+to 
+control 
+the 
+prevalence of waterborne outbreaks in 
+Pakistan, while also strengthening the 
+institution's profile and collaborations in 
+AMR networks. This new molecular 
+laboratory 
+marks 
+a 
+significant 
+advancement in Pakistan's efforts to 
+address the challenges and gaps in 
+environmental 
+AMR 
+surveillance, 
+positioning PCRWR at the forefront of 
+monitoring and mitigating antimicrobial 
+resistance in the environment.  
+ 
+ISO 17025:2017 Accreditation and EPA 
+Certification 
+ 
+The National Water Quality Laboratory (NWQL) of 
+PCRWR has maintained its ISO 17025 accreditation status 
+since 2007 and currently holds this prestigious accreditation 
+with the Pakistan National Accreditation Council (PNAC) 
+until February 2025. This longstanding commitment to 
+quality testing demonstrates 
+NWQL's adherence to 
+international standards. 
+ 
+Additionally, on April 16, 2024, the laboratory achieved 
+another milestone by obtaining certification from Pakistan's 
+Environmental Protection Agency (EPA), under the Ministry 
+of Climate Change. This certification is crucial for providing 
+certified testing services to industries in Pakistan, in 
+compliance with the Environmental Protection Ordinance 
+ 
+ 
+ 
+ 
+61 
+ 
+61 
+ 
+ 
+ 
+62 
+ 
+ 
+ 
+ 
+62 
+ 
+ 
+ 
+63 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Human 
+Resource 
+Development 
+ 
+ 
+63 
+ 
+ 
+ 
+64 
+ 
+ 
+ 
+64 
+ 
+ 
+ 
+65 
+ 
+Two-Days Training of Trainers on Risk-Based Water 
+Quality Surveillance & Monitoring 
+ 
+On July 19-20, 2023, PCRWR, in 
+collaboration with the Public Health 
+Engineering Department (PHED) Sindh 
+and supported by the World Health 
+Organization 
+(WHO), 
+conducted 
+a 
+Training of Trainers on "Risk-Based 
+Water 
+Quality 
+Surveillance 
+& 
+Monitoring" at PCRWR Regional Office, 
+Karachi. The training aimed to enhance 
+the capabilities of professionals in risk-
+based 
+approaches 
+to 
+water 
+quality 
+monitoring and surveillance. 
+ 
+The training included theoretical sessions 
+and hands-on exercises, and was attended 
+by 
+chemists, 
+laboratory 
+staff, 
+field 
+assistants, and engineers from the Karachi 
+Water Supply and Sanitation Board 
+(KW&SB), PHED, and various academic 
+institutions. 
+Participants 
+engaged 
+in 
+comprehensive training sessions designed 
+to improve their skills in managing water 
+quality risks. 
+ 
+ 
+ 
+Two-Day Training of Teachers on WASH in Schools 
+ 
+PCRWR in collaboration with UNICEF 
+Pakistan, is advancing the School WASH 
+project to enhance WASH facilities in 
+schools. As part of this initiative, PCRWR 
+organizes periodic WASH awareness 
+sessions to build capacity among teachers, 
+staff, and students  
+ 
+In 
+preparation 
+for 
+the 
+project’s 
+implementation, PCRWR, with support 
+from UNICEF Pakistan and the Ministry 
+of Water Resources, held a two-day 
+training session for teachers from selected 
+schools. The training took place at 
+PCRWR's Islamabad office on September 
+4-5, 2023, focusing on effective WASH 
+practices and program integration. 
+ 
+ 
+ 
+Capacity Building Training for Water Quality 
+Laboratories 
+ 
+From January 31 to February 2, 2024, 
+PCRWR 
+Regional 
+Office 
+Karachi 
+organized a capacity-building training 
+program 
+aimed 
+at 
+enhancing 
+the 
+capabilities of PCRWR professionals in 
+Sindh. 
+The 
+training 
+focused 
+on 
+strengthening water quality laboratories 
+across the region. Held at PCRWR 
+Regional Office Karachi, the program was 
+designed to improve technical skills and 
+operational 
+efficiencies 
+within 
+these 
+laboratories, ensuring better management 
+and analysis of water quality.
+. 
+ 
+ 
+ 
+ 
+66 
+ 
+Two Days Training on Application of Drone Techniques 
+ 
+On September 12-13, 2023, PCRWR, in 
+collaboration 
+with 
+the 
+International 
+Water Management Institute (IWMI) 
+Pakistan and the Forest Department of the 
+Government of Punjab, organized a 
+training session on the application of 
+drone techniques in smart agriculture at 
+the PCRWR R&D Farm in Sialmore  
+ 
+The 
+training 
+aimed 
+to 
+enhance 
+agricultural practices through the use of 
+advanced drone technology. Participants 
+included 
+professionals 
+from 
+the 
+Agriculture 
+Department 
+of 
+the 
+Government of Khyber Pakhtunkhwa, 
+who joined local experts and practitioners 
+in exploring innovative applications of 
+drones for monitoring and managing 
+agricultural practices. 
+ 
+The workshop provided a comprehensive 
+overview of how drones can be used to 
+improve agricultural efficiency, from crop 
+monitoring to soil analysis. The session 
+included both theoretical insights and 
+practical 
+demonstrations, 
+equipping 
+attendees with valuable skills to integrate 
+drone technology into their agricultural 
+operations. 
+ 
+This training was crucial for advancing 
+smart agriculture practices and showcased 
+the potential of drone technology to 
+transform traditional farming methods, 
+improving productivity and sustainability 
+in the sector. 
+ 
+ 
+ 
+Two-Day Training Workshop on Water Testing 
+Techniques Held in Collaboration with Muslim Hands 
+ 
+On October 3-4, 2023, a two-days training 
+workshop on water quality testing, in 
+collaboration with Muslim Hands, was 
+conducted at the PCRWR, Islamabad. 
+The workshop aimed to enhance the 
+capacity of Muslim Hands' regional field 
+staff and country office teams in using the 
+DelAqua Kit, Chlorine Testing Kit, and 
+Arsenic Testing Kit for water quality 
+testing. 
+ 
+PCRWR and Muslim Hands jointly 
+facilitated the training sessions, which 
+included both didactic presentations and 
+hands-on practice with the testing kits. A 
+total of 25 staff members, including teams 
+from regional offices and the country 
+office WASH teams, participated in the 
+workshop. The training provided in-depth 
+knowledge and practical skills in using the 
+DelAqua Kit, as well as chlorine and 
+arsenic testing methods. 
+ 
+The workshop concluded with remarks 
+from Dr. Hifza Rasheed, Director General 
+(Water Quality), PCRWR, and Syed Zia 
+ul Noor, Country Director of Muslim 
+Hands 
+Pakistan. 
+Certificates 
+were 
+distributed to the participants, marking 
+the successful completion of the training. 
+.
+ 
+ 
+ 
+ 
+67 
+ 
+Two-Day Teacher Training on Rainwater Harvesting and 
+WASH Practices Held at Islamabad Model Schools 
+ 
+On February 15-16, 2024, PCRWR in 
+collaboration with UNICEF, organized a 
+two-day training program for teachers 
+from Islamabad Model Schools. The 
+training aimed to enhance teachers' 
+knowledge and awareness of Rainwater 
+Harvesting 
+Systems 
+and 
+Water, 
+Sanitation, 
+and 
+Hygiene 
+(WASH) 
+practices in schools. 
+ 
+Dr. Hifza Rasheed, Director General, 
+PCRWR, inaugurated the event with 
+opening remarks, providing an overview 
+of the challenges and objectives related to 
+health and hygiene in schools. She 
+emphasized that PCRWR's 24 regional 
+and district laboratories have adopted 48 
+schools to promote a clean and green 
+environment, ensuring access to safe 
+drinking water and the implementation of 
+improved WASH practices. Additionally, 
+she 
+highlighted 
+the 
+installation 
+of 
+rainwater harvesting systems in these 
+schools as a vital step toward water 
+conservation. 
+ 
+The training session was led by Dr. 
+Naheed Rajper, UNICEF Coordinator, 
+who provided an insightful introduction to 
+WASH in schools. This was followed by a 
+series of lectures delivered by PCRWR's 
+Water Quality Experts, covering topics 
+such as rainwater harvesting systems, safe 
+drinking water, and effective WASH 
+management in school settings. The 
+interactive session included a group 
+presentation activity to reinforce learning 
+and practical application. 
+ 
+The training concluded with remarks from 
+Ms. Saiqa Imran, Director of Water 
+Quality at PCRWR, who emphasized the 
+importance of the teachers' role in 
+promoting these practices. Certificates 
+were distributed to all participants, 
+marking the successful completion of the 
+program
+. 
+ 
+ 
+ 
+ 
+68 
+ 
+PCRWR Completes One-Year Capacity Building 
+Program on Enhancing Water Quality for SDG 6 
+ 
+PCRWR has successfully concluded a 
+one-year capacity-building program titled 
+"Enhancing Water Quality System to 
+Achieve SDG 6 in Pakistan." Held at the 
+National Capacity Building Institute 
+(NCBI) in Islamabad, the program aimed 
+to strengthen the skills of professionals in 
+water supply services, including the Public 
+Health Engineering Department, focusing 
+on 
+water 
+quality 
+monitoring 
+and 
+improvement. 
+ 
+The program, which ran from August 15, 
+2023, to June 2024, emphasized practical 
+training, dedicating 70% of the sessions to 
+hands-on practice and 30% to lectures. 
+Participants gained experience in water 
+quality 
+testing 
+using 
+internationally 
+recognized procedures at PCRWR’s 
+National 
+Water 
+Quality 
+Laboratory 
+(NWQL). A total of 116 professionals 
+from Punjab and Khyber Pakhtunkhwa's 
+Public Health Engineering Department 
+and the Environmental Protection Agency 
+(EPA) participated, divided into two 
+groups: 38 Research Officers and Junior 
+Research Officers (trained in three 
+batches) and 78 Laboratory Assistants 
+(trained in five batches). 
+ 
+Supported by the Korea International 
+Cooperation 
+Agency 
+(KOICA), 
+this 
+comprehensive 
+29-week 
+program 
+included basic training and refresher 
+courses, 
+significantly 
+enhancing 
+the 
+capacity of provincial water supply 
+agencies. 
+With 
+the 
+skills 
+acquired, 
+participants are now better equipped to 
+monitor water quality and contribute to 
+reliable data reporting for Sustainable 
+Development Goal 6 (SDG 6), specifically 
+Indicator 6.1.1, aiding Pakistan's efforts in 
+achieving clean water and sanitation for 
+all.
+ 
+ 
+ 
+Farmers Field Day 
+ 
+PCRWR organized a Farmer Field Day at 
+its R&D Center in Tando Jam on January 
+30, 2024. The event focused on best water 
+management practices for sugarcane 
+cultivation and attracted 25 farmers from 
+the Sindh districts of Hyderabad, Tando 
+Allahyar, and Matiari. 
+ 
+During the field day, Regional Director 
+Engr. Hafiz Abdul Salam and Deputy 
+Director Engr. Nazar Gul provided 
+insights into various sugarcane sowing 
+techniques 
+employed 
+at 
+the 
+DRIP 
+research farm. The participating farmers 
+actively engaged with the DRIP team, 
+discussing water-saving methods and 
+sharing their experiences with the new 
+techniques.
+ 
+ 
+ 
+ 
+ 
+69 
+ 
+Training Workshop on “Sun Satellite Approach for 
+Farmers of Malva and KT Bandar” 
+ 
+PCRWR, in collaboration with Mehran 
+University 
+of 
+Engineering 
+and 
+Technology (MUET) Jamshoro and the 
+Australian 
+Centre 
+for 
+International 
+Agricultural 
+Research 
+(ACIAR), 
+conducted a series of training programs on 
+the Sun Satellite approach for farmers in 
+Malva and KT Bandar during August and 
+September 2023. The workshops were 
+held at the Nawazabad site and the DRIP 
+Research Farm in Tandojam. 
+ 
+The training was led by Engr. Hafiz Abdul 
+Salam, Regional Director, and Engr. 
+Nazar Gul, Deputy Director, alongside 
+progressive farmers and master trainers 
+who shared their expertise and practical 
+experiences 
+related 
+to 
+salinity 
+and 
+waterlogging management. The sessions 
+included live demonstrations of the Sun 
+Satellite model, which provided farmers 
+with valuable insights into managing these 
+critical agricultural challenges. 
+Participants 
+received 
+various 
+dissemination 
+materials, 
+including 
+brochures, 
+backdrops, 
+and 
+standees, 
+which 
+complemented 
+the 
+hands-on 
+training demonstrations. A total of 10 
+farmers from Malva, KT Bandar, and 
+Jalapur engaged in the program, aimed at 
+transferring knowledge and practical 
+skills. To assess the effectiveness and 
+impact of the training, feedback sessions 
+were conducted at the Malva and KT 
+Bandar sites, as well as for Jalapur farmers 
+at the DRIP Research Farm, Tandojam. 
+These sessions were crucial for evaluating 
+the outcomes of the training and gathering 
+insights for further improvements. The 
+training program was significant in 
+equipping local farmers with advanced 
+techniques 
+to 
+address 
+salinity 
+and 
+waterlogging, 
+ultimately 
+enhancing 
+agricultural 
+productivity 
+and 
+sustainability in the region. 
+ 
+. 
+One day Field Training Program 
+ 
+PCRWR in collaboration with the 
+Research & Development Foundation 
+(RDF) organized a one-day field training 
+program at the DRIP Tando Jam on 
+March 7, 2024. The training aimed to 
+educate 
+farmers 
+on 
+best 
+water 
+management 
+practices 
+for 
+cotton 
+cultivation. 
+ 
+Around fifty male and female farmers 
+participated in the program, where they 
+received expert guidance from Engr. Hafiz 
+Abdul Salam, Regional Director; Engr. 
+Nazar Gul, Deputy Director; and Engr. 
+Izhar Hussain Bhutto, Assistant Director. 
+The session provided hands-on exposure 
+to 
+advanced 
+techniques 
+in 
+water 
+management, emphasizing strategies to 
+enhance water efficiency in cotton 
+farming. 
+ 
+ 
+ 
+ 
+ 
+ 
+70 
+ 
+Capacity Building Training Workshop in South Punjab 
+ 
+A series of four (04) day workshop on 
+capacity building trainings was provided 
+at District Bahawalpur in collaboration 
+with UNICEF and Civil Engineering 
+Department (IUB) under the project titled 
+“Drought Disaster Preparedness and 
+Management in Cholistan Desert”. The 
+basic idea behind these workshops were to 
+develop the capacity of staff working 
+under various Government and non-
+organizations and the promotion of 
+“Knowledge sharing Culture”. Lectures 
+were 
+delivered 
+on 
+“Sustainable 
+Management of Groundwater Resources 
+in 
+South 
+Punjab” 
+and 
+“Major 
+contamination in water sources of South 
+Punjab and its effect on human health 
+with remedial measures”. Trainees from 
+various 
+Government 
+organizations, 
+Academia 
+and 
+Non-Government 
+Organizations attended this event. 
+ 
+Capacity Building Training for Water Quality and WASH 
+Facilities 
+ 
+PCRWR, in collaboration with NRSP, 
+has launched a training program for 
+master 
+trainers 
+to 
+enhance 
+water 
+conservation, 
+quality, 
+and 
+hygiene 
+practices. This initiative covers water-
+saving techniques, cleanliness, proper 
+handwashing, and behavioral changes. It 
+includes water quality monitoring in 
+schools, disinfection of overhead tanks, 
+and the installation of hand pumps in rural 
+schools, with support from Help in Need. 
+WASH committees are being formed to 
+ensure safe water arrangements. A recent 
+one-day training session at the NRSP 
+office provided demonstrations on water 
+sampling methods, field testing, and 
+microbiological analysis, equipping NGO 
+staff to manage water resources effectively 
+in targeted communities
+ 
+PCRWR Officials Attended Training Program on 
+Enhancing Water Quality System 
+ 
+Officials from PCRWR attended a 
+specialized 
+training 
+program 
+on 
+"Enhancing Water Quality System in 
+Pakistan" at K-water Academy. Ms. Saiqa 
+Imran, Senior Research Officer, Dr. 
+Ghulam 
+Murtaza, 
+Senior 
+Research 
+Officer, and Mr. Shakeel Badhsah, 
+Research Officer, along with other 
+government 
+officials 
+from 
+Pakistan, 
+participated in the 49-day program held in 
+Korea. 
+ 
+The training included 45 lectures, 12 
+workshops, 21 practical sessions, and 9 
+study 
+visits 
+to 
+K-water's 
+advanced 
+facilities. As part of the Enhancing Water 
+Quality Monitoring System to Achieve 
+SDG 6 in Pakistan project, participants 
+gained extensive knowledge and hands-on 
+experience in water quality analysis, 
+covering metals, ions, microbial tests, 
+basic parameters, quality control, and 
+sampling. 
+ 
+The program also involved developing 
+Standard Operating Procedures (SOPs) 
+and teaching materials, which were 
+reviewed by K-water professionals. K-
+water will continue to support PCRWR 
+officials in enhancing Pakistan's water 
+quality 
+monitoring 
+and 
+analysis 
+capabilities. 
+ 
+ 
+ 
+ 
+ 
+71 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Visits and 
+Meetings 
+ 
+71 
+ 
+ 
+ 
+72 
+ 
+ 
+72 
+ 
+ 
+ 
+73 
+ 
+On October 23, 2023, a delegation of 
+Korean 
+experts 
+from 
+the 
+Korea 
+International 
+Cooperation 
+Agency 
+(KOICA) 
+visited 
+the 
+PCRWR 
+Headquarters in Islamabad. This visit was 
+part of the project titled “Establishment of 
+Groundwater 
+Recharge/Rainwater 
+Harvesting Ponds for Flood Prevention, 
+Mitigation, and Preparedness in Multan 
+and 
+Muzaffargarh 
+Districts, 
+Punjab 
+Province.” 
+ 
+Dr. Hifza Rasheed, Director General of 
+PCRWR, welcomed the delegation and 
+provided a detailed briefing on PCRWR's 
+current 
+research 
+activities 
+and 
+the 
+advanced technologies and techniques 
+developed by the organization. The 
+Korean experts had the opportunity to 
+visit several demonstration sites, including 
+recharge wells, wetlands designed for 
+wastewater treatment, and rainwater 
+harvesting systems installed at PCRWR 
+and Kachnar Park. 
+In addition to the headquarters visit, a 
+joint team of PCRWR and Korean experts 
+traveled to Multan and Muzaffargarh to 
+assess the feasibility of installing rainwater 
+harvesting 
+ponds 
+aimed 
+at 
+flood 
+prevention. 
+This 
+collaborative 
+effort 
+underscores the importance of integrating 
+international 
+expertise 
+and 
+local 
+knowledge to enhance flood mitigation 
+and groundwater management in the 
+region.  
+ 
+ 
+ 
+ 
+In October 2023, a delegation from Henan 
+University visited PCRWR as part of a 
+PSF project on small-scale irrigation 
+under climate change. The delegation 
+toured PCRWR's headquarters and R&D 
+farm, where they were briefed on ongoing 
+research 
+in 
+water 
+quality 
+and 
+conservation. The visit fostered potential 
+collaboration and knowledge exchange 
+between PCRWR and Henan University, 
+aiming to improve water management 
+practices in both countries. 
+ 
+ 
+On September 15, 2023, a meeting was 
+held at the PCRWR Regional Office in 
+Karachi with the DevCon Pakistan team. 
+The focus of the meeting was to discuss 
+water treatment testing services provided 
+by the PCRWR laboratory as part of a 
+WaterAid-funded project. The discussions 
+aimed to clarify the scope of testing 
+services and ensure alignment with the 
+project’s objectives and requirements.
+ 
+ 
+Visit of KOICA Delegation to PCRWR, Islamabad 
+Chinese Delegation Visited PCRWR 
+Meeting with DevCon Pakistan 
+ 
+ 
+ 
+74 
+ 
+On July 26, 2023, a delegation from the 
+United 
+Nations 
+Human 
+Settlements 
+Programme (UN-Habitat) visited the 
+PCRWR 
+Regional 
+Office, 
+Lahore. 
+Accompanied by representatives from 
+Advanced Technologies for Recovery, 
+who are developing environmentally 
+friendly technologies in Lahore and 
+Faisalabad, the delegation was introduced 
+to various projects and initiatives. 
+ 
+The UN-Habitat team was briefed on the 
+installation of reverse osmosis (RO) filter 
+plants in underserved communities across 
+Punjab. Mr. Faakhar Raza, Regional 
+Director of PCRWR Lahore, provided an 
+overview of PCRWR's activities and 
+identified potential areas for mutual 
+collaboration between PCRWR and UN-
+Habitat. The visit aimed to explore and 
+enhance cooperative efforts in water 
+resource management and sustainable 
+technology development.  
+ 
+From August 15 to 27, 2023, a research 
+team from PCRWR's Regional Office, 
+Lahore, consisting of Mr. Faakhar Raza 
+(Regional Director), Mr. Zia-ul-Haq 
+(Deputy Director), and Dr. Habib-ur-
+Rehman 
+(Research 
+Officer), 
+visited 
+Henan University, China. The visit was 
+part of a technical knowledge exchange 
+program established between PCRWR 
+and Henan University. 
+ 
+The primary aim of the visit was to foster 
+closer 
+cooperation 
+in 
+research 
+and 
+development, particularly focusing on 
+scientific knowledge and technology 
+transfer related to small-scale irrigation 
+systems.  
+The delegation engaged in discussions 
+with faculty and researchers at the Zhai 
+Shiyan 
+College 
+of 
+Geography 
+and 
+Environmental 
+Science, 
+exploring 
+collaborative opportunities to advance 
+irrigation technologies and practices in 
+both Pakistan and China.  
+ 
+A delegation UNICEF and the Irrigation 
+Department 
+of 
+Punjab 
+visited 
+the 
+PCRWR Regional Office, Lahore. The 
+primary focus of the visit was to explore 
+and discuss potential collaboration on 
+upcoming groundwater mapping and 
+management projects throughout the 
+Punjab province. 
+During the visit, the delegation engaged in 
+identify key areas where joint efforts could 
+be beneficial. The talks centered around 
+enhancing 
+groundwater 
+management 
+practices and implementing innovative 
+solutions to address water resource 
+challenges in Punjab. 
+Visit of UN-Habitat Delegates to PCRWR, Lahore 
+PCRWR Officials Visited Henan University, China 
+A delegation from UNICEF and Irrigation Department 
+Visited PCRWR, Lahore 
+ 
+ 
+ 
+75 
+ 
+On October 26, 2023, Mr. Vijay Mitta, 
+Water 
+Expert 
+from 
+UNICEF 
+Headquarters, 
+visited 
+the 
+PCRWR 
+Headquarters in Islamabad. Dr. Hifza 
+Rasheed, DG, PCRWR, extended a warm 
+welcome to Mr. Mitta and provided a 
+comprehensive overview of PCRWR’s 
+initiatives 
+in 
+the 
+fields 
+of 
+Water, 
+Sanitation, and Hygiene (WASH) and 
+groundwater recharge. 
+ 
+During the visit, Dr. Rasheed highlighted 
+PCRWR's ongoing efforts to enhance 
+groundwater 
+recharge 
+and 
+promote 
+traditional water conveyance systems, 
+such as the Karez system. She elaborated 
+on the innovative projects and initiatives 
+undertaken by PCRWR, demonstrating 
+various installations and technologies 
+employed to address water management 
+challenges. 
+ 
+This visit was an important opportunity 
+for PCRWR to showcase its work and 
+explore potential areas for collaboration 
+with 
+UNICEF 
+in 
+advancing 
+water 
+management and sustainability initiatives 
+in Pakistan. 
+ 
+On January 30, 2024, Ms. Jennifer 
+Solakian, Senior Technical Lead of 
+Winrock International, a U.S.-based 
+organization, along with Mr. Ali Toqueer 
+Sheikh, visited the PCRWR headquarters 
+in Islamabad. The visit aimed to explore 
+the strengths and mandate of PCRWR, 
+with a view toward potential future 
+collaborations. 
+ 
+Dr. Hifza Rasheed, DG, PCRWR, 
+provided an informative presentation 
+highlighting the council's research and 
+development innovations and capacity-
+building initiatives. This was followed by 
+a comprehensive discussion and Q&A 
+session, where Winrock experts engaged 
+with PCRWR professionals from the 
+water quality, water management, and 
+hydrology sections.  
+On 
+January 
+31, 
+2024, 
+Dr. 
+Pema 
+Gyamtsho, Director General of ICIMOD, 
+and 
+his 
+team 
+visited 
+PCRWR 
+Headquarters, 
+Islamabad. 
+Dr. 
+Hifza 
+Rasheed, 
+DG, 
+PCRWR, 
+presented 
+organization's research, innovations, and 
+capacity-building 
+initiatives. 
+Dr. 
+Gyamtsho expressed strong appreciation 
+and interest in collaboration. The team 
+was also given a tour of PCRWR's water 
+conservation 
+and 
+treatment 
+models, 
+showcasing 
+technologies 
+like 
+Groundwater Recharge Systems and 
+Rainwater Harvesting. 
+ 
+Visit of UNICEF Water Expert to PCRWR, Islamabad 
+Winrock International Experts Visited PCRWR 
+Director General, ICIMOD Visited PCRWR 
+ 
+ 
+ 
+76 
+ 
+On May 7, 2024, PCRWR held a 
+productive meeting with representatives 
+from WaterAid, and Lasoona Relief & 
+Development Organization. The meeting 
+aimed to enhance collaboration on 
+climate-resilient Water, Sanitation, and 
+Hygiene (WASH) initiatives, zero liquid 
+discharge, and rainwater harvesting. 
+ 
+During 
+the 
+discussion, 
+PCRWR 
+introduced its innovative technologies for 
+drinking 
+water 
+treatment 
+filters, 
+particularly in flood-affected areas, as well 
+as rainwater harvesting, groundwater 
+recharge, and wetlands for wastewater 
+treatment. This collaboration is expected 
+to strengthen efforts toward sustainable 
+water management and climate resilience 
+in vulnerable communities.  
+ 
+On May 10, 2024, a delegation from 
+DePaul University, including Mr. John 
+Zeigler, Director of Urban Education & 
+Community Partnerships, and Ms. Hiba 
+Zakai, Ph.D. Scholar, visited PCRWR, 
+Islamabad. The visit aimed to explore 
+opportunities for exchanging ideas on 
+promoting innovative urban solutions 
+through community engagement. 
+ 
+Mr. 
+John 
+Zeigler 
+expressed 
+his 
+appreciation for PCRWR's research and 
+innovative work. Following the meeting, 
+the DePaul University team was given a 
+demonstration 
+of 
+PCRWR's 
+water 
+conservation 
+and 
+treatment 
+models 
+installed on the premises, including 
+groundwater recharge systems, rainwater 
+harvesting systems, the Hydra Ram 
+Pump, 
+a 
+hand-operated 
+floodwater 
+treatment unit, and constructed wetlands 
+for wastewater treatment. 
+ 
+On October 30, 2023, Regional Director, 
+PCRWR, along with a team from 
+UNICEF conducted a field visit to several 
+locations in Sindh to explore solutions for 
+brackish groundwater issues. The visit 
+included assessments at Village Saleh 
+Muhammad Goth in Bin Qasim Town, 
+District Malir; Gulshan-e-Hadid Phase 2; 
+Gharo (THQ Hospital) Taluka Gharo, 
+District Thatta; and Makli (Urban Areas) 
+Taluka Thatta, District Thatta. The aim 
+was to understand the challenges and 
+potential solutions for improving water 
+quality in these areas. 
+ 
+Delegation of WaterAid, Lasoona Relief & 
+Development Organization Visited PCRWR 
+Representatives of DePaul University Visit to PCRWR 
+Field Visit of UNICEF Team 
+ 
+ 
+ 
+77 
+ 
+On May 20, 2024, Dr. Simonetta Siligato, 
+Senior Advisor to the Regional Director of 
+UNOPS Asia Region, visited PCRWR. 
+Accompanied 
+by 
+Arshamah 
+Jamil, 
+Partnerships Specialist, and Wajid Ullah, 
+Partnerships Senior Officer, Dr. Siligato 
+met with Dr. Hifza Rasheed, DG, 
+PCRWR, and Ms. Saiqa Imran, Director 
+of Water Quality. 
+ 
+During the meeting, Dr. Hifza Rasheed 
+provided an overview of PCRWR's 
+programs, research accomplishments, and 
+potential future collaborations. She also 
+briefed Dr. Siligato on the support 
+received from UNOPS and KOICA for 
+enhancing the facilities of PCRWR’s 
+National 
+Water 
+Quality 
+Laboratory 
+(NWQL). 
+ 
+Following the discussions, Dr. Siligato 
+was given a tour of the NWQL and 
+demonstrations 
+of 
+the 
+on-premises 
+rainwater 
+harvesting 
+system 
+and 
+constructed wetlands for wastewater 
+recycling. The visit highlighted the 
+ongoing efforts and collaborations aimed 
+at advancing water quality research and 
+management. 
+ 
+On September 5, 2023, officers from the 
+Agriculture 
+Department’s 
+Water 
+Management Wing and Planning & 
+Evaluation 
+Cell 
+visited 
+PCRWR’s 
+Regional Office in Lahore as part of their 
+training program. The visit aimed to 
+familiarize them with PCRWR’s projects 
+and research activities. 
+ 
+Regional Director Mr. Faakhar Raza 
+provided a detailed overview of the water 
+scenarios 
+and 
+challenges 
+faced 
+in 
+Pakistan, supported by the groundwater 
+atlas of the Indus Basin and its quality 
+trends. He discussed various rehabilitation 
+options, 
+including 
+the 
+design 
+and 
+application 
+of 
+recharge 
+wells 
+and 
+rainwater harvesting systems, as well as 
+the methodologies and outcomes of recent 
+PCRWR projects. 
+ 
+The officers expressed significant interest 
+in PCRWR’s research activities and 
+commended the organization’s efforts in 
+addressing water management issues and 
+promoting water-saving techniques.
+On August 30, 2023, representatives from 
+Fatima Fertilizer Limited, Sheikhupura, 
+visited the PCRWR Regional Office, 
+Lahore to discuss water accumulation 
+issues at their agricultural sites due to 
+excess rainfall. PCRWR’s research team 
+visited three sites cultivating rice, wheat, 
+and fruits. Site 3, a 70-acre plot, faced 
+severe waterlogging from a clayey top 
+layer and salinity, making the land 
+uncultivable. 
+PCRWR 
+recommended 
+installing a recharge well and storage pond 
+to manage the excess water, submitting a 
+detailed proposal to Fatima Fertilizer for 
+review.
+Senior Advisor UNOPS Asia Region Visited, PCRWR 
+Visit of Officers from Agriculture Department Punjab 
+Representatives of Fatima Fertilizer Limited Visited 
+PCRWR 
+ 
+ 
+ 
+78 
+ 
+On March 25, 2024, fifteen students from 
+COMSATS 
+University, 
+Islamabad, 
+accompanied by Dr. Tairq Ejaz, Senior 
+Fellow at the Institute of Urbanism, 
+visited PCRWR Headquarters as part of 
+the Green Urban Development initiative. 
+The visit aimed to provide students with 
+practical 
+insights 
+into 
+PCRWR’s 
+approaches to green urban development. 
+ 
+Engr. 
+Muhammad 
+Dilshad 
+Arshad, 
+Director (Hydrology), gave a presentation 
+on PCRWR’s research activities related to 
+rainwater 
+harvesting, 
+groundwater 
+recharge, 
+and 
+other 
+developed 
+interventions. Additionally, Engr. Syed 
+Ibtisam 
+Asmat, 
+Deputy 
+Director 
+(Groundwater), demonstrated artificial 
+recharge techniques at Kachnar Park. This 
+state-of-the-art site features a complete 
+monitoring system, including piezometers 
+and CTD divers. Since June 14, 2022, 
+approximately 12 million gallons of water 
+have been recharged at this site, resulting 
+in a 0.15-meter rise in the water table and 
+a 0.2 dS/m improvement in groundwater 
+quality. 
+On May 22, 2024, Syed Mujtaba Hussain, 
+Sr. Joint Secretary (Administration), 
+MoWR, along with Deputy Secretary 
+Saleem Ahmad Khan, visited PCRWR. 
+Dr. Hifza Rasheed, Director General, 
+provided an overview of PCRWR's 
+activities, achievements, and ongoing 
+projects related to water issues and climate 
+change. The delegation toured various 
+PCRWR facilities, including the National 
+Water Quality Lab, Rainwater Harvesting 
+model, Groundwater Recharge systems, 
+and Wastewater Treatment plant. The Sr. 
+Joint Secretary expressed interest and 
+appreciation for PCRWR's initiatives and 
+their alignment with the National Water 
+Policy. 
+ 
+From May 20 to 21, 2024, the Deputy 
+Secretary (Budget) of the Ministry of 
+Water Resources conducted an audit at 
+PCRWR’s Regional Office in Lahore. 
+Engr. Faakhar Raza, Regional Director, 
+led the meeting with the research team, 
+providing a detailed overview of ongoing 
+and recent projects. The Deputy Secretary 
+expressed appreciation for the work done 
+and offered constructive suggestions for 
+further improvement. 
+ 
+ 
+ 
+Exposure Visit of Green Urban Development 
+Participants to PCRWR, Islamabad 
+Visit of Sr. Joint Secretary, MoWR to PCRWR 
+Deputy Secretary (Budget), MoWR Visit to PCRWR 
+ 
+ 
+ 
+79 
+ 
+On September 20, 2023, a meeting was 
+held at PCRWR Regional Office,  Karachi 
+with the Sindh Environmental Protection 
+Agency (SEPA) team. The purpose of the 
+meeting was to explore potential research 
+collaborations between PCRWR and 
+SEPA, 
+focusing 
+on 
+environmental 
+monitoring and mitigation efforts in 
+Sindh. The discussions centered on 
+identifying joint research opportunities 
+and strategies to address environmental 
+challenges in the region. 
+On June 26-27, 2024, officials from the 
+Research and Development Foundation 
+(RDF) and a group of farmers visited the 
+R&D Farm, DRIP-PCRWR, in Tando 
+Jam. During the visit, DRIP professionals 
+provided a comprehensive demonstration 
+and briefing on the ongoing research and 
+development activities at the facility. 
+ 
+On February 15, 2024, a joint team from 
+Pakistan Television Corporation (PTV) 
+and the Pakistan Council of Research in 
+Water 
+Resources 
+(PCRWR) 
+visited 
+Manchar Lake. The purpose of the visit 
+was to collect water samples and support 
+the production of a documentary on the 
+ecological degradation of the lake. The 
+documentary, produced by PTV, featured 
+PCRWR's research on the contamination 
+of Manchar Lake by pollutants and 
+investigated 
+the 
+causes 
+of 
+this 
+environmental issue.
+ 
+Meeting with Sindh Environmental Protection Agency 
+Visit by RDF Officials and Farmers to PCRWR 
+PTV and PCRWR Teams Visited Manchar Lake 
+ 
+ 
+ 
+80 
+ 
+ 
+ 
+80 
+ 
+ 
+ 
+81 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Collaborations 
+ 
+ 
+81 
+ 
+ 
+ 
+82 
+ 
+ 
+ 
+82 
+ 
+ 
+ 
+83 
+ 
+On March 29, 2024, Pakistan Council of Research in Water Resources (PCRWR) and the 
+Research, Innovation & Commercialization (RIC) department of the National University 
+of Sciences and Technology (NUST), Islamabad, formalized their collaboration through a 
+Program of Cooperation (PoC). The agreement aims to bolster research and innovation in 
+the water sector. 
+ 
+The PoC outlines a commitment to collaborative projects and initiatives focused on high-
+quality 
+research 
+and 
+innovation 
+in 
+water 
+management, water quality, 
+and water security. Under this 
+partnership, NUST will offer 
+technical support, including 
+research data and analysis, 
+while both institutions will 
+work 
+together 
+on 
+joint 
+proposals and publications. 
+The agreement was signed by 
+the Pro-Rector of NUST and 
+the 
+Director 
+General, 
+PCRWR.
+Pakistan Council of Research in Water Resources (PCRWR), Peshawar, has signed several 
+key agreements to enhance water resource management and safe drinking water provision. 
+On May 27, 2024, PCRWR signed an agreement with the Peshawar Development 
+Authority (PDA) to facilitate the exchange of knowledge, information, research, and 
+literature for ensuring safe drinking water at the community and household levels. 
+ 
+On November 3, 2023, PCRWR entered into an agreement with Secure Islamic France 
+(SIF) Peshawar, focusing on the provision of safe drinking water, irrigation solutions, 
+rainwater harvesting techniques, and groundwater resource assessment. 
+ 
+Additionally, on August 23, 
+2024, PCRWR signed an 
+agreement 
+with 
+the 
+International 
+Rescue 
+Committee (IRC) Peshawar 
+to implement interventions 
+aimed at climate-resilient 
+WASH 
+initiatives. 
+This 
+includes 
+planning 
+and 
+conducting feasibility studies 
+to assess the water table, 
+piloting 
+groundwater 
+recharge, 
+and 
+rainwater 
+harvesting.
+ 
+Program of Cooperation (PoC) Between PCRWR and NUST 
+Signing of Agreements with PDA Peshawar, Secure Islamic 
+France (SIF), and International Rescue Committee (IRC) 
+ 
+ 
+ 
+84 
+ 
+Engr. Hafiz Abdul Salam, Regional Director, DRIP-PCRWR, signed a Memorandum of 
+Understanding (MoU) with the US-Pakistan Center for Advanced Studies in Water at 
+Mehran University of Engineering and Technology, Jamshoro, Sindh, Pakistan. This 
+agreement is part of the project titled “Transformation through Adoption of Trees and 
+Shrubs for Salinity Management in the Southern Indus Basin, Pakistan (WAC/2021/136).” 
+The MoU outlines the provision of research services aimed at addressing salinity issues in 
+the region through innovative solutions involving trees and shrubs. 
+MoU Signed with US-Pakistan Center for Advanced Studies in 
+Water 
+ 
+ 
+ 
+85 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Services 
+ 
+ 
+ 
+88 
+85 
+ 
+ 
+ 
+86 
+ 
+ 
+86 
+ 
+ 
+ 
+87 
+ 
+ 
+National Water Quality Laboratory of PCRWR is one of the state of the art Laboratories of 
+Pakistan with high tech water testing equipment and well trained professional. It is ISO- 
+17025:2017 accredited Laboratory. The provision of water and wastewater testing and 
+advisory services to the general 
+public and public and private 
+organizations 
+is 
+a 
+continue 
+activity. NWQL is also executing 
+the ground water, surface water 
+as well as wastewater assessment 
+and 
+monitoring 
+projects 
+of 
+government 
+and 
+or 
+with 
+collaboration of national and 
+international organizations.  
+ 
+ 
+ 
+PCRWR has a fully trained team 
+equipped with latest tools and 
+equipment 
+for 
+groundwater 
+investigations. 
+Usually, 
+Electrical resistivity surveying 
+methods have been widely used 
+to determine the thickness and 
+resistivity of layered media for 
+the 
+purpose 
+of 
+assessing 
+groundwater 
+potential 
+and 
+drilling boreholes in fractured 
+unconfined aquifers. 
+ 
+Laser Land Leveling is a process 
+of smoothening the land surface 
+from its average elevation with a 
+certain degree of desired slope 
+using a guided laser beam 
+through-out the field. Laser 
+leveling of agricultural land is a 
+recent 
+resource-conservation 
+technology. The Research and 
+Demonstration 
+Farms 
+of 
+PCRWR are equipped with the 
+latest Laser Land Levelers and 
+the services are provided to the 
+farmers on their request. 
+Water Quality Testing and Analysis 
+Groundwater Investigations 
+Laser Land Leveling 
+ 
+ 
+ 
+88 
+ 
+PCRWR has maintained a state of the art soil physics laboratory at its headquarters. Soil 
+testing is an important diagnostic tool for determining the nutrient needs of plants and for 
+environmental 
+assessments. 
+The major laboratory testing 
+includes 
+soil 
+moisture 
+percentage, organic matters in 
+soil, soil moisture retention 
+curves, 
+soil 
+moisture 
+extraction 
+for 
+chemical 
+analysis. PCRWR soil physics 
+laboratory 
+is 
+unique 
+in 
+Pakistan providing all above 
+mentioned tests under one 
+roof. 
+ 
+PCRWR launched the service on April, 2016, which is an outcome of international 
+collaboration extended by the University of Washington (UW) and NASA. The SMS based 
+Irrigation Advisory Services 
+of 
+PCRWR 
+are 
+being 
+provided free of cost to about 
+20,000 farmers on weekly 
+basis 
+in 
+41 
+districts 
+of 
+Pakistan. However, PCRWR 
+envisions 
+extending 
+the 
+service to all farmers of 
+irrigated 
+areas, 
+through 
+international and national 
+coordination.  
+ 
+ 
+ 
+ 
+Soil Testing Service 
+Irrigation Advisory Services 
+ 
+ 
+ 
+89 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Research 
+Publications 
+93 
+94 
+89 
+ 
+ 
+ 
+90 
+ 
+ 
+ 
+90 
+ 
+ 
+ 
+91 
+ 
+1. Farooq, M., Hifza, R., & Rehman, N. U. (2023). Efficacy of Plasma Enhanced 
+Advanced Oxidation Processes for Decontamination of Water Containing Arsenic. 
+Plasma Chemistry and Plasma Processing, 1-20. 
+2. Khanam, T., Liang, S., Xu, S., Eqani, Hifza, R., Bibi, N., Shen, H. and Zhang, J., 2023. 
+Arsenic exposure induces urinary metabolome disruption in Pakistani male population. 
+Chemosphere, 312, p.137228. 
+3. Gul, N., Salam, H.A., Ashraf, M. and Iqbal, N., 2023. Response of Different Fish 
+Species to Highly Saline Water under Desert Climate Condition-Finding Options for 
+Local Food Security. Asian Journal of Fisheries and Aquatic Research, 24(4), pp.1-9. 
+4. Arshad, M. D., Iqbal, N., & Ashraf, M. (2023). From Crisis to Sustainability: Managing 
+Aquifer Recharge in Pakistan. Pakistan Council of Research in Water Resources 
+(PCRWR) Islamabad. 
+ 
+5. Iqbal, N., Din, S., Ashraf, M., & Asmat, S. I. (2023). Hydrological Assessment of Surface 
+and Groundwater Resources of Islamabad, Pakistan. Pakistan Council of Research in Water 
+Resources (PCRWR) Islamabad. 
+ 
+6. Hassan, M., Haq, Z., & Raza, F. (n.d.). Water Requirements of Major Crops in the Central 
+Punjab: A Lysimetric Study. Pakistan Council of Research in Water Resources (PCRWR) 
+Lahore 
+ 
+7. Yaqoob, A., Tasneem, N., Mahmood, H. S., Sumreen, A., Majeed, S., Sajjad, M. A., 
+& Jabeen, Z. (2023). Consumption of pesticide leads to toxicity in pollinators: A risk 
+for the conservation of biodiversity. Journal of Xi'an Shiyou University, Natural Science 
+Edition, 19(6), 638-653. 
+ 
+8. Ghazal, R., Yaqoob, A., Jabeen, Z., Sumreen, A., Ashraf, R., Sarwar, N., & Zia, M. 
+A. (2023). Glutathione reductase: A lucky turn to remediate plant's oxidative stress. 
+Journal of Xi'an Shiyou University, Natural Science Edition, 19(6), 721-736. 
+ 
+9. Arain, G. M., Sattar, N., Khatoon, S., & Mustaquim, J. (2024). Assessment of 
+groundwater quality of Taluka Bulri Shah Karim, District Tando Muhammad Khan, 
+Sindh, Pakistan. International Journal of Economic and Environmental Geology, 14(3), 23. 
+ 
+10. Noonari, T. M., Tahira, A., Bhatti, M. A., Hulio, A. A., Thebo, G. M., Mahar, A., 
+Dawi, E., AbdEl Kader, A., Saleem, L., Nafady, A., & Ibupoto, Z. H. (2024). An 
+evaluation of banana stem extract’s potential for improving ZnO nanostructures for 
+photocatalytic oxidation of methylene blue in aqueous solution under natural light 
+conditions. Biomass Conversion and Biorefinery. 
+ 
+11. Gul, N., Salam, H. A., Ashraf, M., & Taie Semiromi, M. (2024). Effect of alternate 
+irrigation of canal and marginal groundwater on banana yield, economics and soil 
+properties at different soil moisture depletion levels under furrow irrigated raised beds. 
+Agricultural Water Management. (Under review) 
+ 
+12. Gul, N., Salam, H. A., & Ashraf, M. (2024). Water requirements of rice, maize, canola 
+and soybean in the Lower Indus Basin of Pakistan. (Under review) 
+ 
+Research Publications 
+ 
+ 
+ 
+92 
+ 
+13. Salam, H. A., Gul, N., & Ashraf, M. (2024). Identification of groundwater potential 
+zones using electrical resistivity survey in Thar Desert of Sindh, Pakistan. (Under 
+review) 
+ 
+14. Rehman, H. U., Rahman, M. U., & Ahmed, S. (2023). Depth-wise evaluation of total 
+dissolved solids and arsenic from a drilled borehole near River Ravi, Lahore, Pakistan. 
+Journal of Water and Climate Change. 
+ 
+15. Rehman, H. U., Zhang, C., Liu, X., Liu, Y., Liu, J., Tang, C., & Bai, Q. (2023). 
+Synthesis of hierarchically porous zirconium-based metal-organic framework@silica 
+core-shell stationary phase through etching strategy for liquid chromatography. Journal 
+of Chromatography A, 1709. 
+ 
+16. Ijaz, A., Anwar, Z., & Zafar, M. (2023). Screening of wastewater Oedogonium oblangum 
+algae for hyper-oil transformation into biodiesel by response surface methodology. 
+Kuwait Journal of Science, 50(4). 
+ 
+17. Malik, M. A., & Ashraf, M. (2023). Field-scale measurements of soil physico-chemical 
+profiles of the Potohar region in the Indus basin of Pakistan. Irrigation and Drainage, 
+73(1), 198-214. 
+ 
+18. Zaidi, A. Z., Khan, N. A., Lashari, B. K., Panhwar, V., & Laghari, F. A. (2023). A way 
+forward towards the demand-based agriculture water supply using satellite data: A case 
+study of the data-scarce region of Sindh, Pakistan. Arabian Journal of Geosciences, 16, 
+Article 495. 
+ 
+19. Ashraf, M., Imran, S. and Majeed, A., 2023. Water Quality and Salinity. In Water 
+Policy in Pakistan: Issues and Options (pp. 123-142). Cham: Springer International 
+Publishing. 
+ 
+20. Imran, M., M. Ashraf, M. U. Munir, N. Iqbal (2023). Water: The lifeline of Cholistan 
+Desert Pakistan Council of Research in Water Resources (PCRWR), Islamabad, pp. 51. 
+ 
+21. Mumtaz, A., M. K. Manzoor, M. Ashraf, M. U. Munir, (2023). Smart Land and Water 
+Management Interventions for Pothwar Region. Pakistan Council of Research in Water 
+Resources (PCRWR), Islamabad, pp.46. 
+ 
+22. Ashraf, M. (2023). Climate-induced water scarcity in Pakistan: The need for improving 
+water governance. Hilal English Magazine. 
+ 
+23. Khan, S., Hossain, F., Pavelsky, T., Parkins, G. M., Lane, M. R., Gómez, A. M., ... & 
+Compin, A. (2023). Understanding volume estimation uncertainty of lakes and 
+wetlands using satellites and citizen science. IEEE Journal of Selected Topics in Applied 
+Earth Observations and Remote Sensing, 16. 
+ 
+24. Khokhar, L. A. K., Khuhawar, M. Y., Khuhawar, T. M. J., Lanjwani, M. F., Arain, 
+G. M., Khokhar, F. M., & Khaskheli, M. I. (2023). Spatial variability and 
+hydrochemical quality of groundwater of Hyderabad Rural, Sindh, Pakistan. Sustainable 
+Water Resources Management, 9(164). 
+ 
+25. Khokhar, L. A. K., Khuhawar, M. Y., Jahangir, T. M., Arain, G. M., Khokhar, F. M., 
+Khaskheli, M. I., ... & Zounr, Z. A. (2023). Prosperity risk assessment by heavy metal 
+ 
+ 
+ 
+93 
+ 
+contamination on human health and multivariate statistical analysis of groundwater as 
+a drinking source. Arabian Journal of Geosciences, 16, Article 136. 
+ 
+26. Oad, V. K., Szymkiewicz, A., Khan, N. A., Ashraf, S., Nawaz, R., Elnashar, A., ... & 
+Qureshi, A. H. (2023). Time series analysis and impact assessment of the temperature 
+changes on the vegetation and the water availability: A case study of Bakun-Murum 
+Catchment Region in Malaysia. Remote-Sensing Applications: Society and Environment, 29, 
+100915. 
+ 
+27. Zahid, M. N., Ahmad, S., Khan, J. A., Arshad, M. D., Azmat, M., & Ukasha, M. 
+(2023). Evapotranspiration estimation using a satellite-based surface energy balance: a 
+case study of Upper Bari Doab, Pakistan. International Journal of Environmental Earth 
+Sciences, 82, Article 601. 
+ 
+28. Mansoor, M., Khalil, S. H., Khan, M. A., Akbar, G., Khan, M. S., Mustafa, R. N., & 
+Din, S. (2023). Impact of different irrigation regimes on growth, yield, and nodulation 
+of mung bean. Pakistan Journal of Agricultural Research, 36(4), 297-403. 
+ 
+29. Yaqoob, A., Tasneem, N., Mahmood, H. S., Sumreen, A., Majeed, S., Sajjad, M. A., 
+& Jabeen, Z. (2023). Consumption of pesticide leads to toxicity in pollinators: A risk 
+for the conservation of biodiversity. Journal of Xi'an Shiyou University, Natural Science, 
+19(6), 638-653. 
+ 
+30. Ghazal, R., Yaqoob, A., Jabeen, Z., Sumreen, A., Ashraf, R., Sarwar, N., & Zia, M. 
+A. (2023). Glutathione reductase: A lucky turn to remediate plant's oxidative stress. 
+Journal of Xi'an Shiyou University, Natural Science Edition, 19(6), 721-736 
+ 
+ 
+ 
+ 
+ 
+94 
+ 
+ 
+ 
+ 
+ 
+ 
+95 
+ 
+ 
+ 
+ 
+ 
+96 
+ 
+ 

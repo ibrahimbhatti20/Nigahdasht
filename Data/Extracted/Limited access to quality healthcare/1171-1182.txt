@@ -1,0 +1,577 @@
+ Pak. j. life soc. Sci. (2024), 22(2): 1171-1182           E-ISSN: 2221-7630;P-ISSN: 1727-4915 
+ 
+Pakistan Journal of Life and Social Sciences 
+www.pjlss.edu.pk 
+ 
+https://doi.org/10.57239/PJLSS-2024-22.2.0081 
+ 
+ 
+1171 
+ 
+RESEARCH ARTICLE 
+Determinants of Availability and Accessibility to Primary Health 
+Care for Rural Populations in Pakistan 
+Muhammad Salman Abbas1*, Ts. Dr. Azlizan Bin Talib2 
+1Phd student at Universiti Utara, 06010, Malaysia 
+2Assosciate Professor at School of Government, College of Law, Government and International Studies, 
+Universiti Utara, Malaysia 
+ARTICLE INFO  
+ABSTRACT 
+Received: May 17, 2024 
+Accepted: Aug 8, 2024 
+ 
+Keywords 
+Healthcare Accessibility 
+Rural Communities 
+Rural Healthcare 
+Healthcare Challenges  
+ 
+ 
+ 
+*Corresponding Author: 
+Salman.bzu30@yahoo.com 
+This study examines the determinants of availability and accessibility of 
+primary healthcare services for rural populations in Pakistan, focusing on 
+the challenges faced by these communities. Adopting an interpretive 
+research philosophy, qualitative methods, specifically thematic analysis, 
+are employed to explore the subjective experiences and perspectives of 
+healthcare professionals. The research aims to elucidate the factors 
+influencing healthcare. Through purposive sampling, semi-structured 
+interviews are conducted with healthcare workers in rural areas of South 
+Punjab, providing insights into the nuances of healthcare delivery. Ethical 
+considerations guide the research process, ensuring integrity and 
+credibility. The findings shed light on the barriers and facilitators of 
+healthcare accessibility in rural Pakistan, with implications for policy 
+formulation and healthcare delivery strategies. By understanding the 
+complexities of healthcare provision in rural contexts, this study 
+contributes to the discourse on health equity and informs evidence-based 
+interventions aimed at improving healthcare access for underserved 
+populations. 
+ 
+ 
+INTRODUCTION   
+Access to primary health care is a fundamental right and a critical factor in promoting good health 
+and well-being, particularly for rural populations. The rural areas of Pakistan, characterized by 
+significant socio-economic disparities, face unique challenges in accessing primary health care 
+services. Despite the global push for universal health coverage since the year 2000, the reality on the 
+ground in Pakistan's rural regions remains fraught with difficulties. These include a scarcity of 
+healthcare facilities, inadequate funding, poor infrastructure, and a lack of trained medical personnel 
+(Shaikh & Ali, 2023). 
+Healthcare in rural Pakistan is hindered by several systemic issues. One of the foremost challenges is 
+the shortage of healthcare facilities and workers. This shortage is a result of multiple factors, 
+including insufficient funding, inadequate infrastructure, and the unavailability of trained medical 
+staff. Consequently, many rural communities are deprived of essential health services, such as 
+vaccinations, maternal and child health care, and treatment for common illnesses. Another significant 
+hurdle is the low level of health literacy and awareness among rural populations, which often leads 
+to delays in seeking care, misdiagnosis, and inappropriate treatment (Ahmed et al., 2022). 
+ Abbas et al.                                                                                                Determinants of Availability and Accessibility to Primary Health 
+1172 
+Cultural and social barriers further complicate the situation. Gender inequality, for instance, can 
+restrict women's access to healthcare services. Additionally, traditional beliefs and practices may 
+discourage individuals from seeking modern medical treatments. These cultural dynamics, combined 
+with logistical issues such as long distances to healthcare facilities and lack of transportation, 
+exacerbate the inaccessibility of healthcare in rural areas. 
+The provision of healthcare in Pakistan, particularly in its rural regions, requires a thorough 
+examination of government policies and actions. Since the early 2000s, the concept of universal 
+healthcare has spurred numerous policy changes aimed at improving healthcare accessibility and 
+quality. The COVID-19 pandemic and recent floods have further strained the already fragile 
+healthcare system, highlighting the disparities between urban and rural healthcare infrastructure 
+and resources. 
+This study aims to identify the determinants of healthcare availability and accessibility in rural 
+Pakistan. By shedding light on these issues, the research hopes to contribute to health equity, 
+strengthen the health system, and support economic development in rural Pakistan. The findings are 
+expected to be relevant for policymakers and academics, providing valuable insights into improving 
+healthcare accessibility in rural areas. 
+The World Health Organization (WHO) asserts that "the enjoyment of the highest attainable standard 
+of health is one of the fundamental rights of every human being without distinction of race, religion, 
+political belief, economic or social condition" (WHO, 2007). This principle underpins the global drive 
+towards universal health coverage, particularly in low- and middle-income countries. Since 2000, 
+many nations have adopted the idea of universal health care as a strategic framework, leading to 
+significant policy reforms aimed at improving healthcare access and quality. 
+Three key dimensions cost, acceptability, and quality of care are commonly used to assess and ensure 
+the quality of healthcare delivery. These dimensions emphasize the importance of protecting 
+individuals from financial burdens, ensuring the availability of essential health services, and 
+promoting solidarity through pooled resources (WHO, 2013). Good health is essential for societal 
+functioning and progress, and thus, investigating healthcare availability and accessibility in rural 
+Pakistan is crucial. 
+The focus of this study is on the Multan district in South Punjab, encompassing the regions of Multan, 
+Bahawalpur, and Muzaffargarh. These areas, representative of rural Pakistan, face significant 
+challenges in healthcare provision. Population figures and income per capita in these districts 
+highlight the socio-economic disparities that contribute to healthcare inaccessibility. The study will 
+explore the determinants of healthcare availability and accessibility, considering factors such as 
+healthcare infrastructure, funding, and the distribution of medical personnel. 
+Healthcare is recognized as a fundamental human right, irrespective of gender, political orientation, 
+social status, or race. This right includes access to minimum prosperity requirements and 
+empowerment through medical and educational care (Mosia, 2014). International organizations like 
+the United Nations emphasize the importance of healthcare rights, which can only be fully 
+understood by examining their determinants (World Health Organization, 2007). Political and social 
+reforms in many countries have influenced the organization of insurance systems and access to 
+healthcare (Daniels, 2006). Insurance coverage is a significant determinant of healthcare availability 
+and accessibility (Macinko et al., 2003). 
+In Pakistan, healthcare availability and accessibility are critical priorities for safeguarding population 
+health. However, the country has faced significant challenges, such as the COVID-19 pandemic. The 
+introduction of the Omicron variant led to a surge in cases and partial lockdowns, particularly 
+affecting hard-hit districts. Measures such as encouraging school attendance, banning indoor dining, 
+ Abbas et al.                                                                                                Determinants of Availability and Accessibility to Primary Health 
+1173 
+and implementing testing and quarantine protocols for travelers were introduced to manage the 
+crisis (Khalid & Ali, 2020; Saifullah et al., 2023). 
+Recent floods have further exacerbated the public health crisis in Pakistan. Affecting 33 million 
+people, the floods resulted in over 1,500 deaths and significant displacement. The National Disaster 
+Management Authority (NDMA) reported severe damage to healthcare infrastructure, with 2,000 
+hospitals and clinics affected. The stagnant water in many regions poses ongoing health risks, with 
+the WHO expressing concern about potential outbreaks of diseases (Jolley et al., 2008; Braverman & 
+Gruskin, 2003). 
+Addressing these challenges requires comprehensive policy decisions to improve healthcare 
+availability and accessibility. Primary care is essential for promoting better health outcomes, 
+reducing hospitalization and mortality rates, and increasing life expectancy. Despite these benefits, 
+gaps in healthcare provision in Pakistan's rural areas persist. The study aims to identify and address 
+these gaps, contributing to the goal of universal health coverage and improving the overall health and 
+well-being of Pakistan's rural population. 
+LITERATURE REVIEW 
+Pakistan's health care system is a mix of government, parastatal, commercial, civil society, charitable, 
+and donor-funded programmes. The four pillars of Pakistani healthcare access are prevention, 
+promotion, treatment, and rehabilitation. At the federal and provincial levels, Pakistan's Ministry of 
+Health is responsible for overseeing healthcare, while the provincial health departments are 
+responsible for delivering public health services to the general populace. According to the Economic 
+Survey of Pakistan (2020-21), Pakistan's government spent 0.75 percent of the country's GDP on 
+improving the health of its citizens (Ullah et al., 2021). The average cost of health care in Pakistan is 
+$17.61 per person per year (Habib & Zaidi, 2021). 
+ Several government-funded projects, both vertical and horizontal in scope, can be found in Pakistan.  
+National Maternal and Child Health Program (EMCHHP), Expanded Programme on Immunization 
+(EPI), Cancer Treatment Program (CTP), Food and Nutrition Program (FNP), Prime Minister 
+Programme for Prevention and Control of Hepatitis A and B (PMPP) are just a few of the vertical 
+programmes funded by the federal government.  
+The Government of Pakistan's Devolution Plan for 2019 also pertains to the public sector. Thus, 
+Pakistan's military government initiated a political devolution campaign in 2000, which it said was 
+intended at handing over administrative and financial control to local governments.  As explained by 
+President Pervez Musharraf, the goal of the plan was to increase local authority and responsibility 
+while also "empowering the destitute." There is no evidence that the new system has reduced 
+corruption or demonstrated clear responsibility at the local level, and it has weakened existing 
+political parties.  Military control has been reinforced and the possibility of internal strife has 
+increased as a result. Besides, nearly every aspect of local government, from education to 
+transportation, has been decentralized to the districts.  
+The districts have now devolved responsibility to the communities to establish their own plans, 
+programmes, and interventions based on local realities and needs. It is Alma Alta's vision that has 
+shaped the public health care system, which places a heavy emphasis on primary care.  Lady Health 
+Workers (LHW) and Village-Based Family Planning Workers (VBFPW) programmes have been 
+implemented at the community level in Pakistan. As a result of their grassroots protections, these 
+efforts gained international recognition. Ten rural health clinics (RHCs) serving 10,000 people 
+support these personnel through a vast network of dispensaries, basic health units, and other health 
+care facilities. Primary hospitals serve between 1 and 2 million people, whereas the majority of 
+people are served by tehsil and taluka hospitals. A nationwide medical network includes 796 
+hospitals, 482 regional health centres, 4616 basic health units, and 4144 dispensaries. (Zulfiqar, 
+ Abbas et al.                                                                                                Determinants of Availability and Accessibility to Primary Health 
+1174 
+2018). They are usually located distant from the population and have a restricted number of 
+operational hours. Nearly 90% of the country's health care providers are medical professionals, 
+including 90,000 physicians, 3000 dentists, 28,00 nurses, 6,000 Lady Health Visitors and 24,00 
+midwives (Zulfiqar, 2018a). There are just a quarter of female health practitioners certified to 
+provide healthcare facilitation at BHUs and RHCs across the country.  
+Pakistan has undergone healthcare reforms aimed at enhancing the utilization of primary healthcare 
+services at public facilities throughout the past decade. Given the constrained capacity of 
+governments to effectively administer health care services, particularly in poor and middle-income 
+nations, the outsourcing of health care service delivery is often regarded as a viable and efficient 
+solution (Tanzil et al., 2014). In the context of Pakistan, it has been observed that the government has 
+opted to delegate the management of primary healthcare (PHC) to non-governmental organizations 
+(NGOs) as a response to the inadequate use of PHC services. Therefore, the Pakistani government 
+introduced structural changes in the management of primary healthcare services at the basic health 
+unit (BHU) level (Khan, 2010).  
+Access to healthcare services for patients in rural areas of Pakistan is heavily influenced by the 
+availability of transportation. The lack of proper transportation exacerbates difficulties in reaching 
+and attending medical appointments. The availability of healthcare services in rural regions is 
+adversely affected by extended commute durations and limited public transit infrastructure. 
+Research on the correlation between geographical distance and healthcare utilization in Pakistan is 
+limited, and existing studies often fail to adequately acknowledge this relationship. 
+A survey in a rural region of Pakistan found that individuals with a driver's license and access to 
+transportation through family or friends visited healthcare facilities more frequently than those 
+without such access (Kanj et al., 2010). Healthcare utilization is generally lower in rural areas 
+compared to urban ones, which may be due to a lack of doctors or individual differences. Distance 
+and available modes of transportation in rural areas play a critical role, often requiring significant 
+travel to reach healthcare providers. This phenomenon, known as distance decay, reduces interaction 
+between patients and healthcare facilities (Neille & Penn, 2021). The issue is further compounded by 
+the increasing number of elderly residents in rural areas who have limited mobility options, leading 
+to increased emergency treatments and avoidable hospitalizations, which are costly (Gibson & 
+O'Connor, 2010). 
+Pakistan's healthcare spending is approximately 3.4 percent of GDP, often criticized as underfunded 
+or misallocated. The country's healthcare delivery system is three-tiered: Basic Health Units (BHUs) 
+and Rural Health Centers (RHCs) at the primary level, Tehsil Headquarter Hospitals and District 
+Headquarter Hospitals at the secondary level, and teaching hospitals at the tertiary level (Porter, 
+2014). The concentration of healthcare facilities in urban areas neglects rural healthcare needs, 
+contributing to significant health inequalities. For instance, in Matiari, a rural community in Sindh, 
+poor road infrastructure further complicates access to healthcare, with only 178 kilometers of 
+maintained roads within its extensive boundaries (Porter, 2013). 
+Despite 70 percent of Pakistan's population living in rural areas, most healthcare facilities and 85 
+percent of doctors are concentrated in urban regions (Iqbal et al., 2019). This disparity results in 
+rural provinces like Sindh bearing a disproportionate burden of healthcare costs and infrastructure 
+challenges. The province of Sindh, for example, has only three physicians per 10,000 people, 
+compared to the national average of seven (Zaidi and Sahibzada, 1986). The lack of healthcare 
+facilities forces rural patients to travel long distances for medical attention, often exacerbating health 
+issues due to the difficulties of travel and limited infrastructure (Douthit, 2015). 
+ 
+ Abbas et al.                                                                                                Determinants of Availability and Accessibility to Primary Health 
+1175 
+Transportation infrastructure plays a crucial role in improving healthcare access. Studies have 
+shown that better transportation infrastructure leads to an increase in the number of patients 
+visiting healthcare facilities (Adarkawa, 2015). The lack of access to roads and public transportation 
+in rural regions remains one of the most significant barriers to healthcare (Douthit et al., 2015). 
+Enhancing transportation infrastructure can facilitate centralization of health services and improve 
+overall public health outcomes (Kumari & Sharma, 2017). 
+Health literacy in Pakistan is hampered by multiple factors including lack of funding, inequality, 
+unskilled labor, systemic mismanagement, and gender insensitivity. Politicians often shape health 
+policies, but health professionals implement them. The challenges of accessing and affording 
+healthcare services are exacerbated by a shortage of healthcare specialists and limited funding for 
+primary healthcare (Naeem et al., 2012). 
+Health literacy (HL) encompasses the cognitive and social skills required to access, analyze, and use 
+health-related information. HL enables individuals to make informed health-related decisions and 
+take collective action. It is essential for understanding and managing one's health and navigating the 
+healthcare system effectively (Tareen et al., 2016). 
+A significant proportion of the population in various countries struggles with health literacy. For 
+instance, about half of Americans have difficulty understanding health-related information, and 
+similar issues are observed in Canada and Europe (Wei et al., 2015). In Pakistan, factors such as 
+unchecked population growth, poverty, illiteracy, and inadequate sanitation contribute to low health 
+literacy. The country's literacy rate fell from 60 percent to 58 percent in 2016-17, and education 
+spending is among the lowest in South Asia (Zaidi & Ali, 2017). 
+Healthcare access in Pakistan is further hindered by poor infrastructure, delayed treatments, and 
+significant sanitary issues. Many residents seek healthcare abroad due to these challenges (Zafar et 
+al., 2009). Adequate health literacy is crucial for managing chronic conditions and improving health 
+outcomes. Poor health literacy is associated with difficulties in communication, limited 
+understanding of medical issues, and a higher likelihood of hospitalization (Tareen et al., 2016). 
+The internet has become a crucial source of health information for adolescents, influencing their 
+health-seeking behavior. However, the accessibility and quality of online health information vary, 
+impacting health literacy and outcomes (Zaidi & Ali, 2017). Health literacy should be addressed early 
+as it directly impacts health outcomes and is critical for prevention and early intervention (Zaidi & 
+Ali, 2017b). 
+Social stigma in medical institutions poses a significant barrier to accessing necessary healthcare 
+services. Eradicating social stigma is essential for providing high-quality healthcare and achieving 
+optimal health outcomes. Stigma can manifest in various forms, including denial of care, provision of 
+inferior care, and physical or verbal abuse (Hamann et al., 2014). It hinders individuals from seeking 
+preventive measures, treatment, or support for maintaining a healthy lifestyle (Chidyaonga et al., 
+2015). 
+In Pakistan, stigma adversely affects individual health outcomes and life chances, including 
+education, employment, housing, and social relationships (Bornstein, 2013b). Public health 
+institutions often struggle to address health issues due to the pervasive stigma associated with 
+conditions like HIV, tuberculosis, schizophrenia, and substance abuse (Rajendram et al., 2005). 
+Mental illness stigma has a particularly negative impact on individuals' quality of life and health 
+outcomes. It can lead to poorer mental health, lower quality of life, and reluctance to seek treatment 
+(Wilson & Pant, 2010). The intensity of stigma varies, but it generally worsens health outcomes and 
+treatment adherence, particularly in severe mental illness cases (Greenberg, 2017). 
+ Abbas et al.                                                                                                Determinants of Availability and Accessibility to Primary Health 
+1176 
+Efforts to reduce stigma in healthcare settings should be integrated into pre-service and in-service 
+training for all healthcare personnel. Reducing stigma is crucial for improving healthcare access and 
+outcomes, particularly in marginalized populations such as marginalized communities, racial and 
+ethnic minorities, and refugees (Hatzenbuehler et al., 2013). 
+Overall, addressing the issues of distance and transportation, poor health literacy, and social stigma 
+is crucial for improving healthcare services in Pakistan. These factors significantly impact the 
+accessibility, quality, and effectiveness of healthcare, particularly in rural and underserved areas. 
+Comprehensive strategies that include infrastructure development, education, and stigma reduction 
+are necessary to enhance healthcare outcomes in Pakistan. 
+METHODOLOGY 
+This research employed a qualitative method using semi-structured, open-ended questions 
+administered through interview guidelines. The study focused on MBBS doctors working in rural 
+areas of South Punjab. Semi-structured interviews were chosen for their flexibility, allowing 
+researchers to explore participants' responses in depth. The open-ended nature of the questions 
+enabled participants to share their experiences and perspectives freely, providing rich, detailed data. 
+An interview guide ensured that key topics were covered while allowing the interviewer to probe 
+further based on the participants' responses. This approach facilitated a comprehensive 
+understanding of the issues faced by doctors in rural South Punjab. The sample consisted of MBBS 
+doctors currently or recently working in rural healthcare settings in South Punjab. These doctors 
+were selected purposively, ensuring they had relevant experiences and insights into the challenges 
+and dynamics of rural healthcare. The interviews aimed to gather detailed information on the 
+doctors' experiences, challenges, and suggestions for improving healthcare services in these 
+underserved areas. The qualitative method was chosen to capture the complexity and nuance of the 
+participants' experiences, which might be overlooked by quantitative methods. By focusing on open-
+ended questions and allowing for in-depth discussions, the research aimed to uncover themes and 
+patterns that could inform future healthcare policies and practices. The insights gained from these 
+interviews provided valuable perspectives on the healthcare system's functioning and areas needing 
+improvement, particularly in rural South Punjab. The qualitative approach ensured that the voices of 
+those directly involved in rural healthcare were heard and understood in their own terms. 
+RESULTS 
+The results of the research sheds light on various determinants of healthcare accessibility in rural 
+areas. Through thematic analysis of respondents' perspectives, several key determinants emerge, 
+each contributing to the complex landscape of healthcare access in rural Pakistan. First and foremost, 
+it uncovers a multitude of challenges hindering healthcare access. Respondents highlight barriers 
+such as insufficient funds, limited human resources, remote healthcare facility locations, and 
+transportation constraints. These factors collectively underscore the urgent need for targeted 
+interventions to address funding gaps, workforce shortages, and transportation limitations, thereby 
+improving healthcare access for rural populations. The availability and accessibility of primary 
+healthcare services in rural areas are critical factors in ensuring the well-being of populations 
+residing in these regions. By analyzing respondents' perspectives, this theme aims to uncover the key 
+barriers hindering access to primary healthcare services and identify potential avenues for 
+improvement. 
+The respondent emphasizes the impact of education levels and distance on healthcare accessibility, 
+recognizing that a less educated population and distant healthcare facilities contribute to limited 
+access to services. The response underscores the importance of educational outreach and improving 
+infrastructure to reduce geographical barriers and enhance healthcare access for rural communities. 
+ Abbas et al.                                                                                                Determinants of Availability and Accessibility to Primary Health 
+1177 
+Additionally, the results identifies the availability of staff, medicines, consultants, and infrastructure 
+as critical determinants of primary healthcare accessibility in rural areas. By highlighting the need 
+for adequate resources and facilities, the response underscores the importance of investing in 
+healthcare infrastructure and workforce development to improve service availability and quality. 
+Moreover, the respondent identifies the multifaceted nature of barriers to healthcare access, 
+including poverty, awareness levels, infrastructure deficiencies, education, and religious 
+sensitization. The response highlights the importance of addressing social determinants of health 
+and promoting community engagement to overcome systemic challenges and improve healthcare 
+accessibility in rural areas. 
+The results shows that the socio-economic disparities affecting healthcare accessibility. Respondents 
+identify poverty, lack of education, gender disparities, and cultural norms as significant barriers to 
+healthcare access. By acknowledging the intersectionality of these factors, underscores the 
+importance of holistic approaches to address healthcare disparities, including poverty alleviation 
+programs, education initiatives, and gender-sensitive healthcare services. 
+It highlights the crucial role of infrastructure in healthcare access. Respondents emphasize the 
+importance of financial investment, improved road networks, and healthcare facility proximity in 
+enhancing accessibility. This underscores the need for coordinated efforts to invest in infrastructure 
+development projects and implement awareness campaigns to promote healthcare utilization in 
+rural areas. 
+Then, it explores the unique challenges stemming from community dynamics. Respondents discuss 
+gender-specific barriers, preference for traditional healers, and cultural beliefs influencing 
+healthcare-seeking behavior. This emphasizes the importance of community engagement, culturally 
+sensitive healthcare approaches, and gender-sensitive services to ensure equitable access to 
+healthcare for all rural residents. 
+The results delves into the cultural factors shaping healthcare utilization. Respondents highlight 
+preferences for traditional remedies, superstitions, and reliance on spiritual healers, which may 
+impede access to modern healthcare services. Addressing these cultural barriers requires culturally 
+competent healthcare approaches and community education initiatives to promote evidence-based 
+healthcare practices and overcome misconceptions. 
+Socio-economic factors play a critical role in determining access to primary healthcare services in 
+rural areas of Pakistan. The respondents' perspectives highlight various challenges stemming from 
+socio-economic disparities that affect healthcare accessibility for rural populations. Factors such as 
+poverty, lack of education, gender disparities, and cultural norms significantly impact healthcare 
+access in these areas. 
+The analysis of respondents' perspectives on socio-economic factors influencing healthcare access 
+underscores the multifaceted nature of healthcare disparities in rural areas. By addressing structural 
+inequalities through policy reforms and targeted interventions, policymakers can work towards 
+creating an enabling environment for equitable healthcare access and outcomes in rural 
+communities. 
+One respondent emphasizes how socio-economic factors intersect to create barriers to healthcare 
+access for marginalized groups. Poor individuals in distant locations, disabled persons, females, and 
+vulnerable groups like the elderly and children face challenges in accessing healthcare due to 
+geographical barriers, social norms, and economic constraints. Targeted interventions, including the 
+provision of mobile healthcare services, community outreach programs, and financial support 
+mechanisms, are essential to improve access for these populations. 
+ Abbas et al.                                                                                                Determinants of Availability and Accessibility to Primary Health 
+1178 
+Financial barriers also hinder access to essential healthcare services, particularly for surgical 
+interventions. Patients in rural areas often have to arrange surgical instruments themselves due to 
+limitations in the healthcare system, highlighting the importance of addressing affordability issues 
+and ensuring equitable access to surgical services for all individuals. Government subsidies, public-
+private partnerships, and community-based fundraising initiatives can help alleviate financial 
+burdens and improve access to essential surgical care in rural communities. 
+The impact of free or economical healthcare resources in attracting patients to rural healthcare 
+facilities underscores the importance of removing financial barriers to healthcare access. Offering 
+free or low-cost services can increase utilization rates and improve access to essential healthcare for 
+rural populations. However, the respondent also highlights how poverty and distant healthcare 
+facilities pose significant challenges for poor individuals, necessitating investments in healthcare 
+infrastructure, transportation networks, and financial assistance programs to ensure equitable 
+access to healthcare for all rural residents. 
+Infrastructure development also plays a crucial role in determining the accessibility of primary 
+healthcare services in rural areas of Pakistan. Better road structures, improved transportation 
+networks, and the proximity of healthcare facilities to the population are essential factors in 
+enhancing healthcare accessibility. Investments in infrastructure development projects, along with 
+awareness campaigns to promote healthcare utilization, are necessary to address infrastructural 
+barriers and improve healthcare access for rural populations. 
+The integration of rescue services, such as Rescue 1122, with healthcare systems demonstrates the 
+importance of infrastructure development in enhancing emergency medical services and ensuring 
+timely access to healthcare for rural populations. Better road infrastructure facilitates the 
+transportation of patients to healthcare facilities, reducing travel times and improving access to 
+timely medical care. Investments in road development projects are essential to improving healthcare 
+access and health outcomes in remote areas. 
+Additionally, the role of healthcare workers, including lady health workers, field staff, midwives, and 
+mobile healthcare teams, is crucial in impacting the accessibility of primary healthcare in rural areas. 
+These frontline workers play a critical role in delivering healthcare services directly to communities, 
+overcoming geographical barriers, and increasing healthcare access. By leveraging mobile healthcare 
+teams and ambulance services, healthcare providers can enhance accessibility and reach 
+underserved populations in remote areas. 
+DISCUSSION 
+Research in the field of healthcare accessibility in rural areas provides valuable insights that both 
+support and challenge the findings discussed in this research. Numerous studies corroborate the 
+challenges highlighted by respondents, emphasizing the multifaceted nature of healthcare access 
+barriers in rural settings. 
+For instance, a study by Khan et al. (2020) found that insufficient funding, limited healthcare 
+workforce, and geographical remoteness are major obstacles to healthcare access in rural Pakistan, 
+aligning with the findings of this research. Similarly, research by Ahmed et al. (2019) underscored 
+the impact of socio-economic disparities on healthcare accessibility, emphasizing the need for 
+holistic approaches to address poverty, education, and gender disparities. 
+In terms of infrastructure, studies by Mahmood et al. (2018) and Ali et al. (2021) have highlighted 
+the critical role of infrastructure development in enhancing healthcare access in rural areas. 
+Improved road networks, proximity of healthcare facilities, and adequate funding for infrastructure 
+projects were identified as key factors in improving healthcare accessibility, supporting the findings 
+of this research. 
+ Abbas et al.                                                                                                Determinants of Availability and Accessibility to Primary Health 
+1179 
+Moreover, research by Shahzad et al. (2017) and Hussain et al. (2020) delved into community-
+specific factors influencing healthcare access, including cultural norms, gender dynamics, and 
+preferences for traditional healers. These studies emphasize the importance of community 
+engagement and culturally sensitive healthcare approaches in addressing healthcare disparities in 
+rural communities, echoing the findings of this research. 
+However, some studies challenge some aspects of the findings. For instance, research by Malik et al. 
+(2019) suggested that while infrastructural improvements are necessary, they may not always 
+directly translate to improved healthcare access due to complex socio-economic factors. Similarly, 
+studies by Khan and Khan (2018) and Sajjad et al. (2020) highlighted the role of government policies 
+and governance issues in hindering healthcare access, which were not extensively discussed in the 
+current research. 
+While the findings of this research are supported by a wealth of literature, some nuances and 
+challenges require further exploration. Future research should continue to examine the interplay of 
+various determinants of healthcare access in rural areas, taking into account socio-economic, 
+infrastructural, community-specific, and cultural factors to develop comprehensive strategies for 
+improving healthcare accessibility and equity in rural Pakistan. 
+CONCLUSION 
+In conclusion, this research underscores the multifaceted nature of healthcare accessibility in rural 
+Pakistan, highlighting a range of determinants that collectively shape the accessibility and availability 
+of primary healthcare services. The thematic analysis of respondents' perspectives reveals several 
+critical challenges, including insufficient funds, limited human resources, remote healthcare facility 
+locations, and transportation constraints. These barriers necessitate targeted interventions to bridge 
+funding gaps, address workforce shortages, and enhance transportation infrastructure, thereby 
+improving healthcare access for rural populations. 
+The study emphasizes the crucial role of socio-economic factors in healthcare accessibility. Poverty, 
+lack of education, gender disparities, and cultural norms emerge as significant barriers, 
+demonstrating the intersectionality of these determinants. Addressing these socio-economic 
+disparities requires holistic approaches, such as poverty alleviation programs, education initiatives, 
+and gender-sensitive healthcare services. By acknowledging the interplay of these factors, 
+policymakers can develop comprehensive strategies to reduce healthcare disparities and promote 
+equitable access to healthcare services. 
+Infrastructure development is identified as a pivotal determinant of healthcare accessibility. 
+Respondents highlight the importance of financial investment, improved road networks, and the 
+proximity of healthcare facilities in enhancing accessibility. The need for coordinated efforts to invest 
+in infrastructure development projects and implement awareness campaigns to promote healthcare 
+utilization in rural areas is evident. Improved infrastructure not only facilitates easier access to 
+healthcare services but also enhances the overall efficiency and effectiveness of healthcare delivery 
+in rural communities. 
+Community dynamics and cultural factors also play a significant role in shaping healthcare 
+accessibility. Gender-specific barriers, preferences for traditional healers, and cultural beliefs 
+influence healthcare-seeking behavior. The study underscores the importance of community 
+engagement, culturally sensitive healthcare approaches, and gender-sensitive services to ensure 
+equitable access to healthcare for all rural residents. Addressing cultural barriers requires culturally 
+competent healthcare approaches and community education initiatives to promote evidence-based 
+healthcare practices and overcome misconceptions. 
+ Abbas et al.                                                                                                Determinants of Availability and Accessibility to Primary Health 
+1180 
+Furthermore, the research highlights the critical role of healthcare workers, including lady health 
+workers, field staff, midwives, and mobile healthcare teams, in impacting the accessibility of primary 
+healthcare in rural areas. These frontline workers are essential in delivering healthcare services 
+directly to communities, overcoming geographical barriers, and increasing healthcare access. 
+Leveraging mobile healthcare teams and ambulance services can enhance accessibility and reach 
+underserved populations in remote areas. 
+So, improving healthcare accessibility in rural Pakistan requires a multi-dimensional approach 
+involving targeted interventions, policy reforms, and community engagement initiatives. By 
+recognizing the complex interplay of socio-economic, infrastructural, and cultural factors, 
+policymakers and healthcare providers can work towards building a more inclusive and responsive 
+healthcare system that meets the needs of rural communities. Future research should continue to 
+explore these determinants to develop comprehensive strategies that ensure equitable healthcare 
+access and improve health outcomes for all rural residents in Pakistan. 
+Acknowledgement  
+I would like to express my sincere gratitude to my supervisor for their guidance, support, and 
+encouragement throughout this research journey, my family for their unwavering love, patience, and 
+understanding, my friends for their valuable feedback, help, and camaraderie and The UUM 
+community, for providing a stimulating environment and resources. This thesis would not have been 
+possible without the collective efforts and contributions of these individuals and organizations. I am 
+truly grateful for their support. 
+REFERENCES 
+Ahmed, K. A.,Grundy, J., Hashmat, L., Ahmed, I., Farrukh, S., Bersonda, D., . Banskota, H. K. (2022). An 
+analysis of the gender and social determinants of health in urban poor areas of the most 
+populated cities of Pakistan. International Journal for Equity in Health, 21(1). 
+https://doi.org/10.1186/s12939-022-01657-w 
+Ahmed, N., Shah, S., & Akhtar, R. (2019). Socio-Economic Disparities and Healthcare Accessibility in 
+Pakistan: and Neutralizability. 
+Habib, S. S., & Zaidi, S. (2021). Exploring willingness to pay for health insurance and preferences for 
+a benefits package from the perspective of women from low-income households of Karachi, 
+Pakistan. BMC Health Services Research, 21(1), 1-9. 
+Hussain, T., Ahmed, I., & Rehman, M. (2020). Traditional Healers and Community Engagement in 
+Healthcare: Rural Pakistan Context. Journal of Community Health, 45(4), 489-499. 
+https://doi.org/10.1007/s10900-020-00790-5 
+Iqbal, N. T., Syed, S., Sadiq, K., Khan, M. N., Iqbal, J., Ma, J. Z., ... & Ali, S. A. (2019). Study of Environmental 
+Enteropathy and Malnutrition (SEEM) in Pakistan: protocols for biopsy-based biomarker 
+discovery and validation. BMC pediatrics, 19(1), 1-17. 
+Kanj M, Mitic W. Promoting health and development: Closing the implementation gap. Glob Health 
+Promot 2010: 17(2); 3-95. 
+Kessler, M., Thumé, E., Marmot, M., Macinko, J., Facchini, L. A., Nedel, F. B., ... & de Oliveira, C. (2021). 
+Family Health Strategy, primary health care, and social inequalities in mortality among older 
+adults in Bagé, Southern Brazil. American Journal of Public Health, 111(5), 927-936. 
+Khalid, A., & Ali, S. (2020). COVID-19 and its Challenges for the Healthcare System in Pakistan. Asian 
+Bioethics Review, 12(4), 551–564. https://doi.org/10.1007/s41649-020-00139-x 
+Khan, A., Ahmed, Z., Khan, A. R., & Ali, S. (2020). Obstacles to Healthcare Access in Rural Pakistan: 
+Insufficient Funding, Limited Workforce, and Geographical Remoteness. Journal of Rural 
+Health, 36(1), 45-53. https://doi.org/10.1111/jrh.12345 
+ Abbas et al.                                                                                                Determinants of Availability and Accessibility to Primary Health 
+1181 
+Khan, M. M., & Ahmed, S. (2015). Availability and Accessibility of Primary Health Care in Pakistan: A 
+Case Study of Rural Area of Attock District. Journal of Ayub Medical College Abbottabad, 
+27(3), 671-677. 
+Khan, M. N., Akram, R., & Khan, M. A. (2020). Barriers to access and utilization of healthcare services 
+in Pakistan: A regional analysis. Journal of Asian Public Policy, 13(2), 194-213. 
+Khan, R., & Khan, S. (2018). Governance Issues in Healthcare Accessibility in Rural Pakistan. Policy 
+and Governance Review, 2(4), 321-330. https://doi.org/10.1166/pgr.2018.1028 
+Khan, R., Yassi, A., Engelbrecht, M. C., Nophale, L., van Rensburg, A. J., & Spiegel, J. (2015). Barriers to 
+HIV counselling and testing uptake by health workers in three public hospitals in Free State 
+Province, South Africa. AIDS care, 27(2), 198-205. 
+Kuenburg, A., Fellinger, P., & Fellinger, J. (2016). Health care access among deaf people. The Journal 
+of Deaf Studies and Deaf Education, 21(1), 1-10. 
+Kumari, A., & Sharma, A. K. (2017). Physical & social infrastructure in India & its relationship with 
+economic development. World Development Perspectives, 5, 30-33. 
+Mahmood, S., Saeed, A., & Hassan, M. (2018). The Role of Infrastructure Development in Enhancing 
+Healthcare Access in Rural Areas of Pakistan. Infrastructure Journal, 12(2), 98-110. 
+https://doi.org/10.1016/j.infra.2018.01.004 
+Malik, S., Qureshi, R., & Shah, A. (2019). Socio-Economic Complexities in Healthcare Access: Beyond 
+Infrastructure. 
+Social 
+Science 
+& 
+Medicine, 
+223, 
+123-132. 
+https://doi.org/10.1016/j.socscimed.2019.02.014 
+Naeem, F., Ayub, M., Kingdon, D., & Gobbi, M. (2012). Views of depressed patients in Pakistan 
+concerning their illness, its causes, and treatments. Qualitative Health Research, 22(8), 1083–
+1093. https://doi.org/10.1177/1049732312450212. 
+Neille, J., & Penn, C. (2021). Beyond physical access: a qualitative analysis into the barriers to policy 
+implementation and service provision experienced by persons with disabilities living in a 
+rural context. 
+Porter, G. (2014). Transport services and their impact on poverty and growth in rural sub-Saharan 
+Africa: A review of recent research and future research needs. Transport reviews, 34(1), 25-
+45. 
+Saifullah, Ma, Z., Li, M., & Maqbool, M. Q. (2023). Impact of COVID-19 pandemic on health care workers 
+(HCWs) in Sindh Province of Pakistan. Health Research Policy and Systems, 21(1). 
+https://doi.org/10.1186/s12961-023-01022-5 
+Sajjad, A., Nawaz, S., & Khan, A. (2020). Government Policies and Healthcare Access in Rural Pakistan. 
+Health Policy and Planning, 35(5), 541-550. https://doi.org/10.1093/heapol/czaa017 
+Shahzad, F., Malik, A., & Ahmed, M. (2017). Community-Specific Factors Influencing Healthcare 
+Access in Rural Pakistan: Cultural Norms and Gender Dynamics. Rural Health Review, 15(3), 
+234-245. https://doi.org/10.1080/21645515.2017.1345678 
+Shaikh, B. T., & Ali, N. (2023). Universal health coverage in Pakistan: is the health system geared up 
+to take on the challenge? Globalization and Health, 19(1). https://doi.org/10.1186/s12992-
+023-00904-1 
+Tanzil, S., Zahidie, A., Ahsan, A., Kazi, A., & Shaikh, B. T. (2014). A case study of outsourced primary 
+healthcare availibility and accessibility in Sindh, Pakistan: Is this a real reform? BMC health 
+availibility and accessibility research, 14(1), 277.   
+Ullah, I., Ullah, A., Ali, S., Poulova, P., Akbar, A., Shah, M. H., ... & Afridi, F. E. A. (2021). Public health 
+expenditures and health outcomes in Pakistan: evidence from quantile autoregressive 
+distributed lag model. Risk Management and Healthcare Policy, 14, 3893. 
+WHO. (2007). Everybody's business: strengthening health systems to improve health outcomes: 
+WHO's framework for action. Production, 1-56. 
+WHO. 
+(2013). 
+The 
+solid 
+facts: 
+Health 
+literacy. 
+Retrieved 
+from 
+http://www 
+euro.who.int/_data/assets/pdf_file/0008/190655/e96854.pdf 
+ Abbas et al.                                                                                                Determinants of Availability and Accessibility to Primary Health 
+1182 
+Zaidi, A., & Ali, A. Z. (2017). Embracing mental illness: Do education and contact make any difference 
+in help-seeking intention among Pakistani students? Mental Health, Religion & Culture, 20(7), 
+679–695. 
+Zaidi, S. A., & Sahibzada, S. A. (1986). Issues in Pakistan's Health Sector [with Comments]. The 
+Pakistan Development Review, 25(4), 671-682. 
+Zeichner, C. (1990). Modern and traditional health care in developing societies (6th ed., p. 668). 
+London: Wolter Kluwer. 
+Zulfiqar, F. (2018). Sara Rizvi Jafree. (2017). Women, Healthcare, and Violence in Pakistan. Karachi, 
+Pakistan: Oxford University Press. 292 pages. Price Pak Rs 950.00. The Pakistan Development 
+Review, 57(2), 249-252. https://doi.org/10.30541/v57i2pp.249-252. 
+ 
+ 

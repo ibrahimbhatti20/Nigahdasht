@@ -1,0 +1,876 @@
+Impact of Clean Drinking Water and Sanitation 
+on Water Borne Diseases in Pakistan 
+Abstract 
+Water is an essential need of human being. Every person on this planet requires at least 20 to 
+50 liters of safe water in a day for drinking, cooking and other purposes. According to United 
+Nations (UN) the basic human right is to universal access to Safe water, and an essential step 
+towards better living standards all over the world. According to government of Pakistan 
+Economic survey (2008) In Pakistan, it revealed that nearly 50 million people are deprived of 
+Safe drinking water.  In this research it is intended to produce trends of Sanitation and safe 
+drinking water situation in Pakistan. This study also looks deep into the relationship of water 
+borne diseases with the background information of the respondents. Which is itself is a 
+contribution of my work on water borne diseases. Secondary Data from Pakistan 
+Demographic Health Survey (PDHS) and Multiple Indicator Cluster Survey (MICS) has been 
+used. To see the individual impact of environmental, social and demographic characteristics 
+to influence diarrhoea separate equations were executed. Presenting the pathways of 
+communicable diseases, has developed from two model i.e. model of Exposures and health 
+outcomes are difficult by unified factors studied by Montgomery et al., (2007) and model of 
+transmission pathways of fecal-oral diseases studied by Prüss et al., (2002). Results of the 
+study conclude that Post-neonatal i.e. greater than 28 days from birth deaths have a 
+significant proportion caused due to diarrheal morbidity. There are almost 7 postnatal deaths 
+(per thousand) that happen due to childhood morbidity of diarrhea and almost same is for the 
+children who are under five years old. Urban zones showed high prevalence of diarrhea 
+among children and rural areas brought high rates of childhood diarrhea. Incidences of 
+diarrhea are more for households with not-improved toilet facility as compared to those with 
+improved toilet facility. Incidence of childhood diarrhea emerge more for children belonging 
+to households with pit latrine with slab. Educated mothers are hypothesized to be beneficial 
+for less prevalence of diarrhea. In this regard, our investigation shows that, educated mothers 
+are highly influential. In the end Policy Recommendations has been given which are rational 
+to be incorporated in polices for Policy Makers.  
+ 
+Key Words: Water, Sanitation, Diarrhoea, Communicable disease and Childhood. 
+ 
+Introduction 
+Lack of Proper sanitation & Safe drinking water has been and endures to be a source of most 
+important issue around the globe due to high rates of mortality and morbidity associated with 
+them. Children are most vulnerable, especially children those under the five years of age. 
+Majority of cases of mortality and morbidity are in children. 
+According to UNICEF report (2008) approximately 1.8 million people die annually and 4 
+billion cases are associated from water-related diseases which are becoming a major root of 
+mortality and morbidity across the globe. In developing countries, 99.8% of such deaths 
+occur out of which 90% are children under the age of five. Moreover, 88% of this 99.8% are 
+illnesses are directly linked with insufficient supply of water, poor water sanitation and hygiene. 
+Due to immense uses of water for many purposes, such as agricultural and industrial 
+activities, have hugely impacted the quality and quantity of water resources, leads to increase 
+water related diseases and its hazardous effects.  
+This Scenario stands worst in third world countries. The mortality and morbidity due to poor 
+quality drinking water and sanitation are higher among these underdeveloped and developing 
+countries. It causes both human and economic loss for these third world countries. 
+The water resource issues and poor quality of drinking water are the main concerns in 
+developing countries. Montgomery and Elimelech (2007) indicated that poor sanitation and 
+quality of drinking water has become major cause of spreading water borne diseases 
+including dysentery, cholera, giardiasis, and hepatitis A and E etc.  
+As a developing country, Pakistan also deprived of improved sanitation and Safe drinking 
+water. In Pakistan, poor hygienic habits, improved sanitation, and Safe drinking water are 
+associated with a number of water borne diseases among the people. Like other countries, in 
+Pakistan children are the most affected ones from such diseases and mortality resulting from 
+them. 
+As according to government of Pakistan Economic survey (2008) in Pakistan nearly 50 
+million individuals lack availability of Safe drinking water. Only 42% people have access to 
+sanitation services out of which 65% are in urban areas and 30% are in rural areas. In urban 
+areas, about 30% people live in slums. In urban areas, about 30% people live in slums, with 
+entirely insufficient sanitation and sewage dumping facilities. Majority of the people who are 
+living near open drains or sewers particularly affected by sever health issues. Moreover, 
+diarrheal diseases were accounted for 14% of all expiries in children under five. In Pakistan, 
+everyday 670,000 children missed school due to diseases and lack of proper water sanitation 
+system. Pakistan is being hit by PKR 112 billion per annum due to hygiene related illness; it 
+includes disease caused by unsafe water and poor sanitation.  
+In Pakistan, lack of water and sanitation is one of the most recurrent glitches and nearly 16 
+million individuals do not have access to safe water. In 2016 Dawn published that about 84% 
+to 89% water sources do not fulfill the water quality standards for human consumption. 
+In rural areas, accessibility of tap water is very low, for example in Punjab it is approximately 
+13% as compared to 43% in urban areas. 88% of water of rural areas from the samples of 21 
+districts in Punjab was unsafe and similarly 79% of water of rural areas from the samples of 
+12 districts in Punjab was also hazardous (Daily Times, 2016). It is obvious that rate of 
+mortality is very high due to water borne disease. Correspondingly, in 2017 Daily Times 
+published those nearly 39,000 expiries due to Diarrheal ailments among children under five 
+in 2015 in Pakistan, out of which 22,900 expiries were caused by poor washing habits. 
+Now it is a major concern for policymakers in Pakistan and international organizations 
+working on health in Pakistan. The need for effective policy making to overcome the issue 
+has been recognized. However, before any attempts we made, there is a need to understand 
+the major concern and therefore studies are obligatory in this area. This study is an attempt to 
+improve our understanding of the issue and come up with solid Policy recommendations to 
+tackle this problem of impure sanitation system and poor drinking water in the country. 
+Objective 
+“The study will address the water quality issues with respect to water borne disease (diarrhea) 
+and the factors associated with it, at national sub nation level. Furthermore, policy 
+intervention required to improve water quality situation in the country” 
+Based on above objectives of study, the main hypotheses of the study are: 
+1. 
+Variation in water and sanitation systems could affect the water borne disease among 
+children under five. 
+Prevalence of childhood morbidity due to waterborne disease is a function of some 
+background characteristics including demographic, socioeconomic and environmental 
+factors. 
+Literature Review 
+Preclusion of waterborne disease is a big worry in the world. Waterborne illness signify 
+burden of diseases around the globe. About 4% of illnesses are associated with sanitation, 
+water and hygiene; similarly approximately 2.2 million persons die every single year because 
+of diarrheal illness in the world. Drinking water is a big reason of communicable and non-
+communicable agents in developing countries. Waterborne medical situations represent 
+substantial burden of illnesses worldwide. According to Rana (2009) the children who are 
+under the age of five years are more susceptible to get infected from waterborne pathogens as 
+compared to adults.  
+In 2012 Imran et al. said diarrheal disease poses morbidity and mortality hazards to children. 
+Another perspective is the economic perspective which emphasizes on consideration and 
+clarification of relationship and household behavior among the suitable involvements and the 
+resources. The methodological outlook highlights the requirement to deliver households with 
+an abundant and satisfactory safe water supply and sanitation facilities. Diarrhoea occurrence 
+low with safe water and households are alert in their individual hygiene, and boil water. In 
+such case, interference like water quality improvement possibly will show unsuccessful in 
+dropping diarrhoea rates because of the behavioral issues.  
+Pakistan‟s water and sanitation challenges are increasing which illustrate the problems of 
+rapid urbanization. Mainly in rural areas, availability of safe drinking water is also of main 
+concern for women and children as they are also have the responsibility for fetching water 
+from distances. 
+In 2005, Roseman estimated death of about 0.25 million children per annum because of 
+diarrhea & related diseases in Pakistan. Each year about ten thousand people die in just 
+Karachi due to renal infection caused by unsafe water.  
+In 20005, Aziz JA discussed that because of unsafe drinking-water, people continuously 
+suffer from waterborne diseases. Contaminated drinking water diseases caused about 40% of 
+all deaths and about 30% of all diseases in Pakistan. Diseases like cholera, typhoid, hepatitis 
+and dysentery are repeatedly reported throughout Pakistan. Diarrhoea is second highest in 
+numbers amongst 15 top infectious diseases in less than 5 years of age children. This clearly 
+indicates the faecal contamination of drinking-water in Punjab, Pakistan.  
+As described by Haydar et al. (2009) in Pakistan nearly 40% expiries and 30% ailments are 
+allied to hazardous water. Due to contaminated drinking water, every fifth individual suffers 
+from disease. It is projected that more than three million Pakistanis suffer from waterborne 
+illnesses and annually 0.1 million individuals don‟t survive. In Pakistan, an estimated 44% 
+population doesn‟t have access to safe drinking water whereas facts increase to 80% in rural 
+areas. Nearly 1.1 billion populations are deficient to access basic drinking water and 
+sanitation. On the other side, it is indicated that there is still 2.4 billion people who are lack of 
+safe drinking water and improved sanitation system across the globe. 
+As viewed by Muhammad et al. (2012), diseases particularly diarrhoea is one of the leading 
+cause of disease associated with drinking contaminated water is responsible for 2.5 million 
+childhood deaths every year.  
+According to Khalil et al (2016) Pakistan is blessed with surface and ground resources, but 
+with the passage of time water remains an acute resource for sustained safety of the people. 
+Diarrhea is well-recognized water born disease caused by rotavirus among children. Water 
+borne diseases can have a significant impact on the economy which results in increased 
+number of deaths. Moreover, 60% of the deaths are due to diarrhoea caused by pathogens, 
+impure drinking water or food.    
+In 2007 Fahim Jahangir Khan and Yaser Javed wrote about the Provision of safe drinking 
+water & adequate sanitation in the Pakistan. The Provision of safe drinking water, adequate 
+sanitation and personal hygiene are important to control trachoma, malaria, diarrhoea, 
+hepatitis A & hepatitis B, morbidity, morbidity levels and the sustainable environmental 
+condition. As reported by MICS Balochistan in 2004, about 38.5 million people of Pakistan 
+don‟t have safe drinking water and 50.7 million are lacking with proper sanitation in the 
+country. The finding of the research indicates that in Pakistan the regional and/or national 
+targets, there are direct relationship exists between the health, nutrition, water sanitation, 
+human well-being and natural environment. Worldwide due to water related illness every day 
+about 14000 to 30000 individual frequently children die (IHRO, 2007) it is reported that 
+approximately there is more than 5 million Water borne disease related mortalities per year. 
+About 3.7% of the health problems and 3.1% of the deaths annually across the globe which is 
+associated with unsafe drinking water, sanitation and hygiene related concerns. 
+As viewed by Kemp et al. (2010) different progressive actions including mining, pose 
+numerous risks to human rights for the availability of safe drinking water. Majority of 
+universal frameworks, availability of safe drinking water is the basic human right. On the 
+other hand, safe water requirements can be assured through international and anti-
+privatization movements for access to safe drinking water.  
+ 
+Methodology 
+This study revolves around the impacts of environmental, demographic, social and economic 
+factors on human health outcomes. Following figure, presenting the pathways of 
+communicable diseases, has developed from two model i.e. model of Exposures and health 
+outcomes are complicated by interrelated factors called MEME studied by Montgomery et 
+al., (2007) and model of transmission pathways of fecal-oral diseases studied by Prüss et al., 
+(2002) as discussed in literature above 
+Figure: 1. Model of Pathways of communicable diseases stimulated by background 
+population characteristics and household environmental factors 
+ 
+Population characteristics motivate the conditions that cause diarrhoea which is considered as 
+an outcome from poor water and sanitation conditions. Water borne sewerage and non-
+improves latrines (non-recycling or unpaved lines etc.) caused by human disposal of wastes 
+majorly excreta put their impression directly to the sources of surface and ground water. 
+However, sources of surface and ground water impress each other with their direct effects on 
+sources of drinking water, respectively. Surface water on contamination cause communicable 
+diseases directly or indirectly but ground water which is interlinked with surface water 
+indirectly brings communicable diseases by contaminating the drinking water.  
+Research Type & Approach 
+The entire research work is exploratory and is defined as the initial research into a 
+hypothetical or theoretical idea. In exploratory research, researcher has an idea or has 
+observed something to understand more about it. The nature of this exploratory research is to 
+determine futuristic approach about feasibility of initial ground work. The inductive approach 
+which is often called bottom up approach is used to precede this study.  
+This study makes use of quantitative statistical tools to evaluate objectives and test the 
+potential hypothesis of the study. It makes use of micro data of nationally representative 
+household surveys. To bring out the micro level evidence for mainstreaming the sub 
+national level health policies, this study make use of national, provincial and sub 
+provincial level data.  
+According to Pakistan Demographic and Health Survey (2012-13) piloted by National 
+Institute of Population Studies (NIPS) provide comprehensive details on child health. This 
+survey is based on two stage provincial sample design covering country districts including 
+Islamabad, Punjab, Sindh, Balochistan, Gilgit-Baltistan and KPK. Micro Data of PDHS have 
+selected to evaluate to impact of environmental, socioeconomic, demographic and 
+background factors on incidence of diarrhea.  
+Multiple indicators Cluster Survey (MICS 2014) is well recognized micro data for analyzing 
+the child health outcomes. It is a tool to provide the district level development indicators 
+instrumented by UNICEF globally over last few decades. District Level Multiple Indicators 
+Cluster Survey (MICS), published in 2014 from Punjab and Sindh Bureau of Statistics, will 
+provide information of diarrhea prevalence in two weeks earlier the study. Both if MICS 
+surveys provide the district level provincial estimates from Punjab and Sindh regions. 
+Following is the samples size for MICS (2014). 
+Table 1. Sample Size of Multiple Indicators Cluster Survey 
+ 
+Region 
+Sample Households 
+Children (0-59 months) 
+Punjab 
+41413 (97.6% response) 
+47841 
+Sindh 
+19360 (94.4% response) 
+47202 
+                                                          
+1 MICS (2014) Punjab Report, Page 58, Table CH.5: Care-seeking during diarrhea 
+2 MICS (2014) Sindh Report, Page 51, Table CH.5: Care-seeking during diarrhea 
+ 
+Limitations of Data 
+PDHS is based on provincial sample design. Hence it provides National and Province level 
+estimates. MICS are limited to District level estimates for only Punjab and Sindh Districts. 
+Last PDHS round (3) was undertaken during 2012-13 and MICS were conducted in 2014. For 
+district level rates of diarrhea, PDHS could not comply hence MICS was selected on the 
+bases of similarity of definition of our dependent variable and closeness of years of surveys. 
+Schedule of data collection is totally different for both MICS and PDHS. Definitions and data 
+dictionaries used in PDHS and MICS are similar for selected variables. 
+Respondents 
+All children ages 0-59 months are our target population. Information of diarrhea prevalence is 
+collected from “Child Health” section of “Individual Ever Married Questionnaire”. This 
+section provides comprehensive information of incidences diarrhea and its treatment. 
+Variables of Study 
+Childhood diarrhoea has taken as output indicators of household poor environmental 
+conditions. Environmental conditions i.e., source of washing facility and safe drinking water 
+affects the children health (under five years). Common viral disease spread rapidly if these 
+conditions are not satisfactory hence hygienic. Socioeconomic status gives population 
+subgroups that are vulnerable. Demographic characteristics gives insight into influence of 
+population based characteristics that influence the diarrhea and household level background 
+characteristics provide a snap shot of inherited factors that do not affect diarrhoea directly but 
+are influencing it.  
+Dependent Variable 
+It takes the value „1‟ if events of morbidity (diarrhea in last 14 days), due to water borne 
+disease, are observed and „0‟ if no such evidence is found among children under the age of 
+five years old.  
+Independent Variables 
+There are four major groups of independent variables i.e. (toilet and drinking water facility), 
+socioeconomic (education and working status), demographic (age of child and mother, 
+gender of child and size of child at birth) and background characteristics (ethnicity, 
+household wealth status and region of residence of children).  
+Table 2. Domains and Variables 
+Domains 
+Variables 
+Reference 
+Demographic 
+Age of Child; Age of Mother; 
+Gender of Child 
+Anteneh et al 2017; Murtaza et al 
+2015; Imran et al (--); Arif and 
+Naheed 2012; Mengistie et al 2013 
+Socio 
+Economic 
+Education of Parents; Economic 
+Working status of mother; Wealth 
+of Mother 
+Ibid 
+Background 
+Area of Residence; Region of 
+Residence; Ethnicity 
+Ibid 
+Environmental 
+Water Supply; Sanitation Facility 
+Ibid; Fayehun, 2010; MICS 2014 
+Main Report 
+ 
+Each component of these groups of indicators is explained below:- 
+Toilet Facility: It depicts the condition of sanitation at household. 
+Source of Drinking Water: It shows the different ways from which households are using 
+water for drinking purpose. 
+Current age of child (months): Immunity of child improves as age increases.  
+Gender of Child: This variable is considered to show whether there is any difference in rates 
+of diarrhea among male and female children. 
+Size of Child at Birth and Birth Weight: Children who are naturally healthy are least likely 
+to get diarrhea. 
+Mother’s Age: As soon as age of mother increases the diarrhea decreases due to increasing 
+experience of motherhood. 
+Age difference B/W parents: This variable provides the communication gap among mother 
+and father. More age difference of mothers from fathers is considered as more 
+communication gap. 
+No. of Household Members: Children from larger households may sometimes get neglected. 
+Parents and elders give more time to children in small households. 
+Parent’s Education attainment level: Educated parents are considered more beneficial for 
+healthcare of their children. 
+Mother’s Working Status: Working mothers are considered to give less time as compared 
+to those who do not work. Non-working mothers are considered as good caretaker of 
+children. 
+Maternal Language: this indicator is taken to cater the traditional setups and cultural norms 
+in society. 
+Wealth Possession: It gives possession of household assets that give life comfort. 
+Households with poor cooking fuel, non-pakka household structure and other household 
+assets are more likely to get chances of diarrhea among children as compared to those having 
+pakka house structure, better energy sources and other household assets. 
+Place of Residence: Least develop area bring more disease rates as there are less nearby 
+health facilities as compared to develop areas. 
+Regions: This variable gives regional variation in disease rates. 
+Table 3. Variable construction and Types 
+ 
+Variable 
+Levels (categories) 
+Variable Types 
+Diarrhea 
+Prevalence 
+(dependent) 
+Yes 
+Dummy 
+No 
+Toilet Facility 
+Improved 
+Binary Dummy 
+Unimproved 
+Source 
+of 
+Drinking 
+Water 
+Improved 
+-do- 
+Unimproved 
+Current age of child 
+(months) 
+0-5 
+Categorical from continuous 
+information of age reported in months 
+6-11 
+12-17 
+18-59 
+Gender of Child 
+Male 
+Nominal Binary 
+Female 
+Size of Child at Birth 
+Larger 
+Ordinal Categorical 
+Average 
+Small 
+Birth Weight 
+Below 2500 gm 
+Binary from continuous information of 
+weight of child reported in grams 
+≤2500 gm and above 
+Mother‟s Age 
+15-19 
+Categorical from continuous 
+information of age reported in 
+completed years 
+20-24 
+25-29 
+30-34 
+35-39 
+40-44 
+45-49 
+Age difference B/W 
+parents 
+Less than 10 years 
+Binary from continuous information 
+calculated from difference of mother‟s 
+age to father‟s age 
+10 and above years 
+No. 
+of 
+Household 
+Members 
+Less than 5 
+Binary form from discrete response on 
+numbers of members living in 
+household 
+5 and above 
+Mothers 
+Education 
+attainment level 
+Uneducated 
+Ordinal categories developed from 
+continuous completed years of 
+Primary 
+Secondary 
+education attained 
+Higher 
+Father‟s 
+Education 
+attainment level 
+Uneducated 
+Primary 
+Secondary 
+Higher 
+Mother‟s 
+Working 
+Status 
+Not working 
+Binary form 
+Working 
+Maternal Language 
+Urdu 
+Nominal catagories 
+Siraiki 
+Punjabi 
+Sindhi 
+Balochi 
+Pushto 
+Others 
+Wealth Possession 
+Poor 
+Ordinal categories‟ from continuous 
+scale 
+Middle 
+Rich 
+Place of Residence 
+Urban 
+Nominal Categories 
+Rural 
+Regions 
+Punjab 
+Nominal Categories 
+Sindh 
+Khyber Pakhtunkhwa 
+Balochistan 
+Islamabad 
+Gilgit-Baltistan 
+Statistical Analysis 
+Descriptive statistics and regression analysis are performed on data to meet the objective of 
+the study. Following is the brief of tools used in analysis. 
+Descriptive Statistics 
+Trends have been observed by line graphs of percentage of household with water and 
+sanitation facilities and incidence of diarrhea in 1991, 2007 and upto 2013. These data are 
+extracted from three rounds of PDHS (1990-91; 2006-07 and 2012-13). 
+Cross Tabulation 
+Incidence rate of diarrhea by sources of drinking water and sanitation facilities are calculated 
+to highlight the vulnerable sources. These rates are also found for different population strata 
+at national and sub national level. Besides these association background factors of water and 
+sanitation facilities, demographic and socioeconomic factors is measured through chi-square 
+test of independent association. The association is tested at 1%, 5% and 10% level of 
+significance for measuring the strength of association. Potential hypothesis built for this 
+testing are provided in following table:- 
+Subnational level estimates of diarrhea are estimated through bivariate percentage 
+distributions.  
+Regression Analysis 
+Multivariate Binary Logistic Regression Model (Anteneh, et al. 2017; Hosmer, et al. 2013) 
+will highlight the impact of demographic, socioeconomic, background and environmental 
+factors on prevalence of water-borne disease. This model assumes the response/dependent 
+variable is a dummy variable in binary form. Mathematical form of the model is as under: 
+     (        )     (
+        
+          
+)                 
+Where; 
+P disease = is the probability that children (under five) have incidence of morbidity due to water 
+borne diseases. 
+β0 = Intercept (i.e. chances of provenance of disease) 
+β1, β2, …, βj ; are the effects of demographic, socioeconomic, background and environmental 
+factors. 
+X1, X2, …, Xj ; are demographic, socioeconomic, background and environmental factors with 
+levels. 
+To see the individual impact of set of environmental factors i.e. sources of drinking water and 
+sanitation facility, a separate equation was executed (Equation – 1). After words, their impact 
+is observed along with social characteristic of mother i.e. education (Equation – 2). 
+Demographic Characteristics intervened after social factor to influence the prevalence of 
+diarrhea (Equation – 3) and in final model background factors i.e. wealth status joined in the 
+set of environmental, social and demographic characteristics to influence diarrhea (Equation 
+– 4). It constitutes four sets of equations.  
+Estimates of logistic regression are interpreted in their transformed form of odds ratio. 
+Positive odds are greater than 1.00 interpreted as more chances or more odds of an event to 
+occur as compared to reference category and negative goes toward 0.00 interpreted as less 
+chances of event of interest as compared to reference category. Odd of 1.00 are interpreted as 
+equal chances of occurrence of an event as that of reference category. Term reference 
+category is adopted to have benchmark based on literature or natural trends and patterns. A 
+significant odd presents the most influential factor contributing positively or negatively to 
+prevalence of diarrhea. 
+Result & Analysis 
+Current situation of health outcomes 
+Post-neonatal (greater than 28 days from birth) deaths have a prominent proportion caused by 
+diarrheal morbidity. There are almost 7 postnatal deaths (per thousand) that happen due to 
+childhood morbidity of diarrhea and almost same is for the children under five years of age. 
+Table 6. Summary of childhood diarrhea in Pakistan 
+ 
+Health Outcomes 
+Values 
+Total number of Neonatal deaths due to diarrhea 
+2,909 
+Total number of Post-Neonatal deaths due to diarrhea 
+36,575 
+Number of Under-five deaths due to diarrhea 
+39,484 
+Neonatal death rate from diarrhea (per 1000 livebirths) 
+1 
+Post neonatal death rate from diarrhea (per 1000 livebirths) 
+7 
+Under-five death rate from diarrhea (per 1000 livebirths) 
+7 
+% post-neonatal deaths due to diarrhea 
+20% 
+% under-five deaths due to diarrhea 
+9% 
+Source: WHO and Maternal and Child Epidemiology Estimation Group (MCEE) estimates 20153 
+4.1. Trends 
+Nationally use of improved source of drinking water slightly inclined up (1990 to 2015). A 
+significant improvement in use of improved sanitation is seen since 1990 to 2015. 
+An opposite trend is observed among urban and rural area with regard to availability of 
+improved water sources at households. Urban area could not increase the use of improved 
+water for drinking whereas rural area shows improvement in its use. Use of improved 
+sanitation facility has increased over time in both areas (urban and Rural). 
+Figure 2. Trend in use of improved water and sanitation at household from 1990 to 
+2015. 
+ 
+ 
+Source: World Health Organization, 20154 
+Diarrhea Morbidity 
+                                                          
+3 Go to link <http://apps.who.int/gho/data/node.main.ChildMort?lang=en> 
+4 World Health Organization, Global Health Observatory, < 
+http://apps.who.int/gho/data/node.main.46?lang=en> 
+0
+20
+40
+60
+80
+100
+2015
+2000
+1990
+Rural: Improved water source
+Rural: Improved sanitation
+Urban: Improved water source
+Urban: Improved sanitation
+All Area: Improved water source
+All Area: Improved sanitation
+Rates of childhood diarrhea have increased over time. Rural areas show high rates as 
+compared to urban areas. 
+Figure 3. Trends in Rates of diarrhea among children (0-59 months) by area of 
+residence. 
+ 
+ 
+Source: Pakistan Demographic and Health Surveys5. 
+Nationally rates of diarrhea have increased to almost 22% since 1991 to 3013. Khyber 
+Pakhtunkhwa emerged as prominent in increasing rates of diarrhea over time (1991 to 2013) 
+and Balochistan comes with improving rates especially after 2006-07 to 2012-13. 
+ 
+Figure4. Trends in Rates of diarrhea among children (0-59 months) by region of 
+residence 
+ 
+Source: Pakistan Demographic and Health Surveys6. 
+Variation in rates of childhood diarrhea by environmental factors 
+Incidences of diarrhea are more for households with not-improved toilet facility as compared 
+to those with improved toilet facility. Incidence of childhood diarrhea emerge more for 
+children belonging to households with pit latrine with slab.  
+Punjab brings high diarrhea rates from pit latrine with slab and the same is for Khyber 
+Pakhtunkhwa region; Islamabad Capital (ICT) and Gilgit-Baltistan (GB) territories. Sindh 
+showing poor rates from latrine with flush to septic tank. 
+                                                          
+5 See Chapter “Child Health” PDHS 1990-91; 2006-07 & 2012-13. 
+6 See Chapter “Child Health” PDHS 1990-91; 2006-07 & 2012-13. 
+0
+5
+10
+15
+20
+25
+1990-91
+2006-07
+2012-13
+Urban
+Rural
+0
+5
+10
+15
+20
+25
+30
+1990-91
+2006-07
+2012-13
+National
+Punjab
+Sindh
+Khyber Pakhtunkhwa
+Baluchistan
+Hanging toilets and pit latrines without slabs emerge as prominent sources of diarrhea in 
+country. Hanging toilets bring poorest situation at Sindh with almost 100% incidence rate. 
+Same as type of toilet facility, the sources of drinking water shows that there are more 
+incidences of diarrhea for household with not-improved source of water facilities. 
+Among Improved sources of drinking water facilities, the tap water/sand pipes bringing more 
+diarrhea and it bring more diarrhea rates at Punjab region. Piped to yards supporting diarrhea 
+more at Sindh, Rainwater spread diarrhea more prevalent at Khyber Pakhtunkhwa, most 
+vulnerable at hand pumps at Balochistan regions and ICT/GB territories. 
+Unprotected springs emerge as most vulnerable for children under five in Pakistan. 
+Unprotected wells come with high diarrhea at Punjab. Unprotected springs are prominent 
+source of diarrhea at Khyber Pakhtunkhwa region and ICT/GB territories.  
+National Level Incidence Rates of Childhood Diarrhea 
+Age and Size at Birth of children; age of mother, age difference among parents, Household 
+size and educational attainment of parents, working status within last 12 months and wealth 
+status of mothers and regions from where children belong are found statistically significant 
+subgroups of population surrounding children with diarrhea. 
+Following table presents that incidence of diarrhea is more children with less than 2-years 
+age. Children born small and having low birth weight are vulnerable and pray to diarrhea 
+disease. As soon as age of mother increases the prevalence of diarrhea decreases and higher 
+age difference among parents showing more rates of diarrhea among children under five. 
+Children belonging to Small households, highly educated parents and mothers who do not 
+work have least chances of diarrhea diseases. 
+Children from mothers with Sindhi, Siraiki and Pashto ethnicity, living in rural areas, 
+belonging to mothers with worse wealth status and children living at Khyber Pakhtunkhwa 
+region are more likely to get diarrhea disease.  
+Sub National level Incidence Rates of Childhood Diarrhea 
+Except Islamabad Capital/Gilgit Baltistan territories, the rates of diarrhea are more for 
+children from households with non-improved water and sanitation facilities. Khyber 
+Pakhtunkhwa brings 31% diarrhea rates among children with non-improved sanitation facility 
+where as in Balochistan the situation is better. 
+Children aged 12-17 months prevailing diarrheas highest especially at Sindh. Gender gap is 
+visible at Khyber Pakhtunkhwa and Balochistan regions. Almost 33% Children born with 
+small size are having diarrhea at Sindh.  
+Urdu speaking population from Punjab and ICT/GB, Sindhi speaking people from Sindh and 
+Balochi speaking people in Khyber Pakhtunkhwa and Balochistan suffer from high 
+prevalence of diarrhea among their children. Least prevalence of diarrhea (8%) is observable 
+at Khyber Pakhtukhwa, among children from highly educated mothers and almost highest 
+rates are visible from working mothers from same region. Poor children showing high 
+diarrhea at Punjab, Sindh and Khyber Pakhtunkhwa where as these high rates shifted to 
+children from middle class from Balochistan and ICT/GB regions. 
+District level Incidence Rates of Childhood Diarrhea 
+Punjab 
+District level estimates highlights that, Sheikhupura district brings highest level of diarrhea 
+among children from households with improved sanitation (22%) and this situation is worst 
+for households with not improve sanitation facility (29%) at Sheikhupura. From improved 
+drinking water facility after Hafizabad district (24% diarrhea cases), Sheikhupra is most 
+vulnerable (23% diarrhea cases). However, for children from households with non-improved 
+drinking water, the cases of diarrhea found highest for Rajanpur (54%), Lahore (50%) and 
+Okara (50%) districts. 
+For children belonging to mothers educated higher than secondary level, the cases of diarrhea 
+are found least at Layyah (less than 1%) then lodhran and Chakwal with 4% respectively. 
+Highest rates of diarrhea are found at Hafizabad (26%) for children from uneducated 
+mothers. We have seen that as soon as age of child moves up after 23 months, the rate of 
+diarrhea decreases. Sahiwal district appears most vulnerable (35%) for children with less than 
+6 months age. Gujranwala appears most vulnerable for children (6-11 months) regarding 41% 
+prevalence of childhood diarrhea. At age of 48 to 59 months, highest rates of diarrhea are 
+evident at Rajanpur (15%) whereas Jhang comes with least prevalence of diarrhea (2%) for 
+same age groups. Chiniot is district where almost 33% diarrhea persists among children born 
+small. After Chiniot, Sheikhupura is found with 28% diarrhea prevalence and then Lahore 
+comes with 26% rate of diarrhea among small size children. Chiniot is district with least 
+prevalence of diarrhea for children born with large size (4%) and Chakwal comes after 
+Chiniot district where there are only 8% of large size children having diarrhea. Cases of 
+diarrhea are highest at Bahawalnagar (43%) for children from mothers having age 45-49 
+years. In younger ages of mother, Gujranwala (44%) is district that shows highest rates of 
+diarrhea. Wealth inequality shows a higher prevalence of childhood diarrhea at Lahore (29%) 
+then Multan (26%) and Rawalpindi (25%) in poorest households whereas, least are recorded 
+from Vehari (5%) for richest children. Urban areas showing high prevalence of diarrhea 
+among children from Gujranwala (26%) and least is evident at Rahimyar Khan (7%). Rural 
+areas bringing high rates of childhood diarrhea at Rajanpur (24%) and least is at Chakwal 
+(7%).  
+Sindh 
+Districts of Tando Allahyar and Badin are showing large proportion (41% respectively) of 
+diarrhea among children from households with improved drinking water source. For non-
+improved water sources, prevalence of diarrhea raised to 50% especially at Sukkur and 
+Karachi South districts, respectively. 
+Badin shows high diarrhea (43%) among children from households with improved toilet 
+facility where the situation is worst at Karachi East (50%) and Karachi Central (almost 
+100%). 
+Poorest situation can be seen at Ghotki where almost 56% children, from middle educated 
+mothers, have diarrhea followed by Kashmore district with 50% for same children. Children 
+from mothers educated higher than secondary level have highest rates of 50% diarrhea 
+prevalence at Matiari and Thatta with 40%. 
+It is observed that diarrhea is least for children aged 24 to 59 months and highest for children 
+under 24-months age. Tando Allahyar is district where high rates of diarrhea (71%) emerge 
+for children (6-11 months). At age of 48 to 59 months that better situation can be seen at 
+Shikarpur (4%).  
+Prevalence of diarrhea is almost 71% for small children at Umer Kot and 50% Thatta district 
+of Sindh. For average children the prevalence of diarrhea is recorded as 44% at Hyderabad 
+and 43% at Tando Allahyar districts. Karachi South has almost 52%5 prevalence of diarrhea 
+among children. 
+It is evident that 89% of children from younger mothers (15-19 years) caught by diarrhea at 
+Hyderabad followed by 75% at Karachi South. As soon as age of mother increases the 
+chances of diarrhea among their children also increases. Urban Areas of Nausheroferoz 
+providing almost 41% prevalence of diarrhea followed by 39% at Hyderabad. In rural areas, 
+Tando Allahyar with 44% followed by Badin and Mirpur Khas with 40%. These are most 
+vulnerable districts. 
+The districts of Tando Allahyar (46% diarrhea), Badin (40% diarrhea) and Umer Kot (38% 
+diarrhea) brings high rates among poor children. Middle class are facing 41% at Hyderabad 
+and 40% at Karachi East. Children from rich households are showing lowest rates in 
+Larakana (6%) and Jacobabad (8%). 
+Determinants of Diarrhoea: Multivariate Analysis Results 
+Following table provides the impact of environmental (toilet and drinking water facility), 
+socioeconomic (education and working status), demographic (age of child and mother, 
+gender of child and size of child at birth) and background characteristics (ethnicity, 
+household wealth status and region of residence of children) on prevalence rate of diarrhea 
+among children under five. 
+Interestingly, not-Improved drinking water sources emerge as significant with less chances of 
+diarrhea as compared to improved one. More chances of diarrhea emerge in full model where 
+socioeconomic, demographic and background characteristics are contributing.  
+ As soon as education of mother improves the chances of diarrhea depreciates. Expectedly, 
+children from working mothers are almost 1.2 times more likely to get diarrhea as compared 
+to those from non-working mothers.  
+Female children, children having at-least 18 months age are least likely to have diarrhea as 
+compared to male children and those with age least than six months, respectively. Children 
+born small have high odds of diarrheas as compared to large size children. Children 
+belonging to mothers with Punjabi and Siraiki ethnicity are less likely to have diarrhea as 
+compared to children belonging to urdu ethnic mothers. Children who are rich are less likely 
+to get diarrhea as compared to poor children and those belonging to Sindh and Gilgit-
+Baltistan regions have least chance of childhood diarrhea as compared to children from 
+Punjab region. 
+Conclusion 
+This study shows insightful results on the effects of availability of Safe drinking water and 
+proper sanitation facilities on child morbidity and mortality rates across the four provinces. It 
+also throws light on the effects of the mother‟s age, education, ethnicity and working status 
+on the health and well-being of the child.  
+Moreover, our study highlights the incidence of childhood morbidity due to diarrhea among 
+children from households using different type of toilet and drinking water facility. The study 
+looks inside the correlates of diarrhea not only at National Level but also Provincial and 
+District Level. Provincially, Sindh and Khyber Pakhtunkhwa regions found with highest rates 
+of diarrhea. In Sindh Tando Allahyar, Matiati, Hyderabad, Badin, Karachi East and Karachi 
+South are found most vulnerable areas where prevalence of diarrhea found non-ignorable and 
+it is surrounded by poor households, children with mothers married in early ages, children 
+having small size at birth and ages less than 24 months and children belonging to uneducated 
+mothers. 
+Although Punjab comes with lower rates of diarrhea morbidity but in some districts like 
+Rajanpur, Rahimyar Khan, Lahore, Gujranwala and Rawalpindi where situation is not proper 
+due to poverty, early age marriages, small size of babies at birth etc. 
+It has been observed that the prevalence of most common water born disease i.e. childhood 
+diarrhoea, in the presence of improved and non-improved sources of drinking water and type 
+of toilet facility. These two variables are often considered as common environmental 
+household level indictors. It was hypothesized that use of improved sources of drinking water 
+and sanitation may support the decrease in rates of childhood diarrhoea. Regression analysis 
+provide evidence in support of our hypothesis that, disease rate does not improve if 
+unimproved water and sanitation prevails. Especially source of drinking water put significant 
+impact on diarrhoea rates. 
+Education and working status of mother were considered to depict the socio economic factors 
+influencing childhood diarrhea. Educated mothers are hypothesized to be beneficial for less 
+prevalence of diarrhea. In this regard, our investigation shows that, educated mothers are 
+highly influential. Working status of mothers shows some kind of empowerment and 
+autonomy of women. Economically active women may contribute to support the household 
+economic status hence contributing to child health care. In Pakistani society mother are 
+usually less likely to work and husbands are considered as major working person to regulate 
+the household prosperity. Mothers who do not work are more likely to spend time better with 
+their children as compared to working ones. Our data shows significant impact of working 
+status on childhood diarrhea and provide evidence according to our assumptions and 
+hypothesis. 
+On assumption of decrease in rates of diarrhea due to improvement in child health immunity 
+with growing ages, a hypothesis was developed to test it and we found that current age of 
+child is highly influential to monitor the rates of diarrhea. Size of child at birth and weight of 
+child at birth were included to see health status of baby at the time of birth. Children with 
+smaller body sizes are assumed to be less immune, and as body size increase it was 
+considered that body‟s immunity against diseases linearly increases and child may fight better 
+if they have better health status at the beginning of life. From analysis of data it was 
+concluded that rates of diarrhea are lower for children who are born with bigger body size. 
+Besides the demographics of child, the age of mother was considered in system of equation 
+(model 3 and 4) with hypothesis that, as soon as age of mother increases, experience of 
+caretaking for her child improves and child may less likely to suffer from morbidity. This 
+demographic factor highlighted as highly influential for prevalence of diarrhea. As soon as 
+age of mother increases the chance of childhood diarrhea decreases. 
+Ethnicity of the children was taken as a cultural factor showing cultural differences in 
+childhood diarrheal morbidity. Sindhi are highlighted with high chances of childhood 
+diarrhea as compared to Urdu ethnic children. 
+Wealth status was considered to depict the household prosperity with better possession of 
+assets. Children from households with better wealth status are hypothesized to less likely to 
+catch by diarrhea disease. Against the null hypothesis of increasing chances of diarrhea for 
+poor children, we found that diarrhea is less likely for wealthy children. Regions were 
+included with hypothesis that diarrhea is prevailing variably among regions. 
+The study looks inside the correlates of diarrhea not only at National Level but also 
+Provincial and District Level. We conclude our study as, provincially, Sindh and Khyber 
+Pakhtunkhwa regions found with highest rates of diarrhea. In Sindh Tando Allahyar, Matiati, 
+Hyderabad, Badin, Karachi East and Karachi South are found most vulnerable districts f 
+Sindh where prevalence of diarrhoea found non-ignorable and it is surrounded by poor 
+households, children with mothers married in early ages, children having small size at birth 
+and ages less than 24 months and children belonging to uneducated mothers. 
+Although Punjab comes with lower rates of diarrhoea morbidity but in some districts like 
+Rajanpur, Rahimyar Khan, Lahore, Gujranwala and Rawalpindi where situation is not up to 
+the standard due to poverty, early age marriages, small size of babies at birth etc. 
+ 
+Policy Recommendations 
+If we are committed to improve water and sanitation, we need a coherent policy framework 
+and investment in the Water and Sanitation sector to improve our people's health and life. 
+National Water and Wastewater Policies documents provide a comprehensive framework of 
+measures. Nevertheless, these policies should be followed every five years, including mid-
+term evaluations and independent evaluations. Water supply and management agencies 
+should be responsible for maintaining the water quality in the water distribution system to the 
+consumer level, which provides cooling amplifier at various pumping stations. The role of 
+development partners and the private sector for development in the Water and Sanitation 
+sector is very important. The government should encourage the private sector to provide 
+Water and Sanitation services, as is the case with other social sectors, such as health and 
+education. The Water and Sanitation service is the legal responsibility of the provinces and 
+local authorities, so policymakers and local government officials should understand the 
+deterioration situation and support the increase in the share of Water and Sanitation's 
+expenditure on gross national product. 
+Water and Sanitation costs, as given in the PRSP, provide collective costs that do not show 
+the proportion of water and sanitation separately. Therefore, it is not feasible to assess the 
+impact of costs on water and sanitation separately without defaults. But in the local 
+government system, 25 percent of the total provincial development budget is compelled to 
+pay by the Citizens' Society Citizen Community Boards (CCBs). Creating awareness of the 
+results of CCBs can lead to changes in the living conditions of the poor. Communities should 
+be encouraged to spend on their interest in the Qarz al-Hasan funds. For effective awareness, 
+educational institutions, mosques, including mass media, should be used to understand the 
+importance of quality and quantity of water among users. Volt and the private sector support 
+small and small schemes for income generation opportunities only. They also need to invest 
+in small and medium-sized loans to communities and / or households in their infrastructure. 
+These experiments were successful in Bangladesh and India. This will ultimately improve the 
+health and living standards. 
+The government should support Water and Sanitation plans at an efficient and low cost. In 
+addition, the provision of household subsidies to households, taking into account drinking 
+water treatment at the consumer / household level, should cost rather than costly in complex 
+and costly designs. Waste water should be minimized and eliminate 30 to 50% of all drinking 
+water. Awareness must be necessary in order to minimize deceptive and unsustainable 
+activities, such as the use of stony water for washing cars or irrigation of lawns and gardens. 
+Each of us must understand that less water usage means less wastewater production. 
+Water supply agencies should install meters to charge consumers based on "pay as you use." 
+In such interventions, departments like WASA and CDA can play a major role. 
+There is also a need to increase the percentage of Budget to GDP for the improvement of 
+Water and Sanitation in the country.  
+If immediate action is not taken to address these issues, the amount and quality of the 
+remaining water will have a negative impact on health, education and economic sectors. The 
+Environmental Protection Agency (EPA) must ensure, before discharging it to the 
+mainstreams, and to improve the drainage network, ensuring higher sanitary coverage, 
+ensuring household waste disposal, commercial and industrial units.  
+References 
+1. 
+Anteneh, Z. A., Andargie, K., & Tarekegn, M. (2017). Prevalence and determinants of 
+acute diarrhea among children younger than five years old in Jabithennan District, Northwest 
+Ethiopia, 2014. BMC Public Health, 17(1), 99. 
+2. 
+Arif, A., & Naheed, R. (2012). Socio-economic determinants of diarrhea morbidity in 
+Pakistan. Academic Research International, 2(1), 490. 
+3. 
+Aziz, J.A., 2005. Management of source and drinking-water quality in Pakistan. 
+4. 
+Fahim Jahangir Khan and Yaser Javed (2007) “Delivering access to safe drinking 
+water and adequate sanitation in Pakistan” Pakistan institute of development economics 
+5. 
+Fayehun, O. A. (2010). Household environmental health hazards and child survival in 
+sub-Saharan Africa. 
+6. 
+Government of Pakistan, „Economic Survey of Pakistan 2008–09‟ 
+7. 
+Haydar S, Arshad M, Aziz JA. 2009. Evaluation of drinking water quality in urban 
+areas of Pakistan: A case study of southern Lahore. Pakistan Journal of Engineering and 
+Applied Science 5, 16-23.  
+8. 
+Hosmer Jr, D. W., Lemeshow, S., & Sturdivant, R. X. (2013). Applied logistic 
+regression (Vol. 398). John Wiley & Sons. 
+9. 
+Imran, W., Zahir, Z., Khan, H., Pasha, M. I. K., & Anjum, M. D. INCIDENCE OF 
+diarrhea among new born children is affected by environment of households. Retrieved from 
+<https://www.researchgate.net/profile/Waqas_Imran/publication/265972677_INCIDENCE_
+OF_DIARRHEA_AMONG_NEW_BORN_CHILDREN_IS_AFFECTED_BY_ENVIRONM
+ENT_OF_HOUSEHOLDS/links/5422a4f30cf26120b7a270ff.pdf> 
+10. 
+Montgomery, M. A. and Elimelech, M. 2007. Water and Sanitation in Developing 
+Countries: Including Health in the Equation. Environmental Science and Technology, 41:17-
+24. <http://pubs.acs.org/doi/pdf/10.1021/es072435t> 
+11. 
+Muhammad N, Bangush M, Khan AT. 2012. Microbial contamination in well water 
+of temporary arranged camps: A health risk in northern Pakistan. Water Quality Exposure 
+and Health 4(4), 209-215. <http://dx.doi.org/10.1007/s12403-012-0080-0> 
+12. 
+Murtaza, F., Nasir, Z. A., Colbeck, I., & Campos, L. C. (2015). Socio-environmental 
+determinant of exposure to water and sanitation related hazards in Pakistan. Journal of 
+Animal and Plant Sciences, 25, 725-703.   
+13. 
+Prüss, A., Kay, D., Fewtrell, L., & Bartram, J. (2002). Estimating the burden of 
+disease from water, sanitation, and hygiene at a global level.  Environmental health 
+perspectives, 110(5), 
+537-542. 
+Available 
+at 
+http://www.who.int/quantifying_ehimpacts/global/en/ArticleEHP052002.pdf 
+14. 
+Rana, A.K.M.M., 2009, Effect of Water, Sanitation and Hygiene Intervention in 
+Reducing self-reported Waterborne Diseases in Rural Bangladesh, BRAC Research Report, 
+www.brac.net/research [Published: Dec 2009] 
+15. 
+Rosemann N. Drinking water crisis in Pakistan and the issue of bottled water. The 
+case of Nestlé's Pure Life. Pakistan: Swiss Coalition of Development Organizations and 
+Action aid; 2005. Retrieved from <http://www.alliancesud.ch/en/policy/water/downloads/ 
+nestle-pakistan.pdf> 
+16. 
+UNICEF. 2008. UNICEF Handbook on Water Quality. New York: UN Plaza, 118 -
+119.  

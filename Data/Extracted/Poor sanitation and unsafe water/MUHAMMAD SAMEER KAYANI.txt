@@ -1,0 +1,999 @@
+Papers and Proceedings  
+pp. 917–934 
+917  
+  
+ 
+ 
+ 
+ 
+ 
+Diarrheal Diseases Due to Unsafe Drinking Water in 
+Pakistan: A Defensive Behaviour Approach 
+  
+FIZZAH IFTIKHAR ALLAWALA,  SALIK JAVED BARRY, and 
+ MUHAMMAD SAMEER KAYANI*  
+ 
+The urbanisation and the population boom in the last few centuries have resulted in 
+extreme deterioration of the environment and production of excessive externalities. Over time, 
+it has resulted in a dire impact on the health of human beings, ultimately impacting the 
+economic and social prosperity of human beings all around the globe. Water pollution is one 
+such externality which has led to many epidemics in the past. The present study provides an 
+investigation into the health effects due to unsafe drinking water among households in 
+Pakistan. The study utilises cross-sectional data from Pakistan Demographic and Health 
+Survey (PDHS) 2012-13 which is representative at the national and provincial levels. Using 
+household as the unit of analysis with a sample size of 13,409, the paper uses 2SLS model to 
+estimate a dose-response function and a defensive behaviour function to determine the 
+effectiveness of treatment of drinking water on the prevalence of diarrheal diseases among 
+households in Pakistan. Moreover, since defensive behaviour is a choice variable, it has also 
+been checked for endogeneity. The results conform to the reviewed literature and the economic 
+theory that defensive behaviour leads to a lower prevalence of diarrheal diseases among 
+households of Pakistan. This study finds that household exhibiting defensive behaviour, i.e. 
+treating water prior to drinking, are is 31.5 percent less likely to report any cases of diarrheal 
+diseases in the household as opposed to those not employing any such method. Possible 
+recommendations and future research agenda have been provided at the conclusion of the 
+study to assist researchers further the results in this regard. The results of the study could assist 
+in devising policies which could be helpful in developing sustainable societies where clean 
+water is readily available.  
+JEL Classification: Q53, I15, H51   
+Keywords: Water Pollution, Health, Pakistan  
+ 
+1.  INTRODUCTION 
+Being the prime factor for the origination of life, access to safe and clean drinking 
+water is a highly crucial determinant of a healthy human life. However, since the dawn of 
+ 
+Fizzah Iftikhar Allawala, Salik Javed Barry,  and Muhammad Sameer Kayani <sameer.kayani5@ 
+hotmail.com> are affiliated with Institute of Business Administration (IBA), Karachi. 
+Authors’ Note:  First and foremost, we would like to thank our research supervisor, Dr Heman Das 
+Lohano. Without his assistance and dedicated involvement in every step throughout the process, this research 
+would have never been accomplished. From conceptual framework and economic modelling to data analysis, 
+the guidance provided by Dr Heman has been a tremendous learning opportunity for us. We would also like to 
+thank the numerous organisations and institutions whose databases and resources have been utilised throughout 
+the research process to accomplish the concerned objectives. Finally, we would also like to express our 
+gratitude towards all the friends and family members whose contribution of their time, effort, guidance and 
+opinion have assisted us in refining the results and completion of this study. 
+918 
+Allawala,  Barry, and  Kayani 
+  
+the Industrial Revolution, the global urbanisation coupled with the population boom has 
+resulted in an unprecedented stress on the scarce resources available. One significant 
+consequence of the aforementioned phenomenon is the consistent increase in the 
+environmental externalities owing to anthropogenic activities. According to the World 
+Health Organisation, in terms of deaths per year, 58 percent of the total DALY global 
+burden of disease (842,000 deaths) can be attributed to unsafe drinking water, inadequate 
+sanitation, and poor hygiene. A standard measure of unsafe water provision and 
+inadequate sanitation is the incidence and prevalence of diarrheal diseases. These alone 
+amounts to an estimated 3.6 percent of the total DALY global burden of disease and 
+resulting in mortality estimates of 1.5 million people every year.1   
+Pakistan is a developing country with an average annual income of $1275 and 64 
+percent of its population lives in rural areas.2  Taking into account the situation in Pakistan, 
+although about 93.7 percent of the household in Pakistan has access to improved water 
+sources, 30.4 percent of the households still have no access to any kind of improved sanitation 
+[DHS (2012-13)]. According to WHO, the mortality rate owing to diarrheal diseases almost 
+halved between 2000 and 2015, but still resulted in 1.4 million deaths in 2015.3 Similar 
+ranking was assigned to the distribution of causes of death in children under 5 with 11 percent 
+of the infant mortality being attributed to the cause.4 Diarrheal diseases remain the leading 
+causes of childhood deaths in Pakistan that are preventable with primary health care measures 
+[NIPS and Macro International (2008)]. Such alarming mortality rate among children warrant 
+attention towards the probable link between the provisions of unsafe drinking water, poor 
+sanitation and the incidence of diarrheal diseases among children, particularly in rural areas. 
+Since the poor health of children is representative of current as well as the future economic 
+burden, the present study investigates whether, and to what extent, the households which 
+employ techniques to treat water prior to drinking are successful in thwarting diarrheal 
+diseases as opposed to those who use unsafe water for drinking purposes.  
+The first step to formalise the relationship between the concerned variables will be 
+an exhaustive review of the previously published literature on this topic. In light of the 
+aforementioned discussion, the optimal methodology when drafting the literature review 
+in this context is to form interconnected themes, each one elaborating particular aspect of 
+the concerned topic. Here, the first theme will comprehensively develop the deteriorating 
+effects of water pollution on the population of Pakistan through various qualitative and 
+quantitative research previously carried out. The next theme will be a detailed insight into 
+the methodologies that have been previously adopted to substantiate the link between 
+water pollution and the health effects followed by the valuation of these consequences in 
+monetary terms. A critical analysis of the most relevant literature from all the themes will 
+form the crux of the last segment of the literature view along with identification of gaps 
+in the literature and the contribution that this report will make to fill this gap potentially. 
+Following the review of the literature, data will be selected from appropriate sources, a 
+formal relationship will be estimated between the selected variables, and the results will 
+be interpreted in the light of the literature review. Conclusively, policy recommendations 
+will be provided along with potential directions into which further research can be taken.   
+ 
+1http://www.who.int/water_sanitation_health/diseases-risks/en/ 
+2http://data.worldbank.org/indicator/SP.RUR.TOTL.ZS  
+3http://www.who.int/mediacentre/factsheets/fs310/en/ 
+4http://www.who.int/mediacentre/factsheets/fs330/en/ 
+ 
+Diarrheal Diseases Due to Unsafe Drinking Water  
+919 
+ 
+2.  LITERATURE REVIEW 
+Since the wake of Industrial Revolution during the late 18th century, pollution has 
+been present as the negative externality of the mechanical and economic transformation; 
+but it is relatively recently that it has been considered a problem. Although higher 
+economies of scale are the result of modern industrialisation along with the formation of 
+urban centres, these same factors also result in various externalities, the most important 
+of which is environmental degradation. This is due to the simple fact that public, 
+legislative and scientific awareness of the seriousness of air pollution has come only, 
+after many major episodes, in the last decade.    
+ 
+2.1.  BOD due to Unsafe Drinking Water—Local Evidence 
+Water being the crucial factor for the existence of life, access to clean drinking 
+water is the most imperative determinant for a healthy human life. Water pollution has 
+become one of the crucial factors impacting the public health. Pakistan has poor drinking 
+water quality since water sources are contaminated with harmful chemicals and bacteria. 
+The benchmark set by WHO regarding water quality in Pakistan is continuously being 
+violated. This has become a source of concern for both urban and rural areas. Toxic 
+metals, pesticides and improper treatment of sewage waste before dumping in water has 
+been responsible for the contamination of ground and surface water.   
+Haydar, Arshad, and Aziz (2009) attempted to assess the quality of water in 
+Lahore, supplied by Water and Sanitation Agency (WASA). Water samples were 
+collected before and after monsoon from four different sources in southern Lahore. Four 
+most important physicochemical parameters and two bacteriological parameters were 
+examined and were also analysed with respect to the benchmark provided by World 
+Health Organisation (WHO) regarding clean drinking water. Results revealed that 
+physicochemical parameter of clean drinking water was observed to be satisfactory; 
+however, before the monsoon, 50 to 62.5 percent samples had presence of bacteriological 
+contamination. It was also estimated that contaminated water supply sources are 
+responsible for 40 percent of deaths and 30 percent of the diseases in Pakistan. Diarrhea 
+was found to be majorly responsible for the death of infants. Hence, it can be concluded 
+that water pollution is heavily responsible for poor public health as it contaminates the 
+water sources. This study recommends that chlorination of water is imperative to 
+eradicate the bacteriological contamination.  
+Ashraf, Maah, Yusoff, and Mehmood (2010) investigated the polluted water 
+irrigation impact on the health of people living in Jamber, Kasur district, Pakistan and 
+also its impact on the environment. Theoretically, it’s evident that using polluted water 
+for irrigation will alter groundwater quality and will exhibit negative impact on the health 
+of people and environment. To analyse the water quality, various parameters were 
+examined including physiochemical parameters, cations, anions, heavy metals and 
+sodium absorption ratio. To evaluate the results, they were compared with National 
+Environment Quality Standards (NEQS) and they revealed that increase in conductivity, 
+sodium absorption ratio and total dissolved solids had been observed due to polluted 
+water used for irrigation since they exceed the prescribed limit of NEQS. For further 
+analysis, a survey was conducted by interviewing 3222 inhabitants for 12 months. Results 
+revealed that 2351 inhabitants were impacted by various diseases. The problems affiliated 
+920 
+Allawala,  Barry, and  Kayani 
+  
+due to polluted water irrigation were mainly skin issues, nail problem, fever and diarrhea. 
+It further indicated that these diseases results due to the usage of polluted water for 
+drinking or irrigation purposes and mainly impacted children with age 1-10. The results 
+obtained in Jamber was quite similar to the analysis done in southern Lahore by Haydar, 
+Arshad, and Aziz (2009) as it also stated that exposure to water pollution leads to disease 
+like diarrhoea which was common among children and infant. Improvement in sanitation 
+facilities and proper drainage system are some possible solutions suggested by the 
+authors to rectify the issue of water contamination.   
+Similarly, the analysis of water quality provided by Ashraf, Maah, Yusoff, and 
+Mehmood (2010) at a local level was further extended to the whole of Pakistan by 
+Azizullah, Khattak, Richter, and Häder (2011) as they discussed the prevailing condition 
+of poor drinking water quality in Pakistan. They have attempted to analyse the major 
+pollutants, health issues related to these pollutants and their sources. Conclusions drawn 
+were similar to Ashraf (2010) and Haydar (2009), as it also strengthens the claim 
+regarding children being highly impacted by diarrheal diseases due to exposure to water 
+contamination and poor drinking water quality. The data evaluated was extracted from a 
+variety of papers in various journals. The critical evaluation of data validates the 
+mentioned concern and also revealed that immediate measures need to be undertaken. It 
+also discusses the environmental legislation introduced in Pakistan and raises the concern 
+on the commitment of government since these legislations have been ineffective to tackle 
+the issue mainly due to the absence of sincerity at the higher level. 
+The presence of heavy metal in water channels used for drinking purposes can be 
+extremely hazardous to health, as discussed in the literature. To further strengthen the 
+validation of this claim Muhammad, Shah, and Khan (2011) evaluated the health risk 
+associated with the presence of high heavy metal concentration in the surface and ground 
+water samples from Kohistan region, Pakistan, used for drinking purposes. Graphite 
+fumace atomic absorption spectrometer was used to investigate the heavy metal 
+concentration and compared with standard limits provided by World Health Organisation 
+and Pakistan Environmental Protection Agency (PEPA). Furthermore, health risk was 
+evaluated such as Hazard Quotient (HQ) and Chronic Daily Intake (CDI) using the heavy 
+metal concentration. Results of CDI revealed that the concentration of zinc (Zn) was 
+highest while Cobalt (Co) had the lowest concentration. Moreover, no risk on health was 
+indicated by HQ on the water samples that were evaluated. The concentration of the 
+majority of heavy metals was within given bench mark set by PEPA and WHO. 
+Anthropogenic and geogenic activities were held majorly responsible for the 
+contamination of water in Kohistan, by multivariate statistical analysis for example 
+cluster analysis (CA), principal component analysis (PCA) and one-way ANOVA. The 
+author concluded that water in the examined area does not influence health negatively, 
+but also suggest that since some heavy metal exceed the permissible limits like lead (Pb) 
+in water samples, it is advisable to consume the water after the treatment.  
+Further Investigation of deterioration of drinking water quality in different urban 
+areas of Pakistan was also done. Farid, Baloch and Ahmed (2012) evaluated the 
+contamination of drinking water in Faisalabad due to rapid boom in urbanisation and 
+industrialisation in past decade. Since the discharge of untreated and excess toxic solid 
+waste from industries into water channels has led to disastrous consequences on health 
+ 
+Diarrheal Diseases Due to Unsafe Drinking Water  
+921 
+ 
+due to deterioration of drinking water quality as hazardous toxic and metal concentration 
+has increased in ground water. Like Ashraf, Maah, Yusoff, and Mehmood (2010), the 
+author used the same technique to evaluate water samples that were collected from hand 
+pumps located within a circle of 10 meters of the sewage source. Parameters evaluated 
+included pH, Total Dissolved Solids, hardness, few anions and cations by using the 
+technique prescribed by American society for testing and materials. Moreover, the 
+presence of some heavy metal ions was analysed using series atomic absorption 
+spectrophotometer. Result validates the hypothesis claim that high contamination of these 
+samples made the water from hand pumps unfit for human consumption. The author also 
+proposed that to curtail the high level of contamination, it is essential to treat industrial 
+waste before dumping it into water bodies and also to install water pumps at least 20 
+meters away from sewage channels.  
+Further evaluation was done in the province of Khyber Pakhtunkhwa by Khan, 
+Shahnaz, Jehan, Rehman, Shah, and Din (2013) analysing the drinking water quality and 
+its associated risk on human health in Charasadda district. For this purpose samples of 
+water from tube-wells, hand pumps and dug-wells were collected and investigated for 
+physical characteristics, coliform bacteria, heavy metals and anions similar to the analysis 
+done by Haydar, Arshad, and Aziz (2009) and Ashraf, Maah, Yusoff,  and Mehmood 
+(2010). Analysis revealed that concentration of Nitrates and sulfates were exceeding the 
+prescribed limit as set by PEPA and WHO. High concentration of some heavy metals like 
+lead (Pb) and Iron (Fe) were also exceeding the prescribed limit. Moreover, the presence 
+of coliform bacterial contamination was also confirmed. Author extended its 
+investigation by exploring the causes behind water contamination in this district and it 
+was found that improper sewage disposal, over usage of pesticide and fertilisers and poor 
+piping network is responsible for this prevailing situation in this district. To examine the 
+impact on health due to bacterial contamination, the author used questionnaire survey 
+which revealed similar results as of Haydar, Arshad, and Aziz (2009). Bacterial 
+contamination was found to be majorly responsible for diarrhea and other related water-
+borne diseases. To make the evaluation more constructive, the author also recommended 
+some measures like awareness among women and children and proper treatment of 
+sewage disposal in order to rectify this prevailing issue in that district.  
+Qadir and Malik (2011) provided evidence that impact on aquatic life due to water 
+pollution can harm public health. Similarly, Waseem, Arshad, Iqbal, Sajjad, Mehmood, 
+and Murtaza (2014) investigated the impact of contamination of water, vegetables and 
+soil impact on public health in Pakistan.  Samples of water and vegetables were collected 
+and then they were analysed. Results revealed that metal contamination in vegetables, 
+soil and water have severely impacted drinking water quality, food chain and ecological 
+environment which in turn exposes a great threat to human health. To evaluate the health 
+impact author has used different studies in various parts of Pakistan in order to validate 
+the aforementioned claim.  
+Similarly, Qureshi (2014) did an overall assessment of water quality in Pakistan 
+like Azizullah, Khattak, Richter, and Häder (2011). He analysed physiochemical 
+parameters, bacteriological parameters, concentration of heavy metals, sodium absorption 
+ratio, total dissolved solids and few other parameters from various water samples and 
+samples of toxic waste from various industries that are eventually dumped into water 
+922 
+Allawala,  Barry, and  Kayani 
+  
+channels. The evaluation revealed the presence of microbial contamination is present in 
+water in many areas. It further revealed that water quality is deteriorating due to lack of 
+proper attention. High concentration of heavy metals was observed due to the disposal of 
+untreated sewage waste into water bodies. The author also suggests that all major cities 
+should have sewage treatment plants and also laid emphasis on the formulation of 
+national standards for drinking water quality that can help to tackle the prevailing poor 
+water quality condition in Pakistan.  
+After a thorough review of the existing literature, we were not able to find any 
+study assessing the link between the unsafe drinking water and the prevalence of 
+diarrheal diseases in the country along with the effectiveness of any defensive activity 
+against the diseases. We hope that the present study will prove to be an initiation into a 
+new arena of research that the future researchers will carry forward.  
+ 
+2.2. Valuation of Health Effects due to Unsafe Drinking Water 
+A seminal study in this context was performed by Alberini, Eskeland, Krupnick, 
+and McGranahan (1996) who estimated the effects of infrastructural and behavioural 
+variables on the prevalence of diarrheal diseases in Jakarta using household defensive 
+expenditure function. Employing a major household survey conducted by the Stockholm 
+Environment Institute in 1991, the authors have attempted to model two simultaneous 
+equations representing the diarrheal illness and the defensive behaviour by the household 
+using bivariate probit regression; however, owing to the fact that almost all the 
+households included in the sample boil their water prior to drinking, the study utilises 
+hand-washing as the proxy for defensive behaviour. The results indicate that interruptions 
+in the water supply act as hindrance to defensive behaviour (handwashing) which results 
+in a higher incidence of diarrheal diseases. Consequently, the presence of a washbasin 
+near the latrine area is strongly associated with defensive behaviour and leads to lower 
+illness. The authors, however, also point out the fact that the incidence of illness in the 
+sample used was really low and hence hypothesis-testing was rather difficult.   
+Influencing the work of Dasgupta (2004) (from which this study partially draws 
+inspiration from), the author attempted to value health consequences of water pollution in 
+Delhi. Using a health production function framework, the author jointly estimated the 
+dose-response and the defensive behaviour functions to model real-life situations. The 
+WTA measure for the reduction in water quality for the entire population of Delhi has 
+been estimated using cost-of-illness (COI) framework eventually. Dwight, Fernandez, 
+Baker, Semenza and Olsen (2005) also utilised an extensive COI approach to value the 
+GI, ARI, ear and eye ailments resulting from polluted recreational waters in Orange 
+County, California. The resulting costs are considerable which can be utilised along with 
+the public health cost variable introduced in the paper for CBA purposes when devising 
+abatement strategies.   
+Realising the increasing prominence of non-point source pollution, Baerenklau, 
+Bishop and Stumborg (2001) employed a contingent valuation study to estimate the WTP 
+of Wisconsin residents for improvement in the water quality of Lake Mendota. Using a 
+Tobit estimation technique, the study realised that there will be considerable possible 
+aggregate net benefits in the future if the plan of Improvement in the recreational site in 
+undertaken. However, it also points out the recurring theme in literature that utilising 
+ 
+Diarrheal Diseases Due to Unsafe Drinking Water  
+923 
+ 
+market interest rates for discounting costs and benefits fails to capture all aspects of the 
+intertemporal decision-making process. Estimation of WTP for water pollution abatement 
+in several European remote lakes was also carried out by Mahieu and Giergiczny (2012); 
+however, they employed an interval data model using data collected through payment 
+card method. Ramajo-Hernandez and Saz-Salazar (2012) also conducted a similar CV 
+study for the Guadiana River Basin of Spain and estimated WTP using logit and spike 
+models to account for null WTP.   
+Barton (2002) and Barton and Mourato (2003) undertook nearly identical studies 
+to assess the reliability of benefit transfer methods to value water quality improvement. 
+Barton (2002) conducted the study at two different sites in Costa Rica, carrying out 
+contingent valuation studies at the two places; while Barton and Mourato (2003) targeted 
+seafronts in Costa Rica and Portugal. The studies do not find any evidence of the benefit 
+function transfer performing better than other benefit transfer methods, as propagated in 
+the literature. Barton (2002) also rejects the claim that transferability of benefit is directly 
+related to the proximity of the two sites, while also encouraging the idea of finding 
+different sites and attempting to control for these differences. Barton and Mourato (2003) 
+have advised against the usage of benefit transfer for policy analysis since it could lead to 
+very unhealthy results.   
+Loomis, Bell, Cooney and Asmus (2009) adopted a choice experiment method to 
+estimate WTP of parents located in San Luis Valley (Colorado) for safer quality water 
+when faced with the risk of shock, brain damage or death of their children. Using non-
+parents in the survey, they also incorporated the behaviour of altruism in the model. Their 
+results indicate that the theoretical estimates are highly overvalued in comparison to the 
+real values, indicating hypothetical bias.   
+Using the distance functions initially developed by Fare, et al. (1993), Hernandez-
+Sancho, Molinos-Senante, and Sala-Garrido (2009) have estimated the shadow prices for 
+undesirable water pollutants which can be utilised to construct a CBA framework in order 
+to prioritise the elimination of some specific undesirable pollutants.   
+Cheng, Schuster-Wallace, Watt, Newbold, and Mente (2012) conducted an 
+extensive study on 193 nations to quantify the effect of water quality on infant, child and 
+maternal mortality. With particular emphasis on the attainment of the Millennium 
+Development Goals (MDGs) related to infant health, maternal health and environmental 
+sustainability, the authors employed simple linear regression and logit model to find 
+statistically significant decrease in mortality with improvement In water and sanitation in 
+every case.   
+Mishra (2014) attempted to value the recreational benefits from the Hussain Sagar 
+Lake in Hyderabad (India) by using a blend of CVM (Stated Preference Approach) and 
+Travel Cost Model (Revealed Preference Approach). The author estimated the demand 
+curve for the improvement in the lake quality, followed by the shift in demand curve due 
+to proposed increase in the admission fee. The estimates seem to be very beneficial from 
+implementation viewpoint for increase in government revenue from the lake.   
+For a meta-analysis and critical survey of the available techniques to determine the 
+total use value of water resources, Birol, Karousakis, and Koundouri (2006) can be 
+referred.  
+924 
+Allawala,  Barry, and  Kayani 
+  
+2.3.  Critical Analysis and Contribution to Literature 
+Undoubtedly, there is no dearth of evidence regarding contamination of water 
+bodies all over Pakistan, as evident from Table 1 (for evidence from before 2010, 
+Azizullah, et al. (2010) provides an extensive meta-analysis). However, there has not 
+been much work in the context of health effects due to contamination of these water 
+resources. While most of the studies do report correlation between the degradation of 
+water quality samples and the prevalence of water-borne diseases in the target area, 
+correlation does not always imply causation. To contribute towards this gap in the 
+literature, this study uses a revealed preference approach grounded in economic theory to 
+substantiate the relationship between the rampant water pollution in the country and its 
+effect on the health of the most sensitive fraction of the population: children. The study 
+also takes into account the defensive behaviour of the household to assess if it leads to a 
+reduction in the incidence of the illness. As discussed in later sections, the results of this 
+study find significant application in many areas.   
+ 
+Table 1 
+Post-2009 Literature Regarding Drinking Water-Quality in Pakistan 
+Authors  
+Year  
+Target Area  
+Results  
+Hayder, Arshad and 
+Aziz 
+ 
+  
+2009  
+Southern 
+Lahore  
+62.5 percent connections had T.C; 50 percent had F.C; 
+possibly due to mixing of sewage.   
+Memon, Soomro, 
+Akhtar and Memon  
+ 
+2010  
+Thatta, Badin 
+and Thar; 
+Sindh  
+Coliform and soluble salts in all water bodies; diarrhea in 60 
+percent sample population.   
+Ashraf, Maah, Yusoff 
+and Mehmood  
+ 
+2010  
+Jamber, 
+Punjab  
+Parameters exceed NEQS guidelines for both irrigation and 
+drinking purposes.   
+Muhammad, Shah and 
+Khan  
+ 
+2011  
+Kohistan; 
+KPK  
+Cd, Ni, Pb, Zn concentrations higher than prescribed limits.   
+Qadir and Malik  
+ 
+ 
+2011  
+River 
+Chenab  
+Higher concentrations of heavy metals in fish rendering it 
+unfit for human diet.   
+Farid, Baloch and  
+Ahmed  
+ 
+2012  
+Faisalabad  
+Ground water unfit for human consumption particularly near 
+sewage channels.   
+Khan, Shehnaz, Jehan, 
+Rehman, Shah and 
+Din  
+ 
+ 
+2012  
+Charsadda, 
+KPK  
+Drinking water contaminated with heavy metals and 
+coliform; 47-59 percent people reported diarrhea (most 
+common illness).   
+Kazi  
+2014  
+Karachi and 
+Hyderabad  
+Heavy metals, arsenic and ecoliforms found in all samples.  
+ 
+3.  DATA 
+The data source primarily used for this study is the 2012-13 Pakistan Demographic 
+and Health Survey (PDHS). The National Institute of Population Studies (NIPS) 
+undertook the responsibility of implementing the 2012-13 PDHS project, and the project 
+ 
+Diarrheal Diseases Due to Unsafe Drinking Water  
+925 
+ 
+was executed by the Pakistan Planning and Development Division (Islamabad). The 
+Pakistan Bureau of Statistics (PBS) provided the sample design and household listings for 
+the sampled areas across the country. The funding for the survey was provided by the 
+United States Introduction Agency for International Development (USAID), while 
+technical and logistical support was provided by ICF International through its measure 
+DHS project.   
+For the Pakistan Demographic and Health Survey (PDHS) 2012-13, the target 
+sample was the entire population of the nation except for the population residing in Azad 
+Jammu and Kashmir, FATA, and restricted military and protected areas. Taking into 
+consideration the 1998 Population Census, the population of the country has been 
+ramified into urban and rural areas of the four provinces and the GB area. Furthermore, 
+all urban cities and towns have been categorised into mutually exclusive, small areas, 
+known as enumeration blocks which have clear boundaries on the map and comprise of 
+about 200 to 250 households on average. These were further categorised into low-, 
+middle-, and high-income categories. However, owing to the absence of any such 
+ramification in rural areas, lists of villages/mouzas/dehs developed through the 1998 
+population census were used as the sample frame. Ultimately, the sample was comprised 
+of 14,000 households which were deemed adequate for high precision results by the 
+survey. To select individual households in the second round of the sampling, 28 
+households were selected by applying a systematic sampling technique with a random 
+start. This resulted in 14,000 households being selected (6,944 in urban areas and 7,056 
+in rural areas) with a response rate of 96 percent [PDHS  (2012-13)].  
+ 
+3.  MODEL AND ESTIMATION METHOD 
+ 
+3.1.  Theoretical Framework  
+Most of the formal models used for deriving the value of reduced morbidity use 
+some variant of the health production function first developed by Grossman (1972). Since 
+then, numerous models have been formulated to explore different aspects of the health 
+production function. While Cropper (1981) explored the consequences of introducing 
+pollution variables in the health production function, Harrington and Portney (1987) 
+extended the framework to a model deriving individual choice in terms of willingness-to-
+pay. The following model of defensive behaviour and illness is based on the treatment by 
+Alberini, et al. (1996) which itself was inspired from the work of Harrington, Krupnick, 
+and Spofford (1989). 
+The individual derives utility from the consumption of a numeraire good   , 
+normalised with a price of one, leisure   while illness   causes disutility; thus, 
+            
+with                  
+Times pent ill   is modeled as a function of the exposure to contaminants   and 
+averting or defensive behaviour to reduce the likelihood of illness which we express as the 
+time    the household spends on defensive activities [Alberini, et al. (1996)]. Defensive 
+activity reduces the impact of the exposure to the contaminant, thereby affecting the 
+household’s well-being. Thus, the health production function can be speciﬁed as 
+926 
+Allawala,  Barry, and  Kayani 
+  
+                             
+with 
+            
+The household’s budget constraint can then be speciﬁed as 
+                       
+where   is total non-labour income,   is the wage rate,   is total time,    is the price of 
+defensive activity.  
+The first-order conditions for optimising the Lagrangian: 
+    (           )                           
+with respect to  ,  , and    are easily shown to be: 
+        
+         
+   
+  
+       
+  
+           
+The optimal defensive behaviour derived from the first-order conditions: 
+   
+    
+              
+is therefore a function of the wage rate,  , of non-labor income, , of the cost of the 
+defensive activity,    , and of the threat of contamination,  . On inserting the optimal   
+  
+into the dose-response function  , we obtain: 
+         
+    
+The study will attempt to estimate the last two equations, dose-response function 
+and the defensive behaviour function from the available data.  
+ 
+3.2.  Econometric Specification of the Model   
+The model specified in the last section therefore would estimate the health 
+production function and the defensive behaviour function using household-level data to 
+determine how individuals respond to a threat of contamination and illness.   
+While controlling for other variables that affect health status, the estimation 
+procedure involves the estimation of a relationship between illness and the contamination 
+levels. However, while performing actual estimations of the health production function, 
+we would need to be controlling for various other determinants of health stock, such as 
+physical and socio-economic characteristics of age, gender, wage, and education level. 
+Such a model captures the effect of behaviour on health while allowing for the joint 
+determination of health and behaviour, and is therefore useful for analysing real-world 
+situations. This is due to the fact that it treats health and behaviour as interlinked 
+variables. For both equations the dependent variable will be modelled as a dichotomous 
+observed variable, because of the nature of behaviour (e.g., households either treat or do 
+not treat water) or lack of more accurate information (we have information regarding 
+presence of diarrheal illness but not its duration).  
+Suppose that individuals exhibit defensive behaviour if the value assumed by a 
+random variable 𝑦1, is greater than zero. Let 𝑦1 be determined by individual/household 
+ 
+Diarrheal Diseases Due to Unsafe Drinking Water  
+927 
+ 
+characteristics (including the wage rate, non-labor income and the cost of defensive 
+behaviour) and the risk factors, both represented by the vector of regressors 𝑥1:  
+𝑦1 = 𝛽1𝑥1 + 𝜖  
+Furthermore, suppose that diarrheal disease is present in a household when a 
+second random variable 𝑦2 defined as:  
+𝑦2 = 𝛽2𝑥2 + 𝜂𝑦1 + 𝜉  
+takes on a value greater than zero. Here 𝑥2 is also a set of individual and household 
+characteristics and sources of risk for diarrheal disease. The above two simultaneous 
+equations contain two endogenous variables, 𝑦1 and 𝑦2, and hence can be estimated using 
+instrumental variable regression techniques. Instead of converting the equations into the 
+reduced-form and then estimating them, the procedure will use the household 
+characteristics are instruments in the defensive behaviour function and then estimate the 
+health production function. However, the endogeneity of the variables must also be 
+assessed to assure the reliability of the results.  
+The dependent variable for the health production function is diarrheal illness – it 
+assumes a value of 1 if the household reports at least one case of diarrheal illness, 
+otherwise 0. For the defensive behaviour equation, as the literature suggests [see Alberini 
+(1996)] purification of water has been taken as the variable of interest– it takes a value of 
+1 when the household reports that it employs measures to purify water prior to drinking 
+the same, otherwise it takes a value of 0. In the survey, sources that are likely to provide 
+water approprite for drinking are identified as improved sources. These include a piped 
+source within the dwelling, yard, or plot; borehole; a protected well; a public 
+tap/standpipe; rainwater; and spring water [WHO and UNICEF Joint Monitoring 
+Program for Water Supply and Sanitation (2010)].  
+The source of water is taken to be the primary source of water contamination in 
+the household. It takes a value of 1 if it is an improved water source (piped into 
+household, protected well, protected spring, bottled water and filtration plant); 
+otherwise it takes a value of zero (unprotected well, unprotected spring, surface water, 
+tanker truck). Other exogenous variables include household income (categorical 
+variable with five states), education of the head (in years) and the time it takes to get to 
+the water source (in hours).   
+As evident from the economic framework, the defensive behaviour is an 
+endogenous variable in the construction of the health-production function. As such, a 
+Two-Stage Least Square (2SLS) procedure has been employed to estimate the effect of 
+improved water sources and defensive behaviour on the presence of diarrheal diseases 
+among households in Pakistan. The linear specification implies the fact that the estimates 
+of the model can be interpreted directly as the marginal effects of a unit change in one 
+variable while keeping everything else constant. Although both equations have binary 
+dependent variables, Angrist and Pischke (2008) suggest utilising a linear model while 
+taking into account the fact that LPM only gives an approximation of the marginal 
+effects. Nevertheless, to confirm endogeneity of the defensive behaviour variable, 
+endogeneity test statistics will also be reported. The variables for this study are listed in 
+Table 2.  
+928 
+Allawala,  Barry, and  Kayani 
+  
+Table 2 
+Description of Variables 
+Diarrheal Disease (Response variable)  
+1 if household reports at least one case of diarrhoea; 0 otherwise  
+Source of Drinking Water (Contamination Source) 
+1 if household uses improved water source; 0 otherwise  
+Treatment of Drinking Water (Defensive Behaviour) 
+1 if household uses any method to treat water prior to drinking; 0 otherwise  
+Control variables 
+Household Characteristics  
+Income category of the household  
+Time to get to water source  
+ 
+Education of household head  
+ 
+3.3.  Hypothesis  
+(i) Treatment of water prior to drinking has no effect on the prevalence of 
+diarrheal diseases among households in Pakistan. 
+(ii) Household characteristics do not affect prevalence of diarrheal diseases 
+among households in Pakistan.  
+(iii) Treatment of water prior to drinking (defensive behaviour) is not an 
+endogenous variable in the health-production function. 
+ 
+4.  RESULTS AND DISCUSSION 
+In this section we report the descriptive statistics and regression results of this 
+study, discuss the strengths and weaknesses of those results and recommend future 
+research prospects in this area.   
+ 
+4.1.  Descriptive Statistics  
+Access to safe water and sanitation are basic determinants of better health. 
+Lack of access to safe drinking water and sanitation facilities and poor hygiene are 
+associated with skin diseases, acute respiratory infections (ARIs), and diarrheal 
+diseases. Diarrheal diseases remain the leading causes of childhood deaths in 
+Pakistan that are preventable with primary health care measures [NIPS and Macro 
+International (2008)].   
+In the 2012-13 PDHS, information on diarrhoea was gathered by asking mothers 
+whether their child had experienced any episode of diarrhoea in the two weeks before the 
+survey. If the child had had diarrhoea, the mother was asked about feeding practices 
+during diarrhoea, types of treatment, and her knowledge and use of ORS.   
+ 
+Diarrheal Diseases Due to Unsafe Drinking Water  
+929 
+ 
+Table 3 
+Descriptive Statistics 
+Background Characteristics  
+Diarrheal Incidence (%)  
+Age in Months  
+   <6  
+  
+25.8  
+   6-11  
+35.3  
+   12-23  
+32.9  
+   24-35  
+22.0  
+   36-47  
+16.3  
+   48-59  
+12.0  
+Sex  
+  Male  
+  
+22.7  
+  Female  
+22.3  
+Source of Drinking Water5 Improved  
+22.2  
+  Not improved  
+25.5  
+  Other/missing  
+35.5  
+Toilet Facility6  
+  Improved, not shared  
+  
+21.9  
+Shared  
+23.2  
+Non-improved   
+23.2  
+Mother’s Education  
+   No education  
+  
+22.9  
+   Primary  
+25.0  
+   Middle  
+22.6  
+   Secondary  
+21.1  
+   Higher  
+16.4  
+Wealth quintile  
+   Lowest  
+  
+22.8  
+   Second  
+24.3  
+   Middle  
+23.7  
+   Fourth  
+23.6  
+   Highest  
+17.1  
+   Total  
+22.5  
+ 
+According to the descriptive statistics in Table 2, 23 percent of children under age 
+5 suffered from diarrhoea in the two weeks preceding the survey. The prevalence of 
+diarrhoea was reported to be 15 percent in 1990-91 and 22 percent in 2006-07. Although 
+diarrhoea prevalence varies seasonally, the three PDHS surveys were conducted in more 
+or less the same period, and thus the diarrhoea episodes reported in the three surveys 
+depict a realistic trend. For children age 6-11 months (35 percent), the prevalence of 
+diarrhea is highest owing to the fact that this is the time during which solid foods are first 
+introduced into the child’s daily diet. During this period, children are most exposed to 
+diseases since their immune system is still developing. Prevalence of diarrhoea does not 
+show variations by sex of the child, type of toilet facility, or residence. Diarrheal 
+ 
+5Improved drinking water sources include a piped source within the dwelling, yard, or plot; a public 
+tap/standpipe; borehole; a protected well; spring water; and rainwater. 
+6A household is classified as having an improved toilet if it is used only by household members (is not 
+shared with another household) and if it separates waste from human contact.  
+930 
+Allawala,  Barry, and  Kayani 
+  
+prevalence is higher among households using a non-improved source of drinking water 
+than among households using an improved source. There are no substantial variations by 
+mother’s education and wealth quintile, except that children of mothers who have a 
+higher education (16 percent) and children of mothers in the highest wealth quintile (17 
+percent) are less likely to suffer from diarrhoea.  
+ 
+4.2.  Regression Results  
+Using instrumental variable techniques, the defensive behaviour function has been 
+estimated in the first step, while the second step estimates the health production function 
+(hence the name Two-Stage Least Squares). The Table 4 gives the estimates of the 2SLS 
+model, separately reporting both the defensive behaviour function and the dose-response 
+function.  
+ 
+Table 4 
+Instrumental Variable Regression Results 
+Variables 
+Coefficients 
+A. Stage 1: Treatment of water 
+ 
+Constant  
+0.013* 
+(0.007) 
+Improved water source7 
+0.045*** 
+(0.006) 
+Income category I: Richest8  
+0.176*** 
+(0.009) 
+Income category II: Richer  
+0.029*** 
+(0.009) 
+Income category III: Middle  
+-0.008 
+(0.008) 
+Income category IV: Poorer  
+-0.022* 
+(0.008) 
+Household head education  
+0.003*** 
+(0.0005) 
+Time required to get to water source  
+0.029*** 
+(0.007) 
+Observations 
+13,409 
+F (7, 13401) 
+189.79 
+B. Stage 2: Presence of Diarrheal disease 
+ 
+Constant  
+0.192*** 
+(0.006) 
+Improved water source9 
+-0.016** 
+(0.007) 
+Treated water10  
+-0.315*** 
+(0.047) 
+Household head education  
+0.00018 
+(0.0007) 
+Time required to get to water source  
+0.0007 
+(0.009) 
+Observations 
+13,409 
+Wald Chi2 
+108.35 
+Notes: *, ** and *** denote significance at 10 percent, 5 percent and 1 percent. Standard errors in parenthesis.  
+ 
+7 Reference category: Unimproved water source 
+8 Reference category: Poorest. 
+9 Reference category: Unimproved water source. 
+10 Reference category: Untreated water. 
+ 
+Diarrheal Diseases Due to Unsafe Drinking Water  
+931 
+ 
+In the first stage, the defensive behaviour (treatment of water by the household) has 
+been regressed on different structural and behavioural characteristics. The first thing that 
+needs our notice is that the signs of the income categories change when we move up the 
+income ladder. The households in the lowest income category are negatively related to the 
+defensive behaviour; however, for higher categories, such households are more likely to 
+respond to risk of contamination. Furthermore, as we move up from the middle category to 
+the richest, the coefficient also increases in size, representing the fact that the more endowed 
+the household is, the more it will reflect defensive behaviour. Except for the middle income 
+category, the rest of the categories ae significant as well. Therefore, while a household which 
+is relatively poorer is about 2.2 percent less likely to treat water prior to drinking, the richest 
+household are about 17.6 percent more likely to express defensive behaviour.  
+An improved source of water is also positively and significantly related to the 
+defensive behaviour which is also a proxy for the wealth of the household; a wealthier 
+household is more likely to indulge in defensive behaviour, conforming to the economic 
+theory. Hence, households using an improved water source are 4.5 percent more likely to 
+also treat it prior to drinking, and is a significant determinant of the decision to undertake 
+defensive activity. The education of the household head is also significantly related to 
+defensive behaviour implying that the more educated the head is, the more that household 
+will be aware regarding the benefits of treating its water before drinking. Using education 
+of the mother instead of household head’s education (not reported) results in a similar 
+coefficient and significance. 
+Finally, the time taken to get to the water source is also positively and significantly 
+related to the defensive behaviour which could be representative of the fact that 
+households perceive such sources to be contaminated with pollutants and hence are 3 
+percent more likely to treat it prior to drinking.   
+In the next step, the household health production function has been estimated 
+where the treatment of water is being treated as an endogenous variable. As indicated by 
+economic theory and the comprehensive literature review, the utilisation of an improved 
+water source of drinking water and the treatment of water before drinking (expression of 
+defensive behaviour) lead to a decrease in the presence of diarrheal diseases in the house. 
+In fact, a household which treats water prior to drinking is 31.5 percent less likely to 
+report any case of diarrheal disease as opposed to those who do not undertake any such 
+activity. Similarly, if the household utilises an improved water source, it is 1.6 percent 
+less likely to report presence of diarrheal diseases.  
+Finally, to check whether the use of an endogenous variable in the household 
+production function was justified, endogeneity tests results have also been reported. Both, 
+the Durbin test as well as the Wu-Hausman test, result in the rejection of the null 
+hypothesis of the variable being exogenous and hence our choice of endogenous variable 
+is correct, reinforcing the reliability of the 2SLS model.  
+The household exhibiting defensive behaviour, i.e. treating water prior to drinking, 
+are 31.5 percent less likely to report any cases of diarrheal diseases in the household as 
+opposed to those not employing any such method. The results are comparable to the 
+studies previously done in Jakarta [Alberini (1996)] and India [Dasgupta (2004)]. 
+However, unlike the mentioned studies, the estimation takes into account the endogenous 
+nature of the defensive behaviour as dictated by the economic theory. The confirmation 
+of the endogenous nature of the variable reinforces the reliability of the results while also 
+conforming to the theoretical framework.  
+932 
+Allawala,  Barry, and  Kayani 
+  
+4.3.  Limitations of the Study  
+Although this study is the first to be employed in Pakistan to the best of our 
+knowledge, it also exhibits many limitations that the future researchers can improve upon. The 
+first such shortcoming is that the study utilises indirect exposure to contaminants (unimproved 
+water source) instead of the direct contamination source, which drastically reduces the link 
+between the diarrheal disease and the contaminant. However, this can be remedied by 
+epidemiological studies at the site of the data collection. This will result in a better 
+classification of the water sources as opposed to the one already in use. Similarly, the lack of 
+information on the exact wage of the household, price of diarrheal treatment, price of water 
+treatment and the days spent sick result in deviation from the pure form of the household 
+health-production function. One step in this direction is the extension of DHS to inquire 
+regarding the wages of the households and the exact cost of treatment to recover from 
+diarrheal diseases. These values can be combined with the results of the study to provide an 
+estimate of the wages lost and the cost of defensive behaviour by the household, which will 
+give us a lower bound of the cost of diarrheal illness in the household. This cost can be used 
+by policy-makers to value programs being implemented to tackle diarrheal illnesses across 
+Pakistan. Moreover, the availability of time-series data along with cross-sectional will allow 
+us to model the dynamics of the disease and the household behaviour in real time.  
+ 
+Table 5 
+Diagnostic Tests 
+Endogeneity Tests  
+Coefficient  
+p-value  
+Durbin score  
+50.2549 
+0.000 
+Wu-Hausman  
+50.4214 
+0.000 
+ 
+5.  CONCLUSION 
+This study finds that household exhibiting defensive behaviour, i.e. treating water 
+prior to drinking, are 31.5 percent less likely to report any cases of diarrheal diseases in the 
+household as opposed to those not employing any such method. As discussed before, 
+diarrheal illness has proven to be a significant contributor to the burden of disease among 
+Pakistani population and is a primary reason for infant mortality in the country. Not only 
+does it pose a threat to the health of the children, it also imposes considerable monetary and 
+cognitive burden. The result of the study calls for an immediate state level policy 
+intervention to spread awareness among the public regarding the benefits of water treatment 
+prior to drinking. Moreover, it also serves as a reminder of the responsibility of the state to 
+ensure better health of its citizens by making sure that the basic resources, especially as 
+necessary as drinking water, is safe to consume and implement measures to mitigate the 
+health hazards if it is not the case. Conclusively, further exploration regarding the cost of 
+illness due to unsafe drinking water in the country should allow the government to construct 
+and implement inherently efficient policies and schemes in the future. 
+ 
+REFERENCES 
+Angrist, J. D. and J. S. Pischke (2008) Mostly Harmless Econometrics: An Empiricist's 
+Companion. Princeton University Press. 
+ 
+Diarrheal Diseases Due to Unsafe Drinking Water  
+933 
+ 
+Ashraf, M. A., M. J. Maah, I. Yusoff, and K. Mehmood (2010) Effects of Polluted Water 
+Irrigation on Environment and Health of People in Jamber, District Kasur, 
+Pakistan. International Journal of Basic and Applied Sciences  10:3, 37–57. 
+Azizullah, A., M. N. K. Khattak, P. Richter, and D. P. Häder (2011) Water Pollution in 
+Pakistan 
+and 
+Its 
+Impact 
+on 
+Public 
+Health—A 
+Review. Environment 
+International 37:2, 479–497. 
+Barton, D. N. (2002) The Transferability of Benefit Transfer: Contingent Valuation of 
+Water Quality Improvements in Costa Rica. Ecological Economics 42:1, 147–164.  
+Barton, D. N. and S. Mourato (2003) Transferring the Benefits of Avoided Health Effects 
+from Water Pollution between Portugal and Costa Rica. Environment and 
+Development Economics 8:02, 351–371. 
+Birol, E., K. Karousakis, and P. Koundouri (2006) Using Economic Valuation 
+Techniques to Inform Water Resources Management: A Survey and Critical Appraisal 
+of Available Techniques and An Application. Science of the Total Environment 365:1, 
+105–122. 
+Cheng, J. J., C. J. Schuster-Wallace, S. Watt, B. K. Newbold, and A. Mente (2012) An 
+Ecological Quantification of the Relationships between Water, Sanitation and Infant, 
+Child, And Maternal Mortality. Environmental Health 11:1. 
+Cropper, M. L. (1981) Measuring the Benefits from Reduced Morbidity. The American 
+Economic Review 71:2, 235–240. 
+Dasgupta, P. (2004)  Valuing Health Damages from Water Pollution in Urban Delhi, 
+India: A Health Production Function Approach. Environment and Development 
+Economics 9:1, 83–106.  
+De Lange, W. J. (2012) Monetary Valuation of Salinity Impacts and Microbial Pollution 
+in the Olifants Water Management Area, South Africa. Water SA 38:2, 241–248.  
+DHS, M. (2013) Demographic and Health Surveys. Calverton: MEASURE DHS. 
+Dwight, R. H., L. M. Fernandez, D. B. Baker, J. C. Semenza, and B. H. Olson (2005) 
+Estimating the Economic Burden from Illnesses Associated with Recreational Coastal 
+Water Pollution—A Case Study in Orange County, California. Journal of 
+Environmental Management 76:2, 95–103. 
+Färe, R., S. Grosskopf, C. K. Lovell, and S. Yaisawarng (1993) Derivation of Shadow 
+Prices for Undesirable Outputs: A Distance Function Approach. The Review of 
+Economics and Statistics 374–380. 
+Farid, S., M. K. Baloch, and S. A. Ahmad (2012) Water Pollution: Major Issue in Urban 
+Areas. International Journal of Water Resources and Environmental Engineering 4:3, 
+55–65. 
+Greenstone, M. (2014) Environmental Regulations, Air and Water Pollution, and Infant 
+Mortality in India. The American Economic Review 104:10,  3038–3072.  
+Grossman, M. (1972) On the Concept of Health Capital and the Demand for 
+Health. Journal of Political Economy  80:2, 223–255. 
+Harrington, W. and P. R. Portney (1987) Valuing the Benefits of Health and Safety 
+Regulation. Journal of urban Economics 22:1, 101–112. 
+Harrington, W., A. J. Krupnick, and W. O. Spofford (1989) The Economic Losses of a 
+Waterborne Disease Outbreak. Journal of Urban Economics 25:1, 116–137. 
+Haydar, S., M. Arshad, and J. A. Aziz (2016) Evaluation of Drinking Water Quality in 
+Urban Areas of Pakistan: A Case Study of Southern Lahore. Pakistan Journal of 
+Engineering and Applied Sciences. 
+934 
+Allawala,  Barry, and  Kayani 
+  
+Hernández-Sancho, F. M.-S.-G. (2010) Economic Valuation of Environmental Benefits 
+from Wastewater Treatment Processes: An Empirical Approach for Spain. Science of 
+the Total Environment 408:4, 953–957.  
+Hernández-Sancho, F., M. Molinos-Senante, and R. Sala-Garrido (2010) Economic 
+Valuation of Environmental Benefits from Wastewater Treatment Processes: An 
+Empirical Approach for Spain. Science of the Total Environment 408:4, 953–957. 
+Khan, S., M. Shahnaz, N. Jehan, S. Rehman, M. T. Shah, and I. Din (2013) Drinking 
+Water Quality and Human Health Risk in Charsadda District, Pakistan. Journal of 
+Cleaner Production 60, 93–101. 
+Krupnick, A., A. Alberini, G. McGranahan, and G. S. Eskeland (1996) Determinants of 
+Diarrhoel Disease in Jakarta. World Bank Policy Research Papers (1568), 1–3. 
+Loomis, J., P. Bell, H. Cooney, and C. Asmus (2009) A Comparison of Actual and 
+Hypothetical Willingness to Pay of Parents and Non-Parents for Protecting Infant 
+Health: The Case of Nitrates in Drinking Water. Journal of Agricultural and Applied 
+Economics 41:3, 697–712. 
+Mahieu, P. A. (2012) Determinants of Willingness-To-Pay for Water Pollution 
+Abatement: A Point and Interval Data Payment Card Application. Journal of 
+Environmental Management 108, 49–53.  
+Mahmood, A. and M. Sultan (2006) National Institute of Population Studies (NIPS) (Pakistan), 
+and Macro International Inc. Pakistan Demographic and Health Survey 7, 123–45. 
+Memon, M. S. (2011) Drinking Water Quality Assessment in Southern Sindh (Pakistan). 
+Environmental Monitoring and Assessment 177:1, 39–50.  
+Mishra, P. P. (2014) Potential Benefits and Earnings from Improving the Hussain Sagar 
+Lake in Hyderabad: A Combined Revealed and Stated Preference Approach .  
+Muhammad, S., M. T. Shah, and S. Khan (2011)  Health Risk Assessment of Heavy 
+Metals and Their Source Apportionment in Drinking Water of Kohistan Region, 
+Northern Pakistan. Microchemical Journal  98:2, 334–343. 
+National Institute of Population Studies (NIPS) and Macro International (2009) Pakistan 
+Demographic and Health Survey 2006-07. Claverton, Maryland, USA. 
+Qadir, A., and R. N. Malik (2011) Heavy Metals in Eight Edible Fish Species from Two 
+Polluted Tributaries (Aik and Palkhu) of the River Chenab, Pakistan. Biological Trace 
+Element Research 143:3, 1524–1540. 
+Qureshi, A. S. (2014) Reducing Carbon Emissions through Improved Irrigation Management: 
+A Case Study from Pakistan. Journal of Irrigation and Drain 63,  132–138. 
+Ramajo-Hernández, J., and S. del Saz-Salazar (2012) Estimating the Non-Market 
+Benefits of Water Quality Improvement for a Case Study in Spain: A Contingent 
+Valuation Approach. Environmental Science and Policy  22, 47–59. 
+Stumborg, B. E., K. A. Baerenklau, and R. C. Bishop (2001) Nonpoint Source Pollution 
+and Present Values: A Contingent Valuation Study of Lake Mendota. Review of 
+Agricultural Economics 120–132. 
+Waseem, A., J. Arshad, F. Iqbal, A. Sajjad, Z. Mehmood and G. Murtaza (2014) Pollution 
+Status of Pakistan: A Retrospective Review on Heavy Metal Contamination of Water, 
+Soil, and Vegetables. BioMed Research International. Hindawi Publishing Corporation. 
+WHO (2002) The World Health Report 2002: Reducing Risks, Promoting Healthy Life. 
+Geneva: World Health Organisation. 
+WHO, U. N. I. C. E. F. (2010) Progress on Sanitation and Drinking-water, 2010 Update. 
+World Health Organisation. 

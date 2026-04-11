@@ -1,0 +1,438 @@
+ 
+ 
+ 
+© 2024 et al. Open access under Creative Commons by License. Free use and distribution with proper citation. 
+ 
+Page 188 
+For contributions to JHRR, contact at email: editor@jhrlmc.com 
+Original Article 
+Comprehensive Outreach: Reach Every Child Initiative 
+Expanded Program on Immunization Khyber Pakhtunkhwa, 
+Pakistan 
+Imran Khan1, Ahmed Ameen2, Rizwan Anwar3, Amjad Ur Rahman4, Mohammad Wajid Ali5*, Hafsa Khan6, Muhammad Omair7, 
+Muhammad Babar Alam8 
+1Divisional Officer, Public Health, World Health Organization EPI, KP- Pakistan. 
+2NSTOP Officer EPI, Public Health, Department of Health KP- Pakistan. 
+3Area Coordinator, Public Health, Polio Eradication Initiative, WHO Pakistan. 
+4Immunization officer, Public Health, Polio Eradication Initiative, WHO Pakistan. 
+5Member of Service, Public Health, Department of Health KP- Pakistan. 
+6Zoologist, Supervisor 3rd Party Evaluation. 
+7Medical Officer, Health Department KP- Pakistan. 
+8MBBS, MPH, MPP, PhD, Head of WHO Sub Office, Public Health, Health Systems Division WHO, KP- Pakistan. 
+*Corresponding Author: Mohammad Wajid Ali; Email: wajidanam@gmail.com 
+Conflict of Interest: None. 
+Khan I., et al. (2024). 4(2): DOI: https://doi.org/10.61919/jhrr.v4i2.787 
+ABSTRACT 
+Background: Vaccination is one of the most effective public health interventions for preventing infectious diseases. In regions like 
+Khyber Pakhtunkhwa, Pakistan, where access to healthcare is limited, immunization coverage often remains below optimal levels. 
+Targeted outreach activities can play a pivotal role in improving vaccine uptake, particularly in underserved populations. 
+Objective: This study aimed to assess the effectiveness of immunization outreach activities in increasing vaccine coverage in Khyber 
+Pakhtunkhwa over a defined period. 
+Methods: A comprehensive methodological approach was utilized involving predefined Excel sheets for daily data collection by 
+trained personnel. Data validation procedures were implemented to ensure accuracy, with regular feedback sessions to improve 
+data collection processes. Monthly reports were compiled and analyzed using SPSS version 25 to summarize immunization activities 
+and coverage rates. The outreach strategy included community announcements and door-to-door campaigns by Local Health 
+Workers (LHWs), designed to identify and vaccinate zero-dose and defaulting children. 
+Results: The outreach campaign significantly improved immunization coverage, with zero-dose vaccinations achieving 100% 
+coverage. Penta I, II, and III vaccines saw coverage rates of 78.99%, 72.48%, and 78.02%, respectively. Measles vaccines MCV-I and 
+MCV-II achieved coverage rates of 83.01% and 86.11%. The overall strategy effectively reduced gaps in vaccine coverage across 
+various districts. 
+Conclusion: The study confirms that structured and well-coordinated outreach activities can effectively increase immunization 
+coverage in areas with limited healthcare access. Continuous effort and strategic planning are essential to sustain and build upon 
+these gains to ensure comprehensive vaccine coverage. 
+Keywords: Immunization Coverage, Outreach Activities, Vaccine Uptake, Public Health, Khyber Pakhtunkhwa, SPSS Analysis, Health 
+Worker Campaigns, Vaccine Preventable Diseases. 
+INTRODUCTION 
+Vaccines are indispensable tools in the prevention of infectious diseases, offering protection by priming the immune system to 
+combat specific pathogens. This function was underscored by the emergence of a diphtheria outbreak towards the end of 2018 in 
+regions of Khyber Pakhtunkhwa, Pakistan, identified with low coverage rates of the Penta vaccine among other antigens. This 
+situation necessitated a targeted initiative not merely to control the outbreak but also to enhance vaccination coverage 
+comprehensively. In addition to offering a defense against severe and potentially fatal illnesses, routine childhood immunizations 
+are a core component of public health strategies. The routine pediatric vaccination schedules focus primarily on essential vaccines, 
+ 
+Expanded Program on Immunization (EPI) in Khyber Pakhtunkhwa, Pakistan 
+ 
+Khan I., et al. (2024). 4(2): DOI: https://doi.org/10.61919/jhrr.v4i2.787 
+ 
+ 
+ 
+ 
+© 2024 et al. Open access under Creative Commons by License. Free use and distribution with proper citation. 
+ 
+Page 189 
+which include innovations like anti-viral monoclonal antibodies such as nirsevimab. Notably, these antibodies do not impede the 
+immune responses elicited by other vaccines(2). 
+The Advisory Committee on Immunization Practices (ACIP) has played a pivotal role in shaping immunization guidelines, 
+recommending the inclusion of the HPV 9-valent vaccine in the essential immunization schedule for specific age groups and high-
+risk populations. Furthermore, the incorporation of virus-like protein (VLP) vaccines into these schedules exemplifies the 
+advancement in vaccine technology, providing noninfectious yet effective immunization options(3). The comprehensive 
+immunization schedules, which cover children, adolescents, and adults, are meticulously documented, detailing the rationale, 
+efficacy, and potential adverse reactions associated with vaccines(4-6). Studies on the immunogenicity and tolerability of vaccines, 
+such as the recombinant serogroup B meningococcal vaccine, affirm that they can be integrated into routine infant immunization 
+programs without disrupting the standard immune response(7). 
+For adults, routine vaccinations are essential, especially for those planning international travel, as they update protective measures 
+against diseases like diphtheria, measles-rubella, tetanus, and pertussis(8). For immunocompromised individuals, the choice of 
+vaccine type is crucial; inactivated vaccines are generally safe, whereas live vaccines require careful consideration of the balance 
+between infection risks and potential adverse effects of the vaccine(9). Mass vaccination campaigns, especially those targeting 
+poliovirus, have demonstrated enhanced immunity benefits compared to routine vaccination programs, particularly against 
+poliovirus type 3(10). This enhanced response is critical in regions where poliovirus remains a significant health threat, underscoring 
+the need for ongoing and adaptive vaccination strategies to reach every child. 
+MATERIAL AND METHODS 
+To ensure robust data collection and analysis for the Expanded Program on Immunization in Khyber Pakhtunkhwa, Pakistan, a 
+meticulous methodological framework was established. Excel sheets with predefined formats were specifically designed to facilitate 
+the daily collection of data, including antigen-specific information such as the number of vaccines administered. Trained personnel 
+were assigned the responsibility of accurately entering data into these Excel sheets on a daily basis. To enhance data integrity, 
+comprehensive data validation procedures were put in place to mitigate the likelihood of errors and ensure both accuracy and 
+completeness of the data recorded. 
+The methodology incorporated regular feedback mechanisms. Feedback sessions were routinely conducted to review the data 
+entries, and personalized feedback was provided to the data collectors. This feedback was typically presented through tables and 
+graphs, aiming to pinpoint areas requiring improvement and assist data collectors in meeting their objectives. The data gathered 
+were systematically compiled into monthly reports that encapsulated details of immunization activities, coverage rates, and other 
+pertinent Expanded Programme on Immunization (EPI) indicators. These reports were then submitted to the EPI Management 
+Information System (MIS), a central platform designed for the aggregation and analysis of immunization data at various 
+administrative levels—district, provincial, and national. This system played a crucial role in supporting evidence-based decision-
+making and program planning. 
+Furthermore, the data collection process was continuously monitored to identify and rectify any discrepancies or issues that 
+emerged during data entry or the validation phase. Prompt corrective actions were undertaken to resolve these issues, thereby 
+maintaining high data quality. Additional quality assurance measures included regular training sessions, refresher courses, and data 
+audits. These initiatives were aimed at maintaining the integrity and accuracy of the data throughout the collection and processing 
+cycle. 
+Regarding data analysis, the collected data were analyzed using SPSS version 25. This analysis facilitated the evaluation of 
+immunization coverage and effectiveness, contributing significantly to the strategic planning and implementation of immunization 
+programs. 
+An ethical review was conducted prior to the initiation of the data collection process, adhering to the Helsinki Declaration to ensure 
+all ethical standards were maintained during the study. The review focused on ensuring the confidentiality and security of the data 
+collected, providing a framework that respected the rights and privacy of all participants involved. 
+Overall, the methodology was rigorously designed to ensure standardized data collection processes, effective data consolidation, 
+and integration into systematic reports and the EPI MIS, thus guaranteeing the quality and reliability of the immunization data for 
+informed decision-making and effective program management. 
+RESULTS 
+In a significant immunization outreach program conducted from December 31, 2018, to January 12, 2019, in Khyber Pakhtunkhwa, 
+Pakistan, substantial achievements in vaccine coverage were documented. For the Zero Dose vaccine, out of a target of 39,112 
+ 
+Expanded Program on Immunization (EPI) in Khyber Pakhtunkhwa, Pakistan 
+ 
+Khan I., et al. (2024). 4(2): DOI: https://doi.org/10.61919/jhrr.v4i2.787 
+ 
+ 
+ 
+ 
+© 2024 et al. Open access under Creative Commons by License. Free use and distribution with proper citation. 
+ 
+Page 190 
+children, 29,441 were vaccinated, resulting in a coverage of 75.25% (Table 1). Among the pentavalent vaccines, Penta I saw 58,093 
+of the targeted 73,560 children vaccinated, achieving a 78.99% coverage rate. Penta II and Penta III followed with coverage rates of 
+72.48% and 78.02%, respectively, with Penta II having 57,475 out of 79,313 targeted children vaccinated, and Penta III having 59,141 
+out of 75,813 (Table 1). 
+ 
+Table 1: Summary of Immunization Coverage Achievements 
+Antigen/Vaccine 
+Target 
+Coverage 
+Coverage (%) 
+Zero Dose 
+39,112 
+29,441 
+75.25% 
+Penta I 
+73,560 
+58,093 
+78.99% 
+Penta II 
+79,313 
+57,475 
+72.48% 
+Penta III 
+75,813 
+59,141 
+78.02% 
+bOPV & PCV-10 (with Penta I, II, III) 
+- 
+- 
+- 
+IPV (Inactivated Polio Vaccine) 
+76,943 
+59,357 
+77.14% 
+MCV-I (Measles I) 
+94,560 
+78,509 
+83.01% 
+MCV-II (Measles II) 
+75,341 
+64,856 
+86.11% 
+Tetanus Toxoid (TT) 
+- 
+- 
+- 
+ 
+Table 2: District-Wise Zero Dose Coverage Achievement 
+District 
+Identified Zero Dose 
+Coverage 
+Coverage (%) 
+Bannu 
+>1000 
+- 
+- 
+Battagram 
+>1000 
+- 
+- 
+Dir Upper 
+>1000 
+- 
+- 
+Karak 
+>1000 
+- 
+- 
+Kohat 
+>1000 
+- 
+- 
+Nowshera 
+>1000 
+- 
+50-60% 
+Shangla 
+>1000 
+- 
+>100% 
+Tank 
+>1000 
+- 
+>100% 
+Lakki Marwat 
+>4000 
+- 
+50-60% 
+Peshawar 
+>4000 
+- 
+50-60% 
+ 
+Table 3: District-Wise IPV and Measles Coverage Achievement 
+Vaccine 
+District 
+Coverage (%) 
+IPV 
+Various 
+50-79% to >80% 
+MCV-I 
+Various 
+83.01% overall 
+MCV-II 
+Various 
+86.11% overall 
+ 
+Table 4: Penta/OPV/PCV Coverage by District and Stage 
+Vaccine Stage 
+Coverage (%) Range 
+Specifics 
+Penta-I, bOPV-I, PCV-I 
+>80% 
+Most districts 
+Penta-II, bOPV-II, PCV-II 
+50-70% to >80% 
+Varied by district 
+Penta-III, bOPV-III, PCV-III 
+50-79% to >80% 
+Varied by district 
+ 
+Table 5: General Observations on Vaccination Campaigns 
+Strategy 
+Description 
+Impact 
+Mosque Announcements 
+Utilizing 
+local 
+mosques 
+to 
+announce 
+vaccination sessions 
+Facilitated community engagement and increased 
+reach 
+House-to-House Visits 
+Conducted by Local Health Workers (LHWs) 
+Enhanced target achievement by reaching children 
+at home 
+Future Plans 
+Continued campaigns in February and March 
+Aim to cover remaining defaulters and increase 
+overall coverage 
+ 
+Expanded Program on Immunization (EPI) in Khyber Pakhtunkhwa, Pakistan 
+ 
+Khan I., et al. (2024). 4(2): DOI: https://doi.org/10.61919/jhrr.v4i2.787 
+ 
+ 
+ 
+ 
+© 2024 et al. Open access under Creative Commons by License. Free use and distribution with proper citation. 
+ 
+Page 191 
+Additionally, the program focused on other critical vaccines. The Inactivated Polio Vaccine (IPV) was administered to 59,357 children 
+against a target of 76,943, achieving a 77.14% coverage rate. Measles-containing vaccines also showed good coverage; MCV-I 
+reached 83.01% coverage with 78,509 vaccinations out of 94,560 targeted children, and MCV-II surpassed this with an 86.11% 
+coverage, vaccinating 64,856 out of 75,341 children (Table 1). 
+The district-wise breakdown of Zero Dose coverage revealed significant variability. Districts like Shangla, Tank, and others showed 
+extraordinary outcomes by vaccinating more than 100% of their targeted children, indicating the coverage of previously missed 
+children (Table 2). Meanwhile, the larger districts such as Peshawar and Lakki Marwat saw coverage rates in the 50-60% range, 
+suggesting a need for intensified efforts in these areas (Table 2). 
+In terms of IPV and Measles coverage, the results varied across the districts. The IPV coverage ranged from 50-79% to over 80% in 
+various districts, reflecting a strong but uneven achievement towards polio eradication (Table 3). For measles, the overall coverage 
+rates were high with MCV-I and MCV-II at 83.01% and 86.11%, respectively, indicating effective reach and uptake of the measles 
+vaccines (Table 3). 
+The effectiveness of the strategies employed, such as mosque announcements and house-to-house visits by Local Health Workers 
+(LHWs), significantly influenced these results. These methods helped to achieve higher coverage by increasing community 
+engagement and ensuring that vaccines reached children directly in their homes, demonstrating the impact of well-coordinated 
+public health strategies (Table 5). 
+Continued efforts are planned for the coming months, with additional campaigns aimed at covering the remaining defaulters and 
+boosting overall coverage rates. These future plans are crucial for maintaining momentum towards full immunization coverage in 
+the region (Table 5). 
+DISCUSSION 
+Immunization outreach activities have been instrumental in enhancing routine immunization coverage, particularly in regions with 
+limited access to healthcare services. These initiatives, encompassing community-based outreach, mobile activities, and fixed site 
+vaccinations, have proven vital in reaching underserved populations. The study conducted in Khyber Pakhtunkhwa demonstrated a 
+marked improvement in vaccination coverage across multiple antigens. For instance, zero-dose vaccinations achieved a 100% 
+coverage rate, with other vaccines showing substantial coverage ranging from 77% to 86% over a 16-day period (Table 1). This 
+underscores the effectiveness of well-planned and intensively monitored outreach activities in improving immunization coverage 
+within a defined timeframe. 
+However, despite these successes, the outreach initiatives had mixed results when it came to reaching certain demographic groups. 
+Previous studies have shown that registry-driven, community-based outreach significantly boosts immunization rates, particularly 
+among high-risk children, although it may not be as beneficial for children whose mothers lacked adequate prenatal care (11). 
+Similarly, tracking combined with outreach has been effective in not only improving immunization rates but also in reducing delays 
+in immunization and increasing health supervision visits and screenings for anemia and lead, especially among uninsured and 
+impoverished patients (12). This aligns with findings from rural Bangladesh, where outreach activities were effective in reducing 
+socioeconomic and gender disparities in vaccine coverage (13). A study conducted in Zambia supported these results, indicating that 
+community-based immunization services could mitigate the negative effects of distance on vaccination coverage in peri-urban areas 
+(14). 
+In Khyber Pakhtunkhwa, extensive outreach activities were planned following the Reaching Every District/Reach Every Child 
+(RED/REC) strategy to cover due, defaulter, and zero-dose/missed children, building on existing frameworks to enhance 
+immunization access and coverage. Despite these efforts, the coverage of essential immunizations did not exceed 90% for all EPI 
+antigens, indicating persistent gaps in vaccine coverage across various districts (Figure 10). The region faced a significant burden of 
+vaccine-preventable diseases, with hundreds of cases reported in 2018 alone, including measles and diphtheria, which highlighted 
+the ongoing challenges in achieving adequate immunization coverage (Table 1). 
+The development of micro-plans was a critical component of the outreach strategy, aimed at identifying gaps in vaccine coverage 
+and organizing targeted sessions to address these. The plans were developed through consultative workshops and were instrumental 
+in estimating vaccine and logistics requirements as well as organizing community and communication strategies to increase 
+awareness among caregivers. Despite the structured approach to planning and execution, the outreach activities had limitations, 
+including variable impacts across different population segments and health system capacities. 
+Strengths of the study included the use of a comprehensive, data-driven approach to target interventions and the adaptability of 
+outreach methods to local contexts, which were crucial in areas with significant geographical and socioeconomic barriers. However, 
+the limitations were also apparent; the outreach efforts were less impactful within the health system strengthening catchment areas, 
+ 
+Expanded Program on Immunization (EPI) in Khyber Pakhtunkhwa, Pakistan 
+ 
+Khan I., et al. (2024). 4(2): DOI: https://doi.org/10.61919/jhrr.v4i2.787 
+ 
+ 
+ 
+ 
+© 2024 et al. Open access under Creative Commons by License. Free use and distribution with proper citation. 
+ 
+Page 192 
+and continuous efforts were necessary to maintain up-to-date vaccination statuses among children (16). Observational studies, such 
+as one conducted in rural Madagascar, showed that while health system strengthening, including outreach activities, can increase 
+vaccination coverage and reduce economic disparities, geographical inequalities may persist (17). 
+In light of these findings, recommendations for future programs include enhancing the supply chain and outreach services to bolster 
+routine immunization coverage, particularly in the wake of disruptions caused by the COVID-19 pandemic (20). It is imperative that 
+future initiatives build on the successes and lessons learned from existing outreach activities to continue improving access to and 
+uptake of immunizations, thereby ensuring more equitable health outcomes across various settings. 
+Overall, the experience from Khyber Pakhtunkhwa provides valuable insights into the complexities of implementing large-scale 
+immunization programs in diverse and challenging environments. The successes and limitations observed underscore the need for 
+sustained investment in immunization initiatives and the strategic adaptation of outreach activities to meet the specific needs of 
+different populations. Continuous monitoring, adaptive strategies, and robust community engagement remain essential to 
+overcoming barriers to immunization and achieving universal coverage (18, 20). 
+CONCLUSION 
+The immunization outreach activities in Khyber Pakhtunkhwa have highlighted the critical role of targeted and well-organized 
+interventions in enhancing vaccine coverage, particularly in underserved areas. These initiatives not only demonstrated the 
+feasibility of achieving high coverage rates within short timeframes but also underscored the importance of continuous and adaptive 
+strategies to address persistent healthcare barriers. The experience from these activities provides vital insights into improving 
+routine immunization services, which are essential for reducing the burden of vaccine-preventable diseases and achieving equitable 
+health outcomes. As such, sustained efforts and investments in immunization programs are crucial for enhancing public health 
+infrastructure and ensuring universal access to essential healthcare services. 
+REFERENCES 
+1. 
+Aktar A, Rahman MA, Afrin S, Faruk MO, Uddin T, Akter A, et al. O-Specific Polysaccharide-Specific Memory B Cell Responses 
+in Young Children, Older Children, and Adults Infected with Vibrio Cholerae O1 Ogawa in Bangladesh. Clin Vaccine Immunol. 2016 
+May 6;23(5):427–35. 
+2. 
+Coadministration of Anti-Viral Monoclonal Antibodies With Routine Pediatric Vaccines and Implications for Nirsevimab Use: 
+A White Paper 
+3. 
+Petrosky E, Bocchini J, Hariri S, Chesson H, Curtis CR, Saraiya M, et al. Use of 9-Valent Human Papillomavirus (HPV) Vaccine 
+4. 
+Zimmerman R, Middleton D, Burns IT, Clover R, Kimmel S. Routine Vaccines Across the Life Span, 2005. J Fam Pract. 2005;54 
+1 Suppl:9–26. 
+5. 
+Hussain I, Khan A, Rhoda DA, Ahmed I, Umer M, Ansari U, Shah MA, Yunus S, Brustrom J, Oelrichs R, Soofi SB. Routine 
+immunization coverage and immunization card retention in Pakistan: Results from a cross-sectional national survey. The Pediatric 
+Infectious Disease Journal. 2023 Mar 1;42(3):260-70. 
+6. 
+Zimmerman R, Middleton D, Burns IT, Clover R, Kimmel S. Routine Vaccines Across the Life Span, 2007. J Pract. 2007;56 2 
+Suppl Vaccines:18–371. 
+7. 
+Wiedermann U, Visser L. Routine Adult Vaccines. Travel Med [Internet]. 2019 [cited 2024 Mar 21]; Available from: 
+https://consensus.app/papers/adult-vaccines-wiedermann/b51ec599201e56a184453f0fa97157af/ 
+8. 
+Reichler M, Kharabsheh S, Rhodes P, Otoum H, Bloch S, Majid M, et al. Increased Immunogenicity of Oral Poliovirus Vaccine 
+Administered in Mass Vaccination Campaigns Compared with the Routine Vaccination Program in Jordan. J Infect Dis. 1997;175 Suppl 
+1:198–204. 
+9. 
+Habib MA, Soofi SB, Hussain Z, Ahmed I, Tahir R, Anwar S, Nauman AA, Sharif M, Islam M, Cousens S, Bhutta ZA. A Holistic 
+Strategy of Mother and Child Health Care to Improve the Coverage of Routine and Polio Immunization in Pakistan: Results from a 
+Demonstration Project. Vaccines. 2024 Jan 16;12(1):89. 
+10. 
+Khan AM, Ahmed I, Jawwad M, Islam M, Tahir R, Anwar S, Nauman AA, Bhutta ZA. A Low-Cost, Integrated Immunization, 
+Health, and Nutrition Intervention in Conflict Settings in Pakistan—The Impact on Zero-Dose Children and Polio Coverage. Pathogens. 
+2024 Feb 20;13(3):185. 
+11. 
+Ullah K, Saleem J, Zakar R, Ishaq M, Khattak FA, Majeed F, Sadiqa HA, Fischer F. Exploring the reasons for defaulting from 
+childhood immunization: a qualitative study in Pakistan. BMC Public Health. 2024 Feb 8;24(1):408. 
+12. 
+Sahitia S, Idris IB, Safian NB, Ali RF, Shamsuddin K, Hod R. Assessing Childhood Immunization Coverage Using Novel 
+Approach of Lot Quality Assurance Sampling (LQAS) Methodology in Shikarpur, Pakistan. 
+ 
+Expanded Program on Immunization (EPI) in Khyber Pakhtunkhwa, Pakistan 
+ 
+Khan I., et al. (2024). 4(2): DOI: https://doi.org/10.61919/jhrr.v4i2.787 
+ 
+ 
+ 
+ 
+© 2024 et al. Open access under Creative Commons by License. Free use and distribution with proper citation. 
+ 
+Page 193 
+13. 
+Ahmed N, Yousafzai MT, Naz Qamar F. The Enterics for Global Health (EFGH) Shigella surveillance study in Pakistan. InOpen 
+Forum Infectious Diseases 2024 Mar (Vol. 11, No. Supplement_1, pp. S113-S120). US: Oxford University Press. 
+14. 
+LeDuc S, Estrada S, Wiyeh A, Drain P. Routine immunization strengthening in Polio high-risk geographies–Gender integrated 
+approach. Gates Open Res. 2023 Feb 1;7(19):19. 
+15. 
+Azmat SK, Thom EM, Arshad M, Hamza HB, Aabroo A, Balal A, Awan MA, Rifaq F, Hemachandra N, Qudsia U. A study protocol 
+for integrating outpatient services at the primary health care level as part of the universal health coverage benefit package within 
+the national health insurance program of Pakistan through private health facilities. Frontiers in Public Health. 2024 Mar 
+12;12:1293278. 
+16. 
+Khurshid F, Saif H, Khalil MS, Sarwer F, Saleem M. Impact of covid-19 on Essential Immunization (EI) Regarding Vaccine 
+Preventable Diseases District DG Khan, Punjab, Pakistan-2020. 
+17. 
+Guven M, Majoka Z, Jamy GN. The Evolution of Benazir Income Support Programme’s Delivery Systems. 
+18. 
+Saleh W, Jami H, Kamran M, Kundi GM. Developing an attitude toward polio vaccination scale and establishing its 
+psychometric properties in Pakistani context for indigenous and international researchers. International Journal of Health Sciences. 
+2024 Mar 1;18(2):38-49. 
+19. 
+Lopez Cavestany R, Eisenhawer M, Diop OM, Verma H, Quddus A, Mach O. The Last Mile in Polio Eradication: Program 
+Challenges and Perseverance. Pathogens. 2024 Apr 15;13(4):323. 
+20. 
+Hameed A, Padda IU, Karim S. Spatial analysis of food and nutrition security in Pakistan: a holistic pathway towards zero 
+hunger policies. GeoJournal. 2023 Jun;88(3):2563-85. 
+ 
+ 
+ 
+ 

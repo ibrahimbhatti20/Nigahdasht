@@ -1,0 +1,736 @@
+J Ayub Med Coll Abbottabad 2011;23(2) 
+http://www.ayubmed.edu.pk/JAMC/23-2/Nuzhat.pdf  
+36
+ORIGINAL ARTICLE 
+ASSESSMENT OF IRON DEFICIENCY IN PREGNANT WOMEN 
+BY DETERMINING IRON STATUS 
+Nuzhat Raza, Iram Sarwar*, Bibi Munazza, Muhammad Ayub, Muhammad Suleman** 
+Department of Physiology, *Obstetrics and Gynaecology, Ayub Medical College, Abbottabad, 
+**Department of Health Sciences, Hazara University, Mansehra, Pakistan 
+Background: Pregnant women constitute a high risk group for iron deficiency. Maternal iron 
+deficiency and particularly iron deficiency anaemia may be associated with detrimental effects on 
+maternal and infant function and particularly with a higher risk of preterm delivery and delivery of 
+low birth weight neonates. Objective of this study was to assess and compare the iron status of 
+normal healthy non-pregnant women with that of pregnant women of Hazara Division. Methods: 
+This study was conducted at Faculty of Health Sciences, Hazara University, and Ayub Medical 
+College, Abbottabad from 1st March to 31st August 2006. Altogether 120 women, 90 pregnant at 
+various stages of pregnancy and 30 non-pregnant women as control group were included in this 
+study by convenience sampling. Their iron status was assessed by determination of haemoglobin 
+(Hb), Serum ferritin, Serum-iron, Total Iron Binding Capacity (TIBC), Unsaturated Iron Binding 
+Capacity (UIBC), and Percentage saturation of transferrin. Data generated on these variables were 
+subjected to ANOVA and correlation analysis. Results: The salient finding of this study is a 
+significant decrease in Hb, Serum ferritin, Serum iron, percentage saturation of transferrin and a 
+significant increase in values of TIBC and a pronounced increase in UIBC in 2nd and 3rd trimester 
+compared to 1st trimester in iron deficient pregnant women. The mean values of Hb, SF, and 
+Fe/TIBC% were significantly lower in the cases than in the control and significantly higher values of 
+TIBC and UIBC were observed in the cases compared to controls. Significant correlations were 
+observed for TIBC, UIBC and Fe/TIBC% against serum iron in different trimesters of pregnancy. 
+Conclusion: A high percentage of the pregnant women are iron deficient due to factors such as high 
+parity, poor dietary habits and socioeconomic status. 
+Keywords: Iron-deficiency, pregnancy, Anaemia, Ferritin, TIBC, UIBC, Transferrin 
+INTRODUCTION 
+Pregnancy is a physiological condition and usually has 
+no effect on general health of a pregnant woman. 
+However 
+pregnancy 
+results 
+in 
+hormonal, 
+haemodynamic and haematological changes. These 
+physiological changes need to be viewed as normal 
+adaptations determined by nature. Increased total blood 
+volume and haemostatic changes help to combat the 
+hazards of haemorrhage at delivery.1 The increase is less 
+in iron deficient women than in those with iron reserves. 
+In some iron deficient women this inability to expand 
+plasma volume may mask a decrease in haemoglobin 
+concentration.2 
+The lowest normal haemoglobin in the healthy 
+non-pregnant woman is defined as 12 g/dl. The World 
+Health 
+Organization 
+(WHO) 
+recommends 
+that 
+haemoglobin ideally should be maintained at or above 
+11.0 g/dl, and should not be allowed to fall below 10.5 
+g/dl in the second trimester.3 Pregnancy usually induces a 
+slight increase (2–3 fl) in mean red cell volume (MCV), 
+independent of folate status. This is sometimes enough to 
+mask the microcytosis normally found in iron deficiency. 
+Other causes of microcytic anaemia, such as thalassemia 
+trait, the anaemia of chronic disease and inflammatory 
+anaemia of infection are rarely confused with Iron 
+deficiency anaemia (IDA) in pregnancy and are excluded 
+by standard haematological investigations.4 
+Iron absorption during pregnancy is determined 
+by the amount of iron in diet, its bioavailability (meal 
+composition) and the changes in iron absorption that 
+occur during pregnancy. Iron requirements are greater in 
+pregnancy than in non-pregnant state. Although iron 
+requirements are reduced in the 1st trimester because of 
+absence of menstruation these raise steadily thereafter as 
+high as ≥10 mg/day.5 The amounts that can be absorbed 
+from even an optimal diet, however are less than the iron 
+requirement in later pregnancy and a women must enter 
+pregnancy with iron stores of >300 mg if she is to meet 
+her requirement fully. This is more than most women 
+possess especially in developing countries.6 
+ Iron requirements are increased in pregnancy, 
+especially in the 3rd trimester when they may be several 
+times higher than at other stages of the life cycle, the net 
+iron requirements 
+for 
+pregnancy 
+are 
+840 
+mg 
+approximately.7 Iron deficiency can be defined as that 
+moment when body iron stores become depleted and a 
+restricted supply of iron to various tissues becomes 
+apparent. Iron deficiency is one of the most common 
+nutritional deficiencies worldwide. A high proportion of 
+women in both industrialised and developing countries 
+become anaemic during pregnancy. Estimates from the 
+J Ayub Med Coll Abbottabad 2011;23(2) 
+http://www.ayubmed.edu.pk/JAMC/23-2/Nuzhat.pdf  
+37
+WHO report that 35–75% (average 56%) of pregnant 
+women in developing countries and 18% of women from 
+industrialised countries are anemic.8 The prevalence rates 
+in south Asian countries have been estimated as follows: 
+Bangladesh 77%, Bhutan 59%, Nepal 65% and Sri Lanka 
+60%. Maternal mortality in selected developing countries 
+ranges from 407 in (India) to 500 (Pakistan) deaths per 
+100,000 live births.9 
+Deficiency of iron in pregnant women limits 
+oxygen delivery to cell resulting in fatigue, poor work 
+performance and decreased immunity. Iron deficiency 
+anaemia early in a pregnancy can double or even triple 
+the risk of having a premature delivery or a low birth 
+weight baby.10 
+When maternal iron stores are depleted, the 
+foetus cannot accumulate much iron and there is a 
+decrease in foetal iron stores. Studies suggest that 
+behavioural abnormalities occur in children with iron 
+deficiency. These abnormalities are related to changes in 
+the concentration of chemical mediators in the brain11. 
+Iron deficiency in the absence of anaemia is associated 
+with poor performance on Bayley Mental development 
+Index. Development delay in iron deficient infants can 
+be reversed by treatment with iron.12 
+The objectives of this study were to determine 
+the iron status of the subjects and controls, to compare 
+the iron status of pregnant women of Hazara Division 
+with that of normal healthy non-pregnant women and to 
+determine correlations of TIBC, UIBC and Fe/TIBC% 
+ratio, against serum iron levels. 
+MATERIAL AND METHODS 
+This study was conducted at Faculty of Health Sciences, 
+Hazara University, Mansehra, and Ayub Medical 
+College and Hospital Complex, Abbottabad. It was a 
+descriptive study, conducted for six months from 1st 
+March to 31st August 2006. A total of 120 women were 
+included in the study divided to two groups. The test 
+group comprised of 90 pregnant women at various stages 
+of pregnancy and control group of 30 non-pregnant 
+healthy women. The test group were also classified into 
+three subgroups according to stage of pregnancy, i.e., 
+first, second and third trimester. The control group 
+included women of the same age group as of the test 
+subjects. Sampling was done by convenience (non-
+probability) sampling. Particulars of each subject were 
+recorded on a standard Performa designed for the study 
+including detailed history and examination. Among the 
+subjects, those having any acute or chronic generalised 
+infection (respiratory or renal diseases), women using 
+any Intra-Uterine Contraceptive Device or oral 
+contraceptives, diagnosed cases of haemoglobinopathies, 
+taking Anti-thyroid drugs, Cortisol, NSAIDs, cases of 
+dysfunctional 
+uterine 
+bleeding 
+and 
+taking 
+iron 
+supplements were excluded. Women with any risk factor 
+or diagnosed complication of pregnancy, any other 
+diagnosed disease especially Haemoglobinopathes, renal 
+and 
+thyroid 
+diseases, 
+history 
+of 
+Intra-uterine 
+contraceptive devices, worm-infection and multiple 
+pregnancies were also exclude from the study. 
+Laboratory investigations of the cases and 
+controls were done to determine haemoglobin, Serum 
+Ferritin, Serum iron level, Total iron-binding capacity 
+(TIBC), 
+Unsaturated 
+iron-binding 
+capacity, 
+and 
+Percentage saturation of transferrin (Fe/TIBC%). Mean 
+and standard deviation were calculated for Hb%, Serum 
+Ferritin, Serum Iron, TIBC, UIBC, and Fe/TIBC%. 
+Statistical analysis was done using SPSS-16. 
+The differences between means of more than two groups 
+were tested by performing ANOVA. Pearson correlation 
+coefficients were calculated to determine correlation of 
+serum ferritin, TIBC, UIBC, Fe/TIBC ratio against 
+serum-iron. 
+RESULTS 
+A total of 120 women were selected in the study, 90 
+pregnant women as test group and 30 non-pregnant 
+women as controls. Overall, the subjects were in the age 
+range 18–43 years. The mean age of control group was 
+28.53±5.98 year, and that of the pregnant group 
+irrespective of the trimester of pregnancy was 
+comparable to that of the control group (p>0.05). The 
+age of subjects in 1st trimester was 32.60±6.69 year, of 
+those in 2nd trimester was 31.71±6.94 year, and of those 
+in 3rd trimester was 28.79±7.70 year. 
+Table-1: Comparison of pregnant women classified by trimester of pregnancy and control subjects with 
+respect to Hb, Serum ferritin, Serum iron, TIBC, UIBC, and Fe/TIBC% 
+Pregnant subjects 
+  
+1st trimester 
+(n=15) 
+2nd trimester 
+(n=32) 
+3rd trimester 
+(n=43) 
+Control (n=30) 
+Comparison 
+Variables 
+MEAN 
+SD 
+MEAN 
+SD 
+MEAN 
+SD 
+MEAN 
+SD 
+ANOVA 
+Haemoglobin (g/dl) 
+11.01b 
+0.77 
+10.48c 
+0.91 
+10.37c 
+0.78 
+12.50a 
+1.17 
+** 
+Serum ferritin (ηg/ml) 
+16.20b 
+5.6 
+13.70c 
+6.5 
+11.81c 
+4.11 
+54.39a 
+20.05 
+** 
+Serum iron (µg/dl) 
+61.73b 
+16.43 
+53.57b 
+12.4 
+52.82b 
+19.3 
+70.65a 
+16.12 
+** 
+TIBC (µg/dl) 
+325.81b 
+44.33 
+341.93b 
+50.53 
+438.66c 
+46.4 
+304.76a 
+28.76 
+** 
+UIBC (µg/dl) 
+264.08b 
+58.96 
+284.35b 
+61.99 
+388.98c 
+61.66 
+235.00a 
+23.27 
+** 
+Fe/TIBC% 
+19.98b 
+8.66 
+16.34c 
+5.64 
+12.25d 
+5.31 
+23.05a 
+4.25 
+** 
+** Difference highly significant (p<0.001). Different letter superscripts to mean values in a line indicate significant differences 
+J Ayub Med Coll Abbottabad 2011;23(2) 
+http://www.ayubmed.edu.pk/JAMC/23-2/Nuzhat.pdf  
+38
+Table-2: Coefficients of correlation between 
+Serum Iron and TIBC, UIBC and Fe/TIBC%  
+during the 1st, 2nd and 3rd trimesters  of pregnancy 
+and in non-pregnant(control) subjects 
+GROUP 
+TIBC 
+UIBC 
+Fe/TIBC% 
+Control 
+0.64** 
+0.10 
+0.92** 
+1st trimester 
+-0.85** 
+-0.91** 
+0.94** 
+2nd trimester 
+-0.89** 
+-0.89** 
+0.99** 
+3rd trimester 
+-0.70** 
+-0.90** 
+0.96** 
+**Difference highly significant (p<0.001) 
+Table-3: Distribution of pregnant women with 
+respect to iron deficiency in all the three 
+trimesters of Pregnancy on basis of Hb, Serum 
+ferritin, serum iron, TIBC, UIBC and Fe/TIBC% 
+Trimester 
+Parameter 
+1st (n=15)
+2nd (n=32)
+3rd (n=43) 
+Hb <11 gm/dl 
+6 (40%) 
+18 (56%) 
+30 (70%) 
+Serum ferritin <12 ηg/ml 
+4 (26%) 
+17 (53%) 
+26 (65%) 
+Serum iron <50 µg/dl 
+3 (20%) 
+13 (41%) 
+20 (46%) 
+TIBC >400 µg/dl 
+4 (26%) 
+12 (37%) 
+35 (81%) 
+UIBC >300 µg/dl 
+4 (26%) 
+14 (43%) 
+29 (67%) 
+Fe/TIBC <16% 
+5 (33%) 
+15 (46%) 
+33 (76%) 
+Table-4: Distribution of iron deficiency in 
+pregnant women cases and non-pregnant control 
+on the basis of Hb, Serum ferritin, serum iron, 
+TIBC, UIBC and Fe/TIBC% 
+Cases 
+Control 
+Parameters 
+Number
+% 
+Number
+% 
+>11 
+19 
+21.5 
+27 
+90.0 
+9.01–11.00
+61 
+67.7 
+3 
+10.0 
+Hb gm/dl 
+<9.00 
+10 
+11.1 
+– 
+– 
+>30 
+5 
+5.5 
+27 
+90.0 
+12.0–30.00
+45 
+50.0 
+3 
+10.0 
+Serum ferritin 
+ηg/ml 
+<12 
+44 
+44.4 
+– 
+– 
+>50 
+40 
+4 
+25 
+83.4 
+40–50 
+36 
+40.0 
+5 
+16.6 
+serum iron µg/dl
+<40 
+14 
+15.5 
+– 
+– 
+<400 
+38 
+42.2 
+30 
+100 
+400–500 
+42 
+46.6 
+– 
+– 
+TIBC µg/dl 
+>500 
+10 
+11.1 
+– 
+– 
+<300 
+30 
+33.3 
+29 
+96.7 
+300–400 
+42 
+46.6 
+1 
+3.3 
+UIBC µg/dl 
+>400 
+18 
+20.0 
+– 
+– 
+>28 
+5 
+5.5 
+4 
+13.4 
+15–28 
+32 
+35.5 
+26 
+86.6 
+Fe/TIBC% 
+<15 
+53 
+58.88
+ 
+– 
+DISCUSSION 
+Iron deficiency and iron deficiency anaemia in 
+pregnancy is an important preventable cause of maternal 
+and perinatal morbidity and mortality. Iron deficiency is 
+the most prevalent specific single micro-nutrient 
+deficiency affecting approximately 50% of the world 
+population. Among the most affected by this malady are 
+pregnant women due to added iron requirements during 
+pregnancy. This is primarily because the amount of 
+dietary iron absorbed is often too small to meet the 
+increased demand during pregnancy.13 
+The prevalence of iron deficiency anaemia 
+remains high in many parts of the world despite 
+significant effort to alleviate this problem. The national 
+health survey of Pakistan reported that 43–47% of rural 
+and 35–40% of urban women aged 15–44 years are 
+anaemic. The incidence of iron–deficiency anaemia 
+among expectant mothers is alarmingly high. It is a 
+serious problem in pregnancy which affects 50–60% of 
+these women.14 
+Iron deficiency is normally the result of 
+inadequate bio available dietary iron and increased iron 
+requirements during a period of rapid growth in 
+pregnancy and infancy. Anaemia of pregnancy has a 
+significant impact on the health of foetus as well as 
+mother, especially if severe, may impair the oxygen 
+delivery to placenta and foetus interfering with 
+intrauterine growth. Placental weight, volume and 
+surface area are reduced if expecting mother is 
+moderately anaemic. It results in 12–28% of foetal loss, 
+30% prenatal deaths and 7–10% of neonatal deaths.15 
+During the second trimester anaemia is 
+associated with preterm birth, incidence of which is 
+increased five-fold for iron deficiency anaemia and 
+double for other anaemia. The risk of iron deficiency is 
+particularly high in women with high parity and short 
+intervals between pregnancies.16 
+During pregnancy Hb level in woman is 
+naturally lower than when she is not pregnant. This is 
+because the fluid (plasma) increases by about 50% 
+during pregnancy (peaking at about 32 weeks).17 The 
+increased plasma dilute the red cells, making their level 
+drop. Serum ferritin usually falls markedly between 12 
+and 25 weeks of gestation, probably as a result of iron 
+utilisation for expansion of the maternal red blood cell 
+mass.1,2 
+Iron transfer from mother to foetus occurs 
+against the concentration gradient. Most iron transfer to 
+the foetus occurs after 30 weeks of gestation which 
+correspond to the time of peak efficiency of maternal 
+iron absorption.18 
+Results of this study did not differ from those 
+of other studies carried out in different parts of the 
+country and abroad and have been found in conformity 
+with previous works carried out by various workers. 
+Several factors were observed to be responsible for a 
+high rate of iron deficiency in a community like ours. 
+Multi parity, poor socio economic and educational status 
+are the principal reasons for a high prevalence of iron 
+deficiency anaemia in our population.19 
+ The salient feature of our study is a 
+statistically significant decrease in Hb, serum ferritin 
+level, serum-iron level and Fe/TIBC% and a significant 
+increase in total iron binding capacity (TIBC) and 
+pronounced increase in un-saturated iron binding 
+capacity (UIBC) in pregnant women compared to non-
+pregnant controls. 
+The proportion of iron deficient pregnant 
+women was 50–60% of cases, and iron deficient 
+J Ayub Med Coll Abbottabad 2011;23(2) 
+http://www.ayubmed.edu.pk/JAMC/23-2/Nuzhat.pdf  
+39
+anaemic was about 26%, while 20% of controls were 
+also iron deficient but none of them was iron deficient 
+anaemic. 
+These findings are not unexpected since the 
+diet of the population in the region (especially rural 
+areas) is heavily reliant on grains such as maize, which 
+contains large amounts of phytates which are known to 
+interfere with the intestinal uptake of iron and other 
+trace minerals, such as Zinc and Calcium. 
+The data indicates significant differences in 
+haemoglobin, serum ferritin, serum iron levels TIBC, 
+UIBC, and Fe/TIBC%. Significantly lower haemoglobin 
+and serum ferritin and higher TIBC and UIBC were 
+observed in 2nd and 3rd trimester of pregnancy than in 
+the 1st trimester. 
+Haemoglobin level in all the three trimesters 
+of pregnancy were significantly lower than in the 
+control subjects (p<0.001) and the decrease was 
+especially pronounced in the 2nd and 3rd trimesters, 
+which is in agreement with the study conducted by 
+Mah-e-Munir et al20. Their study revealed that iron 
+deficiency was the most frequent cause of anaemia. In 
+another study conducted by Bondevik et al21 in Nepal, 
+about 76.6% of pregnant women were found anaemic. 
+Approximately 81.3% of anaemia was due to iron 
+deficiency. Low birth weight was especially associated 
+with low haemoglobin level in pregnancy. 
+Serum ferritin levels in our subjects decreased 
+significantly in all the three trimesters as compared to 
+controls. This is in agreement with the results reported 
+by other studies.22–25 
+Van den Broek and Letsky26 opined that a 
+ferritin value of 30 ηg/ml or less was the best indicator 
+of iron deficiency in pregnant women. Applying a cutoff 
+value of 30 ηg/ml for iron-deficiency in that study 23% 
+of anaemic pregnant women were deficient in iron, one 
+third of anaemic subjects in that study were also 
+deficient in Vitamin B12, while another one third were 
+deficient in folate. 
+While determining the iron status of pregnant 
+women in our study it was observed that iron level 
+decreased in all the three trimesters  as compared to the 
+controls and fall was markedly significant (p<0.001) in 
+the 2nd and 3rd trimesters. We observed the values of 
+serum TIBC and UIBC (un-saturated iron binding 
+capacity) rising throughout the pregnancy, with more 
+pronounced increase in UIBC as the pregnancy 
+advanced to term. Our results are thus in agreement with 
+those of Lee et al.27 
+In a study by Monawarul-Islam et al28 
+biochemical investigations on iron deficiency and 
+nutritional status were carried out in a group of 130 
+women in the 2nd or 3rd trimester of pregnancy and 42 
+control non-pregnant women. Anaemia was present in 
+46.1% of pregnant women. Iron deficiency with and 
+without anaemia as judged from serum transferrin 
+saturation was evident in 59.2% of pregnant women 
+with an incidence of 70.3% in 3rd trimester.   
+Haemoglobin concentration and haematocrit, 
+because of their low cost and quick assessment, are most 
+commonly used to screen for iron deficiency; these 
+measures reflect the amount of functional iron in the 
+body. But limitation is that changes in haemoglobin 
+concentration and haematocrit occur only at the late 
+stages of iron deficiency, so both the tests are late 
+indicators of iron deficiency; nevertheless these tests are 
+essential for determining iron deficiency anaemia.    
+Serum ferritin concentration is an early 
+indicator of the status of iron stores and is the most 
+specific indicator available of depleted iron stores 
+especially when used in conjunction with other tests to 
+asses iron status. In the light of above facts it becomes 
+clear that estimation of haemoglobin, serum ferritin, 
+serum iron, TIBC, UIBC and Fe/TIBC% are valuable 
+parameters in assessing iron deficiency in pregnancy. A 
+more effective method is to use various combinations of 
+measurements to enhance the specificity of prevalence 
+estimates or to define varying stages of iron lack. 
+CONCLUSION AND RECOMMENDATIONS 
+A single best marker of iron deficiency does not exist, 
+however, the different tests efficiently compliment each 
+other by detecting different stages, and individually 
+show the clinical extent of iron deficiency. A high 
+percentage of the pregnant women are iron deficient due 
+to factors such as high parity, poor dietary habits and 
+socioeconomic status. Interventions to enhance the 
+intake of several micronutrients should be considered to 
+prevent anaemia in pregnant women.  
+REFERENCES 
+1. 
+Hytten F. Blood volume changes in normal pregnancy.  In: 
+Letsky EA. (Ed). Hematological Disorders in pregnancy. 
+London: WB  Saunders; 1985. p. 601–12. 
+2. 
+Letsky EA. The Hematological system. In: Broughton PF, 
+Chamberlain GVP. (Eds). Clinical Physiology in Obstetric 3rd ed 
+Oxford: Blackwell; 1998. p. 71–110. 
+3. 
+World Health Organization. Prevention and management of 
+severe anemia in pregnancy. Report of a Technical Working 
+Group, Geneva, 20–22 May 1991. Maternal Health and Safe 
+Motherhood Programme, Geneva: WHO; 1993. 
+4. 
+Carr MC. Serum-iron/TIBC in the diagnosis of iron deficiency 
+anemia during pregnancy. J  Obstet and Gynaecol 1971;38:602–8. 
+5. 
+Hallberg L. Iron balance in pregnancy. In: Berger H. (Ed). 
+Vitamins and minerals in pregnancy and Lactation. New York: 
+Raven Press: 1988.p.115–27.  
+6. 
+Mcfee JC. Iron metabolism and iron deficiency during 
+pregnancy. Clin Obstet Gynecol 1997;22:799–808. 
+7. 
+Hallberg L. Iron balance in pregnancy and Lactation. In: Fomon 
+SJ, Zlotkin S. (Eds). Nutritional anemias, New York: Raven 
+Press; 1992.p. 13–25.  
+8. 
+De Maeyer E, Adiels Tegman M. The prevalence of anemia in 
+the world. World Health Stat. Quarterly 1985;38:302–16. 
+9. 
+Rush D. Nutrition and maternal mortality in the developing 
+world. Am  J Clin Nutr 2000;72:212S–40S. 
+10. 
+Scholl T, Reilly T. Anemia iron and pregnancy outcome. Am J 
+Nutr 2000; 130:443–7. 
+J Ayub Med Coll Abbottabad 2011;23(2) 
+http://www.ayubmed.edu.pk/JAMC/23-2/Nuzhat.pdf  
+40
+11. 
+Lozoff B, Brittenham GM, Wolf AW. Iron deficiency Anemia 
+and iron therapy. Effects on infant developmental test 
+performance. Pediatrics 1987;79: 981–95. 
+12. 
+Idjradinata P, Pollitt E. Reversal of developmental delays in iron 
+deficient 
+anemic 
+infants 
+treated 
+with 
+iron. 
+Lancet 
+1993;341(8836):1–4. 
+13. 
+Gomber S, Agarwal KN, Mahajan C, Agarwal N. Impact of daily 
+versus weekly hematianic supplementation on anemia in 
+pregnant women. Indian Pediatr 2002;39:339–46. 
+14. 
+Mohyddin MAZ. National Health Survey of Health Profile of 
+peoples of Pakistan. Islamabad: Pak Medical Research Council 
+and Federal Bureau of statistics; 1995. p. 27–44. 
+15. 
+Levine H, Pollit E, Galloway R, Mcguire J. Micronutrients 
+deficiency disorders. In: Jamison D. Mosley H. Mesham A, 
+Bobdilla JL. (Eds). Disease Control Priorities in Developing 
+Countries.  New York: Oxford  University  press; 1993. p. 10–12. 
+16. 
+Thangeleela T, Vijayalkshmi P. Prevalance of Anemia in 
+pregnancy. Indian J Nutr Dietetics 1994; 3(2):26–9. 
+17. 
+Baynes RD, Skikne B. Iron absorption. In: Brock, J.H., Halliday, 
+J. W. Piparrd, M. J. and Powell, L.W. (eds). Iron metabolism in 
+Health and disease. London, UK:  WB Saunders; 1994. p. 151–
+87. 
+18. 
+Sakande J, Sawadogo D, Nacoulma EW, Tiahou G, Gnagne AC, 
+Sess ED, et al. Maternal and neonatal iron status in Ivory Coast. 
+Sante 2004;14(1):17–20. 
+19. 
+Ijlal F, Jalali S, Khan NB, Khan AQ. Prevalence of anemia in 
+women at District Headquarter Hospital Gilgit. Pak J Med Res 
+2000;39:70–80. 
+20. 
+Awan MM, Akbar MF, Khan MI. A Study of anemia in pregnant 
+women of railway colony, Multan. Pak J Med Res 
+2004;43(1):26–30. 
+21. 
+Bondevik GT, Lie RT, Ulsteim M, Kvale G. Maternal 
+hematological status and risk of low birth weight and preterm 
+delivery in Nepal. Acta Obstet Gynaecol Scand 2001;80:402–8. 
+22. 
+Abel R, Rajaratnam J, Gnanaskarana VJ, Jayaram P. Prevalence 
+of anemiaand  iron deficiency in three trimesters in Rural Vallare 
+District, South India. Trop Doct 2001;31:86–9. 
+23. 
+Alper BS, Kimber R, Reddy AK. Using ferritin levels to 
+determine iron-deficiency anaemia in pregnancy. J Fam Pract 
+2000;49:829–32. 
+24. 
+Ances IG, Granado S, Baltazar M. Serum ferritin as an early 
+determination of decreased iron stores in pregnant women.  South 
+Med J 1999;72:591–2, 604. 
+25. 
+Kaabachi N, Abdelmoula J, Marrakchi O, Ben Romdhane N, 
+Khrouf M, Mebazaa A. Iron status and pregnancy in Tunisian 
+Women. Eurobiologiste 1991;25(104):197–202. 
+26. 
+Van den Broek NR, Letsky EA. Etiology of anemia in pregnancy 
+in south Malawi. Am J Clin Nutr 2000;72:247S–56S. 
+27. 
+Lee HS, Kim MS, Kim MH, Kim YJ, Kim WY. Iron status and 
+its association with pregnancy outcome in Korean pregnant 
+women. Eur J  Clin Nutr 2006;60:1130–5. 
+28. 
+Monawarul Islam AI, Siddiqua R, Rahman A, Rahman A, Ara I. 
+Iron-deficiency 
+anaemia 
+in 
+pregnancy: 
+(biochemical 
+investigations 
+of 
+iron-deficiency and 
+nutritional 
+status). 
+Bangladesh Med Res Counc Bull 1977;3(1):1–8. 
+Address for Correspondence: 
+Dr. Nuzhat Raza, Department of Physiology, Ayub Medical College, Abbottabad, Pakistan. Cell: +92-346-9534302 
+Email: haider8484@gmail.com 

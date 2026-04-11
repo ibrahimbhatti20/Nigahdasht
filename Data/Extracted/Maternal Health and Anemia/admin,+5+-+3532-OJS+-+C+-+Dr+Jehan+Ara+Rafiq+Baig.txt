@@ -1,0 +1,642 @@
+Maternal Anemia With Perinatal Outcome 
+ 
+Pak Armed Forces Med J 2020; 70 (2): 302-07 
+302 
+TO DETERMINE THE ASSOCIATION OF MATERNAL ANEMIA WITH PERINATAL 
+OUTCOME IN TERTIARY CARE HOSPITAL 
+Jehan Ara Rafiq Baig, Muhammad Musarrat Jamal, Javeria Jamal, Maniha Musarrat* 
+Pak Emirates Military Hospital/National University of Medical Sciences (NUMS) Rawalpindi Pakistan 
+ABSTRACT 
+Objective: Determine the association of maternal anemia with perinatal outcome in tertiary care hospital. 
+Study Design: Prospective study.  
+Place and Duration of Study: Department of Gynecology and Obstetrics, Combined Military Hospital, Sialkot 
+from Jan 2018 to Dec 2018 
+Methodology: A total of 844 pregnant women were enrolled during study period. Maternal anemia, was 
+categorized keeping with WHO criteria based on hemoglobin levels: no anemia/normal (≥11 g/dl), mild (10–10.9 
+g/dl), moderate (≥7-9.9 g/dl) or severe (<7 g/dl). Perinatal outcome included were preterm delivery, low birth 
+weight, intrauterine growth retardation, intrauterine deaths, low Apgar and perinatal complications leading to 
+neonatal intensive care unit admissions. 
+Results: Out of 844 pregnant women studied, 558 (66.11%) were anemic (hemoglobin <11 g/dl), and 286 (33.89%) 
+women had hemoglobin ≥11 g/dl and were labeled as non anemic. The risk of preterm delivery and low birth 
+weight was 2.5 and 3 times higher among moderate to severely anemic women, newborns of these anemic 
+mothers had 2.8 times increased risk of having an Apgar score of <5 at 1min and there was increased risk of 
+intrauterine growth retardation for moderate to severely anemic mothers. 
+Conclusion: Maternal anemia is associated with increased risk of preterm delivery, low birth weight babies, low 
+APGAR, intrauterine growth retardation and increased perinatal mortality.  
+Keywords: Anemia, Low birth weight, Pregnancy, Prematurity. 
+ 
+INTRODUCTION 
+According to World Health Organization 
+(WHO), an estimated over 2 billion people, 
+almost 30% population of world, are affected     
+by anemia and almost 50% of pregnant women 
+are suffering from varying degree of anemia1. 
+Although anemia has been found in women of 
+both high and middle income nations, but its 
+more prevalent in low/middle-income countries2. 
+Furthermore, if the population survey found 
+anaemia prevalence of 5% or more, WHO con-
+sider it as a public health significance or problem, 
+and it is a severe public health problem if the 
+anemia prevalence is ≥40% in a population3. In 
+developing countries, the causes of anaemia 
+during pregnancy are multifactorial; it may be 
+due to acute and chronic infections as malaria, 
+tuberculosis and HIV, hookworm infestation, 
+micronutrient deficiencies of iron, folate, and 
+vitamins A and B12 and anaemia due to malnu-
+trition4. However degree of anemia during preg-
+nancy may vary due to geographical location, 
+dietary practice, and season. Irrespective of the 
+cause, anemia during pregnancy has been linked 
+with high risks of adverse maternal and neonatal 
+outcomes. A recent study found out higher risk   
+of cesarean section deliveries and more need     
+for blood transfusions in mothers with anemia      
+and the same study, conducted in Israel, also 
+observed that the neonates of these mothers had 
+an increased risk of a low APGAR score5. Other 
+adverse neonatal outcomes include preterm 
+delivery6, small-for-gestational-age babies7, and 
+higher maternal risk of postpartum hemorrhage 
+(PPH), and preeclampsia8. Preterm, low birth 
+weight and babies with low APGAR requires 
+neonatal intensive care with the use of highly 
+advanced treatment methods which are expen-
+This is an Open Access article distributed under the terms of the Creative Commons Attribution License (http://creativecommons.org/licenses/by/4.0), which 
+permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited. 
+Correspondence: Dr Jehan Ara Rafiq Baig, Department of 
+Obstetrics & Gynaecology, PEMH Rawalpindi Pakistan 
+Email: jehanara1964@hotmail.com 
+Received: 27 Nov 2019; revised received: 13 Mar 2020; accepted: 17 Mar 
+2020 
+Original Article  
+Open Access 
+Maternal Anemia With Perinatal Outcome 
+ 
+Pak Armed Forces Med J 2020; 70 (2): 302-07 
+303 
+sive and are not accessible by our major segments 
+of population who belongto lower or lower 
+middle income group. Hence our study was 
+designed to analyze the association of maternal 
+anemia with perinatal outcomes. 
+METHODOLOGY 
+In this prospective study, the association of 
+maternal anemia with perinatal outcome was 
+studied in Obstetrics and Gynaecology depart-
+ment of Combined Military Hospital Sialkot, 
+from January 2018 to December 2018. The study 
+was approved by the Research and ethical 
+committee of the institute (certificate no. A/28/ 
+EC-/28/19 Dated 2nd Nov 2019) and informed 
+consent was taken from all the participants.  
+Statistical analyses were performed using 
+SPSS software (Statistical Package for the Social 
+Sciences, version 20.0; SPSS Inc., Chicago, IL, 
+USA). Categorical data were presented as freq-
+uencies and percentages. Continuous data were 
+presented as mean and standard deviation (SD). 
+A chi-square test was performed to analyze       
+the correlation between categorical variables. A   
+p-value of ≤0.05 was considered significant. 
+A total of 844 women were studied who 
+fulfilled the inclusion criteria during the study 
+period. Maternal anemia, was categorized on 
+basis of hemoglobin levels as non-anemic (≥11 
+g/dl), mild (10-10.9 g/dl), moderate (≥7–9.9 g/dl) 
+or severe (<7g/dl). The data was recorded on a 
+pre-designed questionnaire. Hemoglobin estima-
+tion was routinely done at antenatal visits, and   
+in labor, however hemoglobin estimation at the 
+time of delivery was finally considered for data 
+interpretation. Perinatal outcome included were 
+preterm delivery, Low birth weight, Intra-uterine 
+growth retardation, Apgar score at 1min, Intra-
+uterine death and other neonatal complications 
+leading to neonatal intevsive care unit admission. 
+All pregnant women attending antenatal 
+clinics and intended to deliver in this institution 
+and consented to be included in the study with 
+singleton pregnancy and having no chronic 
+illness as renal disease, hypertension, diabetes 
+mellitus, etc. were included in the study. 
+Those pregnant women who were irregular 
+in antenatal visits or having multiple gestation 
+were excluded from study. Those having chronic 
+anemias as sickle cell disease, thalassemia, or any 
+immunologic disorders and those having h/o 
+preterm delivery, obstetrical complications, neo-
+natal deaths in order to control confounding 
+factors were also excluded from the study. 
+RESULTS  
+A total of 844 women who were included in 
+our study, out of which 558 (66.11%) were anemic 
+and 286 (33.89%) women had hemoglobin >11 
+g/dl and were labeled as non anemic. The preva-
+lence of mild anemia among anemic mothers was 
+31.90% and 61.29% had moderate anemia, and 
+only 6.81% were severely anemic (table-I). 
+The mean age of anemic women was 28.85 ± 
+5.12 years against 27.08 ± 4.75 years non-anemic 
+women. The BMI of women in both groups was 
+almost similar, i.e. 23.62 ± 3.65 among anemic 
+women compared to 24.15 ± 3.79. The majority of 
+women in both groups had attended school up to 
+grade 10 or higher. Most of the women were 
+house-wives in both groups. About 362 (64.87%) 
+in the anemic group and 92 (32.17%) of non-
+anemic women lived in a joint family, i.e. within 
+laws, siblings in addition to own husband and 
+children. Household monthly income revealing 
+socioeconomic status was also noted (table-II). 
+Table-III outlines the analysis of perinatal 
+variables in the two groups, as found in literature 
+the impact on perinatal outcome is statistically 
+significant in moderate to severely anemic 
+mothers therefore the neonatal outcome in mode-
+rate to severely anemic mothers were grouped 
+Table-I: Distribution of non-anemic and anemic 
+mothers. 
+Variable 
+Frequency (%) 
+Mean. Hb 
+(g/dl) 
+Non anemic 
+mothers 
+286 (33.89%) 
+11.7 ± 0.5 
+Anemic mothers 
+Mild 
+Moderate 
+Severe 
+558 (66.11%) 
+178 (31.90%) 
+342 (61.29%) 
+38 (6.81%) 
+ 
+10.4 ± 0.4 
+8.4 ± 1.2 
+6.3 ± 0.6 
+Maternal Anemia With Perinatal Outcome 
+ 
+Pak Armed Forces Med J 2020; 70 (2): 302-07 
+304 
+together and compared with non-anemic mothers 
+for statistical analysis. 
+There were 2 (1.12%), 7 (1.84%) and 3 (1.05%) 
+IUD’s in mildly anemic, moderate to severely 
+anemic and non-anemic mothers respectively. 
+There were 64 (35.96%), 158 (41.58%) and 87 
+(30.42%) neonatesof mildly anemic, moderate to 
+severely anemic and non-anemic mothers respec-
+tively, who were sick and admitted in nursery. 
+The commonest neonatal complication in mode-
+rate to severely anemic mothers was prematurity 
+with respiratory distress syndrome. Whereas 
+other neonatal complications noted in all the 
+groups were birth asphyxia, neonatal jaundice, 
+transient tachypnea of newborn, neonatal sepsis, 
+and meconium aspiration syndrome. 
+There were 5, 18 and 10 neonatal deaths 
+inmildly anemic, moderate to severely anemic 
+and non-anemic mothers respectivelyand the 
+overall perinatal mortality was 7 (3.93%), 25 
+(6.58%) and 13 (4.55%) in mildly anemic, mode-
+rate to severely anemic and non-anemic mothers 
+respectively. 
+DISCUSSION 
+Maternal anemia is a common problem 
+encountered by gynecologists and obstetricians 
+worldwide, especially in developing countries. 
+Number of studies has found an association 
+between anemia in pregnancy and adverse ma-
+ternal and neonatal outcomes9. Neonatal adverse 
+outcomes associated with maternal anemia 
+include fetal anemia, stillbirth, low and very low 
+birth weight babies, poor APGAR score, small  
+for gestational age, birth asphyxia, and preterm 
+delivery10. 
+Table-II: Comparison of maternal variables of anemic and non-anemic groups. 
+Maternal Demographic 
+Variables 
+Anemic group 
+(n=558) 
+Non-anemic 
+(n=286) 
+p-value 
+Mean Age (years) 
+28.85 ± 5.12 
+27.08 ± 4.95 
+- 
+Mean BMI 
+23.62 ± 3.65 
+24.15 ± 3.78 
+- 
+Maternal Parity; n (%) 
+Primigravida 
+Multigravida-para 2-4 
+Para 5 or more 
+118 (21.15%) 
+292 (52.33%) 
+148 (26.52%) 
+142 (49.65%) 
+78 (27.27%) 
+66 (23.08%) 
+0.075 
+0.004 
+0.398 
+Education level; n (%) 
+No schooling  
+Upto grade 10 
+Above grade 10 
+154 (27.60%) 
+318 (56.99%) 
+86 (15.41%) 
+84 (29.37%) 
+136 (47.55%) 
+66(23.08%) 
+0.743 
+0.149 
+0.298 
+Family structure; n (%) 
+Joint family 
+Nuclear family 
+362 (64.87%) 
+196 (35.13%) 
+92 (32.17%) 
+194 (67.83%) 
+<0.05 
+0.07 
+Monthly income: Rs. 
+Up to25000 
+25001 to 50000 
+Above 50000 
+312 (55.91%) 
+178 (31.90%) 
+68 (12.19%) 
+42 (14.68%) 
+124 (43.36%) 
+120 (41.96%) 
+<0.05 
+0.025 
+<0.05 
+Table-III: Frequency & percentages, statistical values of perinatal variables. 
+Neonatal variables 
+Mild anemia 
+n=178 
+Moderate-Severe 
+Anemia 
+Non-anemic 
+n=286 
+Relative 
+risk: RR 
+p- value 
+ 
+Preterm 
+36 (20.22%) 
+138(36.32%) 
+54 (18.88%) 
+2.5 
+0.0003 
+Low birth weight 
+42 (23.60%) 
+154(40.53%) 
+52 (18.18%) 
+3.0 
+0.0008 
+IUGR 
+21 (11.80%) 
+66 (17.37%) 
+28 (9.79%) 
+2.3 
+0.0207 
+Low Apgar 
+26 (14.61%) 
+64 (16.84%) 
+34 (11.89%) 
+- 
+0.1510 
+IUD 
+2 (1.12%) 
+7 (1.84%) 
+3(1.05%) 
+- 
+0.617 
+Maternal Anemia With Perinatal Outcome 
+ 
+Pak Armed Forces Med J 2020; 70 (2): 302-07 
+305 
+In this prospective study we examine the 
+association between maternal anemia and a wide 
+range of perinatal morbidity and mortality. 
+Prevalence of anemia in our study was 66.11% 
+which was closer to another study in PNS Shifa 
+Hospital Karachi by Rabiah et al11, noted the pre-
+valence of anemia was 53.18%. However preva-
+lence of anemia in another study in Hyderabad 
+by Naila et al12 was 90.5% which was quite higher 
+than our study and that reported by other studies 
+from Pakistan. The overall prevalenceof severe 
+anemia in our study was 6.81% which is quite 
+high comparative to the same study by Naila et 
+al12, who reported only 0.7% prevalence of severe 
+anemia. This may reflect the underprivileged 
+population, poor nutrition, insufficient antenatal 
+visits and ineffective compliance to medications 
+for the pregnant mothers in this community.  
+According to literature, a prevalence of ane-
+mia ≥40.0% is indicative of a severe public health 
+problem3. Thus, our findings suggest that these 
+deficiencies were a severe public health problem 
+in Pakistani Women of Reproductive Age (WRA). 
+Similar to our findings, previous surveys also 
+found a high prevalence of anemia among 
+Women of Reproductive Age13. 
+Demographic parameters are significant risk 
+factors of anemia in pregnancy. A study in 
+Bangladesh found high parity and illiteracy as 
+contributing risk factors of anemia14. Similarly in 
+our anemic cohort almost 78.85% pregnant 
+women were multigravida and 27.6% were have 
+no schooling. Anemia in pregnancy was com-
+monly noted in women with high parity because 
+of depleted iron reservesfor the reason thatof 
+repeated pregnancies. Pregnancy increases the 
+plasma volume which further causes a reduction 
+of hemoglobin level15. In this study, the results 
+showed that, multigravida women were more 
+likely to get anemia when compared to primigra-
+vida. In a study by Ali et al16 in Tanzania found 
+only 25.2% pregnant mothers were anemic     
+with less than 2 parity whereas it was 48.5% in 
+mothers with higher parity, furthermore it also 
+agree in another previous study conducted by 
+Khan et al17 in Pakistan who found that multigra-
+vida were more likely to get anemia compared to 
+primigravida women. Howeverthe findings of 
+our study was in contrast with another study 
+conducted by Chikwendu et al18, in Nigeria who 
+reports that primigravida were more likely to get 
+anemia comparative to multigravida women.     
+In our study incidence of preterm babies was 
+20.22% and 18.88% in mildly anemic and non-
+anemic mothers respectively whereas it was 
+36.32% in moderate to severely anemic mothers. 
+Table IV: Breakup of admission in neonatal intensive care. 
+Neonatal 
+Complications 
+Mildanemia 
+n=64 
+Moderateto severe 
+n=158 
+Non-anemic 
+n=87 
+p-value 
+Prematurity/RDS 
+16 (25%) 
+48 (30.38%) 
+28 (32.18%) 
+0.02 
+Birth Asphyxia 
+12 (18.75%) 
+36 (22.78%) 
+14 (16.10%) 
+0.307 
+Hypoglycemia 
+8 (12.50%) 
+15 (09.49%) 
+10 (11.49%) 
+0.655 
+Neonatal Jaundice 
+8 (12.50%) 
+16 (10.13%) 
+12 (13.79%) 
+0.443 
+Neonatal sepsis 
+6 (9.37%) 
+18 (11.40%) 
+12 (13.79%) 
+0.628 
+Meconium Aspiration 
+3 (4.69%) 
+8 (05.06%) 
+3 (3.45%) 
+0.575 
+TransientTachypnea  
+10 (15.62%) 
+14 (08.86%) 
+8 (9.20%) 
+0.936 
+Table-V: Breakup of perinatal deaths in anemic and non-anemic groups. 
+Cause of perinatal 
+death 
+Mild anemia 
+n=7 
+Moderate to Severe 
+(n=25) 
+Non-anemic 
+n=13 
+p- value 
+Prematurity/RDS  
+3 (42.86%) 
+9 (36%) 
+6 (46.15%) 
+0.002 
+Neonatal Sepsis 
+1 (14.29%) 
+5 (20%) 
+2 (18.19%) 
+0.916 
+Birth Asphyxia 
+1 (14.29%) 
+1 (4%) 
+1 (9.09%) 
+0.564 
+Meconium aspiration  
+- 
+3 (12%) 
+1 ((9.09%) 
+0.818 
+Intra uterine death 
+2 (28.56%) 
+7 (28%) 
+3 (27.27%) 
+0.973 
+Maternal Anemia With Perinatal Outcome 
+ 
+Pak Armed Forces Med J 2020; 70 (2): 302-07 
+306 
+Similarly, another local study by Rabiah et al11 
+shows higher risk of preterm birth in anemic 
+mothers. Consistent with our study, another 
+study by Mahamuda et al19 from Bangladesh also 
+show higher risk of prematurity in anemic 
+mothers. Similar to our results another study by 
+Tusimin et al20 from Malaysia shows 13.1% in 
+mild anemia and 19.7% in moderate to severely 
+anemic mothers has the incidence of premature 
+delivery. Our study shows incidence of low birth 
+weight was 18.18%, 23.6% and 40.53% in non-
+anemic, mildly anemic and moderate to severely 
+anemic mothers respectively, whereas in study by 
+Tusimin et al20 from Malaysia incidence of low 
+birth weight was 12.1% and 18.6% in mild and 
+moderate to severely anemic mothers respec-
+tively. Incidence of IUGR in our study was 9.79%, 
+11.80% and 17.37% in non-anemic, mildly anemic 
+and moderate to severely anemic mothers 
+respectively, whereas it was lower 2.4% and 3.3% 
+by Tusimin et al20 from Malaysia in mild and 
+moderate to severely anemic mothers respec-
+tively. 
+Better Apgar score signifies the status of 
+wellbeing of fetus. Higher maternal hemoglobin 
+concentration was correlated with APGAR score 
+>7 and with lower risk of birth asphyxia. In      
+our study 16.84% neonates with poor APGAR 
+score of <5 at 1 minute was observed in moderate        
+to severely anemic mothers whereas it was in 
+11.89% neonates of non-anemic mothers. In a 
+study by Bora et al21 shows 1.8 times risk of Low 
+APGAR score at birth in anemic comparative to 
+non-anemic mothers. 
+Main causes of neonatal morbidity leading to 
+admission in NICU in our study were prema-
+turity with respiratory distress syndrome, birth 
+asphyxia, neonatal sepsis and meconium aspira-
+tion syndrome. Perinatal mortality in our study 
+was 4.55% in non-anemic mothers whereas it was 
+6.58% in moderate to severely anemic mothers. 
+Whereas, another local study by Rabiah et al11 
+shows 13.7% incidence of perinatal mortality in 
+anemic mothers. Another regional study in    
+India by Haider et al22 observed 100% mothers of 
+stillborn and intrauterine death were anemic. Our 
+findings of higher risk of intrauterine death and 
+perinatal mortality amongst anemic mothers was 
+also demonstrated by Mahamuda et al19 from 
+Bangladesh. In a study conducted in England 
+showed that compared with women with 
+hemoglobin ≥11g/l, the risk of stillbirth and 
+perinatal death was five and three fold higher in 
+women with moderate to severe anemia (hemo-
+globin <10g/l) at first visit and 28 weeks, 
+respectively23. 
+CONCLUSION 
+Our study shows that anemia in pregnancy, 
+mainly moderately severe anemia, is associated 
+with perinatal morbidity and mortality, thereby 
+pre-conception and during pregnancy treatment 
+of women of reproductive age is likely to 
+improve outcomes for affected women and their 
+fetuses and neonates and can also decrease the 
+illnesses and ultimate cost in resources constraint 
+countries. 
+CONFLICT OF INTEREST 
+This study has no conflict of interest to be 
+declared by any author. 
+REFERENCES 
+1. World Health Organization. Prevalence of anaemia in pregnant 
+women: Estimates by country [Internet] 2017. [cited 2019 July 2]. 
+[Google Scholar]. 
+2. Parks S, Hoffman MK, Goudar SS, Patel A, Saleem S, Ali SA, et, 
+al. Maternal anaemia and maternal, fetal, and neonatal outcomes 
+in a prospective cohort study in India and Pakistan. Int J Obs 
+Gynae 2019; 126 (6): 737-43. 
+3. Stephen G, Mgongo M, Hashim TH, Katanga J, Pedersen BS, 
+Msuyu SE. Anaemia in pregnancy: prevalence, risk factors, and 
+adverse perinatal outcomes in Northern Tanzania; Anemia 2018; 
+2018: 1846280. 
+4. Okube OT, Mirie W, Odhiambo E, Sabina W, Habtu M. 
+Prevalence and factors associated with anaemia among pregnant 
+women attending antenatal clinic in the second and third 
+trimesters at Pumwani Maternity Hospital, Kenya 2016; 6(1):   
+16–27. 
+5. Drukker L, Hants Y, Farkash R, Ruchlemer R, Samueloff A, 
+Grisaru-Granovsky S: Iron deficiency anemia at admission for 
+labor and delivery is associated with an increased risk for 
+cesarean section and adverse maternal and neonatal outcomes. 
+Transfusion 2015; 55(12): 2799-806. 
+6. Ronkainen J, Lowry E, Heiskala A. Maternal hemoglobin 
+associates with preterm delivery and small for gestational age in 
+two Finnish birth cohorts. Eur J Obstet Gynecol Reprod Biol 
+2019; 238(1): 44-48. 
+7. Badfar G, Shohani M, Soleymani A, Azami M. Maternal anemia 
+during pregnancy and small for gestational age: a systematic 
+Maternal Anemia With Perinatal Outcome 
+ 
+Pak Armed Forces Med J 2020; 70 (2): 302-07 
+307 
+review and meta-analysis. J Matern Fetal Neonatal Med 2019; 
+32(10): 1728-34. 
+8. Young MF, Oaks BM, Tandon S, Martorell R, Dewey KG, Wendt 
+AS. Maternal hemoglobin concentrations across pregnancy and 
+maternal and child health: a systematic review and meta 
+analysis. Ann N Y Acad Sci 2019; 450(1): 47-68. 
+9. Mahmood T, Rehman A, Tserenpil G,Siddiqui F, Ahmed M, 
+Siraj F, et al. The Association between Iron-deficiency Anemia 
+and Adverse Pregnancy Outcomes: A Retrospective Report from 
+Pakistan. Cureus 2019; 11(10): e5854-59. 
+10. Nair M, Choudhury MK, Choudhury SS, Kakoty SD, Sarma UC, 
+Webster P, et al. Association between maternal anaemia and 
+pregnancy outcomes: a cohort study in Assam, India. Br Med J 
+Glob Health 2016; 1(1): e000026. 
+11. Rabiah A, Razzaq K, Noor N. Impact of maternal anemia on 
+perinatal outcome. Pak Armed Forces Med J 2019; 69 (2): 397-
+402. 
+12. Naila BA, Badruddin SH, Karmaliani R. In anemia prevalence 
+and risk factors in pregnant women in an urban area of 
+pakistan; article in food and nutrition bulletin. Food Nutr Bull 
+2008; 29(2): 132-9. 
+13. Soofi S, Khan GN, Sadiq K, Ariff S, Habib A, Kureishy S, et al. 
+Prevalence and possible factors associated with anaemia, and 
+vitamin B12 and folate deficiencies in women of reproductive 
+age in Pakistan: analysis of national-level secondary survey 
+data. Br Med J Open 2017; 7(1): 1-9. 
+14. Kumar KJ, Asha N, Murthy DS, Sujatha M, Manjunath V. 
+Maternal anemia in various trimesters and its effect on newborn 
+weight and maturity: An observational study. Int J Prev Med 
+2013; 4(2): 193-9. 
+15. Leflamme 
+EM. 
+Maternal 
+haemoglobin 
+concentration 
+& 
+pregnancy outcome: a study of the effects of elevation in EL 
+ALTO, Bolivia. Mcgill J Med 2011; 13(1): 47-55.  
+16. Ali MM, Ngowi AF, Gibore NS. Prevalence and obstetric factors 
+associated with anaemia among pregnant women, attending 
+antenatal care in Unguja island, Tanzania: Int J Community Med 
+Public Health 2019; 6(3): 950-95.  
+17. Khan DA, Fatima S, Imran R, Khan FA. Iron, folate and 
+cobalamin deficiency in anaemic pregnant females in tertiary 
+care centre at Rawalpindi. J Ayub Med College Abbottabad 
+2010; 22(1): 17-21.  
+18. Chikwendu MC, Nkemena B, Udigwe GO, Obiechina NJA, 
+Nnaji GA. Risk factors for anaemia in pregnancy at the first 
+antenatal clinic visit at Nnamdi Azikiwe university teaching 
+hospital, Nnewi. Tropical J Obstetrics Gynaecol 2015; 32(1): 14-
+26. 
+19. Mahamuda B, Tanira S, Feroza W, Perveen HA, Shamim A. 
+Effects of maternal anaemia on neonatal outcome - a study done 
+in specialized urban hospital setup in Bangladesh. Bangladesh J 
+Med Sci 2011; 10(2): 177-80.  
+20. Tusimin M, Yazit A, Zainulddin NS, Selvavaani VS, Vaiappuri 
+KN, Noor SM. The impact of severity of antenatal anaemia on 
+maternal and perinatal outcome in hospital Serdang, Central 
+Malaysia. J Preg Child Health 2016; 3(5): 1-5.  
+21. Bora R, Sable C, Wolfson J. Prevalence of anaemia in pregnant 
+women and its effect on neonatal outcomes in Northeast India. J 
+Matern Fetal Neonatal Med 2014; 27(9): 887-91. 
+22. Haider BA, Olofin I, Wang M, Spiegelman D, Ezzati M, Fawzi 
+WW, et al, Nutrition impact model study group (anemia). 
+anemia, prenatal iron use, and risk of adverse pregnancy 
+outcomes: Systemic review and meta-analysis. Br Med J 2013; 
+346-53. 
+23. Nair M, Churchil D, Robinson S, Nelson-Piercy C, Stanworth SJ, 
+Knight M. Association between maternal haemoglobin and 
+stillbirth: A cohort study among a multi-ethnic population in 
+England. Br J Hematol 2017; 179(5): 829-37. 
+ 

@@ -1,0 +1,407 @@
+216 565 317
+1 947.7 [PKR]
+1 601.0
+9.77
+65
+4.53%
+No
+Yes
+-
+2001
+No
+No
+-
+-
+No
+-
+Mental health legislation
+Percentage of mental health research output in total 
+research output within country
+0.04%
+-
+The government’s total expenditure on mental 
+hospitals as % of total government mental health 
+expenditure
+[Pakistan]
+Total population (UN official estimate):1
+Total mental health expenditure per person (reported 
+currency):
+Burden of mental disorders (WHO official estimates)
+Mental health research and reporting
+Disability-adjusted life years (per 100 000 population):2
+Availability / status of mental health reporting:
+Mental Health ATLAS 2020 - Member State Profile
+WHO Region:
+Income Group:3
+Lower-middle
+Mental health financing
+The government’s total expenditure on mental health 
+as % of total government health expenditure
+RESOURCES FOR MENTAL HEALTH
+EMRO
+Not applicable
+5
+No
+No mental health data have been compiled in the last two years
+Percentage of mental health research output of the 
+country in total mental health research output in the 
+region
+10.9%
+Number of published research articles on mental 
+health5
+No
+Stand-alone law for mental health:
+(Year of law):
+Law is in line with human rights covenants (self-
+rated 5-points checklist score; 5 = fully in line)7 
+The existence of a dedicated 
+authority or independent body 
+to assess compliance of mental 
+health legislation with 
+international human rights
+Stand-alone or integrated policy or plan for 
+adolescent mental health
+(Year of adolescent mental health policy / plan):
+MENTAL HEALTH SYSTEM GOVERNANCE
+Mental health policy / plan
+Child and/or adolescent mental health policy/plan
+Stand-alone policy or plan for mental health:
+Policy / plan is in line with human rights covenants 
+(self-rated 5-points checklist score; 5 = fully in line)6
+(Year of policy / plan):
+Human resources are estimated and allocated for 
+implementation of the mental health policy/plan 
+Age-standardized suicide mortality rate (per 100 000 
+population):4
+Financial resources are estimated and allocated for 
+implementation of the mental health policy/plan
+The mental health policy / plan contains specified 
+indicators or targets against which its implementation 
+can be monitored 
+Stand-alone or integrated policy or plan for child 
+mental health
+(Year of child mental health policy / plan):
+Indicators not available
+Stand-alone or integrated strategy/policy/plan for 
+suicide prevention
+A dedicated authority body does 
+not exist
+Suicide prevention strategy/policy/plan
+(Year of strategy/policy/plan)
+Data for previous years are not 
+available
+Data for previous years are not 
+available
+9.98
+10.02
+9.77
+9.60
+9.70
+9.80
+9.90
+10.00
+10.10
+2013
+2016
+2019
+Age-standardized suicide mortality rate per 100 
+000 population, 2013, 2016 and 2019
+61
+54
+65
+5.94%
+4.87%
+4.53%
+0.00%
+5.00%
+10.00%
+0.0
+20.0
+40.0
+60.0
+80.0
+2013
+2016
+2019
+Output of research on mental health, 2013, 2016 
+and 2019
+No. published research articles on mental health
+% of mental health research output in total research output within country
+Total Number 
+(gov. and non gov.)
+No. per 100 000 
+population
+300
+0.14
+200
+0.09
+100
+0.05
+600
+0.28
+0
+0.00
+1 200
+0.55
+-
+-
+-
+-
+3 729
+-
+624
+-
+-
+-
+ 2
+-
+11
+- / -
+800
+- / -
+578
+- / -
+3
+- / -
+-
+-
+-
+-
+-
+-
+51%-75%
+1 202
+0.56
+Total cases
+Male
+Female
+-
+-
+-
+Social workers
+Insurance for mental health
+How the majority of persons with 
+mental health conditions pay for 
+mental health services
+"Community-based / non-hospital" mental health 
+outpatient facility
+Other outpatient facility (e.g. Mental health day care 
+or treatment facility)
+3
+Number of visits made by service users in the last 
+year in mental health outpatient facilities 
+attached to a hospital
+Outpatient care (visits per 100 000 population)
+Number of visits made by service users in the last 
+year in other outpatient facility (e.g. Mental 
+health day care or treatment facility)
+Number of visits made by service users in the last 
+year in outpatient facility specifically for children 
+and adolescents 
+Number of visits made by service users in the last 
+year in "Community-based / non-hospital" mental 
+health outpatient facility
+Integration of mental health into primary care is considered functional  (self-rated 5 points checklist score; ≥ 4 = functional 
+integration)8
+Mental health outpatient facilities attached to a 
+hospital
+Outpatient care (total facilities)
+Inpatient care (total facilities)
+Mental hospital beds / annual admissions
+General hospital psychiatric unit beds / annual 
+admissions
+Mental health nurses
+Psychologists
+Mental health workforce
+Yes
+The care and treatment of persons with mental health conditions (psychosis, bipolar disorder, depression) 
+is included in national health insurance or reimbursement schemes in your country
+Psychiatrists 
+Persons pay at least 20% towards 
+the cost of medicines
+Persons pay at least 20% towards 
+the cost of services
+How the majority of persons 
+with mental health conditions 
+pay for psychotropic medicines
+MENTAL HEALTH SERVICE AVAILABILITY AND UPTAKE (Mental health services include care for mental health, 
+neurological and substance use disorders)
+Integration of mental health into primary health care
+Total mental health professionals
+Total mental health workers in 
+child and adolescent mental 
+health services
+Other specialized mental health workers 
+(e.g. Occupational Therapists)
+Mental health workers in child and/or adolescent  mental health services:
+Mental hospitals (length of stay)
+Child and/or adolescent psychiatrists
+Psychiatric units in general hospitals
+Total number of outpatient facilities specifically for 
+children and adolescents 
+Mental hospitals
+Inpatient care (beds/admissions per 100 000 population)
+Community residential beds / annual admissions
+Child and adolescent specific inpatient beds / 
+annual admissions
+Follow-up of people with mental health condition 
+discharged from hospital in the last year (discharged 
+persons seen within a month)
+Inpatients receiving timely diagnosis, treatment and follow-up for physical health conditions(e.g. cancer, diabetes or TB)
+Number of community-based mental health 
+facilities per 100 000 population
+Percentage of inpatients staying less than 1 year 
+in the total number of inpatients
+Inpatient facilities specifically for children and 
+adolescents
+26%-50%
+Inpatients staying less than 1 year
+Inpatients staying 1-5 years
+Inpatients staying more than 5 years
+Mental hospitals
+Total number of admissions
+Admissions that are involuntary
+Community based mental health services9
+Total number of community based mental health 
+facilities
+Treated prevalence of psychosis and by sex
+Treated cases of psychosis (inpatient and outpatient)
+Community residential facilities
+Data for previous years are not available
+19.15
+0.55
+0.00
+5.00
+10.00
+15.00
+20.00
+25.00
+2014
+2020
+Mental health workers per 100 000 population, 
+2014  and 2020
+Scope of 
+programme
+Programme 
+management
+Functionality of 
+programme
+-
+-
+-
+-
+-
+-
+-
+-
+-
+District
+Jointly managed
+Yes
+-
+-
+-
+-
+-
+-
+Regional
+Jointly managed
+Yes
+9 Community-based mental health services are defined as services that are provided in the community, outside a hospital setting. Data for this indicator include 
+countries’ reported number of community-based outpatient facilities (e.g. community mental health centres), other outpatient services (e.g. day treatment 
+facilities) and mental health community residential facilities for adults.
+-
+10 Functional mental health promotion and prevention programmes self-rated 3 points checklist items: 1) Dedicated financial & human resources; 2) A defined 
+plan of implementation; and 3) Documented evidence of progress and/or impact. (≥ 2 = functioning programme)
+6 Policy/plan compliance with human rights instruments self-rated 5 points checklist items: 1) Policy/plan promotes transition towards mental health services 
+based in the community (including mental health care integrated into general hospitals and primary care); 2) Policy/plan pays explicit attention to respect of the 
+rights of people with mental health conditions and psychosocial disabilities as well as at-risk populations; 3) Policy/plan promotes a full range of services and 
+supports to enable people to live independently and be included in the community (including rehabilitation services, social services, educational, vocational and 
+employment opportunities, housing services and supports, etc.); 4) Policy/plan promotes a recovery approach to mental health care, which emphasizes support 
+for individuals to achieve their aspirations and goals, with mental health service users driving the development of their treatment and recovery plans; 5) 
+Policy/plan promotes the participation of persons with mental health conditions and psychosocial disabilities in decision-making processes about issues affecting 
+them (e.g. policies, laws, service reform, service delivery). (5 = fully in line) 
+7 Law compliance with human rights instruments self-rated 5 points checklist items: 1) Law promotes transition towards community-based mental health 
+services (including mental health integrated into general hospitals and primary care); 2) Law promotes the rights of people with mental health conditions and 
+psychosocial disabilities to exercise their legal capacity; 3) Law promotes alternatives to coercive practice; 4) Law provides for procedures to enable people with 
+mental health conditions and psychosocial disabilities to protect their rights and file appeals and complaints to an independent legal body; 5) Law provides for 
+regular inspections of human rights conditions in mental health facilities by an independent body (79% of responding countries). (5 = fully in line)
+8 Integration of mental health in primary care self-rated 5 points checklist items:  1) guidelines for mental health integration into primary health care are available 
+and adopted at the national level; 2) pharmacological interventions for mental health conditions are available and provided at the primary care level; 3) 
+psychosocial interventions for mental health conditions are available and provided at the primary care level; 4) health workers at primary care level receive 
+training on the management of mental health conditions; 5) mental health specialists are involved in the training and supervision of primary care professionals. (≥ 
+4 = functional integration)
+4 WHO, 2019. Global Health Observatory. http://www.who.int/gho/en/. Suicide mortality rates are computed using standard categories, definitions and methods 
+are reported to facilitate comparisons over time and between countries and may not be the same as official national estimates.
+School based mental health 
+prevention and promotion
+Parental / Maternal mental health 
+promotion and prevention
+Mental health and psychosocial 
+component of disaster preparedness, 
+disaster risk reduction
+Work-related mental health 
+prevention and promotion
+School mental Health Program
+-
+-
+Psychological first Aid Program
+Endnotes
+1 UN, 2019. World Population Prospects. https://population.un.org/wpp/
+2 GBD, 2019. Global Health Estimates. https://www.who.int/data/gho/data/themes/mortality-and-global-health-estimates/global-health-estimates-leading-
+causes-of-dalys. Value represent DALY rate per 100,000 and for mental disorders only.
+3 World Bank, 2019. Country classification. https://datahelpdesk.worldbank.org/knowledgebase/topics/19280-country-classification
+5 Output of research on mental health: The annual published research output in peer-reviewed and indexed journals is used as a proxy for the amount (and 
+quality) of mental health research that is being conducted or is related to a given country.
+-
+-
+Yes
+MENTAL HEALTH PROMOTION AND PREVENTION
+Early Child Development
+Mental Health Awareness /Anti-
+stigma
+Suicide prevention programme
+Existence of at least two functioning programmes 
+(self-rated 3 points checklist score; ≥ 2 = functioning programme)10
+Category of mental health promotion & 
+prevention programme 
+Programme examples
+55.36
+0.00
+0.00
+372.71
+0.00
+0.00
+0.00
+100.00
+200.00
+300.00
+400.00
+2014
+2017
+2020
+Number of inpatient admissions and outpatient visits per 
+100 000 population, 2014, 2017 and 2020
+Inpatient
+admission per
+100 000
+population
+Outpatient
+visits per 100
+000
+population
+Data for previous years are not available
+Data for previous years are not available
+0.40
+0.63
+0.56
+0.00
+0.20
+0.40
+0.60
+0.80
+2014
+2017
+2020
+Number of community-based mental health services per 
+100 000 population, 2014, 2017 and 2020

@@ -1,0 +1,524 @@
+Policy Brief 
+                                                                          Addressing The Drinking Water Challenge in Pakistan 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Policy Brief  
+on 
+Addressing the Drinking Water Challenge in Pakistan 
+ 
+ 
+ 
+ 
+ 
+ 
+November, 2018 
+ 
+ 
+ 
+ 
+Published by: 
+Consumer Rights Commission of Pakistan (CRCP) 
+Islamabad, Pakistan 
+Tel: 0092-51-111739739; Fax: 0092-51-2825336 
+Email: info@crcp.org.pk; Website: www.crcp.org.pk  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ISBN: 123-565-789 
+© 2018 CRCP, Islamabad 
+ 
+Policy Brief 
+                                                                          Addressing The Drinking Water Challenge in Pakistan 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+About Author: 
+Ms. Mette Hartmeyer is an Adjunct Fellow of Consumer Rights Commission of Pakistan (CRCP). 
+Ms. Hartmeyer holds a Masters’ degree in Governance and Development from the Institute of 
+Development Studies (IDS), University of Sussex with special focus on comparative analysis of 
+public sector reforms, emerging powers, development and service delivery in conflict areas, private 
+public partnership and local governance. She has more than ten years of experience in project 
+management, strategic planning and advocacy for consumer rights.  
+ 
+ 
+ 
+Policy Brief 
+                                                                          Addressing The Drinking Water Challenge in Pakistan 
+ 
+ 
+Contents 
+Introduction ................................................................................................................................ 1 
+Legal Framework, Current Situation and Cause ........................................................................ 3 
+A. 
+Legal Responsibility and International Commitments ........................................................... 3 
+B. 
+Situation on Ground: Water Quality, Access and Price ......................................................... 4 
+C. 
+Causes for the Challenges Pertaining to Quality and Access ................................................. 5 
+Over-Consumption by Agriculture Sector .............................................................................. 5 
+Increase in Population ........................................................................................................... 5 
+No Metering or Regulation of Industrial Use ........................................................................ 5 
+Industrial Growth ................................................................................................................... 5 
+Federal Intention – Provincial and Tehsil Responsibility ...................................................... 6 
+Recommendations ...................................................................................................................... 7 
+References .................................................................................................................................. 7 
+ 
+ 
+ 
+Policy Brief 
+                                                                          Addressing The Drinking Water Challenge in Pakistan 
+CRCP Publications 
+ 
+Page | 1 
+Introduction 
+ 
+ 
+ 
+ 
+ 
+ 
+Pakistan is among 37 countries of the world that has extremely high levels of water stress1, 
+which causes deterioration of fresh water resources in terms of quantity and quality2. The 
+World Resource Institute (WRI) projections categorize Pakistan in the category of ‘extremely 
+high level’ of water stress, if it continues to do business as usual3. 
+ 
+Over the years, the demand for water has significantly increased to meet the requirements of 
+a rapidly growing population in the country. According to international standard, 1000 m3 
+(Cubic Meter) per capita is considered as the value for water scarcity, and per capita 
+availability of water in Pakistan has already dropped to merely 1038 m3 per capita. Experts 
+are of the opinion that it will further decline to only 751m3 by the year 20304. Further, the un-
+regulated exploitation of groundwater resources is leading to depletion of groundwater 
+aquifers. Consequently, large areas are not receiving enough water supplies. Apart from 
+inadequate water supply, the quality of water being supplied to the consumers is poor. 
+Pakistan is among top ten countries of the world having lowest access to clean water5. 
+According to World Health Organization (WHO), only 36 percent of the population in 
+Pakistan has access to safe drinking water6. There is a vast discrepancy between rich and poor 
+regarding access to water in Pakistan where richest have more access to clean water as 
+compared to the poor.7 
+ 
+                                                 
+1 It is a condition when the demand for water exceeds the available of water during a certain period or when 
+poor quality restricts its use 
+2World Resources Institute (WRI), Water Stress by Country, https://wriorg.s3.amazonaws.com/s3fs-
+public/water_stress_by_country_0.png?_ga=2.240251205.753526686.1542589510-975768878.1542589510 
+3 WRI (2015). Aqueduct Projected Water Stress Country Rankings. Technical Note. [online] World Resources 
+Institute (WRI). Available at: http://www.wri.org/sites/default/files/aqueduct-water-stress-country-rankings-
+technical-note.pdf. 
+4 Allah Baksh Sufi, et al., Integrated Water Resource Management in Pakistan” Symposium on Changing 
+Environmental Pattern And Its Impact With Special Focus On Pakistan 33, No. 286 (2011):35-49.  
+5WaterAid (2018).The Water Gap - The State of the World’s Water 2018. [online] Available at: 
+https://washmatters.wateraid.org/sites/g/files/jkxoof256/files/The%20Water%20Gap%20State%20of%20Water
+%20report%20lr%20pages.pdf. 
+6Pakistan Today (2017).WHO report deems safe drinking water a luxury for numerous Pakistanis. [online] 
+Available at: https://www.pakistantoday.com.pk/2017/11/06/who-report-deems-safe-drinking-water-a-luxury-
+for-numerous-pakistanis/. 
+7WaterAid (2018).Opcit. 
+Policy Brief 
+                                                                          Addressing The Drinking Water Challenge in Pakistan 
+CRCP Publications 
+ 
+Page | 2 
+The poor quality of drinking water is leading to deteriorating health conditions of people in 
+the country and resulting in high incidence of waterborne diseases which in turn increases 
+morbidity and mortality rates. According to reports, water contamination is causing 30 
+percent of all diseases and 40 percent of all deaths in Pakistan8. The unavailability of water 
+and water contamination also poses major threat to the survival and development of children. 
+It significantly contributes to the high infant mortality rate, stunting, and child sickness. An 
+estimate reveals that deaths due to water contamination result in income losses of Rs. 25-58 
+billion annually accounting for approximately 0.6-1.44% of Gross Domestic Production 
+(GDP) of Pakistan9. 
+ 
+Water and hygiene related diseases are costing Pakistan’s economy annual national income 
+losses of US$380 to US$883 million of the GDP while 250,000 children less than five years 
+of age die every year in the country due to diarrheal diseases10. More than 50-60 million11 
+people in Pakistan are at risk of arsenic poisoning from contaminated groundwater12. This 
+number is alarmingly high and demonstrates the urgent need for verification and testing of all 
+drinking water wells in the Indus Plain, followed by appropriate mitigation measures.  
+ 
+The situation calls for urgent and concrete technical and political governance solutions to 
+safeguard safe drinking water for people of Pakistan. This policy note is seeking to alert 
+policy makers, address vital issues and suggest possible solutions. Consumer Rights 
+Commission of Pakistan (CRCP) furthermore suggests participatory consultations with 
+consumers, politicians, newly elected parliamentarians, bureaucrats at all levels and other 
+stakeholders to open up smart, efficient and relevant solutions. 
+ 
+ 
+                                                 
+8United Nations. Impact Assessment Report: Handpumps/ Waterwells. Available at: 
+https://humanappeal.org.pk/Reports/clean%20water%20report.pdf. 
+9Daniya, K. (2017). Pakistan’s National Water Policy. The Express Tribune. [online] Available at: 
+https://tribune.com.pk/story/1469030/pakistans-national-water-policy/. 
+10 Economic Survey of Pakistan 2015-16 
+11  Joel, 2017 
+12 This study is based on samples from 1,200 wells across the country, with hot spots around Lahore and 
+Hyderabad. 
+Policy Brief 
+                                                                          Addressing The Drinking Water Challenge in Pakistan 
+CRCP Publications 
+ 
+Page | 3 
+Legal Framework, Current Situation and Cause 
+A. Legal Responsibility and International Commitments 
+ 
+ 
+ 
+ 
+ 
+ 
+The constitution of Pakistan states that “no person shall be deprived of life or liberty save in 
+accordance with law” (Article 9). Water is a basic need for living, which implies that it is the 
+responsibility of the state to provide clean drinking water. Legal frameworks for protection of 
+consumers are available but right to safe drinking water still needs to be recognized in clear 
+terms in the constitution of Pakistan. 
+ 
+In Water Act of Federally Administered Tribal Areas (FATA) (DWP -FATA, 2014), water 
+was mentioned as a fundamental human right; however, since FATA has been merged in to 
+the province of Khyber Pakhtunkhwa the act has become secondary.   
+ 
+Pakistan’s commitment to the global Sustainable Development Goals (SDGs) is a positive 
+signal for consumer’s protection. The country has also established SDG’s Office at Ministry 
+of Planning Commission and has internalized the SDG’s as National Goals. Especially, goal 
+6 is about ensuring availability and sustainable management of water and sanitation for all 
+by 2030. Under the goal, there are several targets such as 6.1, which states: by 2030, achieve 
+universal and equitable access to safe and affordable drinking water.  
+ 
+In 1992, Pakistan signed The Dublin Statement on water and sustainable development, in 
+which they agreed to four principles; 1) freshwater is a vulnerable resource; 2) water 
+development and management should be based on a participatory approach to include all 
+users; 3) in particular women; and 4) water should be recognized as an economic good, 
+subject to the provision that basic rights of all human beings to have access to clean water 
+and sanitation at an affordable price is recognized13. These principles leave room for 
+fundamental debates in any nation state on how to govern. It opens up for further questions to 
+be decided upon such as: a) who is responsible for regulation of the vulnerable resource of 
+portable water, and how can those institutions be strengthened?; b) how can participatory 
+approaches improve the management of drinking water and how?; and c) How to price 
+vulnerable scarce water in a country with 30 percent people living below the poverty line? 
+ 
+                                                 
+13 The Dublin Statement, 1992 
+Policy Brief 
+                                                                          Addressing The Drinking Water Challenge in Pakistan 
+CRCP Publications 
+ 
+Page | 4 
+B. Situation on Ground: Water Quality, Access and Price 
+ 
+ 
+ 
+ 
+ 
+There are public schemes which mainly include tap water, tube-wells, public filtration plants 
+etc. Public schemes do not cover the entire country; even the quality of water supplied is not 
+satisfactory. A national assessment survey of the water supply schemes indicates that out of 
+12,000 reported and 10,161 surveyed schemes, only 7,310 are functional. According to the 
+Pakistan Council of Research in Water Resources (PCRWR) annual report, 2013-14, out of 
+2,859 collected samples, approximately 70 percent the samples of water in Sindh and Punjab 
+are unsafe14. Also, the provinces are affected by groundwater contamination.  A survey 
+conducted by PCRWR tracked contamination in majority of groundwater in Quetta, where 81 
+percent of water samples got bacteria and 6 percent of water samples had turbidity, which 
+makes it unfit for human consumption. Safe drinking water is not available to 84 percent15 of 
+the population. In rural areas there are private solutions such as tube-wells, dug-wells. The 
+shortfall is met by market solutions including water tankers and bottled water.  
+ 
+Private sector has its own set of issues pertaining to quality and pricing. Some bottled 
+companies are operating without registration with Pakistan Standard and Quality Control 
+Authority (PSQCA), which was established to protect consumers against unsafe drinking 
+water. The authority is primarily responsible for fostering and promoting standards and 
+conformity assessment, ensuring the health and safety of the public, protecting the 
+consumers, facilitating domestic and international trade16. However, PSQCA seems to lack 
+enforcement remedies, when some manufacturers are “placing the PSQCA logo on their 
+labels without actually registering their products with the organization”17. 
+ 
+PCRWR issues a quarterly report on water quality of bottled water. As per the latest report of 
+July-September 2018, 8 percent of the bottled water is unsafe. This urges the need for further 
+focus on quality control and further enforcement remedies for PCRWR to protect the 
+consumers’ trust on bottle water products. 
+ 
+                                                 
+1469 % of a total of 1495 samples from Punjab are unsafe, while a total of 68% of 1364 samples collected in 
+Sindh are unsafe. 
+15 PCRWR (2017). Provision of Safe Drinking Water. Islamabad: Pakistan Council for Research in Water 
+Resources (PCRWR). 
+16 PSQCA, 2018 
+17 Maker, 2017 
+Policy Brief 
+                                                                          Addressing The Drinking Water Challenge in Pakistan 
+CRCP Publications 
+ 
+Page | 5 
+C. Causes for the Challenges Pertaining to Quality and Access 
+ 
+ 
+ 
+ 
+Over-Consumption by Agriculture Sector 
+The agricultural sector uses 90 percent of the total freshwater resources, while contributing to 
+21 percent in the GDP18. This enormous consumption will continue if efficient water 
+management is not incentivized and priced according to the crop return or actual 
+consumption. The agricultural sector must be priced on the basis of scale and purpose. The 
+State Bank of Pakistan (SBP) also believes that it is unproductive for Pakistan if 90 percent of 
+its water is consumed by the agricultural sector and it critiqued this consumption pattern as 
+“inefficient redistribution”19. 
+Increase in Population 
+Pakistan has the 6th highest annual population growth rate of 2.4 percent counting 207 million 
+people20. It is equal to an increase of 57 percent since the last Population Census conducted in 
+1998 and is further expected to increase by same growth rate. This growth also caused the 
+demand for water to rise.  
+No Metering or Regulation of Industrial Use 
+The problem is significant due to factors such as inequitable uses within sectors and free 
+riding. Water management is left with no incentives for efficient use as there are no charges 
+on actual consumption such as metering. The usage of water by the industry is not metered, 
+and the regulation on the discharge of industrial waste is not being properly monitored due to 
+which the water quality is deteriorating.  
+Industrial Growth 
+Drinking water is subjected to careless disposal of industrial wastewater and outdated sewage 
+piping, which is detrimental for people’s health. The non-existent regulation of agricultural 
+fertilizers, chemicals and pesticides allow such chemicals to seep into the ground. Export of 
+                                                 
+18Rehman, A., et al. Fertilizer consumption, water availability and credit distribution: Major factors affecting 
+agricultural productivity in Pakistan. Journal of the Saudi Society of Agricultural Sciences (2017), 
+http://dx.doi.org/10.1016/j.jssas.2017.08.002 
+19 SBP, 2017:97 
+20 Raba, 2017 
+Policy Brief 
+                                                                          Addressing The Drinking Water Challenge in Pakistan 
+CRCP Publications 
+ 
+Page | 6 
+water heavy industrial products such as jeans, which are using up to 8,200 liters of water per 
+pair, is a heavy burden on the water tables21. 
+Federal Intention – Provincial and Tehsil Responsibility 
+Drinking water policy formulation is the constitutional responsibility of provincial and 
+district governments. In the past, all major interventions and programs aiming at 
+improvement in accessibility and quality of drinking water have been undertaken  on national 
+level, such as Clean Drinking Water for All Program, National Program for Prevention & 
+Control of Hepatitis, and donor-funded Safe Drinking Water and Hygiene Promotion Project, 
+etc. The Clean Drinking Water for All Program was initiated in 2005 that focused on the 
+construction of 445 water purification plants of 2,000 gallons per hour in all Pakistani tehsils. 
+However, the Program was halted due to its inadequate planning. In 2007, Quality Drinking 
+Water Standards were published for Pakistan by the Health Services Academy under the 
+Ministry of Health. Later, in 2009, a National Drinking Water Policy was approved, which 
+aimed at providing safe drinking water to population by 2025. However, the policy could not 
+be implemented in its true spirit and the challenge of making safe drinking water available to 
+everyone remains unaddressed. Recently, the government has approved the first ever 
+National Water Policy (NWP) 2018.  
+ 
+Federal and provincial policies need to be reviewed to avoid gaps of overlap in competencies. 
+If any change is to be made in our water governance, the provinces must likewise regulate 
+almost all areas, such as: irrigation, agriculture, rural and urban water supply, environment 
+and other water related sub-sectors22. National Water Policy 2018 states “and roles of the 
+federal and provincial water related agencies need to be reviewed in view of the 18th 
+Amendment to the Constitution” (NWP, 2018:4). It is mainly not the federal but the 
+provincial governments, which are considered responsible and thereby accountable for almost 
+all aspects of the policy implementation. 
+ 
+ 
+ 
+                                                 
+21UNESCO & University of Twente, 2013 
+22Sub-sectors are not specified in the National Water Policy 18, but have occasionally been referred to as: 1. 
+Economic sectors: Agriculture, forestry, livestock, fisheries; Mining, energy, industries, transport; Human 
+settlements and recreation: 2. Environmental impact sectors: Soil degradation, loss of biodiversity, and over 
+harvesting of renewable resources; Municipal and industrial discharges, environmental health effects, and 
+misuse of water resources; Destruction of cultural heritage. 
+Policy Brief 
+                                                                          Addressing The Drinking Water Challenge in Pakistan 
+CRCP Publications 
+ 
+Page | 7 
+The recent statistics about quality and access have revealed that none of the provinces have 
+delivered the performance level needed to be able to secure a sustainable development and 
+management of water resource. The PCRWR test results support this assertion.   
+ 
+Generally, for all provinces of Pakistan, the delivery is spread across a range of institutions 
+with varying capacities, differing reporting lines and limited coordination. This includes 
+Public Health Engineering Department (PHED), Local Government and Community 
+Development Department (LG&CD) and Water and Sanitation Agencies (WASAs). The 
+LG&CD holds a broad responsibility for service delivery, however, in reality, the service 
+delivery remains within the purview of the PHED (with community engagement) and urban 
+services in large cities are delivered by the Water and Sanitation Authorities (WASAs). 
+ 
+A World Bank study assesses a financing gap for the sector in the range of US$1 billion 
+annually and further states, that “there are significant gaps in investments, which have led to 
+decay in the sector: new monies are generally dedicated to ill-planned asset formation and 
+salaries, with little dedicated to operation and maintenance.”23. Especially the Tehsil 
+Municipal Administrations (TMAs) that is responsible for supply of safe drinking water 
+struggle to finance services. The study further assess that little has been done to enable and 
+incentivize private sector participation, or experiment with public private models of delivery 
+in the sector.  
+ 
+ 
+ 
+                                                 
+23Sami, 2016: 6 
+Policy Brief 
+                                                                          Addressing The Drinking Water Challenge in Pakistan 
+CRCP Publications 
+ 
+Page | 8 
+Recommendations 
+ 
+ 
+ 
+Pakistan is in the middle of a water emergency impacting the lives of millions of Pakistanis, 
+who at times are subjected to consume water unfit for human consumption. This necessitates 
+revisiting the policy and regulatory framework, introducing institutional reforms, forming new 
+partnerships, and introducing efficient technologies.  
+ 
+ Legal framework for protection of the rights of consumers is available, but right to 
+safe and clean drinking water still needs to be recognized. The right has been affirmed 
+by international instruments and covenants including; UN General Assembly 
+Resolution 64/292 (2010); UN Human Rights Council Resolution 18/1 (2011); and 
+Rio+20 Outcome Document (2012). The right to safe and clean water has also been 
+recognized in the constitutions or national laws of South Africa, Uganda, Costa Rica, 
+Colombia, the Netherlands, and Belgium etc. It is recommended that federal and 
+provincial governments should provide a legal framework recognizing the right to 
+safe, clean, accessible and affordable drinking water.  
+ 
+ Formulation of National Water Policy (NWP) 2018 is a step in the right direction. It is 
+recommended that the federal government should expedite the next steps, including 
+but not limited to development of implementation strategy, notification of required 
+rules of business, dedicated financial resources for achieving the goals of NWP 2018 
+etc. 
+ 
+ There is a link between NWP and National Drinking Water Policy2009 due to the 
+common resources of water (i.e. glaciers, rivers, canals, lakes, dams, etc.) for 
+drinking, irrigation and industrial use. It is recommended that the National Drinking 
+Water Policy 2009 needs to be revisited on the basis of empirical evidence and 
+updated data. 
+ Federal and provincial governments should provide financial resources, engage with 
+national and international development partners for building capacities and 
+introducing technologies to ensure universal access to safe and clean drinking water.  
+Policy Brief 
+                                                                          Addressing The Drinking Water Challenge in Pakistan 
+CRCP Publications 
+ 
+Page | 9 
+ Water metering system is an inclusive tool in the field of potable water management 
+in developed countries. In some cities of the country, pilot projects of water metering 
+system should also be introduced that will ultimately be helpful to avoid the leakage 
+and theft issues also.  
+ As, per capita water availability in Pakistan has dropped down from the per capita 
+water requirement (1000 m3) set globally. So, billing criteria (tariff) for household and 
+commercial usage should be revised. 
+ Compliance of industrial wastewater treatment should be ensured by the relevant 
+authorities.  
+ Awareness campaigns aimed at increasing behavioral change should be based on the 
+NWP 2018. Women are identified to be important change makers in the areas of 
+conservation efforts and therefore, they should be engaged at every level. Campaign 
+programs at school level by involving the soap, surf and detergent companies could be 
+an effective tool for raising awareness about efficient use of water. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Policy Brief 
+                                                                          Addressing The Drinking Water Challenge in Pakistan 
+CRCP Publications 
+ 
+Page | 10 
+References 
+ 
+ 
+ 
+Ahmed Awais, K. (2018). Pakistan’s municipal water supply — laws and flaws. Daily Times. 
+[online] Available at: https://dailytimes.com.pk/280361/pakistans-municipal-water-
+supply-laws-and-flaws/. 
+Allah Baksh Sufi, et al., (2011). “Integrated Water Resource Management in Pakistan” 
+Symposium on Changing Environmental Pattern and Its Impact With Special Focus 
+On Pakistan 33, No. 286. 
+Bhatti, H. (2018). SC wraps up Katas Raj case after cement factories agree to find alternate 
+water source. DAWN. [online] Available at: https://www.dawn.com/news/1406378. 
+Business Recorder (2018).Per capita water availability is around 865 cubic meters: NA 
+panel told. [online] Available at: https://fp.brecorder.com/2018/03/20180328355230/.  
+Daniya, K. (2017). Pakistan’s National Water Policy. The Express Tribune. [online] 
+Available at: https://tribune.com.pk/story/1469030/pakistans-national-water-policy/. 
+DAWN (2018). 53,000 children die of diarrhoea caused by contaminated water every year. 
+[online] Available at: https://www.dawn.com/news/1381735 
+Economic Survey of Pakistan 2015-16 
+Pakistan Today (2017).WHO report deems safe drinking water a luxury for numerous 
+Pakistanis. [online] Available at: https://www.pakistantoday.com.pk/2017/11/06/who-
+report-deems-safe-drinking-water-a-luxury-for-numerous-pakistanis/. 
+PCRWR (2017). Provision of Safe Drinking Water. Islamabad: Pakistan Council for 
+Research in Water Resources (PCRWR). 
+Rehman, A., et al. Fertilizer consumption, water availability and credit distribution: Major 
+factors affecting agricultural productivity in Pakistan. Journal of the Saudi Society of 
+Agricultural Sciences (2017), http://dx.doi.org/10.1016/j.jssas.2017.08.002 
+UNESCO: Drops of Water 4, Good water, water to “eat”. What is virtual water? 
+http://www.unesco.org/new/fileadmin/MULTIMEDIA/FIELD/Venice/pdf/special_ev
+ents/bozza_scheda_DOW04_1.0.pdf 
+United Nations.Impact Assessment Report: Handpumps/ Waterwells. Available at: 
+https://humanappeal.org.pk/Reports/clean%20water%20report.pdf. 
+WaterAid (2018).The Water Gap - The State of the World’s Water 2018. [online] Available 
+at: 
+https://washmatters.wateraid.org/sites/g/files/jkxoof256/files/The%20Water%20Gap
+%20State%20of%20Water%20report%20lr%20pages.pdf. 
+WRI (2015). Aqueduct Projected Water Stress Country Rankings. Technical Note. World 
+Resources Institute (WRI). [online] Available at: 
+http://www.wri.org/sites/default/files/aqueduct-water-stress-country-rankings-
+technical-note.pdf. 
+Policy Brief 
+                                                                          Addressing The Drinking Water Challenge in Pakistan 
+CRCP Publications 
+ 
+Page | 11 
+World Resources Institute (WRI), Water Stress by Country, [online] Available at: 
+https://wriorg.s3.amazonaws.com/s3fs-
+public/water_stress_by_country_0.png?_ga=2.240251205.753526686.1542589510-
+975768878.1542589510 
+ 
+Policy Brief 
+                                                                          Addressing The Drinking Water Challenge in Pakistan 
+CRCP Publications 
+ 
+Page | 12 
+ 
+FOR MORE DETAILS: 
+ 
+CRCP HOUSE 
+12 MAUVE AREA, G-8/1, ISLAMABAD. PAKISTAN 
+PHONE: +92-51-111-739-739 
+info@crcp.org.pk 
+ 
+@CRCPofficial 
+ 
+Facebook.com/CRCPofficial/ 

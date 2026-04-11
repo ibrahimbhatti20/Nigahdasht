@@ -1,0 +1,4125 @@
+Government of Pakistan
+Ministry Of National Health Services, 
+Regulation & Coordination
+وزارت  تحص، وکحتم  اپاتسکن
+National Guidelines on
+Maternal & Perinatal Death 
+Surveillance and Response 
+(MPDSR)
+CONTENTS
+ABBREVIATIONS	
+1
+MESSAGE FROM FEDERAL SECRETARY HEALTH	
+2
+FOREWORD	
+3
+ACKNOWLEDGEMENTS	
+4
+OPERATIONAL DEFINITIONS	
+5
+BACKGROUND	
+7
+1.1.	
+GLOBAL OVERVIEW	
+7
+1.2.	 CURRENT PAKISTAN SITUATION	
+8
+1.3.	 THE STATE OF MPDSR IN PAKISTAN	
+8
+1.4.	 GLOBAL LESSONS LEARNED	
+9
+1.5.	 RATIONALE FOR MPDSR IN PAKISTAN	
+13
+1.6.	 PURPOSE OF THIS PROTOCOL	
+14
+1.7.	
+WHO SHOULD USE THIS PROTOCOL	
+14
+1.8.	 GOALS AND OBJECTIVES OF MPDSR	
+14
+1.9.	 OVERVIEW OF MPDSR	
+14
+1.10.	 SOURCES OF INFORMATION	
+16
+1.11.	 MPDSR ADMINISTRATIVE, POLICY & LEGAL ELEMENTS	
+16
+	
+1.11.1.	
+Role of the federal government: ensure an enabling environment 	
+16
+	
+1.11.2.	
+Role of provincial government: provide an enabling
+	
+environment and lead implementation of MPDSR	
+16
+	
+1.11.3.	
+Quality assurance	
+17
+FACILITY REVIEWS	
+18
+1.12.	 IDENTIFICATION, NOTIFICATION, REGISTRATION AND DATA COLLECTION .	
+18
+1.13.	 REVIEW BY THE COMMITTEE 	
+19
+1.14.	 ADDITIONAL CONSIDERATIONS FOR FACILITY BASED MDR 	
+19
+COMMUNITY REVIEWS	
+21
+1.15.	 IDENTIFICATION, NOTIFICATION AND REGISTRATION 	
+21
+1.16.	 COMMUNITY DATA COLLECTION 	
+22
+1.17.	 BARRIERS TO COMMUNITY DATA COLLECTION	
+22
+1.18.	 REVIEW BY THE COMMITTEE	
+22
+DATA ANALYSIS	
+23
+1.19.	 DATA ENTRY, QUALITY AND COMPLETENESS	
+23
+1.20.	DATA PROTECTION	
+23
+1.21.	 INTERPRETATION AND PRIORITIZATION	
+23
+1.22.	RESPONSE BASED ON RECOMMENDATIONS	
+24
+1.23.	DISSEMINATION	
+25
+MONITORING AND EVALUATION	
+26
+IMPLEMENTATION OF MPDSR	
+27
+1.24.	 SITUATION ANALYSIS	
+27
+1.25.	GENERAL STEPS AND STRUCTURES FOR MPDSR IMPLEMENTATION	
+28
+1.26.	COMMITTEES	
+29
+	
+1.26.1.	 Large Facility Committee	
+29
+	
+1.26.2.	 District Committee 	
+30
+	
+1.26.3.	 Provincial Committee	
+30
+	
+1.26.4.	 National Committee	
+ 31
+1.27.	 KEY CONSIDERATIONS FOR IMPLEMENTATION OF MPDSR	
+31
+	
+1.27.1.	
+Communications Plan	
+31
+	
+1.27.2.	 Logistics and technology	
+32
+	
+1.27.3.	 Resource considerations	
+32
+1.28.	PHASED APPROACH TO MPDSR IMPLEMENTATION 	
+32
+BIBLIOGRAPHY	
+34
+APPENDICES	
+34
+1.	
+Appendix 1. MDF 1- Sample of maternal death notification form	
+37
+2.	
+Appendix 2. MDF 2- Sample form for data collection in facility	
+38
+3.	
+Appendix 3. MDF 3- Sample form for maternal and neonatal death data collection in
+ 	
+community (from Punjab experience)	
+46
+4.	
+Appendix 4. Example of a Committee Worksheet 	
+52
+5.	
+Appendix 5. Action Plan Template	
+54
+6.	
+Appendix 6. MDF 4 - Sample summary form for Provincial Committee	
+55
+7.	
+Appendix 7. Sample Implementation planning tool	
+57
+8.	
+Appendix 8. Sample monitoring and evaluation tool	
+59
+9.	
+Appendix 9. Sample Coding System	
+60
+10.	
+Appendix 10. Sample of Perinatal Death Review Form	
+61
+1
+National Guidelines on Maternal & Perinatal Death Surveillance and Response (MPDSR)
+ABBREVIATIONS
+ANC	
+Antenatal care
+BHU 	
+Basic Health Unit
+BTN 	
+Beyond the Numbers
+CBR 	
+Crude birth rate
+CDC 	
+Centers for Disease Control and Prevention
+CHWs 	
+Community health workers
+CMWs 	
+Community midwives
+CoIA 	
+Commission on Information & Accountability for Women’s & Children’s Health
+CR/VS 	
+Civil registration/vital statistics
+DHO 	
+District Health Officer
+D-MPDSR –C 	
+District Maternal & Perinatal Death Surveillance and Response Committee
+EmOC 	
+Emergency obstetric care
+F-MPDSR -C 	
+Facility Maternal & Perinatal Death Surveillance and Response Committee
+HMIS 	
+Health Management and Information System
+ICD 	
+International Classification of Diseases
+ICD-PM 	
+International Classification of Diseases-perinatal mortality
+ICD-MM 	
+International Classification of Diseases-maternal mortality
+IDSR 	
+Integrated disease surveillance and response
+LHV 	
+Lady health visitor
+LHW 	
+Lady health worker
+MCH 	
+Maternal and child health
+MDG 	
+Millennium Development Goal
+MDR 	
+Maternal death review
+MDSR 	
+Maternal death surveillance and response
+MPDSR 	
+Maternal & Perinatal Death Surveillance and Response
+MNDSR 	
+Maternal & Neonatal Death Surveillance and Response
+MMR 	
+Maternal mortality ratio
+MNCH 	
+Maternal neonatal and child health 
+M/O NHR&C 	
+Ministry of National Health Services Regulations & Coordination
+NGO 	
+Nongovernmental organization
+N-MPDSR –C 	
+National Maternal & Perinatal Death Surveillance and Response Committee
+PHC 	
+Primary health care 
+PNC 	
+Postnatal care
+P-MPDSR –C 	
+Provincial Maternal & Perinatal Death Surveillance and Response Committee
+RHC 	
+Rural Health Center
+TBAs 	
+Traditional birth attendants
+UNFPA 	
+United Nations Population Fund
+UNICEF 	
+United Nations Children’s Fund
+WHO 	
+World Health Organization
+WMO 	
+Woman Medical Officer
+WRA 	
+Women of reproductive age
+2
+Government of Pakistan
+Ministry of National Health Services, Regulation & Coordination
+MESSAGE FROM FEDERAL
+SECRETARY HEALTH
+Naveed Kamran Baloch 
+Secretary
+Ministry of National Health Services, 
+Regulations and Coordination 
+Government of Pakistan
+Islamahad
+It is indeed a great pleasure and satisfaction for me to endorse the first edition 
+of the Nationa Guidelines on Maternal and Perinatal Death Surveillance and 
+Response (MPDSR). It is an evidence based tool for quality of care and is direly 
+needed for guiding the healthcare delivery system in Pakistan. As envisaged 
+in the National Health Vision 2016-25 and the following RMNCAH&N strategic 
+costed action plans, quality of care remains a cornerstone of our national 
+efforts for improving health outcomes in general and maternal and newborn 
+health status in particular. 
+Under the country’s global commitments like SDGs, we have pledged ourselves towards achieving 
+significant reductions in maternal and newborn mortalitywhich is not possible without addressing 
+the missing link of quality of care. The World Health Organization has provided global guidelines and 
+tools on quality of care for the countries to adopt and adapt as per their needs. I am pleased to note 
+that the Ministry has developed the National MPDSR Guidelines and training material aligned with the 
+global guidance. I firmly believe that this document will prove to be particularly useful for departments 
+of health in the provinces and areas/regions in their efforts to reduce maternal and newborn mortality. 
+I highly acknowledge and congratulate my team at the Ministry together with the partners including 
+WHO for their relentless support during the development process of this important guideline document. 
+I would further recommend all concerned to translate these guidelines into practical actions on 
+ground for achieving the desired results of improved quality of care for mothers and newborns at all 
+levels across Pakistan. 
+3
+National Guidelines on Maternal & Perinatal Death Surveillance and Response (MPDSR)
+The demographic and health surveys reported an alarmingly high maternal mortality ratio (276 per 
+100,000 live births; 2006-07) and neonatal mortality rate (55 per 1000 live births; 2012-13) with the 
+later remaining stagnant over the last few decades. Every 37 minutes, a woman dies in Pakistan while 
+giving birth to a child and almost two thirds of under-five deaths occur in the early neonatal period 
+(first 7 days of life).A major proportion of these deaths could be prevented by timely intervention and 
+by ensuring good quality of care during pregnancy and at the time of delivery. 
+Despite the tragic status of maternal and perinatal Indicators and the fact that Pakistan contributes 
+substantially towards the regional and global maternal and perinatal mortality; the exact magnitude 
+of maternal deaths is not precisely known. Reporting and tracking maternal and perinatal deaths 
+and response to reduce preventable deaths remains the major challenge in Pakistan. Maternal and 
+perinatal death surveillance and response (MPDSR) is a proven tool for improving quality of care and 
+strengthening the health systems to address the critical healthcare needs for mothers and newborns. 
+In view of this, the Ministry of National Health Services, Regulations and Coordination, Government 
+of Pakistan, in collaboration with World Health Organization, has developed the National Protocols on 
+MPDSR in May 2017. These national protocols include detailed guidelines and tools for implementing 
+MPDSR system at the facility and community levels. Training materials based on these protocols have 
+also been formulated. These are expected to be pivotal in building capacities for routine tracking of 
+all maternal and perinatal deaths with expected results of improved healthcare quality for mothers 
+and their babies in the country. In the wake of 18” Constitutional Amendment, each province will have 
+to spearhead the process of Implementing MPDSR. It Is important to note that this mortality data is 
+a critical component of any public health information architecture. Ultimately, all deaths, including 
+maternal and perinatal deaths, should be reported to a civil registration/vital statistics system (CR/
+V5) compiled at the federal level. 
+I wish to acknowledge and commend on the technical expertise of the lead consultant, Prof. Dr Lubna 
+Hassan, Ex-President of Society of Obstetricians and Gynaecologists of Pakistan (SOGP) and our 
+development partners namely World Health Organization (WHO), United Nations Population Fund 
+(UNFPA), United Nations Children Fund (UNICEF) and other relevant stakeholders. I highly recommend 
+this document for all stakeholders and strongly hope that it will be put to practical use at all levels 
+across the country.
+FOREWORD
+Dr. Assad Hafeez 
+Director General
+Ministry of National Health Services, 
+Regulations and Coordination 
+Government of Pakistan
+Islamahad
+4
+Government of Pakistan
+Ministry of National Health Services, Regulation & Coordination
+ACKNOWLEDGEMENTS
+The Ministry of National Health Services, Regulation and Coordination (Mo/NHSR&C), in collaboration 
+with the UN partners (WHO, UNICEF and UNFPA) has developed the National Guidelines on Maternal and 
+Perinatal Death Surveillance and Response (MPDSR) in May 2017. The development of this document 
+is a major breakthrough in paving the way for reduction of preventable maternal and perinatal deaths 
+in Pakistan.
+The Ministry would like to extend its sincere thanks to the organizations and persons who contributed 
+considerable time and efforts in ensuring the development of this guiding document. Special thanks 
+to Prof Dr Lubna Hassan, Ex-President SOGP, who was the lead technical consultant for development 
+of these guidelines and also supported development of the training materials for capacity building 
+on MPDSR in the country. Moreover, the provincial feedback received during the national consultative 
+meeting held in February 2018 has proved to be extremely helpful in finalizing the national guidelines 
+document.
+Other key contributors who deserve high gratitude for their hard work and leading the process of 
+institutionalization of MPDSR in Pakistan, include the following:
+Dr Ramez Khairi Mahaini 
+Coordinator, EM/RGO/DHP/WRH WHO EMRO, 
+Egypt.
+Dr Karima Gholbzouri
+Medical Officer, EM/RGO/DHP/WRH WHO EMRO, 
+Egypt.
+Dr Lamia Mahmoud
+Medical Officer
+WHO country office, Islamabad.
+Dr Qudsia Uzma
+National Professional Officer MNCAH WHO 
+country office, Islamabad.
+Dr Asfandyar Sherani
+National Professional Officer RMNCH&N WHO 
+Balochistan, Quetta.
+Dr Yahya Gulzar
+National Professional Officer RMNCH&N WHO 
+Punjab, Lahore.
+Dr Malik Muhammad Safi
+Director Programme Implementation
+Mo/NHSR&C Islamabad.
+Dr Sabeen Afzal
+Deputy Director Programme Implementation
+Mo/NHSR&C Islamabad.
+Dr Atiya Aabroo
+Deputy Director Programme Implementation
+Mo/NHSR&C Islamabad.
+Dr Chaudhry Jameel Ahmed 
+National Programme Specialist UNFPA 
+Islamabad.
+Dr Samia Rizwan 
+MNCH Specialist UNICEF Islamabad.
+Dr Muhammad Babar Alam
+Head of Office, WHO Balochistan
+Ex-staff UNFPA Punjab.
+5
+National Guidelines on Maternal & Perinatal Death Surveillance and Response (MPDSR)
+The following definitions are adapted from the WHO application of the ICD 10 to deaths during 
+pregnancy, childbirth, and the puerperium - (ICD-Maternal Mortality); the WHO MDSR technical 
+guidelines and WHO Beyond the numbers (BTN ) except where otherwise stated.
+a)	
+A maternal death is; “The death of a woman while pregnant or within 42 days of termination of 
+pregnancy, irrespective of the duration and the site of the pregnancy, from any cause related to or 
+aggravated by the pregnancy or its management but not from accidental or incidental causes.
+b)	
+Direct obstetric deaths are maternal deaths resulting from obstetric complications of the 
+pregnancy state (pregnancy, labor, or puerperium); from interventions, omissions, or incorrect 
+treatment; or from a chain of events resulting from any of the above.
+c)	
+Indirect obstetric deaths are maternal deaths resulting from previously existing disease or 
+disease that developed during pregnancy. These deaths are not due to direct
+	
+obstetric causes, but are aggravated by the physiological effects of pregnancy.
+d)	 Surveillance is the ongoing systematic collection, analysis, and interpretation of health data. It 
+includes the timely dissemination of the resulting information to those who need them for action. 
+Surveillance is also essential for the planning, implementation, and evaluation of public health 
+practice.
+e)	
+Maternal & Perinatal Death Surveillance and Response (MPDSR) is a type of surveillance and a 
+component of the health information system that permits the identification, the notification, the 
+quantification, and the determination of causes and avoidability of maternal deaths, for a defined 
+time period and geographic location, with the goal of responding through actions that will prevent 
+future deaths. MPDSR is not a time-limited, donor driven project.
+f)	
+Standards are explicit statements of how a patient should be managed. They facilitate highlighting 
+deficiencies by comparing the care that was given to patients with the care that ought to have 
+been given1.
+g)	 A suspected maternal death is defined in these guidelines as the death of a woman while 
+pregnant or within 42 days of the termination of pregnancy from any cause with
+	
+the exception of motor vehicle crashes and homicides. Depending on the circumstances 
+surrounding the death, identification of a death as a maternal death is sometimes
+	
+challenging – particularly for indirect deaths. The maternal death review committee will review 
+the circumstances and confirm whether it is maternal or not i.e. whether the
+	
+death was “related to or aggravated by the pregnancy and its management.”
+h) 	 A facility-based Maternal Deaths Review (MDR) is a “qualitative, in-depth investigation of the 
+causes of, and circumstances surrounding, maternal deaths which
+	
+occur in health care facilities.” It is particularly concerned with tracing the path of the
+	
+women who died, through the health care system and within the facility, to identify any avoidable or 
+OPERATIONAL DEFINITIONS
+1.	
+Standards for improving quality of maternal and newborn care in health facilities WHO 2016.
+6
+Government of Pakistan
+Ministry of National Health Services, Regulation & Coordination
+remediable factors that could be changed to improve maternal care in the future. This information 
+could be supplemented by data from the community, though this may not always be possible.
+i)	
+Confidential Inquiry into Maternal Deaths, the review is carried out by a group of appointed 
+Independent assessors who will use the same audit guidelines to review
+	
+selected maternal and perinatal deaths (even if these have already been reviewed by the
+	
+Facility audit team.
+j)	
+Neonatal Death is the death of a baby within 28 days of birth.
+k)	
+Perinatal Death: as defined in ICD-10 encompasses antepartum and intrapartum stillbirths and 
+early neonatal deaths (deaths occurring during the first seven days of
+	
+life), however, this Protocol uses the extended definition of  the term “perinatal”, to
+	
+refer to the perinatal period extending to four weeks after the delivery, as described in the WHO 
+report on Making Every Baby Count (2016).
+l)	
+Still Birth  or fetal death: The ICD-10 defines a fetal death as “death prior to the complete expulsion 
+or extraction from its mother of a product of conception,
+	
+irrespective of the duration of pregnancy. The death is indicated by the fact that after such 
+separation the fetus does not breathe or show any other evidence of life, such as
+	
+beating of the heart, pulsation of the umbilical cord, or definite movement of voluntary muscles” 
+For international comparative purposes. ICD classifies late fetal deaths(greater than 1000 g or 
+after 28 weeks) and early fetal deaths (500 to 1000 g or 22-28 weeks).
+m) 	 Zero reporting is an active process of notifying suspected maternal deaths; if none occurred 
+during a given timeframe that fact must be reported. Zero reporting means there is an active 
+process of notifying suspected maternal deaths, whether or not any
+	
+occurred. If no maternal deaths occurred, a “zero” is captured in the data collection
+	
+system rather than nothing at all.
+n)	 Woman of reproductive age is a women between the ages of 15 and 49.
+o)	
+Maternal near miss is defined as a woman who nearly died but survived a complication that 
+occurred during pregnancy, childbirth or within 42 days of
+	
+termination of pregnancy.
+7
+National Guidelines on Maternal & Perinatal Death Surveillance and Response (MPDSR)
+BACKGROUND
+1.1.	
+Global Overview
+The global maternal mortality ratio has declined 
+by 2.3% per year between 1990 and 2015, which 
+represented a 44% reduction since the initiation 
+of the Millennium Development Goals (MDGs). 
+However, this was far short of MDG 5 to reduce 
+maternal mortality by 75% from the 1990 levels. 
+Likewise, the global under-five mortality rate has 
+declined by more than half, dropping from 90 
+to 43 deaths per 1,000 live births between 1990 
+and 2015. Unfortunately, maternal and newborn 
+mortality remains unacceptably high, mostly in 
+low- resource settings, with the vast majority of 
+deaths being preventable.
+The progress in maternal and newborn mortality 
+reduction over the last two decades is well 
+documented; yet in 2015, there were still an 
+estimated 
+303,000 
+maternal 
+deaths, 
+2.6 
+million stillbirths (with half of these occurring 
+intrapartum) and 2.7 million neonatal deaths, 
+resulting mostly from complications during 
+and following pregnancy and childbirth. The 
+day of birth is the most dangerous day, when 
+nearly half of maternal and newborn deaths and 
+stillbirths occur. Newborn deaths now account 
+for at least 44% of deaths among children under 
+the age of five globally. The Every Newborn Action 
+Plan (ENAP), under its fifth objective, calls for 
+counting every newborn through measurement,
+programme-tracking and accountability.
+In 2012, the United Nations Commission on the 
+Status of Women passed a resolution calling 
+for the elimination of preventable maternal 
+mortality, and the Sustainable Development 
+Goals adopted in 2015 call for reducing MMR to 
+70 per 100,000 live births and to reduce neonatal 
+mortality to below 12 per 1,000 live births by 
+2030. Likewise the ENAP sets out a vision of a 
+world in which there are no preventable deaths of 
+newborns or stillbirths, where every pregnancy 
+is wanted, every birth celebrated, and where 
+women, babies and children survive, thrive, and 
+reach their full potential.
+Effective interventions to prevent and treat 
+maternal and perinatal complications are well 
+known, and most deaths are preventable if life-
+saving preventive and therapeutic interventions 
+are provided at the right time. To understand 
+how well we are progressing, however, accurate 
+information on how many women and newborns 
+died, where they died and why they died is 
+essential, yet currently inadequate. In the 
+absence of reliable vital registration data, 
+maternal mortality estimates are based on 
+statistical models. While statistical estimates 
+increase global awareness of the problem, they 
+do not provide information needed for targeted 
+and timely response. The Commission on 
+Information and Accountability was created to 
+track progress on resources and results towards 
+8
+Government of Pakistan
+Ministry of National Health Services, Regulation & Coordination
+the goals of the UN Secretary-General’s Global 
+Strategy on Women’s and Children’s Health. It 
+recommended three interconnected processes 
+– monitoring, reviewing and acting – aimed at 
+learning and continuous improvement in life- 
+saving interventions.
+Maternal and Perinatal death surveillance and 
+response (MPDSR) builds on the principles 
+of public health surveillance and supports 
+the processes called for by the Commission. 
+MPDSR promotes routine identification and 
+timely notification of maternal and perinatal 
+deaths and is a form of continuous surveillance 
+linking health information system and quality 
+improvement processes from local to national 
+level. It helps in quantification and determination 
+of causes and avoidability of maternal and 
+perinatal deaths. Each one of these untimely 
+fatalities 
+provides 
+valuable 
+information, 
+which if acted on, can prevent future deaths. 
+In that regard, MPDSR emphasizes the link 
+between information and response. MPDSR will 
+contribute to strengthening vital registration 
+and better counting of maternal and perinatal 
+deaths, and provide better information for action 
+and monitoring improvements in maternal and 
+newborn health.
+MDSR is now formally embedded in World Health 
+Organization’s policy and activity. It is integral 
+to the WHO Quality of Care initiative and to the 
+new Global Strategy for Women’s, Children’s and 
+Adolescents’ Health, and is also part of the Ending 
+Preventable Maternal Mortality (EPMM) and Every 
+Newborn Action Plan (ENAP) initiatives.
+1.2.	 Current Pakistan Situation
+Pakistan contributes substantially to regional 
+and global maternal and perinatal mortality 
+figures, but the exact magnitude of maternal 
+death is not precisely known. Notably, Pakistan 
+started out in 1990 with the second lowest MMR 
+in the South Asia region after Sri Lanka. However, 
+due to its comparatively slow rate of progress it 
+now has a higher MMR than most countries in the 
+region. The mortality ratio estimate ranges from 
+93 to 320 per 100,000 live births, and the WHO 
+estimates that the MMR is underestimated by 
+30% globally and by up to 70% in countries with 
+lacking civil registration systems.  According to 
+the PDHS 2012-2013, the neonatal mortality rate 
+in Pakistan remains unchanged for the last 20 
+years, at 55 deaths per 1,000 live births, whereas 
+infant mortality has decreased by 19% and under-
+five mortality has decreased by 24% over the 
+same period.  Almost two thirds of under-five 
+deaths occur in the early neonatal period i.e. in 
+the first 7 days of life. A major proportion of these 
+deaths could be prevented by timely intervention 
+and good quality care during pregnancy and at 
+the time of delivery.
+With the passage of the 18th amendment in 
+2010, responsibility for health was devolved to 
+the provinces. Therefore, each province will take 
+a lead role in implementing MPDSR. Notably, 
+a District Health Information System/ HMIS is 
+established in all provinces, however it does not 
+currently track maternal or perinatal deaths. 
+Yet this mortality data is a critical component 
+of any public health information infrastructure. 
+Ultimately, all deaths, including maternal and 
+perinatal deaths, should be reported to a civil 
+registration/vital statistics system (CR/VS).
+1.3.	 The State of MPDSR in 
+Pakistan
+Although the notification of maternal deaths and 
+the establishment of maternal death reviews have 
+been accepted by the Government of Pakistan as 
+a matter of policy in 2007; however, a situation 
+analysis of the status of the components of MPDSR 
+in Pakistan revealed that apart from sporadic, ad 
+hoc projects in the provinces little has been done. 
+In 2015 with support from UNFPA, Punjab started 
+the process of MPDSR at the community level, in a 
+9
+National Guidelines on Maternal & Perinatal Death Surveillance and Response (MPDSR)
+few districts, which is ongoing.
+In order to harmonize the efforts of development 
+partners, WHO, UNICEF and UNFPA agreed 
+to work from one platform. Currently WHO is 
+assisting the effort at the national level and in 
+KP and Balochistan, and UNICEF is assisting 
+Sindh. In February 2017, recognizing the need 
+for sharing of and learning from experiences of 
+different stakeholders, M/o NHR&C organized a 
+one day workshop to review the MPDSR strategy 
+with the objective of developing guidelines 
+and tools which the provinces could use and 
+implement easily. It was concluded subsequently 
+that a national task force will be created with the 
+objective to establish the MPDSR in a systematic 
+way.
+While Maternal Death Reviews (MDR) have 
+been established in most countries for more 
+than a decade, formal MDRs are still not widely 
+conducted in Pakistan. What is currently 
+available is limited data from the teaching 
+hospitals. Maternal deaths are identified in 
+most teaching facilities, however, they are 
+not reviewed properly: the cause of death is 
+not assigned according to ICD –MM; standards 
+of care are not uniform; contributing causes 
+are not considered, and most importantly 
+systematic response to prevent future deaths 
+is lacking.
+1.4.	 Global Lessons Learned
+Although MDSR is a relatively new approach, 
+its components have developed over several 
+decades. MDSR evolved from the established 
+system of maternal death reviews (MDR), 
+which is a core activity in the system. Detailed 
+information about the extent and quality of 
+implementation in each country has been 
+largely unavailable due to the recent origins of 
+MDSR and the lack of systematic data collection. 
+However the combined findings of the MDSR 
+baseline survey (conducted in 2015 by UNFPA 
+& WHO and reported in the document “A time to 
+respond”) and the WHO-MNCAH policy indicator 
+database provide a good summary of global 
+implementation status in 2015. They indicate 
+the widespread adoption of important elements 
+of the MDSR system and also highlight the lack 
+of progress towards full implementation in 
+numerous countries.
+The disparity between the percentage of 
+countries with a national policy to review all 
+maternal deaths (85%) and those with a national 
+maternal death review committee that met at least 
+biannually (46%) suggests a gap between policy 
+and practice in some countries. Maternal death 
+reviews have been operating in many developed 
+countries for decades, and are in different stages 
+of planning or implementation in middle and low-
+income countries. The Philippines reported a 
+relatively smooth transition to MDSR after 2013, 
+largely due to its established system of maternal 
+death reporting and review (MDRR)2. A significant 
+change was the new emphasis on the response 
+element of MDSR. Although the benefits of well-
+conducted reviews are clear, poorly conducted 
+ones can be damaging. Without careful planning, 
+preparation and staff training their hasty 
+implementation can result in failure, which not 
+only penalises mothers and babies through a 
+lack of improvement but also results in a decline 
+in professional support. This is especially the 
+case if a culture of blame and punishment exists. 
+This can lead to fear and demoralisation as 
+well as to a lack of transparency, without which 
+it is impossible to determine the real lessons 
+2.	
+Dy-Recidoro Z. From maternal death reporting and review (MDRR) to maternal death surveillance and response: the Philippines 
+expe rience. First published in the April 2014 edition of the MDSR Action Network newsletter. http://www.who.int/maternal_child_
+adolescent/epidemiology/maternal- death-surveillance/case-studies/philippines/en/  
+10
+Government of Pakistan
+Ministry of National Health Services, Regulation & Coordination
+that need to be learnt and acted upon. As the 
+recent report into improving the safety in the 
+National Health Service (NHS) in England says 
+‘fear is toxic to both safety and improvement.’3 
+Evidence for a blame culture has emerged in 
+several instances. The lack of a legal framework 
+was noted as a factor in Kenya.4 According 
+to studies from Moldova, Kenya and Malawi, 
+the previously used system of investigating 
+maternal deaths ‘instilled fear’ in the country’s 
+health professionals, who were afraid of being 
+prosecuted for perceived mistakes.5 A study 
+from Malaysia concludes that it is essential for 
+the MDR process to be non-punitive and to avoid 
+“naming, blaming or shaming.”6
+The findings of the studies described above 
+were reflected in the MDSR baseline survey 
+findings and case studies, which also indicated 
+that some countries were hindered from fully 
+implementing MDSR by the absence of legal 
+and policy provisions, blame culture, lack of 
+resources and other challenges.
+Where reliable CRVS systems do not exist 
+– in about 60% of the world7– MDSR can 
+provide a cornerstone of a new system, and 
+contribute significantly to a country’s ‘culture 
+of accountability’ by connecting action with 
+results. The scale of the problem is indicated 
+by recent confidential enquiries into maternal 
+deaths (CEMDs) in Kazakhstan and South 
+Africa. Respectively, they identified 29% and 
+40% more maternal deaths than were initially 
+recorded by those countries’ civil registration 
+and vital statistics (CRVS) systems. A recent 
+review 
+of 
+progress 
+on 
+implementing 
+the 
+recommendations 
+of 
+the 
+Commission 
+on 
+Information and Accountability (CoIA) noted that 
+both MDSR and CRVS systems perform better 
+in countries where both are prioritized.8 For 
+example, in Malawi the MDSR system is expected 
+to strengthen CRVS by collecting data using the 
+International Classification of Diseases (ICD-10) 
+standard for maternal mortality (ICD-MM).9 In 
+Nepal, the CRVS and MDSR systems will use the 
+same verbal autopsy questionnaires to collect 
+information on suspected maternal death. 
+One message to emerge clearly from country 
+feedback is the importance of training in MDSR 
+techniques, tailored to specific roles within the 
+system. In future, training will be more focused 
+at country level. For example in Ethiopia, the 
+Federal Ministry of Health instigated an MDSR 
+training programme following the launch of 
+the country’s system in May 2013, which was 
+cascaded down from national level to health 
+professionals at the regional, zonal and district 
+levels.10 By the end of 2014, the MDSR system 
+3.	
+National Advisory Group on the Safety of Patients in England. A Promise to Learn-a Commitment to Act. Improving the Safety of 
+Patients in England. London: Department of Health, 2013. http://www.gov.uk/government/publications/berwick-review-into-
+patient-safety.
+4.	
+Ameh C, Smith H and van den Broek N. Maternal death surveillance and response in Kenya. Centre for Maternal and Newborn Healt 
+h at the Liverpool School of Tropical Medicine. http://www.who.int/maternal_child_adolescent/epidemiology/maternal- death-
+surveillance/case-studies/kenya/en/  
+5.	
+Konopka SN. Integrating and strengthening maternal death surveillance and response in Malawi. http://www.who.int/maternal_
+child_adolescent/epidemiology/maternal- death-surveillance/case-studies/malawi/en/  
+6.	
+Jeganathan R. Malaysia’s experience with maternal deaths. First published in the April 2014. edition of the MDSR Action Netwo rk 
+newsletter. http://www.who.int/maternal_child_adolescent/epidemiology/maternal- death-surveillance/case- studies/malaysia/
+en/
+7.	
+World Health Organization. Accountability for women’s and children’s health: 2015 progress report. Geneva, 2015.
+8.	
+WHO, UNICEF, UNFPA, The World Bank and United Nations Population Division. Trends in Maternal Mortality: 1990 to 2015, Geneva, 
+2015.
+9.	
+Maternal death in Malawi via facility-based review and application of the ICD-MM classification. http://www.who.int/maternal_
+child_adolescent/epidemiology/maternal- death-surveillance/case-studies/malawi-study/en/
+11
+National Guidelines on Maternal & Perinatal Death Surveillance and Response (MPDSR)
+had been introduced in 17 zones, covering 
+about 40 million people in an estimated 
+national population of 95 million. Tanzania 
+was in the process of rolling out its system of 
+maternal and perinatal deaths surveillance and 
+response following the compilation of national 
+guidelines and accompanying tools in 2015, 
+with assistance from Evidence for Action (E4A). 
+Training and supervision packages will focus 
+on strengthening the quality of maternal death 
+review and the action and response cycle, which 
+will streamline the passage of information.11
+Lack of financial resources may be a major barrier 
+to implementation. Countries frequently have to 
+rely on external funds and on nongovernmental 
+organizations 
+to 
+progress 
+with 
+MDSR 
+implementation, scale-up and monitoring. Where 
+resources are available, implementation should 
+be driven by clear leadership, long-term vision, 
+strategy and commitment. The Cameroon case 
+study shows, sustainable financial and human 
+resources are required to maintain a system of 
+facility-based maternal death reviews.12 However, 
+as noted in the Malaysia case study, significant 
+improvements can be achieved in settings where 
+resources and funding are scarce.13 Malaysia 
+advocated a ‘top down approach’ backed 
+by strong political will. Malaysia advocated 
+engaging all the major stakeholders in the 
+system, including from the public and private 
+health services, academia, nongovernmental 
+organizations and politics. Nigeria noted that 
+enforcement of existing national policies could 
+help to improve reporting of maternal deaths 
+and that MDSR implementation relies on the 
+commitment and cooperation of all health 
+professionals.14 However, even at relatively 
+low levels of implementation, MDSR can 
+work to generate its own budget line by 
+highlighting trends in maternal mortality and 
+providing evidence of the need for specific 
+interventions or improvements. This may 
+lead to budget allocation by the ministry of 
+health or subnational authorities.
+A number of studies discussed factors that 
+facilitated implementation of recommendations 
+from MDR findings. Strong political commitment 
+and participation of a multidisciplinary team 
+in the review process, with involvement from 
+senior staff members including obstetricians 
+and heads of departments, was associated 
+with greater success in implementation of 
+10.	 Evidence for Action. Maternal death as a public health emergency: integrating MDSR into existing surveillance in Ethiopia. Fi rst 
+published January 2015. http://www.who.int/maternal_child_adolescent/epidemiology/maternal- death-surveillance/case-
+studies/ethiopia/en/
+11.	
+Magoma M, Ferla C and Armstrong C. Strengthening maternal and perinatal deaths surveillance and response in Tanzania. Evidenc 
+e for Action- MamaYe. http://www.who.int/maternal_child_adolescent/epidemiology/maternal- death-surveillance/case-studies/
+tanzania/en/
+12.	 Ameh C, Smith H and van den Broek N. Facility-based maternal death reviews in Cameroon. Centre for Maternal and Newborn 
+Health at the Liverpool School of Tropical Medicine (based on a paper originally published in the BJOG Supplementary, September 
+2014, by De Brouwere V, Delvaux T and Leke RJ). http://www.who.int/maternal_child_adolescent/epidemiology/maternal- death-
+surveillance/case-studies/cameroon/en/
+13.	 Op. cit. Malaysia’s experience with maternal deaths.
+14.	 Ameh C, Smith H and van den Broek N. Facility-based maternal death review in Nigeria. Centre for Maternal and Newborn Health at 
+the Liverpool School of Tropical Medicine (based on a paper originally published in the BJOG Supplementary, September 2014, by 
+Achem FF and Agboghoroma CO) http://www.who.int/maternal_child_adolescent/epidemiology/maternal- death-surveillance/
+case-studies/nigeria-study/en/
+12
+Government of Pakistan
+Ministry of National Health Services, Regulation & Coordination
+recommendations for quality improvement15,16,17 
+This has been the experience in Malawi, 
+Indonesia and Senegal.18 Feedback of MDR 
+recommendations to key stakeholders and 
+health care providers is essential for action to be 
+taken; without feedback and an understanding 
+of improvement needs, changes will not be 
+made to improve quality of care. Of the studies 
+and reports reviewed discussing barriers to 
+acting on recommendations from MDR, the most 
+common were lack of involvement from senior 
+staff and heads of department and poor quality 
+of data recorded during the MDR process.19,20,21 
+Other common barriers to improvement include 
+a shortage of human resources, high turnover of 
+staff, inexperienced staff, lack of standardized 
+guidelines for reviewing maternal deaths, and 
+lack of feedback of recommendations to staff 
+responsible for quality of care. These studies 
+show that when recommendations based on MDR 
+findings are implemented, quality of care can 
+improve and avoidable mortality can be reduced.
+According to WHOs ‘A time to respond,’ as 
+countries strengthen MDSR, and establish the 
+essential elements in good working order, they 
+will wish to extend the scope and quality of their 
+systems so that stillbirths, neonatal deaths and 
+near-miss cases may be considered. WHO recent 
+publication ‘every baby counts’ specifies the 
+introduction of perinatal deaths and their review 
+within an established maternal death review 
+system. The same channels of reporting and 
+review can be used; however, the cause of death, 
+notification and data collection tools will need to 
+be developed.
+There are several models being used to implement 
+MPDSR. In Uganda MOH made notification 
+and audit of all maternal deaths mandatory. A 
+National Committee on Maternal and Perinatal 
+Death Reviews was established in 2008. The 
+MPDR seeks in-depth information on a ‘small’ 
+number of maternal deaths occurring in health 
+facilities which, at a national level, translates 
+into somewhere between 20-40 deaths.22 Kenya 
+recently developed comprehensive national 
+MPDSR guidelines. MPDSR, however, is not new 
+to the Kenyan health system. In 2004, maternal 
+deaths were declared a notifiable event, which led 
+15.	 Kongnyuy, Eugene J, Grace Mlava, and Nynke van den Broek. “Facility-based Maternal Death Review in Three Districts in the Central 
+Region of Malawi: An Analysis of Causes and Characteristics of Maternal Deaths.” Women’s Health Issues: Official Publication of the 
+Jacobs Institute of Women’s Health 19, no. 1 (2009): 14–20. http://www.ncbi.nlm.nih.gov/pubmed/19111783.
+16.	 Kongnyuy, Eugene J, and Nynke van den Broek. 2008. “The Difficulties of Conducting Maternal Death Reviews in Malawi.” BMC 
+Pregnancy and Childbirth 8 (January): 42. doi:10.1186/1471-2393-8-42. http://www.pubmedcentral.nih.gov/articlerender.
+fcgi?artid=2546364&tool=pmcentrez&rendertype=abstract .
+17.	
+Dumont, Alexandre, Caroline Tourigny, and Pierre Fournier. 2009. “Improving Obstetric Care in Low-resource 
+Settings: Implementation of Facility- based Maternal Death Reviews in Five Pilot Hospitals in Senegal.” Human 
+Resources for Health 7 (January): 61. doi:10.1186/1478- 4491-7-61. http://www.pubmedcentral.nih.gov/articlerender.
+fcgi?artid=2728704&tool=pmcentrez&rendertype=abstract.
+19.	 Bacci, Alberta, Gwyneth Lewis, Valentina Baltag, and Ana P Betrán. 2007. “The Introduction of Confidential Enquiries into Mat 
+ernal Deaths and Near- miss Case Reviews in the WHO European Region.” Reproductive Health Matters 15 (30) (November): 145–52. 
+doi:10.1016/S0968- 8080(07)30334-0. http://www.ncbi.nlm.nih.gov/pubmed/17938079.
+20.	 Bradshaw, Debbie, Mickey Chopra, Kate Kerber, Joy E Lawn, Lesley Bamford, Jack Moodley, Robert Pattinson, Mark Patrick, Cindy 
+Stephen, and Sithembiso Velaphi. 2008. “Every Death Counts: Use of Mortality Audit Data for Decision Making to Save the Lives of 
+Mothers, Babies, and Children in South Africa.” Lancet 371 (9620) (April 12): 1294–304. doi:10.1016/S0140-6736(08)60564-4. http://
+www.ncbi.nlm.nih.gov/pubmed/18406864.
+21.	 Mogobe, Keitshokile Dintle, Wananani Tshiamo, and Motsholathebe Boweloc. 2007. “Monitoring Maternal Mortality in Botswana” 
+Reproductive Health Matters 15 (30): 163–171.
+22.	 Saving Mothers, Giving Life initiative. Lessons learned from a maternal death surveillance and response system in Uganda. Upd 
+ated from an article published in the December 2014 edition of the MDSR Action Network newsletter. http://www.who.int/maternal_
+child_adolescent/epidemiology/maternal- death-surveillance/case-studies/uganda/en/ 
+13
+National Guidelines on Maternal & Perinatal Death Surveillance and Response (MPDSR)
+to the implementation of maternal death reviews 
+at health facilities. Maternal death reviews are 
+the foundation to MPDSR while perinatal death 
+reviews are less developed. With the launch of 
+the National MPDSR guidelines – 2016, Kenya is 
+taking a phased approach in implementing the 
+“P” in MPDSR. The implementation has recently 
+begun in facilities with a low burden of maternal 
+morbidity and mortality. It is noted that in health 
+facilities with low maternal death occurrence, 
+perinatal deaths remain quite high.23
+1.5.	 Rationale for MPDSR in 	
+	
+Pakistan
+Global evidence and lessons learned from 
+countries that are succeeding in establishing 
+MDSR demonstrate that MDR is a proven strategy 
+in reducing maternal mortality, and a phased 
+approach which builds on the systems already 
+available in the country is the most efficient and 
+effective. Establishing a comprehensive MPDSR 
+system is the ultimate goal in Pakistan but 
+since our civil and vital registrations systems 
+are weak or nonexistent and even MDR is yet 
+to be initiated, it is reasonable to begin with a 
+phased-in approach to ensure the process can be 
+successfully established and then expanded.
+At the outset Pakistan has the benefit of 
+being able to incorporate lessons learned 
+from other country’s attempts to eliminate 
+preventable maternal and perinatal mortality. 
+The key message in MPDSR is “think big, start 
+small and grow slowly.”  In some countries 
+progress suffered when nascent systems where 
+unprepared to properly handle a high volume of 
+cases, lack of adequate training of data collectors 
+(especially in the community), lack of adequate 
+training of reviewers, and inadequate response 
+to 
+recommendations. 
+Given 
+that 
+newborn 
+deaths are a much more frequent occurrence 
+and therefore much more difficult and labour 
+intensive to track and review, it is realistic and 
+advisable to begin with maternal deaths (MDSR) 
+only or with maternal deaths plus a sample of 
+neonatal deaths. The ideal place to begin is with 
+perinatal deaths that occur along with a maternal 
+death. This approach makes sense because 
+women and their babies share the same period of 
+highest risk, often with the same health workers 
+present and perinatal deaths that occur with 
+maternal death will be the easiest to identify. The 
+tools included in the appendix of this guideline 
+are designed for that strategy.
+Importantly, reducing maternal mortality is in 
+itself a crucial element of any effort to reduce 
+neonatal 
+mortality. 
+Evidence 
+shows 
+that 
+strategies that benefit the mother will also save 
+the lives of babies as the underlying causes of 
+mortality are so entwined. Close to one- quarter 
+of all under five deaths are due to intrapartum 
+and immediate post-partum deaths or still births 
+which will reduce automatically as access to and 
+quality of antenatal and emergency obstetric 
+care improve. It is estimated that an elimination 
+of preventable maternal mortality would coincide 
+with a 30 to 40% reduction in neonatal mortality.
+Finally, the success of MPDSR depends upon active 
+involvement of a broad range of stakeholders. 
+The necessity of support from health-care 
+providers 
+(obstetricians, 
+other 
+clinicians, 
+LHWs, midwives and nurses) is fairly obvious, 
+particularly for understanding and identifying 
+solutions for the problems that contribute to 
+23.	 The national update was prepared and reviewed Dr Wangui Muthigani, Program Manager- Maternal and Newborn Health at Ministry 
+of Health in Kenya. The update for Bungoma county was developed based on feedback from Mr Peter Ken Kaimenyi, Maternal and 
+Newborn Health Technic al Advisor at MANI Project funded by UK Aid.
+14
+Government of Pakistan
+Ministry of National Health Services, Regulation & Coordination
+maternal and neonatal deaths. Additionally, 
+the participation of other first-line specialists 
+(hospital 
+administrators, 
+epidemiologists, 
+information system specialists, health planners, 
+M&E personnel) is very important. However, 
+the 
+support 
+of 
+government 
+entities 
+and 
+policymakers, and local community leaders is 
+also paramount. The engagement of households 
+and communities as partners and beneficiaries 
+of health care enhances the likelihood of success. 
+Thus, all such key stakeholders should be part of 
+the process. Lack of buy-in or participation from 
+any key group can undermine the entire system 
+and hinder progress.
+1.6.	 Purpose of this protocol
+This protocol is based primarily on the WHO 
+MDSR Technical Guide. This protocol provides 
+practical guidance to establishing the MPDSR 
+system in Pakistan in an efficient and effective 
+way.
+•	
+It 
+standardizes 
+the 
+MPDSR 
+approach 
+enabling health authorities in Pakistan 
+to set up MPDSR processes to strengthen 
+surveillance, review, and response activities.
+•	
+It emphasizes the enabling environment 
+required for MPDSR implementation by 
+clarifying the required structures and 
+committees to be put in place, their 
+composition, TORs, and modalities of 
+operation at both facility and community 
+levels.
+•	
+It informs on standard operating procedures 
+for reporting at each level, including 
+data collection tools, data transmission 
+and 
+channels, 
+frequency, 
+feedback 
+mechanisms, while stressing the need 
+for institutionalizing and mainstreaming 
+within existing reporting mechanisms.
+•	
+It provides information of the ethical and 
+legal aspects that need to be taken into 
+consideration.
+•	
+This guidance will be periodically reviewed 
+and updated as the MPDSR system expands 
+in Pakistan.
+1.7.	 Who should use this Protocol
+The 
+intended 
+readership 
+includes 
+health 
+professionals, 
+health-care 
+planners 
+and 
+managers, 
+those 
+who 
+measure 
+maternal, 
+neonatal and perinatal mortality, and policy 
+makers working in maternal and newborn health. 
+Stakeholders who can drive change should be 
+involved in all aspects and processes of setting 
+up MPDSR to ensure that the recommended 
+changes take place.
+1.8.	 Goals and objectives of MPDSR
+The primary goal of MPDSR is to eliminate 
+preventable maternal and perinatal mortality in 
+Pakistan by obtaining and using information on 
+each death to guide public health actions and 
+monitor their impact. MPDSR enhances efforts to 
+provide information that can be used to develop 
+interventions and improve access to and quality 
+of care that women and their babies receive 
+during pregnancy, delivery and the puerperium. 
+MPDSR also aims to provide information that will 
+lead to specific recommendations and actions 
+and improve the evaluation of their effectiveness.
+The primary objectives are to provide information 
+that effectively guides actions to eliminate 
+preventable maternal and perinatal mortality 
+at health facilities and in the community. 
+Ultimately, the objective is to count every 
+maternal and perinatal death, permitting an 
+assessment of the true magnitude of maternal 
+and perinatal mortality and the impact of actions 
+taken to reduce it.
+1.9.	 Overview of MPDSR
+The MPDSR system is a continuous-action cycle 
+designed to provide real-time, actionable data 
+15
+National Guidelines on Maternal & Perinatal Death Surveillance and Response (MPDSR)
+on maternal and perinatal mortality levels, 
+causes of death, and contributing factors, with 
+a focus on using the findings to plan appropriate 
+and effective preventive actions. MPDSR is 
+intended to build on established approaches 
+such as Integrated Disease Surveillance and 
+Response (IDSR) and MDR. It aims to identify, 
+notify, and review maternal and perinatal deaths 
+in communities and facilities, thus providing 
+information to develop effective, data-driven 
+interventions that will reduce maternal and 
+perinatal mortality. It is critical to avoid creating 
+a parallel system, but instead integrate within 
+existing mechanisms to the greatest extent 
+possible.
+MPDSR has eight components:
+1.	
+Identification – ongoing identification of 
+suspected maternal, stillbirths and neonatal 
+deaths in facilities and/or communities.
+2.	
+Notification – notification within 24 hours 
+for facility deaths and 48 hours for community 
+deaths to the appropriate authorities.
+3.	
+Review by the relevant committee - 
+collection of relevant data by trained personal 
+on the prescribed forms is conducted. 
+Review includes an examination of medical 
+and nonmedical contributing factors that 
+led to the death, assessment of avoidability 
+(substandard care) and development of 
+recommendations for preventing future 
+deaths, and immediate implementation of 
+pertinent recommendations. Reviews must 
+be done by a multidisciplinary committee 
+made 
+up 
+of 
+qualified 
+stakeholders 
+including OB/GYNs, pediatricians, hospital 
+administrative 
+staff, 
+anesthetists, 
+and 
+epidemiologists etc.
+4.	
+Analysis and aggregation of data - 
+Reviews are aggregated at the district level 
+and reported to the provincial level and then 
+onward to the national level.
+5.	
+ Recommendations- recommendations for 
+action can be at facility, district/community, 
+provincial and national levels. National 
+action recommendations are made based on 
+the aggregated data from all the provinces.
+6.	
+Response- Implement recommendations 
+made by the review committee and those 
+based on aggregated data analyses. Actions 
+can address problems at the community, 
+facility, or multi-sectoral level.
+7.	
+Monitoring and Evaluation of the system
+8.	
+Dissemination of results
+FIGURE 1. Maternal Perinatal Death Surveillance and Response (MPDSR) system: 
+a continuous-action cycle
+16
+Government of Pakistan
+Ministry of National Health Services, Regulation & Coordination
+1.10.  Sources of information
+For the process to be comprehensive, MPDSR 
+must eventually be implemented at all levels 
+where maternal and perinatal deaths can occur. 
+The two major sources of information for timely 
+reporting of maternal and co-occurring perinatal 
+deaths are health-care facilities (where women 
+give birth and are attended to when they have 
+pregnancy complications) and communities 
+(when women give birth at home or on the way 
+to a health-care facility or die during pregnancy 
+without receiving medical care).
+1.11.  MPDSR Administrative, Policy 
+& Legal Elements
+An MPDSR system is more likely to be successful 
+if certain regulations and legal protections are in 
+place. The implementation and sustainability of 
+an MPDSR system are influenced by several legal 
+challenges since laws and customs can either 
+help or hinder access to information, the conduct 
+of the investigation, and the way the findings are 
+used. They can also influence the involvement 
+of 
+health 
+care 
+professionals 
+in 
+MPDSR 
+processes. The protection of the MPDSR system 
+from litigation is important if it is to achieve 
+maximum participation and overall success. 
+The national and provincial MPDSR task forces 
+must strongly advocate for legal protection of the 
+information, received from the maternal death 
+review process, from the possibility of it being 
+accessed for litigation purposes. In addition, 
+mechanisms must be instituted to ensure the 
+removal of identifiers for the women/babies who 
+died, as well as health care providers, to minimize 
+possibility of those involved being identified if 
+the information fell in the wrong hands.
+1.11.1.	Role of the federal 
+government: ensure an 
+enabling environment
+Evidence from countries that have MDSR 
+systems shows the importance of an enabling 
+environment. Implementation of MPDSR requires 
+coordination and collaboration among multiple 
+stakeholders operating within the surveillance 
+system and the health ministry. Support for 
+MPDSR from M/o NHR&C leadership is essential. 
+MPDSR must be recognized as an important 
+component of any M/o NHR&C strategy to reduce 
+or eliminate preventable maternal and perinatal 
+mortality.
+The M/o NHR&C should institutionalize MPDSR 
+systems by adopting the following policies for 
+the essential components:
+•	
+A national policy to notify and review all 
+maternal deaths (and eventually perinatal 
+death);
+•	
+Set up MPDSR committee at the national level 
+to analyze aggregated data from provinces to 
+determine trends in maternal and perinatal 
+mortality in Pakistan and to aggregate the 
+most common causes (both medical and 
+non-medical) of maternal deaths;
+•	
+Implement 
+recommendations 
+for 
+improvements to the health system that 
+result from the MPDSR process;
+•	
+Create the environment of providing legal 
+protection (indemnity) and confidentiality 
+of all involved cases of maternal or perinatal 
+death i.e. “no name no blame.”
+1.11.2. Role of provincial 
+government: provide an 
+enabling environment and 
+lead implementation of 
+MPDSR
+Similar to the national level, the provincial 
+government has an essential role in facilitating 
+the coordination, collaboration, and cooperation 
+of key stakeholders:
+•	
+Legislate to make maternal death (and 
+eventually perinatal death) a notifiable event
+17
+National Guidelines on Maternal & Perinatal Death Surveillance and Response (MPDSR)
+•	
+Set up a provincial MPDSR committee to 
+regularly analyze aggregated data from 
+districts to determine trends;
+•	
+mandate that review committees are set up 
+at district levels and at all health facilities 
+with a delivery rate greater than 500 per year;
+•	
+Legal protection (indemnity) of all involved 
+including the families, the health personnel 
+and the facilities involved.24
+1.11.3. Quality assurance
+The usefulness of the MPDSR system is 
+dependent on the quality of data gathered and 
+analysed. It is important that data collectors are 
+properly trained to gather accurate data. It is also 
+imperative that members of the committees at all 
+levels are trained and conversant with the skills 
+required to conduct quality death reviews. To 
+ensure this, Pakistan will put in place a system 
+of quality assessments of the reviews and have 
+regular updates for the data collectors and 
+reviewers.
+24.	 Note: this does not mean no accountability (which, when necessary, can be conducted through usual channels). It simply means 
+that information derived via the MPDSR process cannot be used punitively. In order to encourage informants and health workers to 
+come forward and tell the truth any information derived through the review process must not be used in litigation.
+18
+Government of Pakistan
+Ministry of National Health Services, Regulation & Coordination
+FACILITY REVIEWS
+All facilities with the capacity to have an MDR/
+MPDR committee (usually those with a delivery 
+rate greater than 500 per year or “large facilities”) 
+should establish one. This will include tertiary, 
+teaching hospitals, and some DHQ hospitals 
+in both the private and public sector. Smaller 
+hospitals, maternity clinics or health centers 
+(public or private facilities) including all setups 
+that have a labour room to accommodate 
+deliveries should have a coordinator for MPDSR to 
+identify and collect data on all deaths. Cases of 
+maternal/perinatal death from facilities without 
+an in house MDR committee will be forwarded to 
+the district committee for review. Depending on 
+the capacity of the district and volume of deaths 
+the district committee may operate within the 
+DHQ hospital.
+The process for facility reviews is outlined below 
+(reminder: deaths that occur in small facilities 
+(e.g. fewer than 500 deliveries) or in facilities 
+that have not yet established a review committee 
+will be sent to the district committee for review. 
+The district committee will be notified via form 
+MDF 1-Notification Form (appendix 1). The steps 
+of that process will be similar to the process for 
+community based deaths which is covered in 
+section 3).
+1.12.  Identification, Notification, 
+Registration and Data 
+Collection
+All staff in the facility should be alerted to report 
+the death of any woman of reproductive age 
+(WRA) that occurs in any department within 
+24 hours; in addition the process will include 
+concurrent and eventually all perinatal deaths. 
+An MPDSR register is set up in the facility into 
+which the death is recorded by the MPDSR 
+coordinator(s).25 The MPDSR coordinator will 
+gather information to determine if a probable 
+maternal death occurred (e.g. any evidence that 
+she could have been pregnant or within 42 days of 
+the end of a pregnancy and the death is not due to 
+incidental or accidental causes). The form MDF1- 
+Notification Form (appendix 1) is filled. If it is a 
+probable maternal death it will be notified to the 
+district MPDSR committee for triangulation. 
+Next, the MPDSR coordinator collects the data 
+about the deceased (ideally within 48 hours). 
+Data from multiple sources, including patient 
+records should be collected: for example, data 
+may be extracted from the Ob/Gyn admission 
+and discharge register, supplemented with 
+information from the labour and delivery ward 
+register, and theatre or minor surgery record 
+25.	 If a register is already in use for deaths and discharges, it can serve this purpose.
+19
+National Guidelines on Maternal & Perinatal Death Surveillance and Response (MPDSR)
+books. Case notes, patient records, postoperative 
+notes, and laboratory results, when available, also 
+can be valuable sources of information. This data 
+is needed for the review. The form MDF2- Facility 
+Maternal Death Data (appendix 2) is filled in as 
+completely as possible to be used by the review 
+committee. This form also contains questions 
+about the status of the baby and therefore can be 
+used by the committee to review any concurrent 
+perinatal deaths. Data should be presented to the 
+review committee in a qualitative fashion that 
+describes the course of the mother’s pregnancy 
+and includes descriptions of where and how care 
+was provided.26
+1.13.  Review by the Committee
+The death review is the essential component of 
+MPDSR. It is a qualitative, in-depth investigation 
+of the causes, and circumstances surrounding 
+the maternal and/or perinatal deaths. It is 
+an important strategy to improve the quality 
+of obstetric care and reduce maternal and 
+perinatal mortality. Analysis of these deaths can 
+identify the delays that contribute to deaths at 
+various levels and the information used to adopt 
+measures to fill the gaps in service. The central 
+objective is to find out why the death occurred 
+and what can be done to prevent future deaths. 
+Achieving this will depend on the type and quality 
+of data that has been collected, the care taken in 
+preparing and reviewing the case summaries, 
+and the insight provided by a brief analysis of 
+each death.
+All above documentation is reviewed by the 
+facility committee to determine the causes of 
+death, categorize the death as “Avoidable” or 
+“Unavoidable”, and make recommendations to 
+prevent future deaths. The committee will utilize 
+the Committee Worksheet (appendix 4) to guide 
+the review process and the Action Plan Template 
+(appendix 5) to formulate recommendations for 
+response. The committee must audit the care that 
+has been provided against established standards 
+and protocols to identify any gaps in services and 
+propose remedial action (as national standards 
+of care are not currently available in Pakistan 
+the review can be conducted and the quality of 
+care can be assessed by using local agreed on 
+standards, initially). The facility committee then 
+reports its completed findings to the provincial 
+MPDSR committee via the Summary Form for the 
+Provincial Committee MDF 4 (appendix 6).
+1.14.  Additional considerations for 
+facility based MDR
+Suspected maternal deaths occurring in a health 
+facility are usually easier to identify than those 
+in the community. Nevertheless, to ensure that 
+none are missed, the coordinators have the 
+responsibility to check death logs and other 
+records from the previous 24 hours and assess 
+deaths of all WRA in their facility to determine if 
+any were probable maternal deaths. This should 
+include not only the obstetric ward but other areas 
+where WRA may seek care or enter the facility (e.g. 
+other wards or outpatient department).
+The 
+facility 
+review 
+process 
+may 
+be 
+complemented by data collected at community 
+level on MDF 3 (appendix 3) to provide more in-
+depth information. When used in combination 
+facility based death reviews and community 
+data reconstruct the whole story surrounding the 
+woman’s death. (The above two processes can 
+be done independently but both will feed into the 
+26.	 Summary writers should have a strong medical background, particularly concerning pregnancy and neonatal health issues, as well 
+as an appreciation of the roles medical and nonmedical factors may play in maternal deaths. An experienced WMO, Trainee PG or 
+senior obstetrical nurse is the most appropriate person to perform this task.
+20
+Government of Pakistan
+Ministry of National Health Services, Regulation & Coordination
+national level efforts). This may be recommended 
+by the review committee, and may be undertaken 
+for all or a sample facility deaths.
+Importantly, in situations where a woman is 
+brought to the facility in critical condition (death 
+on arrival) a dual investigation is necessary to 
+understand her journey through the community 
+and then the specific quality of care and delay 
+issues impacting her treatment in the hospital. 
+These cases should be recorded in the registry 
+with minimal essential information (name of 
+deceased, husband’s name, full address, CNIC 
+and contact number of relatives) to enable further 
+tracking and investigation at community level. A 
+rapid history can be taken to ascertain whether it 
+is a maternal death and its most probable cause. 
+Every effort should be made to follow these 
+deaths to the community and data collected via 
+the community tool.
+In this protocol the term ‘review’ is used in 
+preference to audit. This is because audit is often 
+described as a systematic process of improving 
+quality through reviewing the care provided 
+against evidence-based criteria. These may 
+include national or local clinical standards and 
+guidelines, which are still not used routinely in 
+many parts of Pakistan. This means that in the 
+majority of the reviews carried out to date the 
+care provided was reviewed against what was 
+considered by local experts to be acceptable in 
+the specific circumstances. One of the positive 
+outcomes of reviews, however, is the production 
+of guidelines that will lead to the opportunity to 
+conduct comprehensive clinical audits in future.
+Facilities with advanced review systems and 
+those with fewer maternal deaths can proceed to 
+do individual case reviews of severe morbidity 
+(“near miss”), and criterion-based clinical 
+audit (CBCA) to improve the quality of care. A 
+criterion based audit is carried out as a cycle 
+of a systematic process of establishing best 
+practice, measuring care against standards of 
+care or criteria, taking action to improve care, 
+and monitoring to sustain improvement. The 
+spiral suggests that as the process continues, 
+each cycle aspires to a higher level of quality.
+21
+National Guidelines on Maternal & Perinatal Death Surveillance and Response (MPDSR)
+COMMUNITY REVIEWS
+Community-based 
+maternal 
+and 
+perinatal 
+death reviews (sometimes referred to as verbal 
+autopsies) are a method of determining the 
+medical causes of death that occur outside 
+a facility as well as the personal, family, or 
+community factors that may have contributed 
+to the death. Given the high proportion of home 
+deliveries in rural parts of Pakistan, a substantial 
+proportion of maternal and perinatal deaths 
+are likely to occur at home/in the community. 
+Therefore processes for reviews at community 
+level need to be set up and standardized. The 
+process for reviews of community based deaths 
+is outlined below.
+1.15.  Identification, Notification 
+and Registration
+The first step in identifying maternal deaths in 
+the community is to assess all deaths in WRAs 
+which requires interviewing the family and 
+other community informants. It is important 
+to understand that identifying and reporting a 
+maternal or perinatal death at the community 
+level can be done by any informant. This could 
+be the lady health worker, community health 
+workers, 
+village 
+or 
+community 
+midwives, 
+traditional birth attendants, community leaders, 
+religious leaders or Imam Masjid, secretary union 
+councils; vaccinators, or even lay persons willing 
+to take over the reporting role. However, the 
+second step: assessing whether it is a probable 
+maternal death and then collecting data on 
+MDF 3 - the community data tool (appendix 3) 
+can only be done by properly trained personnel. 
+The third step: reviewing the death to assign a 
+cause, assess avoidability/substandard care, 
+etc. requires special expertise and therefore 
+must be done by the district MPDSR committee 
+(not by LHWs, CMWs etc, even if they are trained 
+to collect the data).
+Some suspected maternal death cases will be 
+obvious (e.g. the woman died during childbirth 
+or shortly afterwards, or she was in her third 
+trimester and the pregnancy was evident). 
+Other cases may be less obvious (e.g. a death 
+from complications of an abortion, whether 
+spontaneous or induced, an ectopic pregnancy, 
+or a death that occurs many weeks after 
+childbirth). A few screening questions on MDF 1- 
+the notification form (appendix 1) will establish 
+whether the family had any knowledge that the 
+woman was pregnant at the time of death or if 
+she had delivered in the past 6 weeks. Depending 
+on the capability of the informant the district 
+coordinator may either receive a completed 
+notification form MDF1 or may fill it out him/
+herself if the information is provided by telephone 
+or other medium. To ensure that all maternal 
+deaths are captured in communities where dates 
+and times may not easily be ascertained, the 42 
+days can be extended to 2-3 months.
+22
+Government of Pakistan
+Ministry of National Health Services, Regulation & Coordination
+The report of the death of a WRA should include the 
+name of the woman, her age, where she resided, 
+where she died, when she died, and the name of 
+the person making the report. Once a maternal 
+or perinatal death is identified, the district 
+MPDSR coordinator is notified (ideally within 48 
+hours of the death). Registration of deaths can 
+be undertaken by LHS (Jaiza Karkardagi report) 
+and Assistant District Coordinator (ADC) for LHW 
+program.
+A clearly defined method of communication 
+must be set up that connects informants who will 
+report the death to the district MPDSR committee 
+coordinator. A list of all coordinators at locality 
+level with contact information needs to be 
+generated, distributed to the public and LHVs 
+etc in the area, and regularly updated for ease of 
+communication.
+1.16.  Community Data Collection
+To ensure quality and completeness of data MDF 
+3 – the community data tool (appendix 3) should 
+be used by trained collectors who are aware of 
+both medical and non medical causes of death. 
+Data collection team members should also be 
+aware from the outset of the extreme care and 
+diplomacy needed in discussing maternal or 
+perinatal deaths in the community, especially 
+with close relatives. The aim is to find out the 
+respondent’s personal opinion on the major 
+factors contributing to the death which could 
+have been avoided. The team will endeavor to 
+gather the data two weeks after the death (but 
+no later than 6 weeks). Waiting at least 2 weeks 
+gives mourning time for the bereaved family, 
+but not more than 6 weeks ensures that facts 
+surrounding the death can still be recalled by 
+family members.
+Any medical information that can be located (e.g. 
+antenatal care cards, records of hospitalization 
+prior to her death, etc) should also be collected 
+to complement information collected through 
+community MDF 3.
+1.17.  Barriers to community data 
+collection
+The community data collection team members 
+may encounter a number of barriers during the 
+community interviews:
+•	
+Relatives, for example, may accept the death 
+as ‘God’s will’ and be reluctant to talk about 
+it in any other terms, particularly if there is 
+superstition about discussing death.
+•	
+There could be an unwillingness to talk 
+about abortion-related deaths, especially if 
+abortion is illegal or prohibited for religious 
+reasons.
+•	
+Some respondents may feel responsible for 
+the tragedy, such as the TBA who may have 
+delayed referring the woman, or the husband 
+who could not afford to pay for transport. 
+They may be hesitant to provide information 
+out of guilt or fear of blame. Efforts must be 
+made by data collectors to reassure them 
+that the intention of collecting the data is 
+NOT to blame or punish them.
+1.18.  Review by the Committee
+Review of the community data is done by the 
+district committee. This process follows a similar 
+procedure to the facility review and utilizes the 
+same tools: the Committee Worksheet (appendix 
+4), the Action Plan Template (appendix 5) and 
+MDF 4- the Summary Form for the Province (see 
+section 2 above). The district committee reviews 
+the information to determine the causes of 
+death and categorize the death as “Avoidable” 
+or “Unavoidable” and make the necessary 
+recommendations to prevent future deaths.
+23
+National Guidelines on Maternal & Perinatal Death Surveillance and Response (MPDSR)
+DATA ANALYSIS
+Data analysis and interpretation of results are 
+critical components of any surveillance system. 
+This process entails development of a data 
+management plan with a clear framework for 
+data transmission, aggregation, processing, 
+and storage, along with an analytical plan that 
+includes specified indicators. The process is 
+also expected to document the frequency of 
+medical and non-medical contributing factors 
+in maternal and perinatal deaths. Data analysis 
+is undertaken at district, provincial, or national 
+level. However once the review process is well 
+established large health facilities should also 
+begin 
+performing 
+descriptive 
+analyses 
+of 
+facility-based deaths.
+1.19.  Data Entry, Quality and 
+Completeness
+The district is the hub for data transmission, 
+aggregation, processing, and storage. The 
+district coordinator assigns case registry 
+numbers for all notified deaths and retains 
+files in secured storage/ database. The district 
+coordinator also ensures that all data is properly 
+anonymized so individual families or healthcare 
+providers cannot be identified. This database 
+will be utilized for aggregated analyses of all the 
+deaths that have been reviewed.
+The coordinator and district HMIS/DHIS officer 
+will also clean the data by verifying coding 
+and other data-base errors that may need 
+corrections. If necessary, the review committees 
+will be notified of any problems including 
+inconsistencies or inadequate reporting of 
+certain items. The review committees will also 
+be informed of differences encountered in the 
+number of entries and asked to verify the counts 
+or to determine the nature of the inconsistencies.
+1.20.  Data protection
+Access to the database should be password-
+protected, allowing only appointed personnel 
+access. Back up files will be retained in secured, 
+locked up places. Data from the database and de-
+identified case summaries will be kept and used 
+in the analysis, while the original notification 
+and review forms will be destroyed after 5 years.
+1.21.  Interpretation and 
+Prioritization
+Findings from reviews are aggregated and coded 
+aiming to identify common causes of death, 
+groups at highest risk, contributing factors, 
+and emerging data patterns, and to accordingly 
+prioritize health problems to guide the public 
+health response. This is the translation of MPDSR 
+data into information meaningful for decision-
+makers, the medical community, and the public. 
+Personnel involved in the analysis of aggregated 
+data should have appropriate epidemiological 
+skills. If these skills are lacking, training or other 
+24
+Government of Pakistan
+Ministry of National Health Services, Regulation & Coordination
+technical support should be arranged in advance.
+Interpretation of the findings should focus 
+on aspects that will lead to prevention. When 
+recommendations are made they should include 
+information on immediate responses, subgroups 
+at highest risk, identifying contributing factors 
+for maternal deaths, assessing the emerging 
+data 
+patterns, 
+and 
+prioritizing 
+the 
+most 
+important health problems to assist the public 
+health response.
+1.22.  Response based on 
+recommendations
+Findings from reviews should lead to actions to 
+prevent similar deaths, both at health facilities 
+and within the community. This the most crucial 
+part of the process and the one that is quite often 
+lacking. Importantly, it is not sufficient to count 
+deaths and calculate mortality rates, or even to 
+identify systemic problems contributing to these 
+deaths. A review is only useful if it leads to action 
+based on findings.  Response can be immediate, 
+periodic, or long-term, and there is no need to 
+wait for aggregated data to begin implementing 
+immediate actions. Therefore, a response plan 
+of action (appendix5) should be developed in 
+each committee to facilitate those actions that 
+can be taken immediately and to streamline 
+the recommendation process for longer-term 
+responses:
+Immediate:  Findings from reviews of 
+nearly every death can lead to immediate 
+actions to prevent similar deaths by 
+identifying gaps that can be addressed 
+quickly in both health facilities and 
+communities. Deaths in health facilities 
+often 
+indicate 
+that 
+quality- 
+of-care 
+improvements are needed.
+Periodic: 
+Monthly, 
+quarterly, 
+or 
+semiannual 
+reviews 
+(depending 
+on 
+numbers) of aggregated findings should 
+take place at the district level. These 
+reviews may show a pattern of problems or 
+highlight geographical areas with higher 
+volumes of deaths. Such findings should 
+lead to a more comprehensive response to 
+address common problems across multiple 
+facilities or communities.
+Long-term: At the national or provincial 
+level a longer-term strategic plan should 
+be developed to focus on key priorities 
+identified in the districts or geographical 
+areas where more deaths are occurring.
+Guiding Principles for Response:
+•	
+Start with avoidable factors identified 
+during the review process;
+•	
+Use evidence-based approaches;
+•	
+Prioritize response based on prevalence, 
+feasibility, costs, resources, health-system 
+readiness, and impact;
+•	
+Establish a timeline;
+•	
+Decide 
+how 
+to 
+monitor 
+progress, 
+effectiveness, and impact;
+•	
+Integrate recommendations within annual 
+health plans;
+•	
+Monitor to ensure recommendations are 
+being implemented;
+Implementation of the recommendations 
+generated by MPDSR must be undertaken 
+at the appropriate level. Interventions which 
+call for improvement of the health facility setup, 
+assignment of roles to staff, or adjustments to 
+patient flow within the facility will all fall under 
+the responsibility of the facility director and 
+should be addressed on an immediate basis. 
+Interventions that need action at the district 
+level (such as redistribution of health care 
+workers to facilities) are taken up to the district 
+authorities. Interventions which require major 
+25
+National Guidelines on Maternal & Perinatal Death Surveillance and Response (MPDSR)
+policy change including issuance of orders, 
+reallocation of government resources or drug 
+registration, will need to be taken up at the 
+provincial or national level. The engagement 
+and commitment of authorities at the various 
+levels in the entire MPDSR process ensures their 
+full involvement and willingness to support the 
+recommendations that are generated through 
+MPDSR implementation.
+1.23.  Dissemination
+Reports 
+that 
+summarize 
+results, 
+recommendations, and response actions are a 
+critical component of MPDSR. An MPDSR reports 
+is a critical element of programmatic plans 
+for improvements at the national, provincial, 
+district, and sub-district levels. The two types 
+of reports from the MPDSR system are annual27 
+reports on maternal and perinatal deaths (the 
+primary way to disseminate findings) and 
+reports on the monitoring and evaluations of the 
+system itself. The objective of disseminating 
+reports is to share findings and highlight positive 
+recommendations or innovations. It is not to 
+apportion blame nor for media coverage. For 
+dissemination, reports should be tailored to 
+the audience. The main objective is to get the 
+relevant information to the stakeholders who can 
+implement the findings.
+The reports should focus on ways to improve the 
+system rather than highlighting particular errors, 
+and contents should be carefully reviewed prior to 
+publication to avoid breaches in confidentiality 
+and misuse of information.
+The suggested standard sections for an 
+annual MPDSR report are as follows:
+1.	
+Background of geographical area covered by 
+review
+2.	
+Characteristics of women of reproductive 
+age in the area
+3.	
+Characteristics of births in the area (number, 
+live or stillborn), birth weight, gestational 
+age
+4.	
+Maternal and perinatal deaths by area of 
+residence, mother’s age, place of death, 
+ethnicity.
+5.	
+Proportion of maternal and perinatal deaths 
+by medical cause of death
+6.	
+ Case fatality rate (for facility deaths)
+7.	
+Contributing factors (quality of care and 
+nonmedical) and their frequencies
+8.	
+Assessment of avoidability
+9.	
+Recommendations for preventing future 
+deaths
+10.	 Review of recommendations from previous 
+years/reports and lessons learned (including 
+implementation challenges)
+27.	 Although reports are called “annual” the frequency of their publication will depend on the number of deaths/the number of cases 
+reviewed.
+26
+Government of Pakistan
+Ministry of National Health Services, Regulation & Coordination
+MONITORING AND EVALUATION
+M & E is necessary to ensure that the system is 
+functioning adequately, improving with time, 
+and ultimately achieving the overall objective 
+of reducing maternal and perinatal mortality. 
+M & E entails deciding how to monitor progress, 
+effectiveness, and impact based on established 
+indicators and timelines (immediate, short, 
+medium, and long term). The framework for 
+M&E includes standard indicators based on 
+MPDSR principles: maternal and perinatal 
+death as a notifiable event; timeliness and 
+effectiveness of review processes undertaken 
+at facility, community, district, provincial and 
+national level; data quality; and percentage of 
+recommended responses undertaken. Because 
+the main purpose of MPDSR is to take actions to 
+eliminate preventable maternal and perinatal 
+deaths, the system is failing
+if this is not happening. See appendix 8 for a 
+sample monitoring and evaluation tool with 
+sample targets.
+27
+National Guidelines on Maternal & Perinatal Death Surveillance and Response (MPDSR)
+MONITORING AND EVALUATION
+In order to achieve the goals and objectives of 
+MPDSR a plan is needed for implementation. 
+Note: Implementation of MPDSR will vary among 
+provinces depending on the types of maternal 
+mortality notification and review guidelines, 
+processes, and systems already in place, if any. 
+The exact steps will depend on the situation in 
+each province; for instance, some provinces may 
+prefer to start in urban areas, whereas others 
+may prefer to start with a group of districts or 
+even in a sample of communities.  What follows 
+is a general outline based on the WHO MDSR 
+Technical Guide, lessons learned from other 
+countries, and a preliminary situation analysis of 
+the situation in Pakistan.
+1.24.  Situation Analysis
+The decision to select a point of entry should 
+be based on situational analysis at the national 
+level and in each province, or a rapid assessment 
+of the existing setup that can accommodate 
+MPDSR. The current status of each of the MPDSR 
+components in each province (identification 
+and 
+notification, 
+review, 
+analysis 
+and 
+recommendations, 
+response, 
+dissemination 
+and reports, monitoring and evaluation) should 
+be assessed and a plan created to develop those 
+components that are absent, strengthen those 
+that are already established, and expand the 
+system over time to achieve complete coverage.
+Under the stewardship of the M/o NHR&C and 
+provincial departments of health, roles and 
+responsibilities of various departments and 
+ministries should be identified. Understanding 
+the linkages and interfaces between ministries 
+and their interaction with the private sector is 
+critical to the development of multi-sectoral 
+coordination and response.
+Assembling and examining all relevant, available 
+data or other sources of information (such 
+as demographic health surveys) on maternal 
+events and health-care services in the proposed 
+surveillance areas is useful. Types of information 
+that could be helpful include the approximate 
+number of deliveries and maternal and perinatal 
+deaths, their distribution by place of occurrence 
+(home; health centre; public, private, or other 
+type of hospital -
+including level), and estimates of distribution of 
+deaths by cause. These resources will assist in 
+the analysis phase.
+Key questions include:
+•	
+What components of MPDSR are already in 
+place and where?
+•	
+Is maternal death a notifiable event?
+•	
+What percentage of deaths is estimated to be 
+notified from health facilities and from the 
+community?
+28
+Government of Pakistan
+Ministry of National Health Services, Regulation & Coordination
+•	
+If more than one system that reports maternal 
+or perinatal deaths is currently in place, how 
+do these systems interact?
+•	
+What is the status of the vital registration 
+system and how does it interact with MPDSR?
+•	
+Does the death certificate include a checkbox 
+for pregnancy?
+•	
+Is 
+Integrated 
+Disease 
+Surveillance 
+& 
+Response (IDSR) in place and, if so, does it 
+report the number of maternal deaths?
+•	
+Is maternal death and perinatal mortality 
+data routinely collected?
+•	
+What is the quality of the available data?
+•	
+Are reviews of maternal and/or perinatal 
+death done?
+1.25.  General steps and structures 
+for MPDSR Implementation
+MPDSR stresses the concept of a maternal death 
+as a notifiable event and the country incorporates 
+maternal deaths into the system of notifiable 
+disease reporting. The system takes concrete 
+steps to ensure timely notification, review/audit, 
+reporting on all maternal deaths and response 
+as indicated in the following 8 steps for MPDSR 
+implementation:
+1.	
+Establish task forces at the national and 
+provincial levels to oversee the design and 
+launch of MPDSR. Once the MPDSR process is 
+successfully established the task forces will 
+disband and responsibilities for MPDSR will 
+rest with the committees.
+2.	
+Each task force will undertake the 
+following:
+a.	
+map 
+the 
+health 
+facilities/communities 
+which are eligible for MPDSR with feasibility 
+to  review maternal deaths
+b.    set up MPDSR committees at national and 
+provincial levels and in selected districts 
+and facilities.
+c.	
+sensitize/orient committee members on 
+roles and responsibilities
+d.  	 advocate for policy/legal aspects
+3.	
+Implementation of reviews
+a.	
+train health workers and introduce MPDSR to 
+the facility
+b.    determine facility readiness
+c.	
+identify coordinators and data collectors 
+(district, facility, and community)
+d.   identify sources of data
+e.	
+report, identify, notify maternal deaths 
+f.	
+collect data and de-identify /code
+g.	
+make standards of good practice available
+h.   assess cause of death using ICD-MM/ICD-PM 
+as required.
+i.	
+focal person /coordinator prepares file and 
+sets up committee meeting
+4.  MPDSR committee meeting at district /
+facility level
+a.	
+summary of case presented
+b.    case reviewed : avoidability ascertained
+c.	
+recommendations /response plan of action 
+developed
+d.	
+MDR 4 form filled and sent to Provincial 
+MPDSR committee
+5.	
+Implement 
+recommendation/response 
+plan at relevant level
+6. 	 Aggregate and analyze the data at 
+provincial level and compile reports to 
+inform policy and programs.
+7.	
+Provide feedback to facilities and districts 
+and follow up on recommendations
+29
+National Guidelines on Maternal & Perinatal Death Surveillance and Response (MPDSR)
+8.	
+Follow-up and technical support from the 
+national MPDSR committee.
+There are three levels at which these steps 
+listed above are conducted:
+1.	
+National – the first two (1-2) and last steps 
+(5-8)
+2.	
+Provincial the first two (1-2) and last steps 
+(5-8)
+3.	
+District, health facility and community- all 
+steps ( 3 -7 ) will apply
+At each level, there should be a committee 
+responsible for tracing, reviewing, reporting and 
+responding to maternal deaths.
+1.26.  Committees
+MPDSR committees need to be set up at the 
+various levels- facility, district, province, and 
+national. The composition and sample terms of 
+reference of each committee is set out below.
+1.26.1. Large Facility Committee
+The frequency of committee reviews will depend 
+on the number of deaths. In large facilities where 
+maternal deaths are frequent, the committee will 
+ideally meet at least weekly to review, analyze 
+and discuss all deaths that have been reported 
+in the facility. If deaths are less frequent, the 
+committee conducts meeting within 24 hours of 
+every reported death. The recommendations of 
+the committee may require immediate actions 
+to be implemented through adoption of clinical 
+audit and best practices to promptly address the 
+3rd delay. Lower level PHC facilities may link to 
+existing MPDSR community structures or liaise 
+with tertiary facilities in their catchment areas.
+Sample Committee Composition: Chaired by the Facility Director, the committee includes 
+M/S, facility-in-charge, gynecologist/pediatrician/neonatologist, blood bank manager, 
+anesthetist, pharmacist etc. The committee composition can be adapted according to mode 
+of governance in each province and level of facility. The MPDSR coordinator assigned in the 
+facility is responsible for confirming a maternal death, filling MDF1 to notify to the district 
+coordinator, filling out MDR2 tool for data collection, organizing the meetings, and presenting 
+the case to a secretary who will fill out the MDF4 for onward transmission and follow the 
+response plan of action.
+Sample TORs:
+•	
+Convene meetings to review all maternal deaths reported in the facility;
+•	
+Assign a cause of death, using ICD –MM;
+•	
+Discuss identified service delivery gaps and propose remedial actions within the facility;
+•	
+Identify facility deaths that require further investigation at community level through data 
+collection tool MDF3(visit to household of the deceased);
+•	
+Record keeping, monitoring and feedback to facilities;
+•	
+Develop facility action plans to address identified gaps;
+•	
+Mobilize internal and external resources to ensure implementation of recommended 
+actions;
+•	
+Share reported death (including zero reporting) and recommendations to district/
+•	
+provincial committee and follow up implementation as required.
+30
+Government of Pakistan
+Ministry of National Health Services, Regulation & Coordination
+1.26.2. District Committee
+The frequency of committee reviews will depend on the number of deaths. The District MPDSR 
+committee meets in a timely manner to analyze and discuss all deaths that have been reported in the 
+district, by both the facilities and communities.
+1.26.3. Provincial Committee
+The Provincial MPDSR Committee meets at least on a quarterly basis to review, analyze and discuss all 
+deaths that have been reported in the entire province.
+Sample Composition: Chaired by the Executive District officer, the Committee includes 
+DHO, DC MNCH, LHW coordinator, HMIS coordinator, gynecologist, pediatrician/neonatologist, 
+LHS/LHV, and representation of the private sector and/or NGO run maternity facilities. Other 
+relevant program representatives, as well as in-charge of DHQs, nazims/naib nazims can been 
+included as deemed appropriate. The DC MNCH acts as secretariat to the committee and is 
+responsible for organizing the monthly meetings. 
+Sample TORs:
+•	
+Convene meetings to review all maternal and perinatal deaths reported in the district, and 
+analyze trends;
+•	
+Discuss identified service delivery gaps and propose remedial actions;
+•	
+Record keeping, monitoring and feedback to facilities;
+•	
+Develop district level action plans to address identified gaps;
+•	
+Mobilize district level resources to ensure implementation of recommended actions;
+•	
+Share reported death (including zero reporting) and recommendations to provincial 
+committee and follow up implementation as required.
+Sample Composition: Chaired by the Provincial Director General Health Services, the 
+Committee includes a larger representation of all concerned stakeholders at provincial level- 
+MNCH Program; DHO, LHW, HMIS, DC MNCH from all districts, obstetricians/gynecologists 
+and pediatricians/neonatologists from implementing facilities including private sector. 
+The MNCH/IRMNCH director at provincial level acts as secretariat to the committee and is 
+responsible for organizing the quarterly meetings. 
+Sample TORs:
+•	
+Convene quarterly meetings to review all maternal and perinatal neonatal deaths reported 
+in the province and analyze trends;
+•	
+Discuss identified service delivery gaps, propose remedial actions and follow up 
+implementation as required;
+•	
+Record keeping, monitoring and feedback to districts;
+•	
+Develop provincial level action plans to address identified gaps;
+31
+National Guidelines on Maternal & Perinatal Death Surveillance and Response (MPDSR)
+•	
+Mobilize provincial level resources to ensure implementation of recommended actions;
+•	
+Share reported death (including zero reporting) and recommendations to national 
+committee and follow up implementation as required;
+•	
+Publish annual provincial report of deaths, recommendations & responses;
+•	
+Disseminates to relevant stakeholders and provides feedback to concerned partners.
+1.26.4. National Committee
+The National MPDSR Committee meets at least bi-annually to review, analyze and discuss all deaths 
+that have been reported in the entire country. MPDSR reporting can be added as a regular agenda point 
+in the meetings of the National RMNCH Task force. In addition the national level is responsible for 
+developing the Standards of Care and ensuring that MPDR is included into the basic training of health 
+professionals.
+Sample Composition: Chaired by the National Director General Health, the Committee 
+includes a larger representation of all concerned stakeholders at provincial level- Provincial 
+DGs, MNCH/IRMNCH director; representatives of associations (obstetricians/ gynecologists 
+and pediatricians/neonatologists), partners, academia, relevant national programs, related 
+sectors (Planning, Population Welfare, Education, Nutrition & Food security, Information, 
+Roads & infra-structure etc) including private sector epidemiologist . The MNCH director at 
+national level acts as secretariat to the committee and is responsible for organizing the bi- 
+annual meetings. 
+Sample TORs:
+•	
+Convene bi-annual meetings to review all maternal and neonatal deaths reported in the 
+country and analyze trends;
+•	
+Record keeping, monitoring and feedback to provinces;
+•	
+Discuss identified service delivery gaps, propose policy level remedial actions and follow 
+up implementation as required;
+•	
+Develop national level action plans to address identified gaps;
+•	
+Mobilize national and global resources to ensure  implementation of recommended 
+actions;
+•	
+Publish annual national report  of deaths, recommendations & responses; Disseminates 
+to relevant stakeholders and provides feedback to concerned  partners.
+1.27.  Key considerations for 
+implementation of MPDSR
+1.27.1.  Communications Plan
+The channels for communication and reporting 
+must be clearly understood. A communications 
+plan should be prepared at the start that includes 
+how results will be communicated, how crises 
+communications will be managed (e.g. to avoid 
+unintended consequences such as rebuttal, 
+denial or denigration for political reasons), and 
+how communications to promote advocacy and 
+resource mobilisation for the system will be 
+32
+Government of Pakistan
+Ministry of National Health Services, Regulation & Coordination
+conducted.
+1.27.2. Logistics and technology
+Notifiable events should be reported quickly, 
+ideally within 48 hours. Determining if this 
+is feasible will require an assessment of the 
+communications 
+technology 
+available 
+in 
+communities and at health facilities. Cellular 
+telephones 
+are 
+increasingly 
+permitting 
+communication 
+with 
+previously 
+isolated 
+communities. 
+At 
+health 
+facilities, 
+cellular 
+telephones, radios, land-line telephones, or 
+e-mail can be used. Likewise, data collection 
+benefits from using computers, tablets, or other 
+hand-held digital devices. This can shape the 
+communication mechanisms used for reporting 
+deaths as well as the responses designed for 
+intervention.
+1.27.3. Resource considerations
+The scope of MPDSR will depend on the 
+availability of resources. Information about the 
+number of births and deaths, where the women 
+received care, and where the deliveries and 
+deaths occurred will help determine the costs 
+involved; influence whether all, or only a subset 
+of the cases, can be reviewed; and determine 
+where the review should concentrate. Identifying 
+the current state of resources (human, financial, 
+and technological) that are available for use and 
+anticipated changes in resources is important. 
+This approach will not only avail evidence for 
+corrective action, but will also facilitate better 
+understanding of the existing situation; the 
+information generated plays a major role in 
+ensuring appropriate allocation of resources 
+for maternal and perinatal health and defining 
+responsibility for actions that will ultimately 
+serve the goal of preventing avoidable deaths. For 
+MPDSR to be successful, specific people must 
+be assigned to supervise the work and ensure 
+the processes are working smoothly, data are of 
+adequate quality, recommendations are being 
+implemented, and reports are disseminated 
+to the appropriate authorities, civil society, 
+professional organizations, etc. In time hiring 
+an adequate number of people to carry out the 
+required tasks is essential.
+1.28.  Phased approach to MPDSR 
+implementation
+Implementing an MPDSR system can seem 
+daunting. Using a phased approach that breaks 
+the process into more manageable pieces is 
+useful. In the context of Pakistan where vital 
+registration systems are lacking and even basic 
+MDR has not been widely implemented, it is 
+advisable to begin with a phased approach. For 
+example, facility-based deaths are usually easier 
+to capture than community- based deaths, and 
+serve as an appropriate entry point for initiating 
+MPDSR processes.
+Beginning by notifying and reviewing facility 
+based maternal deaths and a sample of perinatal 
+deaths (those that happen concurrently with 
+the maternal death) will ensure the process 
+is properly established and perfected before 
+endeavoring to achieve the far more difficult 
+and labour intensive task of notifying and 
+investigating community based deaths and all 
+perinatal deaths. Importantly, this approach 
+will automatically address a large percentage of 
+perinatal deaths since, as mentioned earlier, the 
+day of birth is the time of greatest risk to both 
+mothers and babies. 
+Additionally, provinces could choose to start 
+in urban areas in those facilities which have 
+already been collecting some data on maternal 
+deaths. When this is established, the process 
+could expand to all health units including private 
+hospitals. Later it could expand to include all 
+districts and lastly to communities.
+Figure 2 provides an example of such a phased 
+approach that has been successfully utilized in 
+33
+National Guidelines on Maternal & Perinatal Death Surveillance and Response (MPDSR)
+several countries. It shows a typical progression when scaling up a national system. The horizontal arrow 
+shows the expansion of the places where deaths are identified: from only government or other selected 
+facilities to all facilities, and finally to complete coverage. The vertical arrow show the progression in 
+geographic coverage, and the diagonal arrow shows the progression in the depth of reviews.
+The final structure and scope of MPDSR will differ according to the provincial context and challenges. 
+Implementation strategies therefore should be adaptable and easily customized to ensure the feasibility 
+of the MPDSR system. Planning efforts must consider local capabilities, limitations, logistical issues, 
+budgetary realities, and legal requirements. It is recommended that we develop national plans for a 
+comprehensive MDSR system, but are aware that growth in the system is unlikely to be linear and may 
+not occur rapidly. The starting point in Pakistan varies from province to province, processes will vary 
+and elements of the system will be introduced at different times and develop at different rates. The 
+rate of implementation may be limited by  lack of resources and other factors; therefore we must begin 
+with projects in specific localities or facilities, which can be scaled up and replicated elsewhere when 
+they prove successful. No one size fits all, and hence this national protocol has intentionally been kept 
+generic enough that it will be applicable for all provinces of Pakistan to accommodate their various 
+implementation strategies.
+FIGURE 2. Phased Implementation of MPDSR
+Source: A Time to Respond
+34
+Government of Pakistan
+Ministry of National Health Services, Regulation & Coordination
+BIBLIOGRAPHY
+Alkemia, L. et al. Global, regional, and national 
+levels and trends in maternal mortality between 
+1990 and 2015, with scenario-based projections 
+to 2030: a systematic analysis by the UN Maternal 
+Mortality Estimation Inter-Agency Group. The 
+Lancet. January 2016, Vol. 387, No. 10017. Available 
+from: http://www.thelancet.com/journals/lancet/
+article/PIIS0140-6736(15)00838-7/fulltext
+Ameh C, Smith H and van den Broek N. Facility-
+based maternal death reviews in Cameroon. Centre 
+for Maternal and Newborn Health at the Liverpool 
+School of Tropical Medicine (based on a paper 
+originally published in the BJOG Supplementary, 
+September 2014, by De Brouwere V, Delvaux T and 
+Leke 
+RJ). 
+http://www.who.int/maternal_child_
+adolescent/epidemiology/maternal- 
+death-
+surveillance/case- studies/cameroon/en/
+Ameh C, Smith H and van den Broek N. Facility-
+based maternal death review in Nigeria. Centre 
+for Maternal and Newborn Health at the Liverpool 
+School of Tropical Medicine (based on a paper 
+originally published in the BJOG Supplementary, 
+September 2014, by Achem FF and Agboghoroma 
+CO).http://www.who.int/maternal _child_
+adolescent/epidemiology/maternal-death-
+surveillance/case- studies/nigeria-study/en/
+Ameh C, Smith H and van den Broek N. Maternal 
+death surveillance and response in Kenya. Centre 
+for Maternal and Newborn Health at the Liverpool 
+School of Tropical Medicine. Accessed online, 29 
+April 2016. http://www.who.int/maternal_child_
+adolescent/epidemiology/maternal- 
+death-
+surveillance/case- studies/kenya/en/  
+Bacci, Alberta, Gwyneth Lewis, Valentina Baltag, 
+and Ana P Betrán. 2007. “The Introduction of 
+Confidential Enquiries into Maternal Deaths 
+and Near-miss Case Reviews in the WHO 
+European Region.” Reproductive Health Matters 
+15 (30) (November): 145–52. doi:10.1016/S0968- 
+8080(07)30334-0. http://www.ncbi.nlm.nih.gov/
+pubmed/17938079.
+Bale, J.R., Stoll, B.J., Lucas, A.O. (2003). Improving 
+Birth Outcomes: Meeting the Challenge in the 
+Developing World. Institutes of Medicine (US) 
+Committee on Improving Birth Outcomes. National 
+Academies Press. Washington DC. Available from 
+https://www.ncbi.nlm.nih.gov/books/NBK222105/
+Bradshaw, Debbie, Mickey Chopra, Kate Kerber, 
+Joy E Lawn, Lesley Bamford, Jack Moodley, Robert 
+Pattinson, Mark Patrick, Cindy Stephen, and 
+Sithembiso Velaphi. 2008. “Every Death Counts: 
+Use of Mortality Audit Data for Decision Making to 
+Save the Lives of Mothers, Babies, and Children in 
+South Africa.” Lancet 371 (9620) (April 12): 1294–
+304. doi:10.1016/S0140-6736(08)60564-4. http://
+www.ncbi.nlm.nih.gov/pubmed/18406864.
+Dumont, Alexandre, Caroline Tourigny, and Pierre 
+Fournier. 2009. “Improving Obstetric Care in Low- 
+resource Settings: Implementation of Facility-
+35
+National Guidelines on Maternal & Perinatal Death Surveillance and Response (MPDSR)
+based Maternal Death Reviews in Five Pilot 
+Hospitals in Senegal.” Human Resources for Health 
+7 (January): 61. doi:10.1186/1478- 4491-7-61. http://
+www.pubmedcentral.nih.gov/articlerender.
+Dy-Recidoro Z. From maternal death reporting and 
+review (MDRR) to maternal death surveillance 
+and response: the Philippines experience. First 
+published in the April 2014 edition of the MDSR 
+Action Network newsletter. Accessed online, 29 
+April 2016. http://www.who.int/maternal_child_
+adolescent/epidemiology/maternal-death-
+surveillance/case- studies/philippines/en/
+Evidence for Action. Maternal death as a public 
+health emergency: integrating MDSR into existing 
+surveillance in Ethiopia. First published January 
+2015. Accessed online, 29 April 2016. http://
+www.who.int/maternal_child_adolescent/
+epidemiology/maternal- death-surveillance/case- 
+studies/ethiopia/en/
+Government of Ethiopia, Ministry of Health. PHEM 
+Implementation Manual for MDSR. 1st Ed. July 2016.
+Government of Malawi, Ministry of Health. Maternal 
+Death Surveillance and Response Guideline for 
+Health Professionals. October 2014.
+Government of Pakistan. National Institute of 
+Population Studies. Pakistan Demographic and 
+Health Survey 2012-13. December 2013.
+Government of Sierra Leone. Ministry of Health 
+and Sanitation. Maternal Death Surveillance and 
+Response National Technical Guideline. 1st Ed. July 
+2015.
+Jeganathan 
+R. 
+Malaysia’s 
+experience 
+with 
+maternal deaths. First published in the April 2014. 
+edition of the MDSR Action Network newsletter. 
+Accessed online, 29 April 2016. http://www.who.
+int/maternal_child_adolescent/epidemiology/
+maternal- 
+death-surveillance/case- 
+studies/
+malaysia/en/
+Kongnyuy, Eugene J, Grace Mlava, and Nynke van 
+den Broek. “Facility-based Maternal Death Review 
+in Three Districts in the Central Region of Malawi: 
+An Analysis of Causes and Characteristics of 
+Maternal Deaths.” Women’s Health Issues : Official 
+Publication of the Jacobs Institute of Women’s 
+Health 19, no. 1 (2009): 14–20. http://www.ncbi.nlm.
+nih.gov/pubmed/19111783.
+Kongnyuy, Eugene J, and Nynke van den Broek. 
+2008. “The Difficulties of Conducting Maternal 
+Death Reviews in Malawi.” BMC Pregnancy and 
+Childbirth 
+8 
+(January): 
+42. 
+doi:10.1186/1471-
+2393-8-42. 
+http://www.pubmedcentral.nih.gov/
+articlerender.
+Konopka SN. Integrating and strengthening 
+maternal death surveillance and response in 
+Malawi. Accessed online 24 May 2016.  http://
+www.who.int/maternal_child_adolescent/
+epidemiology/maternal- death-surveillance/case-
+studies/malawi/en/
+Magoma M, Ferla C and Armstrong C. Strengthening 
+maternal and perinatal deaths surveillance and 
+response in Tanzania. Evidence for Action-MamaYe. 
+Accessed online, 29 April 2016. http://www.who.
+int/maternal_child_adolescent/epidemiology/
+maternal-death-surveillance/case- 
+studies/
+tanzania/en/
+Maternal death in Malawi via facility-based review 
+and application of the ICD-MM classification. 
+Accessed online, 24 May 2016.  http://www.who.
+int/maternal_child_adolescent/epidemiology/
+maternal- 
+death- 
+surveillance/case-studies/
+malawi-study/en/  
+Mogobe, Keitshokile Dintle, Wananani Tshiamo, 
+and Motsholathebe Boweloc. 2007. “Monitoring 
+Maternal Mortality in Botswana” Reproductive 
+Health Matters 15 (30): 163–171.
+National Advisory Group on the Safety of Patients 
+in England. A Promise to Learn-a Commitment to 
+Act. Improving the Safety of Patients in England. 
+London: Department of Health, 2013. [www.gov.uk/
+government/publications/berwick-review-into-
+patient-safety]
+Saving Mothers, Giving Life initiative. Lessons 
+learned from a maternal death surveillance and 
+response system in Uganda. Updated from an 
+36
+Government of Pakistan
+Ministry of National Health Services, Regulation & Coordination
+article published in the December 2014 edition 
+of the MDSR Action Network newsletter.  http://
+www.who.int/maternal_child_adolescent/
+epidemiology/maternal- death- surveillance/case-
+studies/uganda/en/  
+Say, L. Souza. JP, Pattinson, RC. Maternal near miss 
+– towards a standard tool for monitoring quality of 
+maternal health care. Best Practice & Research. 
+Clinical Obstetrics and Gynaecology. 2009, 
+Jun;23(3):287- 96. Available from:  https://www.
+ncbi.nlm.nih.gov/pubmed/19303368
+Supratikto, Gunawan, Meg E Wirth, Endang 
+Achadi, Surekha Cohen, and Carine Ronsmans. 
+2002. “A District-based Audit of the Causes and 
+Circumstances of Maternal Deaths in South 
+Kalimantan, Indonesia.” Bulletin of the World 
+Health Organization 80 (3) (January): 228–34.
+http://www.pubmedcentral.nih.gov/articlerender.
+WHO. Accountability for women’s and children’s 
+health: 2015 progress report. Geneva, 2015. 
+WHO. Beyond the Numbers: Reviewing maternal 
+deaths and complications to make pregnancy 
+safer. 2004.
+WHO. Consultation on improving measurement of 
+the quality of maternal, newborn and child care in 
+health facilities. WHO and Partnership for Maternal, 
+Newborn and Child Health. 9-11 December 2013. 
+Ferney Voltaire France.
+WHO. 
+Implementing 
+the 
+Commission 
+on 
+Information 
+and 
+Accountability 
+Recommendations. Accountabily for Women’s and 
+Children’s Health 2015 Progress Report. 2015.
+WHO. Making Every Baby Count: Audit and 
+review 
+of 
+stillbirths 
+and 
+neonatal 
+deaths. 
+2016 Available at http://apps.who.int/iris/bits
+tream/10665/249523/1/9789241511223-eng.
+pdf?ua=1
+WHO. Maternal Death Surveillance and Response: 
+Technical Guidance: Information for action to 
+prevent maternal death. 2013. Available from:http://
+www.who.int/maternal_child_adolescent/
+documents/maternal_death_surveillance/en/
+WHO. Recommendations on antenatal care for a 
+positive pregnancy experience. 2016.
+WHO 
+Regional 
+Office 
+for 
+Southeast 
+Asia. 
+Strengthening Country Capacity on Maternal 
+and Perinatal Death Surveillance and Response. 
+Report of a South-East Asia Regional Meeting 16-18 
+February 2016, Maldives. Available at: http://www.
+searo.who.int/entity/maternal_reproductive_
+health/en/
+WHO. Safe Childbirth Checklist Implementation 
+Guide: Improving the quality of facility-based 
+delivery for mothers and newborns. 2015.
+WHO. Standards for improving quality of maternal 
+and newborn care in health facilities. 2016.
+WHO. Strengthening civil registration and vital 
+statistics for births, deaths and causes of death: 
+Resource Kit. 2013.
+WHO. The WHO Application of ICD-10 to deaths 
+during pregnancy, childbirth and the puerperium: 
+ICD- MM. 2012. Available at http://apps.who.int/iris/
+bitstream/10665/70929/1/9789241548458_eng.
+pdf?ua=1
+WHO. Time to Respond: A report on the 
+global 
+implementation 
+of 
+Maternal 
+Death 
+Surveillance and Response. 2016. Retrieved 
+from: 
+http://apps.who.int/iris/bitstre
+am/10665/249524/1/9789241511230-eng.pdf
+WHO. Trends in maternal mortality: 1990 to 
+2015, 
+Estimates 
+by 
+WHO, 
+UNICEF, 
+UNFPA, 
+World Bank Group and the United Nations 
+Population Fund. 2015. http://apps.who.int/iris/
+bitstream/10665/194254/1/9789241565141_eng.
+pdf
+WHO, UNICEF, UNFPA, The World Bank and United 
+Nations Population Division. Trends in Maternal 
+Mortality: 1990 to 2015, Geneva, 2015.
+WHO. Verbal Autopsy Sample Questionnaire: Death 
+of a person aged 12 years and above. 2014.
+37
+National Guidelines on Maternal & Perinatal Death Surveillance and Response (MPDSR)
+APPENDICES
+1. Appendix 1. MDF 1- Sample of maternal death notification form
+MDF 1: Standard Maternal Death Notification Form for Community and Facility
+To be filled out for ALL deaths to women of reproductive age (15-49) (To be sent to the district MDR 
+Coordinator)
+1.	
+Notification
+a.	
+Name of Deceased………………………………..          CNIC…………………………….. 
+b.	
+Name of Husband………………………………….        CNIC…………………………….. 
+c.	
+Address…………………………………………………………………………
+d.	
+Date of death………………………………………………………………..
+e.	
+Who informed the death of the woman
+Name: ……………………………..……….  
+Designation: ……………………………..
+f.	
+Date of notification……………………………….
+g.	
+Name of the Health Worker (if applicable)…………………………………….
+h.	
+Telephone No ………………………………………..……………….…...
+i.	
+Signature ………………………………………………………………….….
+2.	
+Screening (to be filled by trained data collector)
+	
+a.	
+Age of the woman ……………………………..	
+	
+b.	
+Did she die while pregnant?	
+Yes	
+No
+	
+c.	
+Did she die within 42 days of termination of pregnancy?	
+Yes	
+No
+	
+d.	
+Did she miss a period before she died?	
+Yes	
+No
+	
+e.	
+Place of death:	 	
+	
+	
+i.	
+Home	
+	
+	
+	
+ii.	
+On the way	
+	
+	
+	
+iii.	
+Hospital	
+	
+	
+	
+iv.	
+Managed at facility	
+	
+38
+Government of Pakistan
+Ministry of National Health Services, Regulation & Coordination
+2. Appendix 2. MDF 2- Sample form for data collection in facility
+If answer to ANY of questions b-d is Yes than the case is a probable maternal death and requires 
+an MDR to be conducted.
+f.	
+Suspected Maternal Death	
+Yes	
+No
+g.	
+Name of investigator ………………………………………		
+h.	
+Date ……………………………………..………….	 	
+i.	
+Signature …………………………………………….………….
+MDF 2 Facility based Maternal Death Data Collection Form 
+CFIDENTIAL
+A. Administrative
+Case number: 	
+   Primary cause of death (ICD-MM): 	
+District where death occurred:_ 	
+	   Final cause of death (ICD-MM): 	
+ Hospital where death occurred: 	
+	
+Date received: 	
+ Contributory/
+Antecedent causes of death (ICD-MM):
+1:_ 	
+2:_ 	
+3:_ 	
+Preventable death:	
+Yes	
+No
+Form Filled by:  	
+Designation  	
+B. Identification/ Back ground information
+No.
+Question
+Response
+1
+Medical Record
+Number of the 
+deceased
+2
+Age of deceased
+3
+Ethnicity
+4
+When did the death 
+occur?
+1. In transit
+2. While waiting for treatment
+3. Following start of treatment
+5
+Place of usual residence	
+City 	
+ Village 	
+Tehsil 	
+ District 	
+	
+House number 	
+6
+Educational status of
+the deceased
+1.Illiterate
+2. No formal education, but can read and write
+3. Grade completed  	
+4. Don’t know
+39
+National Guidelines on Maternal & Perinatal Death Surveillance and Response (MPDSR)
+7
+Marital status of the
+deceased
+1. Single	
+3. Divorced
+2. Married	
+4. Widowed
+8
+Attendant/Husband
+Telephone #
+9
+Attendant/Husband
+CNIC #
+10
+Level of education of
+the husband
+1.Illiterate
+2. No formal education, but can read and write
+3. Grade completed  	
+4. Don’t know
+11
+Occupation of the 
+deceased
+1. Farmer	
+5. Unemployed
+2. Merchant/tradesperson	
+6. Public employee
+3. House wife	
+7. Others (specify)  	
+4. Daily labourer
+12
+Occupation of the 
+husband
+1. Farmer	
+4. Daily labourer
+2. Merchant/tradesperson	
+5. Public employee
+3. Unemployed	
+6. Others  	
+13
+Monthly income, if 
+possible
+ 	
+Rupees
+C. Death and admission information
+1
+Date of admission
+2
+Date of delivery
+3
+Date of death
+4
+Day of death
+1. Monday	
+5. Friday
+2. Tuesday	
+6. Saturday
+3. Wednesday	
+7. Sunday
+4. Thursday
+5
+Did death occur on a 
+holiday?
+6
+Status of pregnancy on 
+admission
+1. Antepartum undelivered	
+2. Intra-partum	
+3. 
+Postpartum
+4. Abortion	
+5. Ectopic
+7
+Condition on 
+admission
+1.Stable	
+3. Critical
+2.Serious	
+4. 
+Dead on arrival
+8
+Other condition
+specify
+9
+Status of pregnancy
+at death
+1. Antepartum undelivered	
+2. Intra-partum	
+3. 
+Postpartum
+4. Abortion	
+5. Ectopic
+10
+Gestation at death or at 
+delivery (weeks) if
+died after delivery
+40
+Government of Pakistan
+Ministry of National Health Services, Regulation & Coordination
+11
+Days since pregnancy 
+ended (either by delivery, 
+miscarriage,
+ectopic)
+12
+Reasons for
+admission
+13
+If admission 
+due to abortion 
+complications fill in
+next section
+14
+POG
+15
+Who provided care
+16
+Method used
+1.Misoprostol	
+3. Foleys
+2. Oxytocin	
+4. D&C others
+D. Referral
+1
+Is it a referred case?
+If “No” go to  next
+section.
+Yes	
+No
+2
+Referred from (type of
+health facility)
+BHU	
+RHC
+THQ	
+DHQ
+Tertiary hospital	
+Private hospital
+CMW Home	
+Clinic
+Other (specify)  	
+3
+Who provided care? 
+(Tick ALL that apply)
+Dai/TBA	
+ 
+CMW LHV	
+Nurse
+Doctor
+Don’t know
+4
+Reason for referral
+5
+Comment on referral
+Accompanied by health worker
+Appropriate management
+6
+Summary of
+management at 
+referring hospital
+E.	
+Antenatal Care
+1
+Attended ANC?
+If “NO “go to next
+section
+Yes	
+No	
+Not known
+2
+If yes, gestational age in 
+months at the first visit
+41
+National Guidelines on Maternal & Perinatal Death Surveillance and Response (MPDSR)
+3
+If yes type of facility?
+BHU	
+RHC THQ	
+DHQ
+Tertiary hospital	
+Private hospital
+CMW Home	
+Clinic
+Other (specify)  	
+4
+Number of visits
+5
+who provided care
+(Tick ALL that apply)
+Dai/TBA	
+CMW
+LHV	
+Nurse
+         Doctor                                     Don’t know
+6
+Basic package of 
+services provided in
+ANC (Tick
+ALL that apply)
+Hep B,C	
+BP measurement during 
+the follow up
+Hgb	
+Iron, folic 
+acid supplementation
+Blood group,	
+TT immunization
+HIV status,	
+Other (Specify)
+Urine analysis
+F. Relevant history of the deceased woman
+1
+Gravidity
+2
+Parity
+3
+Outcome of previous 
+pregnancies
+No. of living children: 	
+No. of live births:  	
+No. of ectopics: 	
+No.of still births: 	
+No of abortions:
+o	
+Induced: 	
+o	
+Spontaneous: 	
+4
+Antenatal risk factors
+           Pre-eclampsia / eclampsia                        Anemia
+           Placenta praevia                                              Malaria
+           Previous Caesarean Section                     UTI/pyelonephritis
+            Multiple gestation	
+ Unintended             
+            pregnancy
+            Abnormal lie/presentation	
+PPROM
+            Pre-term labour	
+Other (specify)
+5
+Pre-existing medical 
+conditions
+Hypertension
+Tuberculosis
+Diabetes
+Anemia
+Hepatitis
+Heart Problem
+ Others  	
+42
+Government of Pakistan
+Ministry of National Health Services, Regulation & Coordination
+G. Physical examination on admission
+1
+Vital signs/General 
+physical examination
+1.   Height  	
+2.   Weight 	
+3.   Blood Pressure 	
+4.   Respiration rate 	
+5.   Jaundice 	
+6.   Cyanosis 	
+7.   Anaemia  	
+8.  Temperature
+9.   Pulse 	
+10. Odema 	
+2
+Systemic examination
+(any abnormality)
+H.	
+Abdominal examination
+1
+Fundal height
+2
+Fundal height to
+gestational age 
+discrepancies
+3
+Presentation
+4
+Fetal heart
+5
+Other abdominal 
+findings
+I.	
+Laboratory work
+1
+Blood group
+2
+RH
+3
+Haemoglobin
+4
+Haematocrit
+5
+WBC count
+6
+Platelets
+7
+CRP
+8
+RBS
+43
+National Guidelines on Maternal & Perinatal Death Surveillance and Response (MPDSR)
+9
+Other blood chemistry
+10
+Urine analysis
+11
+Liver Function Tests
+ALT: 	
+	
+ALP: 	
+Bil: 	
+12
+Renal Function Tests
+Creatinine: 	
+	
+Urea: 	
+13
+Coagulation Profile
+PT: 	
+ 	
+APTT: 	
+ INR: 	
+14
+Hep B
+1.  Positive	
+2. Negative	
+3. Not done
+15
+Hep C
+1.  Positive	
+2. Negative	
+3. Not done
+16
+HIV
+1.  Positive	
+2. Negative	
+3. Not done
+17
+Rubella
+1.  Positive	
+2. Negative	
+3. Not done
+J. Delivery perpurium and neonatal information
+1
+Date of delivery
+2
+Place of delivery
+1 Home	
+2. On transit	
+3. H/post	
+4. H/center	
+5. Hospital
+6. Clinic
+3
+If delivered, what is
+the outcome?
+1. Live birth	
+2. Stillbirth
+4
+If yes, duration of
+labour
+5
+Was a partogram
+used?
+Yes	
+No	
+Not applicable
+6
+Time Since ruptured
+membranes
+7
+Estimated gestational
+age at delivery
+8
+Was active
+management of the 
+third stage of labour 
+done?
+Yes	
+No
+9
+If she has delivered,
+what was the mode of 
+delivery?
+1. Spontaneous vaginal delivery,
+2. Operative vaginal delivery (vacuum or forceps)
+3. Destructive vaginal delivery for dead fetal outcome
+4. Operative Abdominal delivery (caesarean section or
+Hysterectomy)
+10
+Intrapartum events
+(Tick ALL that apply)
+Intrapartum hemorrhage
+Intrapartum infection
+Pre-eclapmsia/ Eclampsia
+Obstructed labour
+44
+Government of Pakistan
+Ministry of National Health Services, Regulation & Coordination
+11
+Comments on labour 
+and delivery
+12
+Postpartum events
+(Tick ALL that apply)
+Retained Placenta
+Postpartum hemorrhage
+Postpartum infection
+Pre-eclapmsia/ Eclampsia
+3
+Intrapartum (Tick ALL
+that apply)
+Instrumental delivery
+Symphysiotomy
+Cesarean
+Hysterectomy
+Transfusion
+Magnesium Sulphate
+Antiobitics
+4
+Postpartum ( Tick
+ALL that apply)
+Evacuation
+Laprotomy
+Hysteretomy
+Hysterectomy
+Transfusion
+Magnisium Sulphate
+Antibiotics
+Oxytocin
+Misoprostol
+5
+Other Interventions
+General Anesthesia
+Epidural
+Spinal
+Local
+ICU Ventilation
+Invasive mentoring
+6
+Other interventions:
+M. Cause of death
+1
+Case Summary
+(supply a short 
+summary of the events 
+surrounding the 
+death):
+N. Barriers to Care and Remedial Factors
+1
+Did women or family
+recognize there was a 
+problem?
+Yes	
+No
+2
+Did the health 
+provider recognize
+there was a problem?
+Yes	
+No
+3
+Was there a delay by the 
+women seeking
+care?
+Yes	
+No
+45
+National Guidelines on Maternal & Perinatal Death Surveillance and Response (MPDSR)
+4
+If delay, why? Include
+personal, family 
+oriented, and 
+community oriented 
+problems including 
+social and financial:
+5
+Was there a delay in 
+transport care or
+between health 
+facilities?
+Yes	
+No
+6
+If the delay why? 
+Include
+communication,
+access, transport to 
+facility and between
+facility problems:
+7
+Was there a problem 
+in the medical care 
+received at the
+facility?
+Yes	
+No
+8
+If yes, was the
+problem antenatal?
+Yes	
+No
+9
+If yes, was the
+problem intrapartum?
+Yes	
+No
+10
+If yes, was the
+problem postpartum?
+Yes	
+No
+11
+If yes, was the
+problem 
+resuscitation?
+Yes	
+No
+12
+If yes, was the problem 
+anesthesia?
+Yes	
+No
+13
+If yes, was the 
+problem
+unprofessional 
+conduct?
+Yes	
+No
+14
+Comments on 
+potential avoidable
+factors, missed 
+opportunities and 
+substandard care:
+O. Action items
+1
+Preventable death
+Yes	
+No
+2
+What have you and 
+your facility learned
+from this case?
+46
+Government of Pakistan
+Ministry of National Health Services, Regulation & Coordination
+3
+How will what you
+learned change your 
+practice?
+4
+What 
+recommendations and 
+actions will you
+take in the future?
+3. Appendix 3. MDF 3- Sample form for maternal and neonatal death data collection 
+in community (from Punjab experience)
+47
+National Guidelines on Maternal & Perinatal Death Surveillance and Response (MPDSR)
+48
+Government of Pakistan
+Ministry of National Health Services, Regulation & Coordination
+49
+National Guidelines on Maternal & Perinatal Death Surveillance and Response (MPDSR)
+50
+Government of Pakistan
+Ministry of National Health Services, Regulation & Coordination
+51
+National Guidelines on Maternal & Perinatal Death Surveillance and Response (MPDSR)
+52
+Government of Pakistan
+Ministry of National Health Services, Regulation & Coordination
+4. Appendix 4. Example of a Committee Worksheet
+Committee worksheet
+Case number ……………………………………………………………………………
+CASE SUMMARY
+1.	
+Age…………………..	
+2.	
+gravidity	
+parity	
+	
+pregnancy outcome	
+gestational age
+	
+……………….……	 …………..……	
+…………………………….	
+…………………………
+3.   Date of admission …………………..
+4.   Date of death …………………..
+5.   Summary of events leading to death.
+……………………………………………………………………………………………………………………………………
+……………………………………………………………………………………………………………………
+QUESTIONS TO CONSIDER Prior to pregnancy
+6.   Did the mother have a serious pre-existing condition? …………………..
+7.   Was the pregnancy planned? …………………..
+8.   Was she using birth control? …………………..If not, why not?
+…………………………………………………………………………………………………….……
+During pregnancy
+9.   Did the mother receive appropriate & timely antenatal care? …………………..
+If she had problems were they appropriately treated? ………………….. Did she comply with medical 
+advice? ………………….. If not, why not?
+………………………...……………………………………………………………………………………
+Intrapartum
+10. Was the mother’s labour monitored? Prolonged? …………………..
+11. If she had any problems in labour or delivery did she receive correct care in a timely fashion? 
+…………………..
+12. Did she deliver with a skilled birth attendant? At a facility? …………………..
+13. Did she need to be transferred before labour? During labour? After labour?
+………………………………………………………………………………………………………………
+Postnatal
+15. Was the mother appropriately resuscitated? …………………..
+16. Was she appropriately cared for in the post natal period? …………………..
+17. Did she need to be transferred to appropriate level of care?  …………………..If yes was she transferred? 
+…………………..
+18. When she became ill was she taken given care in a timely fashion? ………………….. Was
+she treated? …………………..
+53
+National Guidelines on Maternal & Perinatal Death Surveillance and Response (MPDSR)
+COMMITTEE OPINION Action items
+19. PRINCIPLE MEDICAL CAUSE OF DEATH:
+………………………………………………………………………………………………………………...........................
+20. Was the death avoidable?
+ …………………………………………………………….…….......................................................................................
+21. What factors could have been changed to decrease the risk of death from occurring?
+……………………………………………………………………………………………………………………………………
+……………………………………………………………………………………………………………………………………
+……………………………………………………………………………………………………………................................
+22. Recommendations to reduce deaths from similar causes or circumstances:
+……………………………………………………………………………………………………………………………………
+……………………………………………………………………………………………………………………………………
+……………………………………………………………………………………………………………................................
+54
+Government of Pakistan
+Ministry of National Health Services, Regulation & Coordination
+5. Appendix 5. Action P an Template
+Action Plan Template Following a Facility Committee Meeting
+case ID (Medical Record Number):
+Date of meeting: Date of Death:
+Death preventable	
+yes 	
+no
+What actions will you take es a result of this case?
+Avoidable 
+Factor
+Action to be 
+taken as a 
+result of the 
+case
+Person 
+responsible 
+for the action 
+to be taken
+ Time scale
+Comment and 
+challenges to 
+completeness of 
+action
+Action 
+completed- 
+date
+Remark
+55
+National Guidelines on Maternal & Perinatal Death Surveillance and Response (MPDSR)
+6. Appendix 6. MDF 4 - Sample summary form for Provincial Committee
+Confidential
+For Review Purposes Only
+MDF 4 Maternal Death Summary Form for Provincial Committee
+The form must be completed for all deaths, including abortions and ectopic gestation related deaths, 
+in pregnant women or within 42 days after termination of pregnancy irrespective of duration or site of 
+pregnancy.
+Questions/Variables
+Answers
+1
+District
+2
+Reporting Site
+3
+How many of such maternal deaths occurred
+cumulatively this year at this site?
+4
+Date this maternal death occurred (day/month/year)
+5
+Maternal death locality (village or town)
+6
+Record’s unique identifier (year-province - code –district-
+site-maternal death rank)
+7
+Maternal death place (community, health facility, district
+hospital, referral hospital or private hospital, on the way to a 
+facility)
+8
+Age (in years) of the deceased
+9
+Gravida: how many times was the deceased pregnant?
+10 Parity: how many times did the deceased deliver a baby
+of 28 weeks, dead or alive?
+11
+Time of death (specify: during pregnancy, during delivery,
+during the immediate post partum period, long after delivery, 
+abortion, ectopic).
+12
+If abortion: was it spontaneous or induced?
+Maternal Death History and Risk Factors
+13 Was the deceased receiving any antenatal  care? (Yes or
+No)
+14 Did she have Malaria? (Yes or No)
+15 Did she have Hypertension? (Yes or No)
+16 Did she have Anaemia? (Yes or No)
+17
+Did she have Abnormal Lie? (Yes or No)
+18 Did she undergo any previous Caesarean Section? (Yes or
+No)
+19 What was her HIV ,hepatitis ,Status? (+,  – or Unknown)
+Delivery, Puerperium and Neonatal Information
+20 How long (hours) was the duration of labor?
+21
+What type of delivery was it? (choose from 1 = vaginal
+non assisted, 2 = vaginal assisted (vacuum or forceps), 3 =
+caesarean section
+56
+Government of Pakistan
+Ministry of National Health Services, Regulation & Coordination
+22 What was the baby’s status at birth (Alive or Stillborn)
+23
+In case of live birth, was the baby still alive within 28 days
+of birth? (choose 1 = still alive, 2= neonatal death, 3= died 
+beyond 28 days of age)
+24 Was the deceased referred to any health facility or
+hospital? (Yes, No, or Don’t Know)
+If yes, how long did it take to get there? (hours)
+25
+Did the deceased receive any medical care or
+obstetric/surgical interventions for what led to her death? (Yes, 
+No, or Don’t Know)
+If yes, specify where and the treatment received*
+26 Primary ( underlying ) Cause of the Maternal Death
+27 Secondary Cause of the Maternal Death
+28 Analysis and Interpretation of the information collected so far 
+(investigators opinion on this death)
+29 Remarks
+30 Maternal Death Notification Date (day/month/year)
+* Treatment Received:  I.V. Fluids; Plasma; Blood Transfusion; Antibiotics; Oxytocin; Anti-seizure
+drugs; Oxygen; Anti-malarial drugs; Surgery; Manual removal of placenta; Manual intra uterine 
+aspiration; Curettage; Laparotomy; Hysterectomy; Instrumental Delivery (Forceps, Vacuum); 
+Caesarean section; Anesthesia (general, spinal, epidural , local)
+Definitions:
+Gravida: The number of times the woman was pregnant.
+Parity: The number of times the woman delivered a baby of 22 weeks/500g or more, whether alive or 
+dead
+57
+National Guidelines on Maternal & Perinatal Death Surveillance and Response (MPDSR)
+7. Appendix 7. Sample Implementation planning tool
+PHASES IMPLEMENTATION
+COMPONENT
+SITUATION 
+ANALYSIS
+YEAR 1
+YEAR 2
+YEAR 3
+PROPOSED FINAL 
+TARGETS
+OVERALL SYSTEM INDICATORS
+MDSR POLICY IN PLACE
+Yes
+maternal death is notifiable event (24 hours) / national policy requires 
+notification
+Yes
+MDSR guidelines, standards developed or updated, and implemented
+Yes
+Financial resources available
+Yes
+National maternal mortaloty report published annually
+Yes
+Designated lead person responsible for MDSR identified at all levels
+Yes
+National maternal death review committee meets regularly
+Yes
+  -multi-disciplinary representation
+Yes
+% of districts with maternal death review committees
+100%
+% of districts with someone
+100%
+IDENTIFICATION AND NOTIFICATION
+Guidelines to enhace detection
+Yes
+  -Guidelines sdefine information channel and flow
+Yes
+Facility:
+  All maternal deaths are notified
+Yes
+     % within 24 hours
+>90%
+Community:
+   All maternal deeaths are notified
+Yes
+     % within 24 hours
+>90%
+  % of communities with "zero reporting monthly"
+100%
+Electronic devicees are used to  get faster and more complete  
+notifications from communities
+Yes
+District
+     % of expected maternal deaths that are notified
+>90%
+Electronic devices are ussed to get faster and more complete 
+notifications from communities
+Yes
+Review
+District
+ District maternal mortality review committee exists
+Yes
+     - and meets regularly  to review and facility and community deaths
+At least quaterly
+     - % of reviews that included community participation and feedback
+100%
+58
+Government of Pakistan
+Ministry of National Health Services, Regulation & Coordination
+    Electronic  devices are used to get faster and more complete 
+    notification from communities
+Yes
+DATA QUALITY
+Guideline on cause of death (COD) exist
+Yes
+    -Guidelines use ICD10 coding
+Yes
+Completeness of cata collection
+Yes
+Cross check data from facility and community on same maternal death
+5% of deaths
+cross-checked
+Sample of WRA deaths  xhecke dto ensure they are correctly identified as 
+not maternal
+1% of WRA
+rechecked
+ANALYSIS
+Analysis plan deeveloped
+Yes
+Calculate hospital maternal mortality  ratio (usually for high volume 
+deliveriees)
+Yes
+Calculate hospital case fatality rates (may be done at faciltiy level or 
+district level)
+Yes
+Analysis can produce district maternal mortality ratios
+Yes
+Analysis provides data for action for all stakeholders
+Yes
+RESPONSE
+Plan for response developed
+Yes
+   Facility
+   % of committee recommendations that are implemented
+>80%
+   -quality of care recommendation
+>80%
+   -other recommendations
+>80%
+   District
+     % of committee recommendation that are implemented
+>80%
+REPORTS
+National committee produces annual report
+Yes
+   - Annual report available publically
+Yes
+District committee produces annual report
+Yes
+   - Discusses with key stakeholders including communities
+Yes
+REVIEW OF THE SYSTEM
+The maternal death surveilance and response system is reviewed 
+annually in terms of completeness of surveilance and quality of the 
+reponse, including actions to improve quality of care
+Yes
+QUALITY OF CARE
+Quality of care assessments are conducted in a sample of maternity
+facilities on a regular basis
+Yes
+   -indicators ar eused to measure quality of care
+Yes
+59
+National Guidelines on Maternal & Perinatal Death Surveillance and Response (MPDSR)
+8. Appendix 8. Sample monitoring and evaluation tool
+Monitoring and Evaluation Tool
+Indicator
+Sample target
+Overall system indicators
+Maternal death is a notifiable event Perinatal death is a notifiable event 
+National MPDSR Committee exists
+-	
+that meets regularly
+National maternal and perinatal mortality report published
+% of districts with maternal death review committees
+% of districts with perinatal death review committees
+Yes 
+Yes 
+Yes
+At least quarterly
+Yes, annually
+100%
+100%
+Identification and notification
+Heath Facility:
+% of facilities with ‘zero reporting’ monthly
+All maternal deaths are notified
+-	
+% within 24 hours
+All perinatal deaths are notified
+-	
+% within 24 hours
+Community:
+-	
+% of communities with ‘zero reporting’ monthly
+-	
+% of community maternal deaths notified within 48 hours
+-	
+% of community perinatal deaths notified within 48 hours
+100% 
+Yes
+>90% 
+Yes
+>90%
+>90%
+>90%
+>90%
+Review
+Health facility:
+-	
+% of hospitals (> 500 births) with a review committee
+-	
+% of health facility maternal deaths reviewed
+-	
+% of health facility perinatal deaths reviewed
+-	
+% of reviews that include recommendations
+Community:
+-	
+% of notified maternal deaths that are reviewed by district
+-	
+% of perinatal deaths that are reviewed by district
+District:
+District maternal mortality review committee exists
+District perinatal mortality review committee exists
+-	
+Meets regularly to review deaths
+-	
+% of reviews that included community participation and
+feedback
+100%
+100%
+100%
+100%
+>90%
+>90%
+Yes
+Yes
+At least quarterly
+100%
+Data quality indicators
+Cross-checks  from  facility  and  community  on  same  maternal death
+Sample  of  WRA  deaths  checked  to  ensure  they  are  correctly identified 
+as not maternal
+5% of deaths
+1% of WRA rechecked
+60
+Government of Pakistan
+Ministry of National Health Services, Regulation & Coordination
+Response
+Facility:
+-	
+% of committee recommendations that are implemented
+-	
+Quality of care recommendations
+-	
+Other recommendations
+District:
+-	
+% of committee recommendations that are implemented
+Province:
+>80%
+>80%
+>80%
+>80%
+-	
+% of committee recommendations that are implemented
+>80%
+Reports
+National committee produces annual report
+Provincial committee produces annual report
+District committee produces annual report
+Yes Yes Yes
+Impact
+Quality of care (requires specific indicators) Province maternal mortality 
+ratio
+District maternal mortality ratio
+Hospital maternal mortality ratio
+Reduced by 10% annually 
+Reduced by 10% annually 
+Reduced by 10% annually
+9. Appendix 9. Sample Coding System
+Sample Coding system
+The following system will be used in coding a maternal death:
+•	
+Three letters for the province
+•	
+Three letters for the District
+•	
+Three letters for the Tehsil
+•	
+Three letters for the HF
+•	
+Year in calendar on which the death occurred :last 2 digits
+•	
+Month number in on which the death occurred: 2 digits
+•	
+Serial number for the individual death in the HF in the month of investigation 2 digits
+61
+National Guidelines on Maternal & Perinatal Death Surveillance and Response (MPDSR)
+10. Appendix 10. Sample of Perinatal Death Review Form
+Note: this form is not referenced above since details of perinatal death are collected on the maternal 
+death form. However, it is being provided here as a sample for use once a facility is ready to begin 
+reviewing perinatal deaths that occur independently of maternal death.
+FACILITY DEATH REVIEW FORM - PERINATAL
+CONFIDENTIAL For official use only
+Form filled by (Name)  	
+ Designation
+  Section A: General Information 	
+Name of health facility  	
+	
+ 
+DHIS code   	
+District                                                          
+Tehsil                                                           
+UC                                                       
+Date of death                                      
+Time of death                                 
+Section B: Details of Infant
+1
+Name of baby
+2
+Medical record number
+3
+Name of mother
+CNIC:
+4
+Name of father
+CNIC:
+5
+Complete Address
+6
+Date of birth
+7
+Time of birth
+8
+Age of baby
+Days:  	
+Hours:  	
+	
+Minutes:
+9
+Gender
+Please tick the correct response
+Male	
+Female	
+Undetermined
+10
+Weight at birth
+Please tick the correct response
+<2.5 kg	
+2.5- 4 kg	
+>4 kg	
+Don’t Know
+62
+Government of Pakistan
+Ministry of National Health Services, Regulation & Coordination
+11
+Gestational age
+Please tick the correct response
+Preterm	
+Term	
+Post term	
+Don’t Know
+12
+Place of Birth
+Please tick the correct response
+Home	
+MCH Center	
+	 BHU 
+RHC	
+	
+THQ	
+DHQ
+Tertiary hospital	
+Private hospital
+In-transit	
+Other:
+13
+Place of Death
+Please tick the correct response
+Home	
+MCH Center	
+ BHU 
+RHC	
+	
+THQ	
+DHQ
+Tertiary hospital	
+Private hospital
+In-transit	
+Other:  	
+14
+Verified as neonatal death 
+(death within 28 days after 
+birth)
+Please tick the correct response
+Yes	
+No	
+Don’t know
+  Section C: Parents Information 	
+Mother
+15
+Is the mother formally 
+educated
+Please tick the correct response
+Yes	
+No	
+Don’t know
+If YES:
+Primary	
+Middle	
+Matric	
+Higher
+Father
+16
+Is the father formally educated
+Please tick the correct response
+Yes	
+No	
+Don’t know
+If YES:
+Primary	
+Middle	
+Matric	
+Higher
+63
+National Guidelines on Maternal & Perinatal Death Surveillance and Response (MPDSR)
+Section D:  Details of admission at reporting health facility
+17
+Time of Admission
+Hours (Use 24 hours clock time)
+18
+Was baby referred from another 
+health facility
+Please tick the correct response
+Yes                     No                  Don’t know
+Was baby referred from another health facility
+ F YES, tick the type of facility from where referred:
+MCH Center	
+BHU	
+RHC	
+THQ
+DHQ              Tertiary hospital      Private hospital
+Other:  	
+19
+Reason for admission/diagnosis 
+at admission
+Please tick the correct response
+Feeding problem     Loose stools      Vomiting
+Dehydration      Fast breathing       Cyanosis
+Abdominal distension	
+Anuria	 Cough
+mall baby    Excessive crying     Jaundice
+Fever     Fits          Lethargy
+Malformation      Physical injury    Skin rashes
+Skin pustules      Any other medical condition:
+None of abovd     bilical cord infection
+20
+Condition at Admission
+Please tick the correct response
+Stable        sick            Critical
+21
+Spontaneous cry at birth
+Please tick the correct response
+Yes	
+No	
+Don’t know
+If YES, when did the baby cry after birth?
+Immediately      Delayed       Don’t know
+64
+Government of Pakistan
+Ministry of National Health Services, Regulation & Coordination
+22
+Early breast feeding started
+(Within one hour of birth)
+Please tick the correct response
+Yes	
+No	
+Don’t know
+23
+Anything given to baby to drink 
+other than breast milk
+Please tick the correct response
+Yes	
+No	
+Don’t know
+24
+Congenital deformity at birth
+Please tick the correct response
+Yes	
+No	
+Don’t know
+25
+Number of babies delivered in 
+current delivery
+Please tick the correct response
+Single	
+Twin	
+Multiple             Don’t Know
+  Section E: Pregnancy and delivery details
+26
+Antenatal care received 
+during current pregnancy
+Please tick the correct response
+Yes	
+No	
+Don’t know
+If YES, who provided ANC:
+Dai	
+CMW	
+LHW
+ LHV                               Nurse                          Doctor
+27
+Number of times the mother
+received antenatal care 
+during the pregnancy
+Please tick the correct response
+1	
+    2	
+3	
+4
+65
+National Guidelines on Maternal & Perinatal Death Surveillance and Response (MPDSR)
+28
+Risk factors identified 
+during
+ANC
+Please tick the correct response
+Yes	No	
+Don’t know
+If YES, tick the risk factors identified:
+Multiple pregnancy	    Previous C-section
+Large baby                   Small baby         Pre-term labor 
+Abnormal presentation	
+Anemia	Diabetes
+Mental illness         Tuberculosis     Heart disease
+Any other medical condition:
+29
+Reasons if ANC not received
+Please tick all the appropriate choices
+Lack of awareness	
+Lack of accessibility
+Lack of funds                    Family problems
+Others:
+Not applicable
+30
+How long was the labor?
+--------------------------------------hrs
+31
+Nature of delivery
+Please tick the correct response
+Normal vaginal delivery                  Assisted vaginal delivery
+Episiotomy performed                     C-section
+Probable cause of death:  	
+Name of HCP who attended patient with designation:   	
+ 
+Date:           	
+Comments by specialist:
+Name of specialist and designation:  	
+	
+	
+	
+	
+Date: 	
+	
+	
+	
+	

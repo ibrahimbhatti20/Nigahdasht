@@ -1,0 +1,1269 @@
+ 
+ 
+ 
+ 
+ 
+WHO-AIMS REPORT ON 
+ 
+MENTAL HEALTH SYSTEM 
+ 
+IN PAKISTAN 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+MINISTRY OF HEALTH  
+       PAKISTAN 
+ 
+ 
+2
+ 
+ 
+ 
+WHO-AIMS REPORT ON  
+ 
+MENTAL HEALTH SYSTEM 
+ 
+IN PAKISTAN 
+ 
+ 
+ 
+ 
+A report of the assessment of the mental health system in Pakistan using the 
+World Health Organization - Assessment Instrument for Mental Health 
+Systems (WHO-AIMS) 
+ 
+ 
+ 
+PAKISTAN 
+ 
+2009 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Ministry of Health  
+ 
+        PAKISTAN 
+ 
+ 
+WHO Office, Islamabad 
+WHO Regional office for the Eastern Mediterranean region, Cairo, Egypt 
+WHO Department of Mental Health and Substance Abuse (MSD) 
+ 
+3
+This publication has been produced by the WHO, Office Islamabad in collaboration with 
+WHO, Regional office for the Eastern Mediterranean region, Cairo, Egypt and WHO, 
+Headquarters. At WHO Headquarters this work has been supported by the Evidence and 
+Research Team of the Department of Mental Health and Substance Abuse, Cluster of 
+Noncommunicable Diseases and Mental Health. 
+ 
+For further information and feedback, please contact: 
+ 
+1) Rashid Jooma, e-mail: dghealth_health.gov.pk 
+2) Fareed Aslam Minhas, e-mail:  minhas.fa@gmail.com  
+3) Shekhar Saxena, e-mail: saxenas@who.int 
+ 
+ 
+ 
+ 
+World Health Organization 2009 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4
+ 
+ 
+Acknowledgement 
+ 
+ 
+The World Health Organization Assessment Instrument for Mental Health Systems (WHO-AIMS) 
+was used to collect information on the mental health system of Pakistan.  
+ 
+The project in Pakistan was implemented by Fareed Aslam Minhas, Head, Institute of Psychiatry; 
+Asad Tamizuddin Nizami, Assistant Professor Institute of Psychiatry; Ghulam Fatima, Clinical 
+Psychologist Institute of Psychiatry; Mehmood Ali Jafri, Registrar Institute of Psychiatry. 
+ 
+The preparation of this study would not have been possible without the collaboration of the 
+Ministry of Health. We are grateful for the support to Nusrat Habib Rana, Punjab Institute of 
+Mental Health, Lahore; Naveed Irfan, Mental Hospital, Mansehra; S. Jamil Hussain, Civil 
+hospital, Nawab Shah Sindh; Rehmat Ali Wagan, Chanka Medical College, Larkana; Haroon 
+Rasheed Chaudhry, Sir Ganga Ram Hospital, Lahore.  
+ 
+The project was supported by Khalif Bile, WHO Representative in Pakistan, Islamabad. 
+The project was also supported by Khalid Saeed, Technical Officer, Mental Health and Substance 
+Abuse unit, Health Promotion and Protection. 
+The World Health Organization Assessment Instrument for Mental health Systems (WHO-AIMS) 
+has been conceptualized and developed by the Mental Health Evidence and Research team (MER) 
+of the Department of Mental Health and Substance Abuse (MSD), World Health Organization 
+(WHO), Geneva, in collaboration with colleagues inside and outside of WHO. 
+ 
+Please refer to WHO-AIMS  (WHO, 2005) for full information on the development of WHO-
+AIMS at the following website. http://www.who.int/mental_health/evidence/WHO-
+AIMS/en/index.html 
+ 
+The project received financial assistance and/or seconded personnel from: The National Institute 
+of Mental Health (NIMH) (under the National Institutes of Health) and the Center for Mental 
+Health Services (under the Substance Abuse and Mental Health Services Administration 
+[SAMHSA]) of the United States; The Health Authority of Regione Lombardia, Italy; The 
+Ministry of Public Health of Belgium and The Institute of Neurosciences Mental Health and 
+Addiction, Canadian Institutes of Health Research.   
+ 
+The WHO-AIMS team at WHO Headquarters includes: Benedetto Saraceno, Shekhar Saxena, 
+Tom Barrett, Antonio Lora, Mark van Ommeren, Jodi Morris and Grazia Motturi. Additional 
+assistance has been provided by Mona Sharma. 
+ 
+The WHO-AIMS project is coordinated by Shekhar Saxena. 
+ 
+ 
+ 
+ 
+ 
+5
+Executive Summary 
+ 
+The World Health Organization Assessment Instrument for Mental Health Systems 
+(WHO-AIMS) was used to collect information on the mental health system in Pakistan. 
+The goal of collecting this information is to improve the mental health system and to 
+provide a baseline for monitoring the change. This will enable Pakistan to develop 
+information-based mental health plans with clear base-line information and targets. It will 
+also be useful to monitor progress in implementing reform policies, providing community 
+services, and involving users, families and other stakeholders in mental health promotion, 
+prevention, care and rehabilitation.   
+ 
+Pakistan's mental health policy was last revised in 2003.the mental health plan was also 
+last revised in 2003. The disaster/emergency preparedness plan for mental health was last 
+revised in 2006. The mental health legislation was enacted in 2001 and it focused on the 
+access to mental health care including access to the least restrictive care; rights of mental 
+health service consumers; family members, and other care givers; competency, capacity, 
+and guardianship issues for people with mental illness; voluntary and involuntary 
+treatment; accreditation of professionals and facilities; law enforcement and other judicial 
+system issues for people with mental illness; mechanisms to oversee involuntary 
+admission and treatment practices; and mechanisms to implement the provisions of 
+mental health legislation. 
+ 
+A national mental health authority exists which provides advice to the government on 
+mental health policies and legislation. The mental health authority also is involved in 
+service planning, service management and co-ordination and in monitoring and quality 
+assessment of mental health services. Mental health services are not organized in terms of 
+catchment/service areas.   
+ 
+There are 3729 outpatient mental health facilities in the country, of which 1% are for 
+children and adolescents only. These facilities treat 343.34 users per 100,000 general 
+population. The average number of contacts per user is 9.31. Forty-six percent of 
+outpatient facilities provide follow-up care in the community, while 1% has mental health 
+mobile teams. In terms of available interventions, 1- 20% of users have received one or 
+more psychosocial interventions in the past year. 624 Community-based psychiatric 
+inpatient units are available in the country for a total of 1.926 beds per 100,000 
+population. 1% of these beds in community-based inpatient units are reserved for 
+children and adolescents only.  
+ 
+Five mental hospitals are available in the country; these are organizationally integrated 
+with mental health outpatient facilities. In the last five years the number of beds in mental 
+hospitals has raised up to four percent. In addition to beds in mental health facilities, 
+there are also 0.02 beds for persons with mental disorders in forensic inpatient units and 
+1620 in other residential facilities such as homes for persons with mental retardation, 
+detoxification inpatient facilities, homes for the destitute, etc. 
+ 
+ 
+6
+Twenty seven percent of the training for medical doctors is devoted to mental health, in 
+comparison to 3% nurses and 11% non-doctor/non-nurse primary health care workers. In 
+terms of refresher training, 16% of primary health care doctors have received at least two 
+days of refresher training in mental health, while 5% of nurses and 13% of non-
+doctor/non-nurse primary health care workers have received such training.   
+ 
+The total number of human resources working in mental health facilities or private 
+practice per 100,000 population is 87.023. The breakdown according to profession (raw 
+numbers) are as follows: 342 psychiatrist, 25782 other medical doctors (not specialized in 
+psychiatry), 13643  nurses,  478 psychologists, 3145 social workers, 22 occupational 
+therapists, 102597 other health or mental health workers (including auxiliary staff, non-
+doctor/non-physician primary health care workers, health assistants, medical assistants, 
+professional and paraprofessional psychosocial counsellors).   
+ 
+Forty five percent of psychiatrists work only for government administered mental health 
+facilities, 51% work only for NGOs/for profit mental health facilities/private practice, 
+while 4% work for both the sectors. As for nurses, 6582 work in outpatient facilities, 
+7018 in community-based psychiatric inpatient units and 43 in mental hospitals. In 
+regards to other health or mental health workers, 101055 work in outpatient facilities, 
+1308 in community-based psychiatric inpatient units and 234 in mental hospitals. In 
+terms of staffing in mental health facilities, there are 187 psychiatrists per bed in 
+community-based psychiatric inpatient units, in comparison to 14 psychiatrists per bed in 
+mental hospitals. 
+ 
+The number of professionals graduated last year in academic and educational institutions 
+per 100,000 is as follows: 2.1 medical doctors (not specialized in psychiatry); 1.5 nurses 
+(not specialized in psychiatry); 0.002 psychiatrists; 0.07 psychologists with at least 1 year 
+training in mental health care; 0.008 nurses with at least 1 year training in mental health 
+care; 0.005 social workers with at least 1 year training in mental health care; 0.002 
+occupational therapists with at least 1 year training in mental health care. The 1-20% of 
+psychiatrists emigrates to other countries within five years of the completion of their 
+training. 
+ 
+The government provides economic support for both consumer and family associations. 
+Family associations have been involved in the formulation or implementation of mental 
+health policies, plans, or legislation in the past two years. Government agencies (e.g., 
+Ministry of Health or Department of mental health services); NGOs; professional 
+associations, private trusts; and foundations, International agencies have promoted public 
+education and awareness campaigns in the last five years. In addition to legislative and 
+financial support, there are formal collaborations between the government department 
+responsible for mental health and the departments/agencies responsible for primary health 
+care/ community health, HIV/AIDS, reproductive health, child and adolescent health, 
+substance abuse, child protection, education, employment, housing, welfare, criminal 
+justice, the elderly, and other departments/Agencies. 
+ 
+ 
+ 
+7
+Introduction 
+ 
+Pakistan is a country with an approximate geographical area of 803,940 square 
+kilometres and a population of 160,943,000 people (WHO, 2005). The main languages 
+used in the country are Punjabi, Sindhi, Siraiki, Pashtu, and Urdu. The main ethnic group 
+is Punjabi and the others are Sindhi, Siraiki, Pashtun, and Muhajir. The largest religious 
+group include Muslims. In addition, there is a small Hindus and Christian population. The 
+country is a low income group country based on World Bank 2004 criteria.  
+ 
+Forty-three percent of the population is under the age of 15 and seven percent of the 
+population are over the age of 60.  Sixty-eight percent of the population is rural. The life 
+expectancy at birth for males is 62 and 63 for females. The healthy life expectancy at 
+birth is 54 for males and 52 for females. . The literacy rate for men is 62% and the 37.5% 
+for women. The proportion of the health budget to GDP is 3.9. There is less than one 
+hospital bed per 100,000 population and 85 general practitioners.  
+ 
+Data was collected at the end of 2008 and is based on the year 2008.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+8
+Domain 1: Policy and Legislative Framework 
+ 
+ 
+Pakistan's mental health policy was last revised in 2003 and includes the following 
+components: (1) developing community mental health services, (2)  downsizing large 
+mental hospitals, (3) developing a mental health component in primary health care,  (4) 
+human resources, (5) involvement of users and families,  (6) advocacy and promotion, (7) 
+human rights protection of users, (8)  equity of access to mental health services across 
+different groups, (9)  financing,  and (10) monitoring system.  In addition, a list of 
+essential medicines is present. These medicines include Antipsychotics, Antidepressants, 
+Mood stabilizers and Antiepileptic drugs. 
+ 
+The last revision of the mental health plans was in 2003. This plan contains the same 
+components as the mental health policy but also includes reforming mental hospitals to 
+provide more comprehensive care, and quality improvement. In addition, a budget, a 
+timeframe and specific goals are identified in last mental health plan. 
+ 
+A disaster/emergency preparedness plan for mental health is present and was last revised 
+in 2006. The last piece of mental health legislation was enacted in 2001, which focused 
+on the (1) access to mental health care including access to the least restrictive care, 
+(2)rights of mental health service consumers, (3)family members, and other care givers, 
+(4)Competency, capacity, and guardianship issues for people with mental illness, 
+(5)voluntary and involuntary treatment, (6) accreditation of professionals and facilities, 
+(7)law enforcement and other judicial system issues for people with mental illness, 
+(8)mechanisms to oversee involuntary admission and treatment practices, and 
+(9)mechanisms to implement the provisions of mental health legislation. 
+ 
+0.4% of health care expenditures by the government health department are devoted to 
+mental health. Of all the expenditures spent on mental health, 11% are devoted to mental 
+hospitals. The rate of spending on mental hospitals is lower than other low and middle 
+income countries (LAMICs) as Pakistan did not inherit large mental hospitals, except the 
+one at Lahore that is being downsized, and more facilities are being set up at the district 
+hospital level (secondary level). 5% of the population has free access (at 80% least 
+covered) to essential psychotropic medicines. For those that pay out of pocket, the cost of 
+antipsychotic medication is 3% and antidepressant medication is 7% of the one day 
+minimum daily wage in the local currency. None of the mental disorder is covered by 
+social insurance schemes. The cost of antipsychotic medication is 2 dollars per day, and 
+the cost of antidepressant medication is 5 dollars per day.  
+ 
+ 
+ 
+9
+GRAPH 1.1 HEALTH EXPENDITURE TOWARDS MENTAL HEALTH
+99.60%
+0.40%
+All other health
+expenditures
+Mental health
+expenditures 
+ 
+ 
+ 
+ 
+GRAPH 1.2 MENTAL HEALTH EXPENDITURE TOWARDS MENTAL 
+HOSPITALS 
+11%
+89%
+Expenditures for mental
+hospitals
+All other mental health
+expenditures 
+ 
+ 
+A national human rights review body exists which has the authority to oversee regular 
+inspections in mental health facilities, review involuntary admission and discharge 
+procedures; review complaints investigation processes; and the review body has the 
+authority to impose sanctions (e.g. withdraw accreditation,  impose penalties, or close 
+facilities that persistently violate human rights). 100% of mental hospitals had at least one 
+review/inspection of human rights protection of patients in 2008, while 6 % of 
+community-based inpatient psychiatric units and community residential facilities had 
+such a review. 100% of mental hospitals and 5% of inpatient psychiatric units & 
+community residential facilities have had at least one day training on human rights 
+protection of patients in the last two years. 
+ 
+ 
+Domain 2: Mental Health Services 
+ 
+A national mental health authority exists which provides advice to the government on 
+mental health policies and legislation. The mental health authority also is involved in 
+service planning, service management and co-ordination and in monitoring and quality 
+ 
+10
+assessment of mental health services. Mental health services are not organized in terms of 
+catchment/service areas.   
+ 
+There are 3729 outpatient mental health facilities available in the country, of which 1% is 
+for children and adolescents only. These facilities treat 343.34 users per 100,000 general 
+population. Of all users treated in mental health outpatient facilities, 69% are female and 
+46% are children or adolescents. The users treated in outpatient facilities are primarily 
+diagnosed with neurotic, stress related and somatoform disorders (33%) and mood 
+disorders (30%).   
+ 
+The average number of contacts per user is 9.31. Forty-six percent of outpatient facilities 
+provide follow-up care in the community, while 1% has mental health mobile teams. In 
+terms of available interventions, 1- 20% of users have received one or more psychosocial 
+interventions in the past year. 33% of mental health outpatient facilities had at last one 
+psychotropic medicine of each therapeutic class (anti-psychotic, antidepressant, mood 
+stabilizer, anxiolytic, and antiepileptic medicines) available in the facility or a near-by 
+pharmacy all year round. Day treatment facilities are not available in the country. 
+ 
+Six hundred and twenty four (624) Community-based psychiatric inpatient units are 
+available in the country for a total of 1.926 beds per 100,000 population. 1% of these 
+beds in community-based inpatient units are reserved for children and adolescents only. 
+75% of admissions to community-based psychiatric inpatient units are female and 18% 
+are children/adolescents. The diagnoses of admissions to community-based psychiatric 
+inpatient were primarily from the following two diagnostic groups Mood [affective] 
+disorders (46%) and neurotic, stress related and somatoform disorders (32%). On average 
+patients spend 17 days per discharge. 1-20% patients in community-based psychiatric 
+inpatient units received one or more psychosocial interventions in the last year. 34% of 
+community-based psychiatric inpatient units had at least one psychotropic medicine of 
+each therapeutic class (anti-psychotic, antidepressant, mood stabilizer, anxiolytic, and 
+antiepileptic medicines) available in the facility. Community residential facilities are not 
+available in the country. 
+ 
+There are five mental hospitals available in the country for a total of 1.9 beds per 100,000 
+population. 100% of these facilities are organizationally integrated with mental health 
+outpatient facilities. The number of beds has raised 4% in the last five years. The patients 
+admitted to mental hospitals belong primarily to the following two diagnostic groups: (1) 
+mood [affective] disorders (31%), and (2) neurotic, stress related and somatoform 
+disorders (24%). The average number of days spent mental hospitals is 49.9. Eighty-four 
+percent of patients spend less than one year in mental hospital; 8% of patients spend 1-4 
+years; 3% of patients spend 5-10 years; and 4% of patients spend more than 10 years in 
+mental hospitals. 1-20% patients in mental hospitals received one or more psychosocial 
+interventions in the last year. 100% of mental hospitals had at least one psychotropic 
+medicine of each therapeutic class (anti-psychotic, antidepressant, mood stabilizer, 
+anxiolytic, and antiepileptic medicines) available in the facility. 
+ 
+  
+ 
+ 
+11
+ 
+ 
+In addition to beds in mental health facilities, there are also 0.02 beds for persons with 
+mental disorders in forensic inpatient units and 1620 in other residential facilities such as 
+homes for persons with mental retardation, detoxification inpatient facilities, homes for 
+the destitute, etc. In forensic inpatient units 76% of patients spend less than one year; 
+24% of patients spend 1-4 years; 0% of patients spend 5-10 years; and 0% of patients 
+spend more than 10 years. 
+ 
+1% of all admissions to community-based inpatient psychiatric units and 30% of all 
+admissions to mental hospitals are involuntary. Over 20% of patients were restrained or 
+secluded at least once within the last year in community-based psychiatric inpatient units, 
+in comparison to 6-10% of patients in mental hospitals. The density of psychiatric beds in 
+or around the largest city is 2.15 times greater than the density of beds in the entire 
+country.  Such a distribution of beds facilitates access for rural users. Inequity of access 
+to mental health services for other minority users (e.g., linguistic, ethnic, religious 
+minorities) is a moderate issue in the country.   
+ 
+GRAPH 2.1 - BEDS IN MENTAL HEALTH FACILITIES AND OTHER 
+RESIDENTIAL FACILITIES  
+MENTAL HOSPITALS
+45%
+FORENSIC UNITS
+0%
+OTHER RESIDENTIAL 
+FAC
+9%
+COMMUNITY BASED 
+PSYCHIATRIC 
+INPATIENT UNITS
+46%
+ 
+ 
+The majority of beds in the country are provided by mental hospitals, and community 
+based psychiatric inpatient units. 
+ 
+12
+ 
+ 
+ 
+ 
+The majority of the users are treated in outpatient facilities, inpatient units and in mental hospitals 
+respectively, users treated in forensic units is quite low.  
+ 
+GRAPH 2.3 - PERCENTAGES OF FEMALE USERS 
+TREATED IN MENTAL HEALTH FACILITIES 
+69%
+75%
+74%
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90%
+100%
+OUTPATIENT FAC.
+COMMUNITY BASED
+PSYCHIATRIC
+INPATIENT UNITS
+MENTAL HOSPITALS
+ 
+GRAPH 2.2 - PATIENTS TREATED IN MENTAL HEALTH 
+FACILITIES (rate per 100.000 population)
+343.34
+44.3
+35
+0.9
+0
+50
+100
+150
+200
+250
+300
+350
+400
+OUTPATIENT FAC.
+COMMUNITY BASED
+PSYCHIATRIC
+INPATIENT UNITS
+MENTAL HOSPITALS
+FORENSIC UNITS
+ 
+13
+ 
+ 
+ 
+Female users make up over 69% of the population in all mental health facilities in the country. 
+The proportion of female users is highest in inpatient units and lowest in outpatient facilities.  
+ 
+GRAPH 2.4 - PERCENTAGE OF CHILDREN AND 
+ADOLESCENTS TREATED IN MENTAL HEALTH 
+FACILITIES AMONG ALL USERS 
+46%
+18%
+24%
+0%
+5%
+10%
+15%
+20%
+25%
+30%
+35%
+40%
+45%
+50%
+OUTPATIENT FAC.
+COMMUNITY BASED
+PSYCHIATRIC
+INPATIENT UNITS
+MENTAL HOSPITALS
+ 
+ 
+The percentage of users that are children and/or adolescents varies substantially from 
+facility to facility. The proportion of children users is highest in mental health outpatient 
+facilities and lowest in community based psychiatric inpatient units. 
+ 
+14
+GRAPH 2.5  - PATIENTS TREATED IN MENTAL HEALTH 
+FACILITIES BY DIAGNOSIS
+0%
+20%
+40%
+60%
+80%
+100%
+MOOD DISORDERS
+30%
+46%
+31%
+OTHERS
+9%
+2%
+9%
+PERSONALITY DIS.
+25%
+2%
+8%
+NEUROTIC DIS.
+33%
+21%
+24%
+SCHIZOPHRENIA
+1%
+16%
+9%
+SUBSTANCE ABUSE
+2%
+14%
+18%
+OUTPATIENT FAC.
+COMMUNITY BASED 
+PSYCHIATRIC 
+INPATIENT UNITS
+MENTAL HOSPITALS
+ 
+ 
+ 
+ 
+The distribution of diagnoses varies across facilities: in outpatients facilities neurotic disorders 
+and mood disorder are most prevalent, within in-inpatient units again mood disorder and neurotic 
+disorder diagnoses are equally most common, and in mental hospitals mood disorder are most 
+frequent.  
+ 
+ 
+15
+GRAPH 2.6 - LENGTH OF STAY IN INPATIENT FACILITIES (days per year) 
+17
+50
+0
+10
+20
+30
+40
+50
+60
+COMMUNITY BASED PSYCHIATRIC
+INPATIENT UNITS
+MENTAL HOSPITALS
+ 
+ 
+The longest length of stay for users is in mental hospitals, while the community residential 
+facility is not available in Pakistan.   
+ 
+ 
+GRAPH 2.7 - AVAILABILITY OF PSYCHOTROPIC DRUGS IN MENTAL 
+HEALTH FACILITIES 
+33%
+100%
+34%
+0%
+20%
+40%
+60%
+80%
+100%
+120%
+OUTPATIENT
+FACILITIES
+COMMUNITY BASED
+PSYCHIATRIC
+INPATIENT UNITS
+MENTAL HOSPITALS
+AVAILABILITY
+OF
+MEDICINES
+ 
+ 
+Psychotropic drugs are mostly widely available in mental hospitals, followed by inpatient 
+units, and then outpatient mental health facilities.  
+ 
+ 
+16
+GRAPH 2.8 INPATIENT CARE VERSUS 
+OUTPATIENT CARE  
+5359780
+4185511
+0
+1000000
+2000000
+3000000
+4000000
+5000000
+6000000
+OUTPATIENT CARE
+INPATIENT CARE 
+ 
+ 
+The ratio between outpatient/day care contacts and days spent in all the inpatient facilities 
+(mental hospitals, residential facilities and general hospital units) is an indicator of extent 
+of community care: in Pakistan the ratio is 1.28:1. This means that there is slightly more 
+than one outpatient contact per day spend in inpatient care.  
+ 
+ 
+Domain 3: Mental Health in Primary Health Care 
+ 
+Twenty seven percent of the training for medical doctors is devoted to mental health, in 
+comparison to 3% nurses and 11% non-doctor/non-nurse primary health care workers. In 
+terms of refresher training, 16% of primary health care doctors have received at least two 
+days of refresher training in mental health, while 5% of nurses and 13% of non-
+doctor/non-nurse primary health care workers have received such training.   
+ 
+ 
+17
+ Graph 3.1: Percent of primary health care professionals with at least two days of 
+refresher training in mental health in the last year 
+ 
+GRAPH 3.1 - % OF PRIMARY CARE PROFESSIONALS WITH AT 
+LEAST 2 DAYS OF REFRESHER TRAINING IN MENTAL HEALTH 
+IN THE LAST YEAR
+5%
+13%
+16%
+0%
+2%
+4%
+6%
+8%
+10%
+12%
+14%
+16%
+18%
+PHC doctors
+PHC nurses
+PCH other
+ 
+ 
+ 
+Only physician-based primary health care clinics are present in the country. In terms of 
+physician-based primary health care clinics, some (between 21 - 50%) has assessment 
+and treatment protocols for key mental health conditions available. 21 - 50% of 
+physician-based primary health care doctors make on average at least one referral per 
+month to a mental health professional. None of the non-physician based primary health 
+care clinics make a referral to a higher level of care. In terms of professional interaction 
+between primary health care staff and other care providers, 1-20% of primary care 
+doctors have interacted with a mental health professional at least once in the last year.    
+1-20% 
+of 
+physician-based 
+PHC 
+facilities 
+have 
+had 
+interaction 
+with 
+a 
+complimentary/alternative/traditional practitioner, in comparison to 1-20% of mental 
+health facilities.  
+ 
+ 
+18
+Graph 3.2: Comparison of physician-based primary health care with non-physician 
+based primary health care 
+ 
+GRAPH 3.2 - COMPARISON OF PHYSICIAN BASED PRIMARY HEALTH 
+CARE WITH NON-PHYSICIAN BASED PRIMARY HEALTH CARE
+50%
+80%
+20%
+0%
+0%
+0%
+TX PROTOCOLS
+REFFERALS
+INTERACTION W TRAD PRAC.
+PHYSICIAN
+PHC
+NON
+PHYSICIAN
+PHC
+ 
+ 
+Nurses and non-doctor/non-nurse primary health care workers are not allowed to 
+prescribe psychotropic medications, in any circumstance. Whereas, primary health care 
+doctors are allowed to prescribe psychotropic medications without restrictions. As for 
+availability of psychotropic medicines, a few of the clinics (1-20%) of physician-based 
+PHC clinics have at least one psychotropic medicine of each therapeutic category (anti-
+psychotic, antidepressant, mood stabilizer, anxiolytic, and antiepileptic) available in the 
+facility or at a nearby pharmacy all year long in comparison to a majority of clinics (51-
+80%) in non-physician based primary health care. 
+ 
+ 
+Domain 4: Human Resources 
+ 
+The total number of human resources working in mental health facilities or private 
+practice per 100,000 population is 203.07. The breakdown according to profession is as 
+follows: 342 psychiatrist (0.20 per 100,000), 25782, other medical doctors (not 
+specialized in psychiatry - 15.37 per 100,000), 13643 nurses (8.13 per 100,000), 478 
+psychologists (0.28 per 100,000), 3145 social workers (1.87 per 100,000), 22 
+occupational therapists (0.01 per 100,000), 102597 other health or mental health workers 
+(including auxiliary staff, non-doctor/non-physician primary health care workers, health 
+ 
+19
+assistants, medical assistants, professional and paraprofessional psychosocial counselors - 
+61.15 per 100,000). 
+  
+Forty five percent of psychiatrists work only for government administered mental health 
+facilities, 51% work only for NGOs/for profit mental health facilities/private practice, 
+while 4% work for both the sectors. 37% of psychologists, social workers, nurse and 
+occupational therapists work only for government administered mental health facilities, 
+40% work only for NGOs/for profit mental health facilities/private practice, while 23% 
+work for both the sectors. Regarding the workplace, 141 psychiatrists work in outpatient 
+facilities, 187 in community-based psychiatric inpatient units and 14 in mental hospitals 
+43476 other medical doctors, not specialized in mental health, work in outpatient 
+facilities, 41260 in community-based psychiatric inpatient units and 27 in mental 
+hospitals.  As for nurses, 6582 work in outpatient facilities, 7018 in community-based 
+psychiatric inpatient units and 43 in mental hospitals. 2566 psychosocial staff 
+(psychologists, social workers and occupational therapists) work in outpatient facilities, 
+1047 in community-based psychiatric inpatient units and 32 in mental hospitals. As 
+regards to other health or mental health workers 198000 work in outpatient facilities, 
+5308 in community-based psychiatric inpatient units and 234 in mental hospitals. In 
+terms of staffing in mental health facilities, there are 187 psychiatrists per bed in 
+community-based psychiatric inpatient units, in comparison to 14 psychiatrists per bed in 
+mental hospitals. As for nurses, there are 7018 nurses per bed in community-based 
+psychiatric inpatient units, in comparison to 43 per bed in mental hospitals. Finally, for 
+other mental health care staff (e.g., psychologists, social workers, occupational therapists, 
+other health or mental health workers), there are 6355 per bed for community-based 
+psychiatric inpatient units, and 266 per bed in mental hospitals. 
+ 
+The distribution of human resources between urban and rural areas is disproportionate. 
+The density of psychiatrists in or around the largest city is 2.29 times greater than the 
+density of psychiatrists in the entire country. The density of nurses is 0.15 times greater 
+in the largest city than the entire country.  
+ 
+  
+ 
+ 
+20
+GRAPH 4.1 - HUMAN RESOURCES IN MENTAL HEALTH 
+ (rate per 100.000 population)
+0.2
+15.37
+8.13
+0.28
+1.87
+0.013
+61.15
+0
+10
+20
+30
+40
+50
+60
+70
+PSYCHIATRISTS
+OTHER DOCTORS
+NURSES
+PSYCHOLOGISTS
+SOCIAL WORKERS
+OCCUP.THERAPISTS
+OTHER M.H. WORKERS
+ 
+ 
+ 
+ 
+GRAPH 4.2 - STAFF WORKING IN MENTAL HEALTH FACILITIES 
+(percentage in the graph, number in the table)
+0%
+20%
+40%
+60%
+80%
+100%
+MENTAL HOSPITALS
+14
+27
+43
+32
+234
+INPATIENT UNITS
+187
+2137
+7018
+1047
+1308
+OUTPATIENT FAC.
+141
+23618
+6582
+2566
+101055
+PSYCHIATRISTS
+OTHER DOCTORS
+NURSES
+PSYCHOSOCIAL STAFF
+OTHER M.H. WORKERS
+ 
+ 
+ 
+ 
+21
+GRAPH 4.3 - AVERAGE NUMBER OF STAFF PER BED 
+0.06
+0.01
+2.17
+0.02
+0.32
+0.02
+0
+0.5
+1
+1.5
+2
+2.5
+COMMUNITY-BASED PSYCHIATRIC
+INPATIENT UNIT
+MENTAL HOSPITALS
+PSYCHIATRISTS
+NURSES
+PSYCHOSOCIAL
+STAFF
+ 
+ 
+The number of professionals graduated last year in academic and educational institutions 
+per 100,000 is as follows: 2.1 medical doctors (not specialized in psychiatry); 1.5 nurses 
+(not specialized in psychiatry); 0.002 psychiatrists; 0.07 psychologists with at least 1 year 
+training in mental health care; 0.008 nurses with at least 1 year training in mental health 
+care; 0.005 social workers with at least 1 year training in mental health care; 0.002 
+occupational therapists with at least 1 year training in mental health care. The 1-20% of 
+psychiatrists emigrate to other countries within five years of the completion of their 
+training. 
+ 
+ 
+ 
+22
+GRAPH 4.4 - PROFESSIONALS GRADUATED  IN 
+MENTAL HEALTH  (rate per 100.000 population) 
+0.002
+2.09
+1.5
+0.07
+0.005
+0.008
+0.002
+0
+0.5
+1
+1.5
+2
+2.5
+PSYCHIATRISTS
+OTHER DOCTORS
+NURSES
+PSYCHOLOGISTS 1 yr
+SOCIAL WORKERS 1 yr
+NURSES 1  yr
+OCCUP.THERAPISTS 1 yr
+ 
+GRAPH 4.5 - PERCENTAGE OF MENTAL HEALTH STAFF WITH 
+TWO DAYS OF REFRESHER TRAINING IN THE PAST YEAR
+0%
+1%
+1%
+2%
+2%
+3%
+3%
+4%
+RATIONAL USE OF DRUGS
+2%
+3%
+2%
+NA
+0%
+PSYCHOSOCIAL
+INTERVENTIONS
+2%
+2%
+1%
+1%
+0%
+CHILD MENTAL HEALTH
+ISSUES
+1%
+0%
+0%
+1%
+0%
+PSYCH.
+MD
+NURSES
+PSYCHOSOCI
+AL
+OTHER
+ 
+ 
+23
+Psych = psychiatrists; MD =other medical doctors not specialized in psychiatry; psychosocial staff = 
+psychologists, social workers, and occupational therapists. Others = other health and mental health workers  
+ 
+ 
+There are 8 users/consumers that are members of consumer associations and 6 family 
+members that are members of family associations. The government provides economic 
+support for both consumer and family associations. Family associations have been 
+involved in the formulation or implementation of mental health policies, plans, or 
+legislation in the past two years. Few (1-20%) mental health facilities have had 
+interaction with both consumer and family. In addition to consumer and family 
+associations, there are 18 other NGOs in the country involved in individual assistance 
+activities such as counselling, housing, or support groups.  
+ 
+ 
+Domain 5: Public Education and Links with Other Sectors 
+ 
+There is a coordinating body to oversee public education and awareness campaigns on 
+mental health and mental disorders. Government agencies (e.g., Ministry of Health or 
+Department of mental health services); NGOs; professional associations, private trusts; 
+and foundations, International agencies have promoted public education and awareness 
+campaigns in the last five years.  
+ 
+These campaigns have targeted the following groups: The general population; children; 
+adolescents, women, trauma survivors; ethnic groups; and other vulnerable or minority 
+groups. In addition, there have been public education and awareness campaigns targeting 
+professional groups including health care providers (conventional; modern; allopathic); 
+complimentary/ alternative/ traditional sector; teachers; social services staff; and other 
+professional groups linked to the health sector. 
+ 
+The following legislative and financial provisions exist to protect and provide support for 
+users: (1) provisions concerning a legal obligation for employers to hire a certain 
+percentage of employees that are disabled, (2) provisions concerning protection from 
+discrimination (dismissal, lower wages) solely on account of mental disorder, (3) 
+provisions concerning priority in state housing and in subsidized housing schemes for  
+people with severe mental disorders, and (4) provisions concerning protection from 
+discrimination in allocation of housing for  people with severe mental disorders. All of 
+these provisions exist but are not enforced.  
+ 
+Government agencies (e.g., Ministry of Health or Department of mental health services); 
+NGOs; professional associations, private trusts; and foundations, International agencies 
+have promoted public education and awareness campaigns in the last five years.  
+ 
+In addition to legislative and financial support, there are formal collaborations between 
+the government department responsible for mental health and the departments/agencies 
+responsible for primary health care/ community health, HIV/AIDS, reproductive health, 
+child and adolescent health, substance abuse, child protection, education, employment, 
+housing, welfare, criminal justice, the elderly, and other departments/Agencies. 
+ 
+24
+In terms of support for child and adolescent health, 3% of primary and secondary schools 
+have either a part-time or full-time mental health professional, and none of the primary 
+and secondary schools have school-based activities to promote mental health and prevent 
+mental disorders. The percentage of prisoners with psychosis is 2-5%, while the 
+corresponding percentage for mental retardation is 6-10%. Regarding mental health 
+activities in the criminal justice system, a few (1-20%) of prisons have at least one 
+prisoner per month in treatment contact with a mental health professional. As for training, 
+a few (1-20%) police officers and no judges and lawyers have participated in educational 
+activities on mental health in the last five years. In terms of financial support for users, no 
+mental health facilities have access to programs outside the mental health facility that 
+provide outside employment for users with severe mental disorders. 
+ 
+ 
+Domain 6: Monitoring and Research 
+ 
+A formally defined list of individual data items that ought to be collected by all mental 
+health facilities exists. Although, mental health facilities collect data on mental health 
+(see Table 6.1), the government health department received data from all of the mental 
+hospitals; community based psychiatric inpatient units, and mental health outpatient 
+facilities. Based on this data, a report was published without comments on the data. In 
+terms of research, 6% of all health publications in the country were on mental health. The 
+research focused on epidemiological studies in community samples; epidemiological 
+studies in clinical samples; non-epidemiological clinical/questionnaires assessments of 
+mental disorders; services research; biology and genetics; policy, programmes, 
+financing/economics; psychosocial interventions/psychotherapeutic interventions; and 
+pharmacological, surgical and electroconvulsive interventions  
+  
+Table 6.1 - Percentage of mental health facilities collecting and compiling data by type of 
+information  
+TYPE OF 
+INFORMATION 
+COMPILED  
+MENTAL 
+HOSPITALS 
+INPATIENT 
+UNITS 
+OUTPATIENT 
+FAC. 
+N° of beds 
+100% 
+100% 
+NA 
+N° inpatient 
+admissions/users 
+treated in outpatient 
+facilities 
+100% 
+100% 
+100% 
+N° of days 
+spent/user contacts 
+in outpatient 
+facilities. 
+100% 
+100% 
+100% 
+N° of involuntary 
+admissions 
+100% 
+100% 
+NA 
+N° of users 
+restrained 
+100% 
+100% 
+NA 
+Diagnoses  
+100% 
+100% 
+100% 
+ 
+25
+ 
+ 
+GRAPH 6.1 - PERCENTAGES OF MENTAL HEALTH 
+FACILITIES TRANSMITTING DATA TO HEALTH 
+DEPARTMENT
+100%
+100%
+100%
+0%
+20%
+40%
+60%
+80%
+100%
+120%
+OUTPATIENT FAC.
+INPATIENT UNITS
+MENTAL HOSPITALS
+ 
+ 
+26
+Strengths and Weaknesses of the Mental Health System in 
+Pakistan 
+ 
+ 
+Pakistan's mental health policy was last revised in 2003.The mental health plan was last 
+revised in 2003. A disaster/emergency preparedness plan for mental health was last 
+revised in 2006. The mental health legislation was enacted in 2001. A national mental 
+health authority also exists which provides advice to the government on mental health 
+policies and legislation. The mental health authority is involved in service planning, 
+service management and co-ordination and in monitoring and quality assessment of 
+mental health services. There are 8 users/consumers that are members of consumer 
+associations and 6 family members that are members of family associations. Family 
+associations have been involved in the formulation or implementation of mental health 
+policies, plans, or legislation in the past two years. In addition to consumer and family 
+associations, there are 18 other NGOs in the country involved in individual assistance 
+activities such as counselling, housing, or support groups. Mental health providers and  
+primary care staff work in interaction and efforts are being carried on to enhance 
+interaction among these facilities in the country.Twenty seven percent of the training for 
+medical doctors is devoted to mental health, in comparison to 3% nurses and 11% non-
+doctor/non-nurse primary health care workers. In terms of refresher training, 16% of 
+primary health care doctors have received at least two days of refresher training in mental 
+health, while 5% of nurses and 13% of non-doctor/non-nurse primary health care workers 
+have received such training.   
+ 
+Mental health policy, plan and legislation do exist in the country but are not implemented. 
+The health system is not well established and lacks sufficient resources. Community 
+work is limited to a few tertiary care hospitals and in big cities. Only 1% of 1.926 beds 
+per 100,000 population, in the community based psychiatric inpatient units are available 
+for children and adolescents. Community based residential facilities and day treatment 
+facilities are not available in the country. Training at the graduation level is meager that 
+only three psychiatrists graduated in the last year in academic and educational institutions. 
+The distribution of human resources between urban and rural areas is disproportionate. 
+The density of psychiatrists in or around the largest city is 2.29 times greater than the 
+density of psychiatrists in the entire country. The density of nurses is 0.15 times higher in 
+the largest city than the entire country. The density of clinical psychologists and social 
+workers, working in government sector is quite low. None of the mental disorder is 
+covered by social insurance schemes. Only 0.4% of health care expenditures by the 
+government health department are devoted to mental health. Of all the expenditures spent 
+on mental health, 11% are devoted to mental hospitals. Psychotropic drugs are mostly 
+widely available in mental hospitals, followed by inpatient units, and then outpatient 
+mental health facilities. The following legislative and financial provisions exist to protect 
+and provide support for users: (1) provisions concerning a legal obligation for employers 
+to hire a certain percentage of employees that are disabled, (2) provisions concerning 
+protection from discrimination (dismissal, lower wages) solely on account of mental 
+disorder, (3) provisions concerning priority in state housing and in subsidized housing 
+schemes for  people with severe mental disorders, and (4) provisions concerning 
+ 
+27
+protection from discrimination in allocation of housing for  people with severe mental 
+disorders. All of these provisions exist but are not enforced.  
+ 
+Efforts are there to promote equity of access to mental health services but more is 
+required as the density of psychiatric beds in or around the largest city is 2.29 times 
+greater than the density of beds in the entire country.  Such a distribution of beds 
+facilitates access for rural users. Inequity of access to mental health services for other 
+minority users (e.g., linguistic, ethnic, religious minorities) is a moderate issue in the 
+country.   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+28
+ 
+Next Steps in Strengthening the Mental Health System  
+ 
+The Mental health law's response to changed social and professional attitudes, in the form 
+of the new ordinance, though much belated, is a fitting one. However, many gaps in the 
+law still remain. Also, steps such as the establishment of the Federal Mental Health 
+Authority can only be judged by performance over the course of the coming years. 
+ 
+Despite the progress made in comparison with the old law, the current law still falls short 
+of standards in relevant international conventions. 
+ 
+The Universal Declaration of Human Rights and its extension with regard to individuals 
+who are mentally disabled—the Declaration of the Rights of the Mentally Retarded, can 
+be useful guides to action. Briefly put, the latter declaration makes seven guarantees to 
+individuals who are mentally disordered: equal rights to the maximum degree of 
+feasibility; proper education, care, and treatment for self-development; the right to 
+economic security and a decent standard of living; the right to live with one's own family 
+or the closest possible alternative; the right to a qualified guardian, if necessary; 
+protection from exploitation, abuse, and degrading treatment, and restricted civil and 
+criminal liability; and  the right that any restriction of rights must be legally monitored, 
+must not be arbitrary, and must be subject to appeal and periodic review. 
+ 
+Although these principles cannot be incorporated into our domestic law, by itself, they do 
+provide standards that we must strive to meet. The recent ordinance has brought us one 
+step closer to such compliance. But many problems still remain, so it has become ever 
+more important that the law be subjected to periodic review by a team of experts who 
+measure its performance with reference to the above-mentioned standards, and suggest 
+the necessary reforms. 
+ 
+Psychiatric training in Pakistan is at the very early stages, at both undergraduate and the 
+postgraduate level. The health system is not well established with significant resources. 
+Including psychiatry as a separate subject in the medical curriculum can help future 
+doctors to recognize and to some extent treat mental health problems. It is also important 
+that more family physicians and general practitioners are trained in recognizing mental 
+health problems. It is not possible to arrange training in the fields of forensic psychiatry, 
+psychotherapy, geriatric psychiatry, drug and alcohol abuse, child psychiatry and learning 
+disability, due to a lack of training consultants. Arranging the training around cases from 
+subspecialties certainly can help in recognizing these problems. However, lack of 
+supervision in these fields compromises training.       
+ 
+29
+The patients are mostly looked after by their families in Pakistan. It is therefore important 
+that training is focused on community based psychiatry. Drug abuse problem in Pakistan 
+is on a rise and most patients are treated by non psychiatric doctors. It will make some 
+sense to include more cases of drug abuse as a vital part of the training system. 
+Psychological therapies are not readily available in Pakistan. Psychologists mostly 
+provide counseling using an eclectic approach. There is currently no psychotherapist 
+working in national health system in Pakistan. Interactive work with trained clinical 
+psychologist can play a vital role in terms of psychotherapies and counseling. Placing 
+more emphasis on training in psychotherapy will certainly improve psychiatric care. 
+Family is an important resource, and psychotherapies in this area can be used to improve 
+patient care.  
+ 
+ 
+ 
+ 
+30
+ 
+ 
+ 
+The World Health Organization Assessment Instrument for Mental 
+Health Systems (WHO-AIMS) was used to collect information on 
+the mental health system in Pakistan. The goal of collecting this 
+information is to improve the mental health system and to provide 
+a baseline for monitoring the change.  
+ 
+Data was collected on six domains of  the WHO-AIMS tool, 
+Policy and Legislative Framework; Mental Health Services; 
+Mental Health in Primary Health Care; Human Resources; Public 
+Education and Links with other Sectors; and Research and 
+Monitoring.  
+ 
+Results will enable Pakistan to develop information-based mental 
+health plans with clear base-line information and targets. It will 
+also be useful to monitor progress in implementing reform 
+policies, providing community services, and involving users, 
+families and other stakeholders in mental health promotion, 
+prevention, care and rehabilitation.   
+ 

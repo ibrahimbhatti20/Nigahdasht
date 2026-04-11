@@ -1,0 +1,1190 @@
+Immunization 
+for Pakistan's 
+healthy future
+Iffat Mahmud and Aliya Kashif
+Public Disclosure Authorized
+Public Disclosure Authorized
+Public Disclosure Authorized
+Public Disclosure Authorized
+© 2021 International Bank for Reconstruction and Development / The World Bank 
+1818 H Street NW 
+Washington DC 20433 
+Telephone: 202-473-1000 
+Internet: www.worldbank.org 
+This work is a product of the staff of The World Bank with external contributions. The findings, interpretations, and 
+conclusions expressed in this work do not necessarily reflect the views of The World Bank, its Board of Executive Directors, or 
+the governments they represent. 
+The World Bank does not guarantee the accuracy, completeness, or currency of the data included in this work and does not 
+assume responsibility for any errors, omissions, or discrepancies in the information, or liability with respect to the use of or 
+failure to use the information, methods, processes, or conclusions set forth. The boundaries, colors, denominations, and other 
+information shown on any map in this work do not imply any judgment on the part of The World Bank concerning the legal 
+status of any territory or the endorsement or acceptance of such boundaries. 
+Nothing herein shall constitute or be construed or considered to be a limitation upon or waiver of the privileges and 
+immunities of The World Bank, all of which are specifically reserved.
+Rights and Permissions 
+The material in this work is subject to copyright. Because The World Bank encourages dissemination of its knowledge, this 
+work may be reproduced, in whole or in part, for noncommercial purposes as long as full attribution to this work is given. 
+Any queries on rights and licenses, including subsidiary rights, should be addressed to World Bank Publications, The World 
+Bank Group, 1818 H Street NW, Washington, DC 20433, USA; fax: 202-522-2625; e-mail: pubrights@worldbank.org. 
+Further permission required for reuse.
+Cover design: Kayhaan Anjum Suleman
+1. Background 
+ 
+2. Immunization coverage in Pakistan: 1990 to 2020
+ 
+Immunization coverage in provinces
+ 
+Gaps in immunization coverage
+ 
+Factors that influence vaccination uptake
+ 
+3. A Regional comparison
+ 
+4. Conclusions and way forward
+ 
+5
+7
+9
+11
+Table of Contents
+2
+13
+16
+ 
+Executive Summary
+ 
+Acronyms
+III
+1
+ 
+Introduction
+ 
+Objectives of the report
+ 
+Data sources
+ 
+2
+3
+3
+I
+List of Figures
+ 
+Figure 1: Proportion of fully immunized children in Pakistan, 1990 to 2020
+Figure 2: Incidence of diphtheria and coverage of DTP3 vaccination: 1990 to 2020
+ 
+Figure 3: Incidence of measles and coverage of measles first and second dose vaccination: 1990 to 2020
+Figure 4: Percentage of fully immunized children (aged 12 to 23 months) in Pakistan: 2020
+Figure 5: Percentage of fully immunized children (aged 12 to 23 months) in the provinces: 1990 to 2020
+Figure 6: Improvements in percentage of fully immunized children (aged 12-23 months) during NISP period
+Figure 7: Percentage of fully immunized children (aged 12 to 23 months) by residence: 2020
+Figure 8: Percentage of fully immunized children (aged 12 to 23 months) by household wealth quintile:2020
+ 
+Figure 9: Coverage of DTP3 and measles first dose vaccination among children aged 12–23 months (%): 2020
+Figure 10: Incidence of selected VPDs in South Asia: 2020
+Figure 11: A comparison of child vaccination status (DTP3) with respect to wealth in Asia: 2019
+ 
+ 
+II
+5
+6
+6
+7
+7
+8
+10
+10
+13
+13
+14
+15
+ 
+Table 1: List of vaccines administered to a fully immunized child in Pakistan
+Table 2: Vaccination coverage by antigen in 2020
+List of tables
+ 
+4
+9
+11
+12
+Table 3: Percentage of fully immunized children (aged 12-23 months) by parent's educational level in 2020
+Table 4: Reasons for vaccine hesitancy, proportion of children who are not fully vaccinated
+Figure 12: Comparison of health expenditure and immunization coverage in South Asia
+III
+Acronyms
+Bacille Calmette-Guérin
+Conditional Cash Transfers
+Novel coronavirus disease 
+Diphtheria, Tetanus and Pertussis
+Expanded Program on Immunization
+Fiscal Year
+Gross Domestic Product
+Gross National Income
+Hepatitis B
+Haemophilus influenza type b 
+Health, Nutrition, and Population
+Inactivated Polio Vaccine 
+Khyber Pakhtunkhwa 
+National Immunization Support Project
+Oral Polio Vaccine 
+Pakistan Bureau of Statistics 
+Pakistan Demographic and Health Survey 
+Purchasing Power Parity 
+Third-Party Verification Immunization Coverage Survey
+United Nations Children's Fund
+Vaccine Preventable Disease
+World Health Organization
+BCG
+CCT
+COVID-19
+DTP
+EPI
+FY
+GDP
+GNI
+Hep B
+Hib
+HNP
+IPV
+KP
+NISP
+OPV
+PBS
+PDHS
+PPP
+TPVICS
+UNICEF
+VPD
+WHO
+Executive Summary
+Pakistan has made impressive progress in immunization coverage over the past 30 years with a 117.6% 
+increase in the proportion of children aged 12–23 months fully immunized between 1990 and 2020. With 
+improvements in the vaccination rates, Pakistan was able to reduce the incidence of two vaccine preventable 
+diseases (VPDs) – diphtheria by 94% and measles by 88% over the same period. Despite successive 
+achievements, disparities remain in terms of coverage by vaccine type, socioeconomic background, and 
+demographics.
+ 
+Immunization remains a high priority for the Government of Pakistan and an important element of progress 
+toward universal health coverage and resilient health systems. The government initiated the National 
+Immunization Support Project (NISP) in 2016 with financing from partners including the World Bank, the 
+United States Agency for International Development, Gavi the Vaccine Alliance, and the Bill and Melinda Gates 
+Foundation. NISP is a five-year project, scheduled to close in June 2022, which supports and incentivizes the 
+implementation of the government's Expanded Program on Immunization (EPI). NISP has been instrumental 
+in reducing childhood morbidity and mortality from VPDs.
+ 
+Despite significant efforts by the Government and its partners, the immunization coverage is yet to reach the 
+expected benchmarks. Worldwide, Pakistan is one of the two countries where poliomyelitis is still endemic. 
+With respect to coverage of vaccination for diphtheria, tetanus and pertussis/whooping cough, and measles, 
+Pakistan had the second lowest coverage in the South Asia region in 2020. In terms of incidence of VPDs, 
+Pakistan had the second highest incidence of both diphtheria and polio in South Asia in 2020. In comparison 
+to the countries in Eastern and Southern Asia with similar income levels as Pakistan, immunization coverage 
+is relatively low.
+There is a need to continue to strengthen Pakistan's EPI to improve the health of its children. Further 
+enhancing health systems through an expansion of vaccination sites, among others, and prioritizing lagging 
+areas to maximize immunization coverage in underperforming provinces and districts, are two important. In 
+addition, ensuring sustainable financing for EPI, fostering public–private partnership, and exploring 
+innovative approaches for improving vaccine uptake and ensuring readiness of the supply side, can help 
+improve immunization coverage.
+1
+1. Background
+Pakistan is the fifth most populous country in the world, with a projected population of 232 million in 2021, of 
+whom 51 million are women of childbearing age and 33 million children under five years of age. The gross 
+national income per capita was US$1,410 in 2019. Periodic macroeconomic crises and a low human capital 
+basis have constrained the country's growth prospects. Between fiscal years (FY) 2019 and 2020, annual 
+economic growth, measured using gross domestic product (GDP), averaged around 4.3% in Pakistan, below 
+the South Asian annual average of 6.2%. According to the World Bank Human Capital Index, if no 
+improvements in health and education service delivery take place, a Pakistani child born today can expect to 
+be only 40% as productive as s/he otherwise could be by age 18.
+Pakistan has witnessed some improvements in health, nutrition, and population (HNP) outcomes over the 
+years; significant challenges however remain, especially given the progress made by countries of comparable 
+wealth. Pakistan was not able to achieve any of the 2015 HNP-related millennium development goals; and, at 
+current trends, is unlikely to meet most of the HNP-related Sustainable Development Goals by 2030. Goal 3 of 
+the SDGs is to: “ensure healthy lives and promote wellbeing for all at all ages”. Two of the targets of this goal 
+are, to end preventable deaths of newborns and children under five years of age, with all countries aiming to 
+reduce neonatal mortality—death within the first 28 days of birth—to no more than 12 per 1,000 live births, 
+and under-five mortality (the probability of a child dying before their fifth birthday) to no more than 25 per 
+1,000 live births by 2030. Pakistan reduced its neonatal mortality rate from 53.3 per 1,000 live births in 1990 
+to 41 deaths per 1,000 live births in 2019, but this rate was still the second highest in the world.   Similarly, the 
+under-five child mortality rate ) declined from 120.4 per 1,000 live births in 1990 to 74 per 1,000 live births in 
+2019. 
+Childhood immunization against vaccine preventable diseases (VPD) presents a highly cost-effective 
+intervention by delivering significant reductions in morbidity and mortality from inexpensive and 
+standardized interventions. It remains one of the most fundamental competencies of public health programs. 
+The Expanded Program on Immunization (EPI) has existed in Pakistan since 1978. In line with international 
+standards, EPI in Pakistan aims to immunize all children against VPDs that include childhood tuberculosis, 
+poliomyelitis, diphtheria, tetanus, pertussis, hepatitis B, haemophilus influenza type b (Hib) pneumonia and 
+meningitis, measles, and diarrhea due to rotavirus. 
+Immunization is a high priority for the Government of Pakistan and an important part of making progress to 
+universal health coverage and building resilient health systems. The government initiated the National 
+Immunization Support Project (NISP) in 2016 with financing from partners including the World Bank, the 
+United States Agency for International Development, Gavi the Vaccine Alliance, and the Bill and Melinda Gates 
+Foundation. NISP is a five-year project, scheduled to close in June 2022, that aims to increase equitable 
+coverage of services for immunization against VPDs, including poliomyelitis, for children aged 0–23 months 
+in Pakistan. The project supports and incentivizes the implementation of the government's EPI program, 
+which has contributed to significantly decreasing childhood morbidity and mortality from VPDs. Despite 
+significant efforts by the government and its partners, Pakistan's immunization indicators have yet to reach 
+the expected benchmarks. Pakistan is one of the two countries in the world, where poliomyelitis is still 
+endemic.  The country ranks third in terms of highest number of unimmunized children (1.2 million) in the 
+world, after Nigeria (approximately 4 million) and India (2.9 million).
+https://databank.worldbank.org/data/download/hci/HCI_2pager_PAK.pdf
+data.worldbank.org
+Pakistan Demographic and Health Survey 2017-18. 2019. National Survey, Islamabad: National Institute of Population Studies (NIPS) and ICF.
+3
+2
+1
+4 http://www.emro.who.int/pak/programmes/expanded-programme-on-immunization.html
+Global Polio Eradication Initiative. 2021. https://polioeradication.org/where-we-work/polio-endemic-countries/
+ UNICEF. 2021. https://www.unicef.org/pakistan/press-releases/over-20-million-children-worldwide-missed-out-measles-vaccine-annually-past-8-years
+2
+Introduction
+1
+2
+3
+4
+5
+6
+5
+6
+This report documents the progress made by Pakistan in immunizing its children between 1990 and 2020. 
+This is based on analysis of primary data collected through a nationwide survey, the Third-Party Verification 
+Immunization Coverage Survey (TPVICS) 2021, as well as data from existing sources including the Pakistan 
+Demographic and Health Survey (PDHS). The next chapter documents the significant progress made in 
+immunization coverage over time, followed by a regional comparison of immunization status in South Asia to 
+highlight where Pakistan stands. The report concludes with some programmatic recommendations.
+3
+Objectives of the report
+Data sources
+This report is based on secondary analysis of survey data including the TPVICS 2021 and PDHS. Demographic 
+Health Surveys are standard internationally accepted surveys administered in nearly 90 countries across the 
+world to collect information on selected health, nutrition, and population outcomes. 
+The cross-sectional TPVICS survey was carried out on children aged 12–23 months with a sample larger than 
+that used for PDHS 2018. TPVICS covered almost 98,000 children, whereas PDHS 2018 covered 2,463 
+children of 12–23 months. The Pakistan Bureau of Statistics (PBS) was consulted for finalizing the sampling 
+frame of the survey. Data was collected over the period from September 2020, starting with Punjab, and 
+ending in January 2021 with Khyber Pakhtunkhwa (KP). The survey covered 97,760 children across the 
+country, of whom 53,063 were male and 44,697 female. For the purposes of TPVICS, a fully immunized child is 
+defined as one who has completed all immunizations starting with BCG at birth up to the first dose of measles 
+administered at 9 months of age, as per EPI schedule, except for rotavirus vaccine (see Table 1). 
+Like the PDHS, the TPVICS included background characteristics of the child's household, parents' level of 
+educational attainment, and wealth. A household comprises either one person living alone or a group of 
+people living at the same address, who may or may not be related, with common housekeeping, who either 
+share at least one meal a day or share common living accommodation (that is, a living room or sitting room).  ..
+Parental education level is classified into four categories: none (not attended formal schooling), primary 
+education (1–5 years of formal education), middle (6–8 years of formal education), secondary (9–10 years), 
+and higher (11 years or more). Households are divided into five categories (poorest, poor, middle, rich, and 
+richest) of equal size (that is, quintiles each with 20% of the population) using the number and types of 
+consumer goods they own, ranging from a television to a bicycle or car, and housing characteristics such as 
+source of drinking water, toilet facilities, and flooring materials.    For the purpose of the TPVICS, KP province 
+included 25 districts and not the newly merged districts that were part of the Federally Administered Tribal 
+Areas. The districts included for KP are: Abbotabad, Bannu, Batagram, Buner, Charsadda, Chitral, Dera Ismail 
+Khan, Hangu, Haripur, Karak, Kohat, Kohistan, Lakki Marwat, Lower Dir, Malakand protected area, Mansehra, 
+Mardan, Nowshera, Peshawar, Shangla, Swabi, Swat, Tank, Torghar, and Upper Dir.
+OECD. 2013. “Household definitions in other statistical standards”, in OECD Guidelines for Micro Statistics on Household Wealth, OECD Publishing, Paris. 
+https://doi.org/10.1787/9789264194878-18-en
+Filmer, Deon, and Lant H. Pritchett. 2001. "Estimating Wealth Effects without Expenditure Data—or Tears: An Application to Educational Enrollments in States of India." Demography 115–132
+PDHS. 2018.
+7
+7
+8
+9
+8,9
+Table 1: List of vaccines administered to a fully immunized child in Pakistan
+4
+Disease
+Vaccine
+Doses
+Administered at (child’s 
+age)
+Childhood 
+tuberculosis
+Bacille Calmette-Guérin (BCG)
+1
+Soon after birth
+Poliomyelitis
+Oral Polio Vaccine (OPV)
+4
+OPV0: soon after birth
+OPV1:six weeks
+OPV2: 10 weeks
+OPV3: 14 weeks
+Inactivated Polio Vaccine (IPV)
+1
+IPV1: 14 weeks
+Diphtheria
+Pentavalent vaccine
+3
+Penta1: 6 weeks
+Penta2: 10 weeks
+Penta3: 14 weeks
+Tetanus
+Pertusis (Whooping 
+cough)
+(DTP + Hep B + Hib)
+Hepatitis B
+Hib pneumonia and 
+meningitis
+Measles
+Measles
+1
+Measles1: 9 months
+The report also uses data from the World Bank Databank (
+and the World Health 
+https://databank.worldbank.org/home) 
+Organization (WHO) immunization dashboard (https://immunizationdata.who.int).
+2. Immunization coverage
+    in Pakistan: 1990 to 2020
+Over the course of 30 years from 1990 to 2020, Pakistan more than doubled its immunization coverage (an 
+increase of 117.6%). During that period the proportion of fully immunized children aged 12–23 months 
+increased from 35% to 76% (see Figure 1). There was no noteworthy variation by gender in 2020, with 76.6% 
+of female children and 76.2% of male children fully vaccinated. Similarly, there was no rural–urban divide, 
+with 76.2% of children fully vaccinated in rural areas in 2020 compared to 76.7% in urban areas, for Pakistan 
+overall. It is important to note that immunization service delivery in 2020 was hampered due to the outbreak 
+of novel coronavirus disease (COVID-19) and, therefore, the immunization coverage rates were lower than 
+planned.
+Greater immunization coverage over the period meant that Pakistan was able to reduce the incidence of two 
+VPDs—diphtheria and measles—by 94% and measles by 88% respectively between 1990 and 2020 (see 
+Figures 2 and 3). Diphtheria is a serious infection that causes difficulty in breathing, heart failure, paralysis, 
+and even death especially among children.  Measles is a highly contagious disease and can be fatal for 
+...
+children under five years of age, the elderly, pregnant women, and those with a weakened immune system.  
+...
+Both these diseases can be prevented through vaccination. 
+Pakistan also reduced the incidence of poliomyelitis (a disabling, sometimes fatal disease) between 1990 and 
+2020 from 777 to 135 cases. Despite this progress, Pakistan is one of the two countries in the world where 
+poliomyelitis is still endemic.  According to WHO, eradication of poliomyelitis requires high immunization 
+coverage to block transmission of the virus that is extremely contagious. Several factors explain why some 
+children are still not being vaccinated. These include lack of infrastructure, remote locations, population 
+movement, conflict and insecurity, and resistance to vaccination.
+https://www.cdc.gov/diphtheria/index.html
+https://www.mayoclinic.org/diseases-conditions/diphtheria/symptoms-causes/syc-20351897#:~:text=Diphtheria%20can%20be%20treated%20with,be%20deadly%2C%20
+especially%20in%20children.
+https://www.cdc.gov/measles/symptoms/complications.html
+Global Polio Eradication Initiative. https://polioeradication.org/where-we-work/polio-endemic-countries/
+https://www.who.int/news-room/feature-stories/detail/pakistan-and-afghanistan-the-final-wild-poliovirus-bastion
+11
+10
+12
+ 
+Figure 1: Proportion of fully immunized children in Pakistan, 1990 to 2020
+ 
+1990/91
+2006/07
+2012/13
+2017/18
+2020
+Source: TPVICS for 2020 data and PDHS for all other years
+13
+10
+11
+12
+13
+14
+14
+5
+ 
+35.1%
+47.3%
+53.8%
+65.6%
+76.4%
+NISP implementation period
+https://www.cdc.gov/mmwr/volumes/68/wr/mm6822a4.htm#:~:text=in%20all%20districts.-,Immunization%20Activities,ages%209%20and%2015%20months.
+https://www.unicef.org/pakistan/press-releases/unicef-and-who-join-forces-support-pakistans-mass-measles-immunisation-campaign
+15
+16
+Figure 2: Incidence of diphtheria and coverage of DTP3 vaccination: 1990 to 2020
+Figure 3: Incidence of measles and coverage of measles first and second 
+dose vaccination: 1990 to 2020
+ 
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+0
+200
+400
+600
+800
+1,000
+1,200
+1,400
+1990
+1991
+1992
+1993
+1994
+1995
+1996
+1997
+1998
+1999
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+DTP3 vaccination (%)
+Incidence of diphtheria (number)
+Diphtheria (reported cases)
+DTP3 coverage (in %)
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+0
+5,000
+10,000
+15,000
+20,000
+25,000
+30,000
+35,000
+1990
+1991
+1992
+1993
+1994
+1995
+1996
+1997
+1998
+1999
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+Measles vaccination (in %)
+Incidence of measles (number)
+Measles (reported cases)
+Measles vaccination (1st dose, in %)
+Measles vaccination (2nd dose, in %)
+Source: Data from WHO–UNICEF Joint Reporting available at: https://immunizationdata.who.int
+Source: Data from WHO–UNICEF Joint Reporting
+Notes: Second dose of the measles vaccine was introduced in Pakistan in 2009;    there was a measles epidemic in
+2018 in Pakistan and supplementary immunization activities were conducted to vaccinate children against
+measles that year.
+15
+16
+6
+In 2020 the proportion of fully immunized children varied among the four provinces, from 38% in 
+Balochistan to almost 90% in Punjab (see Figure 4). Nevertheless, the gains documented by each province 
+since 1990 remain impressive (see Figure 5). Notable challenges to vaccine service delivery in Balochistan 
+are difficult terrain and security issues. Interestingly, although KP also faces security issues, the vaccination 
+coverage there is better than in Sindh, which has the country's second-largest provincial economy and better 
+infrastructure than KP. 
+https://en.wikipedia.org/wiki/Sindh
+17
+Immunization coverage in the provinces
+Figure 4: Percentage of fully immunized children (aged 12 to 23 months) in Pakistan: 2020
+17
+7
+37.6%
+68.4%
+89.9%
+61.1%
+Balochistan
+Khyber Pakhtunkhwa
+Punjab
+Sindh
+ 
+18%
+38%
+39%
+25%
+35%
+47%
+53%
+37%
+16%
+53%
+29%
+29%
+55%
+49%
+38%
+61%
+Balochistan
+KP
+Punjab
+Sindh
+1990/91
+2006/07
+2012/13
+2017/18
+2020
+Source: TPVICS for 2020 data and PDHS for all other years
+66%
+80%
+68%
+90%
+Figure 5: Percentage of fully immunized children (aged 12–23 months) in the provinces: 1990 to 2020
+KP and Punjab had the highest coverage in 2020, with 68% and 90% of fully immunized children respectively, 
+while coverage in Sindh was 61% and in Balochistan 38% (the lowest in Pakistan). Nonetheless, this still 
+represents an impressive increase of 20 percentage points or 111% for Balochistan since 1990. During the 
+NISP implementation period, which started in 2017/18, all provinces documented significant improvements 
+in immunization coverage. Over the 28 years preceding NISP, i.e., between 1990 and 2018, Balochistan 
+increased the proportion of fully immunized children by 62%, KP by 45%, Punjab by 107%, and Sindh by 
+93%. By contrast, during the NISP implementation, in only three years between 2017/18 and 2020, 
+Balochistan improved coverage by 31%, KP by 25%, Punjab by 13%, and Sindh by 25%. This points to the 
+huge contribution made by NISP. Despite the progress summarized in this section, a relatively large 
+proportion of children remain unvaccinated. In Balochistan, in 2020, one in every three children aged 12–23 
+months was not vaccinated; compared to roughly one in 10 in KP (11.4%) or Sindh (7.2%); whereas in Punjab 
+only 0.7% of children were not vaccinated in 2020.
+Source: TPVICS for 2020 data and PDHS for all other years
+Figure 6: Improvements in percentage of fully immunized children (aged 12–23 months) 
+during NISP period 
+2 8 Y e a r s
+ Preceding NISP
+NISP implementation 
+3 Y e a r s
+ 1990 to 2018
+2017/18 to 2020
+62%
+45%
+31%
+25%
+25%
+13%
+107%
+93%
+Balochistan
+Khyber 
+Pakhtunkhwa
+Punjab
+Sindh
+8
+Disease
+% of children age 12-23 
+months vaccinated by
+Pakistan Balochistan KP
+Punjab
+Sindh
+Childhood 
+tuberculosis
+BCG soon after birth
+93.3
+59.7
+87.1
+99.0
+91.9
+Poliomyelitis
+OPV at birth (OPV 0)
+92.5
+58.0
+85.9
+98.5
+90.9
+OPV 1 at 6 weeks
+91.3
+55.5
+84.8
+98.3
+87.7
+OPV2 at 10 weeks
+88.0
+50.6
+80.2
+97.2
+81.2
+OPV3 at 14 weeks
+84.1
+45.1
+75.2
+94.9
+74.9
+Inactivaed polio vaccine 
+(IPV) at 14 weeks
+84.2
+44.7
+75.9
+95.4
+73.7
+DTP, Hep B, Hib
+Pentavalent vaccine 
+(Penta 1) at 6 weeks
+90.4
+52.3
+83.2
+98.2
+85.9
+Penta 2 at 10 weeks
+87.4
+47.6
+79.6
+97.1
+79.6
+Penta 3 at 14 weeks
+83.5
+42.2
+74.3
+94.9
+73.2
+Measles
+Measles
+80.4
+42.6
+73.1
+92.5
+67.1
+Measles 2 (15 to 23 
+months)
+55.7
+12.8
+49.5
+69.1
+41.3
+Table 2: Vaccination coverage by antigen: 2020
+Source: TPVICS 2021
+ 
+Besides, there is a wide variation in immunization coverage between rural and urban areas with the rural 
+areas lagging significantly in Balochistan, KP and Sindh. In Punjab, there were proportionally more fully 
+immunized children in rural areas than in urban areas (see figure 7). Focusing exclusively on rural areas, the 
+data show that roughly one-third of the children were vaccinated in Balochistan, a little more than half in 
+Sindh, and 67% in KP. This clearly indicates the need for ramping up efforts to vaccinate children in the rural 
+areas. 
+Gaps in immunization coverage
+Although immunization coverage has improved over time, disparities exist in terms of coverage by vaccine 
+type, socioeconomic background, and demographics. There is considerable variation in coverage of each type 
+of vaccine among the provinces. Punjab documented the highest coverage for every vaccine while Balochistan 
+has lagged behind (see Table 2). Sindh lags considerably behind Punjab; for some vaccines, such as against 
+polio and measles, the immunization rate in Sindh is lower than in KP. 
+9
+As expected, a household's wealth has a bearing on the likelihood of its children being vaccinated. The two 
+lowest income quintiles lag significantly compared to the richer quintile for all provinces, except Punjab, 
+where coverage is comparable across the income groups (see Figure 8). For Sindh, the difference between the 
+richest quintile and the four lower income quintiles is stark—immunization coverage among the richest was 
+20% more than in the middle-income quintile and 37% greater than in the poorest quintile. Intriguingly, the 
+immunization coverage among the richest quintile in Sindh was lower than in KP. For Balochistan, the three 
+richest quintiles had similar immunization coverage levels.
+Figure 8: Percentage of fully immunized children (aged 12–23 months) 
+by household wealth quintile: 2020
+ 
+ 
+53.7
+26.7
+40.4
+89.0
+52.3
+65.4
+37.4
+54.2
+88.4
+53.0
+75.4
+45.7
+62.0
+90.0
+59.9
+81.3
+49.4
+75.2
+91.4
+59.2
+83.8
+48.3
+80.8
+89.4
+71.8
+Pakistan
+Balochistan
+KP
+Punjab
+Sindh
+Lowest
+Second
+Middle
+Fourth
+Fifth
+Source: TPVICS 2021
+ 
+76.2
+33.6
+66.8
+91.7
+56.4
+76.7
+48.5
+75.1
+86.7
+65.4
+Pakistan
+Balochistan
+KP
+Punjab
+Sindh
+Rural
+Urban
+Source: TPVICS 2021
+Figure 7: Percentage of fully immunized children (aged 12–23 months) by residence: 2020
+10
+ 
+Infrastructural issues including proximity to the nearest vaccination site, mistrust in the overall vaccination 
+program, and lack of information were some of the reasons for vaccine hesitancy in 2020. The table below 
+indicates the reasons stated by parents of children who did not receive all the required vaccinations. This 
+points to the need for strengthened information campaigns alongside enhanced service delivery systems.
+Table 3: Percentage of fully immunized children (aged 12–23 months) by 
+parent's educational level: 2020
+Education level
+Pakistan
+Balochistan
+KP
+Punjab
+Sindh
+Mother’s education:
+No education
+67.9
+35.5
+60.5
+89.1
+53.3
+Primary
+83.3
+27.5
+76.3
+90.6
+63.2
+Middle
+81.3
+36.7
+78.5
+88.4
+62.4
+Secondary 
+83.8
+47.8
+79.3
+90.6
+71.7
+Higher
+87.1
+66.2
+82.4
+91.1
+81.5
+Father’s education:
+No education
+88.9
+51.1
+58.3
+34.5
+66.8
+Primary
+89.1
+56.9
+66.6
+37.3
+78.8
+Middle
+90.4
+64.1
+70.0
+35.3
+82.7
+Secondary
+90.8
+68.3
+74.4
+43.8
+82.6
+Higher
+90.7
+76.1
+79.1
+63.5
+83.6
+Source: TPVICS 2021
+ 
+The parents' education plays a key role in the vaccination status of a child. In Balochistan and Sindh the 
+father's education played a stronger role (than the mother's) whereas in KP and Punjab, mother's education 
+played a stronger role than father's education (see Table 3). 
+Factors that influence vaccination uptake
+11
+ 
+Table 4: Reasons for vaccine hesitancy (expressed) as a percent of children 
+not fully vaccinated): 2020
+Reasons for vaccine hesitancy
+Balochistan
+KP
+Punjab
+Sindh
+Infrastructure/program related issues:
+Place of immunization too far
+6.5
+1.7 
+0.1
+1.4
+Time of immunization not convenient
+1.3 
+ 
+0.4
+0.0
+0.2
+Took child to the site but no vaccine was available
+0.3
+0.0
+0.0
+0.1
+Took child to the site but no vaccinator was there
+0.5
+0.1
+0.0
+0.0
+Long wait
+0.9
+0.2
+0.0
+0.2
+Information gap:
+Rumors
+8.6
+3.9
+0.2
+1.6
+No faith in immunization
+5.2
+3.6
+0.2
+2.6
+Fear of reaction (side effects)
+3.1
+1.1
+0.1
+1.0
+Time or place of immunization not known
+3.6
+0.5
+0.0
+0.4
+Took child to the site but it was closed
+0.3
+0.1
+0.0
+0.0
+Took child to the site but not on the vaccination day
+0.3
+0.1
+0.0
+0.0
+Other:
+Mother too busy
+2.9
+0.7
+0.1
+0.7
+Family problem including mother ill
+1.5
+1.1
+0.0
+0.4
+Child ill, not taken to the vaccination site
+1.8
+1.0
+0.0
+0.7
+ 
+Source: TPVICS 2021
+12
+This section provides an overview of where Pakistan stands in immunizing its children with respect to other 
+countries in the region. With respect to coverage of DTP3 and measles (first dose) vaccination, Pakistan had 
+the second lowest coverage in the South Asia region in 2020 (see Figure 9). 
+In terms of incidence of VPDs, Pakistan had the second highest incidence of both diphtheria and polio in South 
+Asia in 2020. With respect to measles, the incidence in Pakistan was the fourth highest (see Figure 10). 
+Pakistan and Afghanistan are the only two countries in the world where polio is still prevalent. All others 
+including those in South Asia have all been declared polio free by WHO.
+3. A Regional comparison
+13
+70
+98
+95
+85
+99
+84
+77
+96
+66
+97
+93
+89
+99
+87
+83
+96
+Afghanistan
+Bangladesh
+Bhutan
+India
+Maldives
+Nepal
+Pakistan
+Sri Lanka
+DTP3
+Measles 1
+0.1
+0.1
+0
+2.5
+0
+0
+0.4
+0
+9.3
+14.6
+2.6
+4.1
+27.7
+13.3
+12.4
+0.1
+18.9
+0
+0
+0
+0
+0
+1.8
+0
+Afghanistan
+Bangladesh
+Bhutan
+India
+Maldives
+Nepal
+Pakistan
+Sri Lanka
+Diphtheria
+Measles
+Polio
+Figure 9: Coverage of DTP3 and measles first dose vaccination among children 
+aged 12–23 months (%): 2020
+Source: Data from WHO–UNICEF Joint Reporting
+Figure 10: Incidence of selected VPDs in South Asia: 2020
+Source: Data from WHO–UNICEF Joint Reporting
+Note: the figures are expressed as cases per 1 million population. Incidence rate of diphtheria for Afghanistan is for 2019; 
+measles for Afghanistan and Bhutan for 2019.
+In comparison to the countries in Eastern and Southern Asia that have similar income levels to those of 
+Pakistan, immunization coverage is relatively low (see Figure 11). Countries of comparable wealth, such as 
+Cambodia, Nepal, Bangladesh, or Myanmar had much higher coverage of DTP3 vaccines in 2019. Pakistan 
+with its GDP per capita of US$4,889 had a DTP3 coverage rate of 75% compared to Cambodia with GDP per 
+capita of US$4,574 and 92% DTP3 coverage, Nepal US$4,120 and 93% coverage, Bangladesh US$4,955 and 
+98%, or Myanmar US$5,297 and 90%. This points to the need for Pakistan to further strengthen its 
+immunization program to improve the health of its children. In addition, there is a need to further improve 
+efficiency of the EPI program. As reflected in Figure 12, health expenditure per capita in Pakistan is mostly at 
+par with other countries in South Asia. The immunization coverage rate, however, is comparatively low.
+14
+Figure 11: A comparison of child vaccination status (DTP3) with respect to wealth in Asia: 2019
+Source: World Bank Databank
+Notes: 2019 data used for this figure. Per capita values for GDP are expressed in current international dollars converted by 
+purchasing power parity (PPP) conversion factor. DTP3 coverage means three doses of DTP vaccines administered to 
+children aged 12–23 months. Countries included in this figure are drawn from the World Bank's South Asia and 
+East Asia and the Pacific regions.
+Immunization gap (%)
+US$ 000 for GDP per capita at PPP
+100
+90
+80
+70
+60
+50
+40
+30
+20
+10
+0
+120.0
+100.0
+80.0
+60.0
+40.0
+20.0
+Afghanistan
+Kiribati
+Solomon Islands
+Vanuatu
+Micronesia, Fed. Sts.
+Timor-Leste
+Nepal
+Marshall Islands
+Tuvalu
+Papua New Guinea
+Cambodia
+Pakistan
+Bangladesh
+Myanmar
+Tonga
+Somoa
+India
+Lao PDR
+Vietnam
+Philippines
+Indonesia
+Bhutan
+Mongolia
+Sri Lanka
+Nauru
+Fiji
+Palau
+Thailand
+Maldives
+Malaysia
+Japan
+New Zealand
+Brunei Darussalam
+Singapore
+66
+97 94 90
+78
+83
+93
+79
+92
+35
+92
+75
+98
+90
+99
+58
+91
+68
+89
+65
+85
+97 98 99 96
+96
+97
+97
+99
+99
+98
+92
+98
+99
+97
+97
+GDP per capita
+DTP3 coverage
+2.2 2.4 2.8 3.2 3.6 3.7 4.1 4.2 4.5 4.5 4.6 4.9 5.0 5.3 6.6 6.8 7.0 8.2 8.4 9.3 12.312.312.813.614.114.3
+18.319.220.4
+29.6
+42.245.2
+64.7
+102.6
+ 
+ 
+Figure 12: Comparison of health expenditure and immunization coverage in South Asia
+Source: World Bank Databank
+Notes: Domestic health expenditure per capita expressed in current international dollars converted by PPP conversion
+factor. Log of health expenditure is used in this graph. DTP3 coverage means three doses of DTP vaccines administered to 
+children aged 12–23 months. For health expenditure, 2018 data has been used, while for DTP3 coverage, 2020 data 
+has been used. Larger dots indicate higher DTP3 coverage
+15
+Afghanistan
+Bangladesh
+Bhutan
+India
+Maldives
+Nepal
+Pakistan
+Sri Lanka
+$10.00
+DTP3 overage
+Health expenditure per capita (international US$)
+$20.00
+$50.00
+$100.00
+$200.00
+$500.00
+$1,000.00
+50
+60
+70
+80
+90
+100
+The previous section documented Pakistan's impressive progress in immunization coverage (a 117.6% 
+increase in fully immunized children between 1990 and 2020). Consequently, the burden of two VPDs 
+declined, diphtheria by 94% and measles by 88%, over the same period. Despite these improvements, wide 
+variations remain in terms of coverage by vaccine type, socioeconomic background, demographics, as well as 
+between and among provinces. More importantly, Pakistan's immunization coverage is low compared to 
+other countries in the region. The burden of disease remains high, with the incidence of both diphtheria and 
+polio in Pakistan being the second highest in 2020. More worrying still is that Pakistan is one of only two 
+countries in the world where polio is still prevalent. When compared to countries in Eastern and Southern 
+Asia that have a similar level of wealth, Pakistan's immunization coverage ranks very low. These facts point to 
+the need to strengthen Pakistan's immunization program to improve the health of its children. 
+· 
+Prioritize lagging areas: Concerted efforts are needed to maximize the coverage in underperforming 
+provinces and districts by increasing focus on supervision, as well as monitoring and evaluation. To 
+target lagging areas, district-specific strategies can be developed that are better aligned with local 
+norms and culture. Performance-based incentives for outreach workers and vaccinators could be 
+explored to improve vaccine uptake. For hard-to-reach areas, mobile teams can be created.
+· 
+Further strengthen service delivery systems: The number of vaccination sites may need to be 
+increased to reduce waiting time, particularly in densely populated areas. The capacity of the district-
+based EPI teams needs to be strengthened to improve service delivery. Training and use of information 
+technology can enhance the capacity of the vaccinators and EPI teams.
+· 
+Ensuring sustainable financing for immunization: One of the key achievements under NISP is the 
+transfer of immunization-related budget from development partner financing to the government's 
+share. In addition, dedicated accounting codes have been created to track immunization-related 
+budget and expenditure. This helps the government in projecting total requirements and estimating 
+needs. Given the changing burden of diseases, it is critical to ensure that the budgetary needs for 
+immunization are adequately financed and the program is not hampered due to financial constraints. 
+· 
+Foster partnership: Partnership with the private sector can improve the efficacy of the EPI program. It 
+can also help in promoting vaccine uptake and reaching out to areas where there are limited 
+vaccination sites. There are good practices documented by other countries in the region that Pakistan 
+can explore.
+· 
+Explore innovative approaches for increasing demand for vaccination: conditional or co-
+responsibility cash transfers (CCT) have proven to be effective in improving HNP outcomes, 
+particularly creating demand for immunization, in many countries in Asia and Africa. Under a CCT, cash 
+is given to targeted beneficiaries upon fulfillment of conditions or coresponsibilities designed to 
+promote uptake of selected services, such as vaccination. This is being piloted under NISP and can be 
+rolled out if proven successful in the context of Pakistan.
+4. Conclusions and way forward
+28
+16

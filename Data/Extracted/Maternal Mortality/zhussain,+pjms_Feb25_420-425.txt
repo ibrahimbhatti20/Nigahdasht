@@ -1,0 +1,654 @@
+Pak J Med Sci     February  2025    Vol. 41   No. 2      www.pjms.org.pk     420
+INTRODUCTION
+	 Maternal mortality is not only a devastating event in 
+the life of a family but is a strong predictor of growth, 
+progress and development of a country. Globally MMR 
+has declined by 34.3%(from 339 to 223 per 100,000 live 
+births) between 2000 and 2020 with region of Southern 
+Asia having the greatest percentage reduction in MMR 
+of 67.5%(from 397 to 129).1 Analysis of trends in mater-
+nal mortality from 2000 to 2017 showed that Pakistan was 
+amongst the ten countries which accounted for 60% of 
+maternal deaths during  this period.2  MMR survey con-
+ducted in 2019 by National institute  of Population stud-
+	
+Correspondence:
+	
+Dr. Tayyiba Wasim, FCPS
+	
+Professor, Gynae Unit-I, SIMS,
+	
+Services Hospital Lahore,
+	
+Ghaus-ul-Azam, Shadman 1, Jail Road, Lahore, Pakistan.
+	
+Email: tayyibawasim@yahoo.com
+*	
+Received for Publication:	
+	
+April 6, 2024
+*	
+Revision Received:	
+	
+December 2, 2024
+*	
+Corrected & Edited:	
+	
+December 25, 2024
+*	
+Revision Accepted:	
+	
+December 30, 2024
+Original Article
+Maternal Mortality: Causes, trends and delays  
+in care at Tertiary care hospital, Pakistan
+Tayyiba Wasim1, Saira Yunus2, Gul-e-Raana3, Anaab Wasim4
+ABSTRACT
+Objective: To assess the maternal mortality ratio (MMR), causes, trends and delays in care over a period of twelve 
+years at institutional level.
+Methods: This cross-sectional study was conducted over a 12 years period (2011-2022) at Services Hospital, Lahore, 
+Pakistan. Maternal mortality ratio was calculated as number of maternal deaths per 100,000 live births. The study 
+period was divided in two equal halves i.e. 2011-2016 and 2017-2022. Causes, trends in maternal mortality and delays 
+were analyzed and compared between the two study periods. SPSS-23 was used for data analysis.
+Results: There were 222 maternal deaths and 47,853 live births during the study period. The cumulative MMR was 
+463.92/100,000 live births with a decreasing trend over 12 years. Postpartum hemorrhage and cardiac disease in 
+pregnancy were leading cause of death in 44(31.65%) and 31(22.3%) of patients in 2011-2016, while hypertensive 
+disorders in 18(21.69%) patients and sepsis in 15(18.0%) patients were significantly responsible for maternal mortality 
+in 2017-2022 (p=0.00). Analysis of 12 years data showed first delay i.e. delay in seeking care was the commonest seen 
+in 92(41.44%) patients, followed by second delay in 29(13.06%) and third delay in 27(12.16%) patients. Postpartum 
+period and first delay were significantly associated with maternal mortality (p=0.05 and <0.001).
+Conclusion:  Reduction in maternal mortality is a great challenge for developing countries like Pakistan. Although 
+maternal mortality has declined over period of twelve years in our study, targeted interventions at community level 
+are needed to address the delay in seeking care and improve maternal outcomes.
+KEYWORDS: Delays, Maternal mortality, Maternal mortality ratio (MMR), Postpartum hemorrhage.
+doi: https://doi.org/10.12669/pjms.41.2.9974
+How to cite this: Wasim T, Yunus S, Raana GE, Wasim A. Maternal Mortality: Causes, trends and delays in care at Tertiary care hospital, Pakistan. Pak 
+J Med Sci. 2025;41(2):420-425.   doi: https://doi.org/10.12669/pjms.41.2.9974
+This is an Open Access article distributed under the terms of the Creative Commons Attribution License (http://creativecommons.org/licenses/by/3.0), which permits unrestricted 
+use, distribution, and reproduction in any medium, provided the original work is properly cited.
+ies (NIPS) in Pakistan  reported MMR of 186/100,000.3 
+Eliminating preventable maternal deaths remains impor-
+tant goal internationally. However, to fulfill the sustain-
+able development goals, it needs to go further down to 
+70/100,000 live births by 2030.4
+	 Most (80-85%)  of maternal deaths in developing 
+countries are due to direct causes (complications dur-
+ing pregnancy, childbirth and puerperium) including 
+hemorrhage, sepsis, hypertensive disorders and com-
+plication of abortion while indirect causes ( due to pre 
+existing maternal conditions which get aggravated by 
+pregnancy) are responsible for 20-25% of maternal deaths 
+5,6 Most of these maternal deaths are preventable by im-
+proving the healthcare services, addressing the needs of 
+patients across the continuum of care around the time of 
+birth. High number of maternal deaths reflects the poor 
+quality of healthcare system and timely unavailability of 
+existing healthcare facilities to patients. Although cover-
+age of health care has improved but social, economic and 
+cultural barriers play a significant role in accessing the 
+healthcare in low middle income countries (LMIC). 
+	 The ‘three delays’ model developed by Thaddeus and 
+Maine is the most common framework used to evaluate 
+Tayyiba Wasim
+Pak J Med Sci     February  2025    Vol. 41   No. 2      www.pjms.org.pk     421
+circumstances surrounding maternal health.7 The first 
+delay 1) is delay in decision to seek care, 2) is the delay 
+in reaching a healthcare facility, and 3) is the delay in 
+receiving timely and appropriate care at the health care 
+facility. First delay is shaped by factors affecting decision-
+making, including sociocultural influences, financial con-
+straints, and opportunity costs. 
+	 On the other hand, second delay arise from issues such 
+as the distance to the nearest healthcare facility, travel 
+time, transportation availability and cost, and road con-
+ditions. Reaching a health facility does not necessarily 
+mean the end of the journey as the nearest facility may 
+not be equipped to treat the condition or even administer 
+essential first aid so patients are referred to another facil-
+ity that is better equipped. The third delay relates to inad-
+equacies within the health care system itself. This could 
+be lack of properly trained personal, transfusion facility, 
+equipment and other infrastructural inadequacies. Late 
+or wrong diagnosis and incorrect action by the staff are 
+other factors that contribute to delays in the timely pro-
+vision of needed care. The three delays model helps to 
+determine where improvements can be made to save the 
+lives of women and babies.8
+	 The studies in different parts of Pakistan have report-
+ed different MMR and the causative factors for maternal 
+death.9,10 Reliable and timely data identifying the causes 
+and factors responsible for the deaths is crucial for pol-
+icy makers to plan effective interventions in right direc-
+tion. Maternal mortality data is collected from various 
+sources including household surveys, mortality studies, 
+verbal autopsies, confidential enquiries and national 
+surveys. Facility based data offers a contextualized re-
+source for clinical and organizational quality improve-
+ment and inform local policy makers to target deficien-
+cies in health systems.
+	 Hence, a longer duration, maternal mortality review 
+starting from 2011 to 2022 was planned. This study 
+aimed to study factors associated with maternal deaths, 
+causes of maternal death and evaluate site specific trends 
+in the MMR over twelve-year time. To our knowledge, 
+this study provides the latest data on MMR from a gov-
+ernment tertiary care hospital that will aid in evaluating 
+healthcare system efficiency and policy-making related to 
+maternal mortality.
+METHODS
+	 This study was conducted in Obstetrics department, 
+Services Hospital, Lahore which is a public sector tertiary 
+care hospital. This study had a review of all maternal 
+deaths occurring in the from 1st Jan 2011 to Dec 2022.
+Ethical Approval: It was obtained from Institutional 
+Review Board of Services Institute of Medical Sciences, 
+IRB/2018/480/SIMS, dated November 24, 2018.
+Data collection was done through a structured proforma 
+and information was collected from labour room regis-
+ter, case notes of patient and maternal mortality registers. 
+All maternal deaths in our department were included. A 
+maternal death was defined as death of woman during 
+pregnancy or within 42 days of termination of pregnancy 
+from any cause related or aggravated by the pregnancy 
+or its management.1 The number of live births occurring 
+during this study period were calculated from yearly sta-
+Table-I: Characteristics of the Patients enrolled in the study.
+Characteristics
+N (%)
+Age (years)
+Mean age
+28.87 ± 5.102
+<24
+58(26.1%)
+25-35
+148(66.7%)
+>35
+16(7.2%)
+Parity
+Primigravida
+72 (32.4%)
+Multigravida
+150 (67.6%)
+Education
+Illiterate
+74 (33.3%)
+Primary
+79 (35.6%)
+Middle
+35 (15.8%)
+Matric
+34 (15.3%)
+Booking
+Un-booked
+135 (60.8%)
+Booked
+87 (39.2%)
+Socioeconomic
+Lower class
+143 (64.4%)
+Middle class
+71 (32%)
+High class
+8 (3.6%)
+Antenatal Care
+Traditional birth attendants (TBAS)
+86 (38.7%)
+Tertiary care hospital
+47 (21.2%)
+No
+89 (40.1%)
+Pak J Med Sci     February  2025    Vol. 41   No. 2      www.pjms.org.pk     422
+tistics. Maternal mortality ratio was calculated as number 
+of maternal deaths per 100,000 live births. The study pe-
+riod was divided in two equal halves i.e. 2011-2016 and 
+2017-2022. Causes, trends in maternal mortality and three 
+delays were analyzed and compared between the two 
+study periods.
+	 Descriptive statistics in the form of means, frequencies 
+and percentages were calculated and statistical analysis 
+in the form of paired t-test and regression analysis was 
+conducted by using SPSS 23. P values were calculated to 
+show the statistically significant difference. A p-value of 
+less than 0.05 was considered as significant.
+RESULTS
+	 The twelve years review of maternal mortality at a ter-
+tiary care hospital revealed distinct demographic trends. 
+The mean age of women in this group was 28.87 ± 5.102 
+years, women aged 25 to 35 years constituted the high-
+est proportion of cases 148 (66.7%), followed by 58(26.1%) 
+under 25 years.  Most of the women 150 (67.6%) were 
+multigravida. The educational backgrounds varied, with 
+a higher portion being either illiterate 74(33.3%) or having 
+primary education 79 (35.6%). Alarmingly,135 (60.8%) of 
+cases were un-booked for antenatal care in our hospital, 
+and 87(39.2%) of women were not receiving any kind of 
+antenatal care. A notable proportion 143 (64.4%) of cases 
+came from the low socioeconomic class (Table-I).
+	 The results of our analysis show MMR was notably 
+high in 2011 at 631.31, gradually declined over the years, 
+reaching its lowest point in 2020 at 291.3 followed by a 
+sharp rise in 2022 (Fig.1). Regarding causes of maternal 
+mortality, direct causes accounted for 165(74.3%) deaths. 
+Out of these direct causes the main causes were hem-
+orrhage 65(29.2%) followed by hypertensive disorders 
+43(19.36%) and sepsis 36(16.21%). Indirect causes of mor-
+tality were 57((25.6%) out of   which leading one was car-
+diac disease 40(18.0%) followed by infections (hepatitis 
+and COVID)12 (5.4%).
+	 For comparison of data the study period was divided 
+in two groups i.e. 2011-2016 & 2017-2022. Postpartum 
+Table-II: Comparison of maternal mortality trends between two periods, (2011-2016) & (2017-2022).
+Variables
+2011-2022
+N=222
+2011-2016
+N=139
+2017-2022
+N=83
+P-value
+Time of death    
+Antepartum
+34(15.31%)
+21(15.11%)
+13(15.66%)
+0.462
+Intrapartum
+13(58.55%)
+8(5.76%)
+5(6.02%)
+Postpartum
+152(68.46%)
+99(71.22%)
+53(63.86%)
+Post abortion
+23(10.36%)
+11(7.91%)
+12(14.46%)
+Cause of death
+Postpartum hemor-
+rhage
+58(26.12%)
+44(31.65%)
+14(16.87%)
+.000
+Placental abruption 
+7(3.1%)
+2(1.44%)
+5(6.02%)
+Hypertensive disor-
+ders
+43(19.36%)
+25(17.99%)
+18(21.69%)
+Pulmonary embolism
+21(9.45%)
+12(8.63%)
+9(10.84%)
+ Sepsis
+36(16.21%)
+21(15.1%)
+15(18.0%)
+Cardiac disease
+40(18.0%)
+31(22.3%)
+9(10.8%)
+Hepatitis A /E and 
+COVID
+12(5.4%)
+4(2.87%)
+8(9.6%)
+Blood transfusion and 
+Anaphylactic shock
+5(2.25%)
+2(1.43%)
+3(3.6%)
+Mode of delivery
+SVD
+72(32.43%)
+51(36.69%)
+21(25.3%)
+0.380
+LSCS
+93(41.89%)
+56(40.28%)
+37(44.57%)
+Abortion
+23(10.36%)
+11(7.91%)
+12(8.6%)
+    Antepartum 
+34(15.31%)
+21(15.10%)
+13(15.66%)
+Three Delays 
+Admission to death inter-
+val
+1st delay
+92(41.44%)
+57(41.01%)
+35(42.17%)
+2nd delay
+29(13.06%)
+18(12.95%)
+11(13.25%)
+0.002
+3rd delay
+27(12.16%)
+8(5.76%)
+19(22.89%)
+Within 24 hours
+91(65.46%)
+36(43.37%)
+127(57.20%)
+0.001
+25 to 72 hours
+57(25.67%)
+26(18.70%)
+31 (37.34%)
+73 hours to 1 week
+21(9.45%)
+12(08.63%)
+09 (10.84%)
+>1week to 6 weeks
+17(7.65%)
+10(07.19%)
+07 (08.43%)
+Tayyiba Wasim
+Pak J Med Sci     February  2025    Vol. 41   No. 2      www.pjms.org.pk     423
+haemorrhage and cardiac disease in pregnancy were 
+leading cause of death in 44(31.65%) and 31(22.3%) of 
+patients in 2011-2016, while hypertensive disorders in 
+18(21.69%) patients and sepsis in 15(18.0%) patients were 
+significantly responsible for maternal mortality in 2017-
+2022 (p=0.00). No statistically significant difference was 
+found between two groups in mode of delivery although 
+caesarean section rose in subsequent years(p=0.380). 
+However, causes of maternal mortality showed a signifi-
+cant decline (p<0.05) in last six years along with decrease 
+in MMR. Maximum number of patients died in first 24 
+hours, 91(65.46%) in first period (2011-2016) vs 36(43.37%) 
+in second one (2017-2022) p value <0.05 (Table II).
+	 Using three delays of seeking care as a framework for 
+assessing maternal mortality, Analysis of 12 years data 
+showed that first delay was the commonest 92(41.44%) fol-
+lowed by second 29(13.06%) and third delay 27(12.16%). 
+Comparison of two halves of the study period showed 
+no significant change in 1st & 2nd delay however third de-
+lay substantially increased from 8 (5.76%) to 19 (22.89%) 
+(p=0.002) (Fig2). After application of regression analysis, 
+the present study highlighted that time of death (postpar-
+tum) was significantly associated with maternal mortal-
+ity. The women experiencing the delays were nine times 
+more likely to have mortality compared to the women 
+who were not facing the delays, (Table-III).
+DISCUSSION
+	 Our study reports cumulative MMR of 463.92/100,000 
+live births. Mean age of the cases of maternal deaths was 
+28.87 ± 5.102 years and majority had two to three chil-
+dren (multigravida). Review of maternal mortalities from 
+other tertiary care hospitals in Pakistan shows similar 
+data.9,10 Most of these women were uneducated, belonged 
+to lower income group and they did not have access to 
+basic health needs. These characteristics are similar in 
+maternal deaths reported from other LMIC.5-8 Girl edu-
+cation is powerful tool that can empower them to make 
+informed decision about their sexual and reproductive 
+health.
+	 There is a decreasing trend seen in MMR till 2021 fol-
+lowed by rise in 2022. Declining trends in MMR in our 
+study till 2021 is consistent with a retrospective study 
+from Hyderabad, Sindh reported comparatively higher 
+Table III: Regression analysis of factors affecting maternal mortality
+Predictors
+Odds ratio
+CI 95%
+p-value
+Time of death(postpartum)
+0.625
+0.384 - 1.018
+0.059
+Mode of delivery
+1.141
+0.856 - 1.522
+0.367
+First Delay
+9.777
+2.66 - 35.87
+< 0.001
+OR: Odds ratio; CI: Confidence Interval; p≤0.05 considered significant.
+Fig.1: Trends in maternal mortality.
+Tayyiba Wasim
+Pak J Med Sci     February  2025    Vol. 41   No. 2      www.pjms.org.pk     424
+cumulative MMR of 1521.5/100,000 live births with a 
+downward trend over 20 years.10 Another study from 
+Peshawar reported MMR of 431/100,000 live births with 
+decreasing trend from 2013-2017.11 There is an overall 
+decline in maternal mortality reflecting impact of vari-
+ous attempts of the Punjab government to improve the 
+healthcare facilities regarding antenatal care and deliv-
+ery by skilled birth attendants. The number of skilled 
+birth attendants has increased from 26% in 1991 to 91% 
+in 2019 and the number of deliveries at these facilities 
+has also increased from 14 to 71% during this period.12 
+However, MMR estimation done from tertiary care hos-
+pital show high number as majority patients with com-
+plications are referred there from lower levels of care 
+emphasizing the need for continuous monitoring and 
+targeted interventions to sustain and improve maternal 
+health outcomes at tertiary care hospitals.13
+	 There is a rise in MMR in the year 2022. This may be 
+due to combination of different factors: Rising rate of C-
+section leading to increase in number of cases of morbidly 
+adherent placenta leading to antenatal, intrapartum and 
+post-partum complications11 and implementation of MP-
+DSR system (Maternal and perinatal death surveillance 
+response system) in the department. MPDSR is a depend-
+able tool introduced by WHO to identify, quantify and 
+prevent maternal and perinatal death in countries with 
+no uniform policy to report and analyze maternal deaths. 
+The primary target of MPDSR is reducing future avoid-
+able maternal mortality through a continuous action and 
+surveillance cycle followed by the interpretation of the 
+collected information to recommend actions that will pre-
+vent future deaths.14
+	 Postpartum hemorrhage, hypertensive disorders, car-
+diac diseases and sepsis were the most common causes 
+of maternal mortality in our study. Similar results were 
+shown in previous studies as well.4-12,15 Our study showed 
+a significant decline in incidence of deaths due to post-
+partum hemorrhage from 2012 to 2022. Although hem-
+orrhage remains leading cause of deaths worldwide, 
+incidence of uterine atony has reduced globally because 
+of trained healthcare professionals’ availability during 
+childbirth leading to early recognition and management 
+of uterine atony.16 Increased use of uterotonics like mis-
+oprostol along with standardized guidelines and proto-
+cols for managing postpartum hemorrhage (PPH) also 
+has a role to play.
+	 The majority of maternal deaths occurred in postpar-
+tum period in our study which is actual crucial period of 
+surveillance, similar to other studies.5,6,8-10 Proper training 
+of HCPs and awareness of families should be done to ad-
+dress and prevent avoidable factors.
+	 The three delays model takes a holistic approach to un-
+derstanding the various responsibilities at the household, 
+community, and health system levels to prevent mater-
+nal deaths. The majority of our patients had first delay 
+(41.44%) as more than half deaths occurred within 24 
+hours of admission, which is failure to recognize the early 
+signs of complications and decision to seek help.  Similar 
+data is reported in other studies from Pakistan.10-12 The 
+pregnant ladies often delay in seeking necessary health 
+care because of lack of education, autonomy, empower-
+ment and poor socioeconomic condition. Women are 
+usually dependent on their husband to decide about their 
+medical care, in addition to that these ladies feel that care 
+of others at home is more important for them.17 Illiteracy, 
+lack of antenatal care and poor socioeconomic class were 
+important factors associated with maternal mortality in 
+our study as is reported from other studies of LMIC.7,8,18 
+Almost 60% of the women who died, did not have any 
+antenatal booking in our hospital and 39% of them did 
+not had any antenatal booking in any healthcare setup. 
+Every woman requires access to superior healthcare 
+throughout pregnancy, childbirth, and the postpartum 
+period. Maternal well-being is intricately connected 
+Fig.2:  Trends of three delays of care over two periods of years.
+Tayyiba Wasim
+Pak J Med Sci     February  2025    Vol. 41   No. 2      www.pjms.org.pk     425
+to newborn health, underscoring the critical necessity 
+of skilled healthcare professionals attending all births. 
+Timely intervention and care from trained professionals 
+can significantly impact the survival outcomes for both 
+mothers and newborns.19
+	 Once women decide to seek care, there is usually much 
+delay in reaching healthcare facility which can provide ap-
+propriate care representing second delay. Lack of funds, 
+non-availability of transport and infrastructure are prime 
+reasons.20,21 Third delay in our study has been reported 
+to be around 12% however it is much higher (96.8%) in 
+studies from Malawi and Egypt.8,22 Lack of proper care 
+at healthcare facility due to non-availability of required 
+resources, inadequate blood transfusion services, dearth 
+of qualified personals and equipment are most important 
+reasons for deaths despite reaching a facility.
+	 Maternal mortality reduction is a great challenge for 
+government to meet SGD target. There is a great dis-
+parity in access between rural and urban populations, 
+with the majority of Pakistan’s citizens residing in rural 
+regions where healthcare infrastructure is sparse.23 To 
+address these challenges, it is imperative for govern-
+ments and organizations to prioritize funding alloca-
+tions, particularly in rural areas, to train more qualified 
+healthcare professionals, establish additional healthcare 
+facilities, and raise awareness about the importance of 
+antenatal, delivery, and postpartum care.
+Limitations: Since we collected data from a tertiary care 
+hospital in Punjab, this may limit its generalizability to 
+other provinces of Pakistan due to different healthcare 
+systems. Our study highlighted trends in maternal mor-
+tality but being a cross-sectional study, it may not pro-
+vide direct insights into the effectiveness of specific in-
+terventions aimed at reducing maternal mortality rates. 
+Future research should explore this area.
+CONCLUSION
+	 Reduction in maternal mortality is a great challenge for 
+developing countries like Pakistan. Changing maternal 
+health dynamics over the twelve-year period emphasizes 
+the need for continuous monitoring and targeted inter-
+ventions to sustain and improve maternal health out-
+comes at the hospitals.
+Conflict of interest: None.       Funding: None.
+REFERENCES
+1.	
+Trends in maternal mortality 2000 to 2020: Estimates by WHO, UNICEF, 
+UNFPA, World Bank Group and UNDESA/Population Division [Internet]. 
+World Health Organization; [Accessed on Apr 3rd 2024]. Available from: 
+https://www.who.int/publications-detail-redirect/9789240068759 
+2.	
+Trends in maternal mortality: 2000 to 2017 [Internet]. Accessed on Apr 3rd 
+2024.Available from: https://www.unfpa.org/featured-publication/trends-
+maternal-mortality-2000-2017 
+3.	
+NIPS P. Pakistan Maternal Mortality Survey 2019- Key Indicators Report. 2019. 
+4.	
+World Health Organization. World health statistics 2016: monitoring health for the 
+SDGs sustainable development goals. Geneva: World Health Organization; 2016.
+5.	
+Lawrence ER, Klein TJ, Beyuo TK. Maternal Mortality in Low and Middle-
+Income Countries. Obstet Gynecol Clin North Am. 2022;49(4):713-733. doi: 
+10.1016/j.ogc.2022.07.001
+6.	
+Kassebaum NJ, Barber RM, Bhutta ZA, Dandona L, Gething PW, Hay SI, et 
+al. Global, regional, and national levels of Maternal Mortality, 1990–2015: 
+A systematic analysis for the global burden of disease study 2015. Lancet. 
+2016;388(10053):1775-1812. doi: 10.1016/s0140-6736(16)31470-2 
+7.	
+Thaddeus S, Maine D. Too far to walk: maternal mortality in context. Soc Sci Med. 
+1994;38(8):1091–1010. doi: 10.1016/0277-9536(94)90226-7. 
+8.	
+Mgawadere F, Unkels R, Kazembe A, Van den Broek N. Factors associated with 
+maternal mortality in Malawi: Application of the three delays model. BMC 
+Pregnancy and Childbirth. 2017;17(1). doi: 10.1186/s12884-017-1406-5 
+9.	
+Bano N, Chaudhri R, Yasmeen L, Shafi F, Ejaz L. A study of maternal 
+mortality in eight principal hospitals in Pakistan in 2009. Int J Gynecol Obstet. 
+2011;114(3):255-259. doi: 10.1016/j.ijgo.2011.03.018
+10.	
+Nisar N, Abbasi RM, Chana SR, Rizwan N, Badar R. Maternal Mortality In 
+Pakistan: Is There Any Metamorphosis Towards Betterment? J Ayub Med Coll 
+Abbottabad. 2017;29(1):118-122. 
+11.	
+Rafiq S, Syed W, Ghaffar SF. Trends and causes of maternal mortality in a 
+tertiary care hospital over five years: 2013-2017. Pak J Med Sci. 2019;35(4):1128-
+1131. doi: 10.12669/pjms.35.4.1091
+12.	
+Zafar AF, Javed N, Niaz A, Noor S, Tahira T. Maternal Mortality: Interesting 
+Comparison between Tertiary, Secondary and Primary Centers in Pakistan. 
+Ann King Edward Med Univ. 2019;25(S). Available from: https://annalskemu.
+org/journal/index.php/annals/article/view/2983
+13.	
+Majeed N, Akhtar R. Provision of Round the Clock Basic Obstetric and 
+Neonatal Care Services in Rural Settings: A low cost, high impact intervention 
+in Punjab. Ann King Edward Med Coll. 2019;25(special_issue):236-244. doi: 
+10.21649/akemu.v25iS.2955
+14.	
+Pegu B, Thiagaraju C, Nayak D, Subbaiah M. Placenta accreta spectrum-a 
+catastrophic situation in obstetrics. Obstet Gynecol Sci. 2021;64(3):239-247. doi: 
+10.5468/ogs.20345 
+15.	
+Arif A, Alam MB. Maternal and perinatal death surveillance and response 
+in Baluchistan, Pakistan-causes & contributory factors of maternal deaths. 
+Population Med. 2023;5(Supplement):A1045. doi: 10.18332/popmed/165020.
+16.	
+Jena BH, Biks GA, GeteYK, Gelaye KA. Determinants of postpartum uterine 
+atony in urban South Ethiopia a community-based unmatched nested case–
+control study.  BMC Pregnancy Childbirth. 2023;499(23):1-10. doi: 10.1186/
+s12884-023-05820-1
+17.	
+Health Services Academy and the National Ministry for Health Services 
+Coordination and Regulation. Improving Maternal, Newborn and Child Health 
+Outcomes in a Decade [Internet]. 2020. https://www.countdown2030.org/wp-
+content/uploads/2021/02/Pakistan-CD-report-2020.pdf (Cited  March 06, 2024)
+18.	
+Bailey PE, Andualem W, Brun M, Freedman L, Gbangbade S, Kante M, et al. 
+Institutional maternal and perinatal deaths: A review of 40 low and middle 
+income countries. BMC Pregnancy Childbirth. 2017;17(1):1-14. doi: 10.1186/
+s12884-01-1479-1 
+19.	
+Kebede TT, Godana W, Utaile MM, Sebsibe YB. Effects of antenatal care service 
+utilization on maternal near miss in Gamo Gofa zone, southern Ethiopia: 
+retrospective cohort study. BMC Pregnancy Childbirth. 2021;21(1). doi: 
+10.1186/s12884-021-03683-y
+20.	
+Shaeen SK, Tharwani ZH, Bilal W, Islam Z, Essar MY. Maternal mortality 
+in Pakistan: Challenges, efforts, and recommendations. Ann Med Surg. 
+2022;18(8):104380. doi: 10.1016/j.amsu.2022.104380 
+21.	
+Wasim T, Wasim M, Mushtaq J, Amin Z, Asghar S. Maternal near-miss, 
+mortality and their correlates at a tertiary care hospital. J Pak Med Assoc. 
+2021;71(7):1843-1848. doi: 10.47391/jpma.05-678
+22.	
+Mohammed MM, El Gelany S, Eladwy AR, Ali EI, Gadelrab MT, Ibrahim EM, et al. 
+A ten year analysis of maternal deaths in a tertiary hospital using the three delays 
+model. BMC Pregnancy Childbirth. 2020;20(1). doi: 10.1186/s12884-020-03262-7 
+23.	
+Aziz A, Saleem S, Nolen TL, Pradhan NA, McClure EM, Jessani S, et al. Why are 
+the Pakistani maternal, fetal and newborn outcomes so poor compared to other 
+low and middle-income countries? Reprod Health. 2020;17(S3). doi: 10.1186/
+s12978-020-01023-5
+Tayyiba Wasim
+Authors:
+1.	
+Tayyiba Wasim, FCPS.
+2.	
+Saira Yunus, FCPS.
+3.	
+Gul e Raana, FCPS. 
+4.	
+Anaab Wasim, MBBS Student.
+	
+Lahore Medical & Dental College, Lahore, Pakistan.
+1-3: 	Department of Obstetrics and Gynaecology,
+	
+Services Hospital, Lahore, Pakistan.

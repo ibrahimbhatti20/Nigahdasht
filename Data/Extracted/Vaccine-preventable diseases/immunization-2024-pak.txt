@@ -1,0 +1,4203 @@
+Pakistan: WHO and UNICEF estimates of immunization coverage: 2023 revision
+July 2, 2024; page 1
+WHO and UNICEF estimates of national immunization coverage - next revision available July 15, 2025
+data received as of June 27, 2024
+Pakistan: WHO and UNICEF estimates of immunization coverage: 2023 revision
+BACKGROUND NOTE: Each year WHO and UNICEF jointly review reports submitted by Member
+States regarding national immunization coverage, ﬁnalized survey reports as well as data from published
+and grey literature. Based on these data, with due consideration to potential biases and the views of
+local experts, WHO and UNICEF attempt to distinguish between situations where available empirical
+data accurately reﬂect immunization system performance and those where the data are likely
+compromised and present a misleading view of coverage.
+WHO and UNICEF estimates are country-speciﬁc; that is to say, each country’s data are reviewed
+individually, and data are not borrowed from other countries in the absence of data. Estimates are not
+based on ad hoc adjustments to reported data; in some instances empirical data are available from a
+single source, usually the nationally reported coverage data. In cases where no data are available for a
+given country/vaccine/year combination, data are considered from earlier and later years and
+interpolated to estimate coverage for the missing year(s). In cases where data sources are mixed and
+show large variation, an attempt is made to identify the most likely estimate with consideration of the
+possible biases in available data. For methods see:
+*Burton et al. 2009. Bull World Health Organ.
+*Burton et al. 2012. PLoS One.
+*Danovaro-Holliday et al. 2021. Gates Open Res.
+DATA SOURCES.
+ADMINISTRATIVE coverage: Reported by national authorities and based on aggregated
+administrative reports from health service providers on the number of vaccinations administered
+during a given period (numerator data) and reported target population data (denominator data).
+May be biased by inaccurate numerator and/or denominator data.
+OFFICIAL coverage: Estimated coverage reported by national authorities that reﬂects their
+assessment of the most likely coverage based on any combination of administrative coverage,
+survey-based estimates or other data sources or adjustments. Approaches to determine
+OFFICIAL coverage may diﬀer across countries.
+SURVEY coverage: Based on estimated coverage from population-based household surveys among
+children aged 12-23 or 24-35 months following a review of survey methods and results.
+Information is based on the combination of vaccination history from documented evidence or
+caregiver recall. Survey results are considered for the appropriate birth cohort based on data
+collection period.
+ABBREVIATIONS
+BCG: percentage of births who received one dose of Bacillus Calmette Guerin vaccine.
+DTP1 / DTP3: percentage of surviving infants who received the 1st / 3rd dose, respectively, of
+diphtheria and tetanus toxoid with pertussis containing vaccine.
+Pol3: percentage of surviving infants who received the 3rd dose of polio containing vaccine. May be
+either oral or inactivated polio vaccine.
+IPV1: percentage of surviving infants who received at least one dose of inactivated polio vaccine. In
+countries utilizing an immunization schedule recommending either (i) a primary series of three
+doses of oral polio vaccine (OPV) plus at least one dose of IPV where OPV is included in routine
+immunization and/or campaign or (ii) a sequential schedule of IPV followed by OPV, WHO and
+UNICEF estimates for IPV1 reﬂect coverage with at least one routine dose of IPV among infants
+<1 year of age. For countries utilizing IPV containing vaccine only, i.e., no recommended dose of
+OPV, WHO and UNICEF estimate for IPV1 corresponds to coverage for the 1st dose of IPV.
+Production of IPV coverage estimates, which begins in 2015, results in no change of the
+estimated coverage levels for the 3rd dose of polio (Pol3). For countries recommending routine
+immunization with a primary series of three doses of IPV alone, WHO and UNICEF estimated
+Pol3 coverage is equivalent to estimated coverage with three doses of IPV. For countries with a
+sequential schedule, estimated Pol3 coverage is based on that for the 3rd dose of polio vaccine
+regardless of vaccine type.
+IPV2: percentage of surviving infants who received a 2nd dose of inactivated polio vaccine. IPV2
+coverage estimates produced for OPV using countries.
+MCV1: percentage of surviving infants who received the 1st dose of measles containing vaccine. In
+countries where the national schedule recommends the 1st dose of MCV at 12 months or later
+based on the epidemiology of disease in the country, coverage estimates reﬂect the percentage of
+children who received the 1st dose of MCV as recommended.
+MCV2: percentage of children who received the 2nd dose of measles containing vaccine according to
+the nationally recommended schedule.
+RCV1: percentage of surviving infants who received the 1st dose of rubella containing vaccine. Co
+verage estimates are based on WHO and UNICEF estimates of coverage for the dose of measles
+containing vaccine that corresponds to the ﬁrst measles-rubella combination vaccine. Nationally
+reported coverage of RCV is not taken into consideration nor are the data represented in the
+accompanying graph and data table.
+HepBB: percentage of births which received a dose of hepatitis B vaccine within 24 hours of delivery.
+Estimates of hepatitis B birth dose coverage are produced only for countries with a universal
+birth dose policy. Estimates are not produced for countries that recommend a birth dose to
+infants born to HepB virus-infected mothers only or where there is insuﬃcient information to
+determine whether vaccination is within 24 hours of birth.
+HepB3: percentage of surviving infants who received the 3rd dose of hepatitis B containing vaccine
+following the birth dose.
+Hib3: percentage of surviving infants who received the 3rd dose of Haemophilus inﬂuenzae type b
+containing vaccine.
+RotaC: percentage of surviving infants who received the ﬁnal recommended dose of rotavirus vaccine,
+which can be either the 2nd or the 3rd dose depending on the vaccine.
+PcV3: percentage of surviving infants who received the 3rd dose of pneumococcal conjugate vaccine.
+In countries where the national schedule recommends two doses during infancy and a booster
+dose at 12 months or later based on the epidemiology of disease in the country, coverage
+estimates may reﬂect the percentage of surviving infants who received two doses of PcV prior to
+the 1st birthday.
+YFV: percentage of surviving infants who received one dose of yellow fever vaccine in countries where
+YFV is part of the national immunization schedule for children or is recommended in at risk
+areas; coverage estimates are annualized for the entire cohort of surviving infants.
+MengA: percentage of children who received one dose of meningococcal A conjugate vaccine. MengA
+coverage estimates produced for countries in the meningitis belt of sub-Saharan Africa.
+Disclaimer: All reasonable precautions have been taken by the World Health Organization and
+United Nations Children’s Fund to verify the information contained in this publication. However,
+the published material is being distributed without warranty of any kind, either expressed or
+implied. The responsibility for the interpretation and use of the material lies with the reader. In
+no event shall the World Health Organization or United Nations Children’s Fund be liable for
+damages arising from its use.
+July 2, 2024; page 2
+WHO and UNICEF estimates of national immunization coverage - next revision available July 15, 2025
+data received as of June 27, 2024
+Pakistan - BCG
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+2023
+Estimate
+84
+84
+85
+86
+86
+86
+90
+93
+91
+93
+95
+96
+Estimate GoC
+•••
+•••
+•••
+•••
+•••
+•••
+•
+•
+•
+•
+•
+•
+Oﬃcial
+84
+84
+85
+86
+86
+86
+86
+93
+91
+93
+95
+96
+Administrative
+99
+99
+95
+89
+93
+93
+93
+98
+96
+96
+101
+105
+Survey
+*
+89
+NA
+86
+88
+NA
+NA
+93
+95
+NA
+NA
+NA
+The WHO and UNICEF estimates of national immunization coverage (wuenic) are based on data and information
+that are of varying, and, in some instances, unknown quality. Beginning with the 2011 revision we describe
+the grade of confidence (GoC) we have in these estimates. As there is no underlying probability model upon
+which the estimates are based, we are unable to present classical measures of uncertainty, e.g., confidence
+intervals. Moreover, we have chosen not to make subjective estimates of plausibility/certainty ranges around
+the coverage. The GoC reflects the degree of empirical support upon which the estimates are based. It is
+not a judgment of the quality of data reported by national authorities.
+••• Estimate is supported by reported data [R+], coverage recalculated with an independent denominator
+from the World Population Prospects: 2022 revision from the UN Population Division (D+), and at
+least one supporting survey within 2 years [S+]. While well supported, the estimate still carries a risk
+of being wrong.
+•• Estimate is supported by at least one data source; [R+], [S+], or [D+]; and no data source, [R-], [D-], or
+[S-], challenges the estimate.
+• There are no directly supporting data; or data from at least one source; [R-], [D-], [S-]; challenge the estimate.
+In all cases these estimates should be used with caution and should be assessed in light
+of the objective for which they are being used.
+Description:
+2023: Estimate informed by reported data. Oﬃcial estimates based on adjusted data using the
+2022 Third Party Veriﬁcation of Immunization Coverage Survey. Estimate challenged
+by: D-
+2022: Estimate informed by reported data. Oﬃcial estimates based on adjusted data using the
+2022 Third Party Veriﬁcation of Immunization Coverage Survey. Estimate challenged
+by: D-
+2021: Estimate informed by reported data. Oﬃcial estimates based on adjusted data using the
+2021 Third Party Veriﬁcation of Immunization Coverage Survey. Estimate challenged
+by: D-
+2020: Estimate informed by reported data supported by survey. Survey evidence of 95 percent
+based on 1 survey(s). Oﬃcial estimates for 2019 and 2020 based on the results of Third
+Party Veriﬁcation of Immunization Coverage Survey (TPVICS), a large vaccination cov-
+erage survey conducted in early 2021. Monthly coverage data showed a signiﬁcant decline
+in coverage from March to May 2020 followed by increases as a result of intensive catch-up
+vaccination activities. Estimate challenged by: D-
+2019: Estimate informed by reported data supported by survey. Survey evidence of 93 percent
+based on 1 survey(s). Programme reports a nine percent increase in the target popu-
+lation from 2018 to 2019 which may be related to a transition towards data from the
+2017 census results. Census derived age-speciﬁc results were not available at the time of
+reporting. Estimate challenged by: D-
+2018: Estimate informed by interpolation between reported data. Reported data excluded. As
+the reported number of doses administered increased from 2017 to 2018, observed declines
+in reported coverage may be artiﬁcial and the result of a larger year-to-year increase in
+the target population that observed in prior years. GoC=Assigned by working group.
+Consistency across vaccines in presence of no accepted empirical data.
+2017: Estimate informed by reported data. The oﬃcial estimates for Pakistan were determined
+through an exercise conducted with technical assistance from WHO and UNICEF in con-
+sultation with all provinces and areas using locally available survey data, data quality
+assessment results, administrative reports and data from the polio programme. GoC=R+
+S+ D+
+2016: Estimate informed by reported data supported by survey. Survey evidence of 88 percent
+based on 1 survey(s). GoC=R+ S+ D+
+2015: Estimate informed by reported data supported by survey. Survey evidence of 86 percent
+based on 1 survey(s). Programme reports three months national level stockout of BCG
+vaccine. GoC=R+ S+ D+
+2014: Estimate informed by reported data. Reported target population increase from 2013 to
+2014, which was larger than any prior year-to-year change, is also unexplained while the
+number of children vaccinated remained largely unchanged from 2013 to 2014. GoC=R+
+S+ D+
+2013: Estimate informed by reported data. Survey results ignored. Sample size 0 less than 300.
+The Pakistan Social and Living Standards Measurement Survey report does not include
+July 2, 2024; page 3
+WHO and UNICEF estimates of national immunization coverage - next revision available July 15, 2025
+data received as of June 27, 2024
+Pakistan - BCG
+the sample size (number of children aged 12-23 m) from which coverage is estimated.
+Report also does not include prevalence of home-based record ownership. In addition, t
+GoC=R+ S+ D+
+2012: Estimate informed by reported data supported by survey. Survey evidence of 85 percent
+based on 1 survey(s). Survey results ignored. Sample size 0 less than 300. The Pakistan
+Social and Living Standards Measurement Survey report does not include the sample size
+(number of children aged 12-23 m) from which coverage is estimated. Report also does
+not include prevalence of home-based record ownership. In addition, the report suggests
+exceptionally low drop-out for multi-dose vaccines. GoC=R+ S+ D+
+July 2, 2024; page 4
+WHO and UNICEF estimates of national immunization coverage - next revision available July 15, 2025
+data received as of June 27, 2024
+Pakistan - HepBB
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+2023
+Estimate
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+40
+Estimate GoC
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+••
+Oﬃcial
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+40
+Administrative
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+37
+Survey
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+The WHO and UNICEF estimates of national immunization coverage (wuenic) are based on data and information
+that are of varying, and, in some instances, unknown quality. Beginning with the 2011 revision we describe
+the grade of confidence (GoC) we have in these estimates. As there is no underlying probability model upon
+which the estimates are based, we are unable to present classical measures of uncertainty, e.g., confidence
+intervals. Moreover, we have chosen not to make subjective estimates of plausibility/certainty ranges around
+the coverage. The GoC reflects the degree of empirical support upon which the estimates are based. It is
+not a judgment of the quality of data reported by national authorities.
+••• Estimate is supported by reported data [R+], coverage recalculated with an independent denominator
+from the World Population Prospects: 2022 revision from the UN Population Division (D+), and at
+least one supporting survey within 2 years [S+]. While well supported, the estimate still carries a risk
+of being wrong.
+•• Estimate is supported by at least one data source; [R+], [S+], or [D+]; and no data source, [R-], [D-], or
+[S-], challenges the estimate.
+• There are no directly supporting data; or data from at least one source; [R-], [D-], [S-]; challenge the estimate.
+In all cases these estimates should be used with caution and should be assessed in light
+of the objective for which they are being used.
+Description:
+2023: Estimate informed by reported data. Oﬃcial estimates based on adjusted data using the
+2022 Third Party Veriﬁcation of Immunization Coverage Survey. Hepatitis B birth dose
+introduced in 2017. Reporting began in 2023. GoC=R+ D+
+July 2, 2024; page 5
+WHO and UNICEF estimates of national immunization coverage - next revision available July 15, 2025
+data received as of June 27, 2024
+Pakistan - DTP1
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+2023
+Estimate
+78
+78
+80
+82
+82
+83
+87
+90
+87
+90
+93
+94
+Estimate GoC
+•
+•
+•
+•••
+•
+•
+•
+•
+•••
+•
+•
+•
+Oﬃcial
+78
+78
+80
+82
+82
+83
+84
+90
+87
+90
+93
+94
+Administrative
+103
+104
+98
+94
+96
+95
+94
+97
+90
+95
+101
+104
+Survey
+*
+89
+NA
+83
+86
+NA
+NA
+90
+90
+NA
+NA
+NA
+The WHO and UNICEF estimates of national immunization coverage (wuenic) are based on data and information
+that are of varying, and, in some instances, unknown quality. Beginning with the 2011 revision we describe
+the grade of confidence (GoC) we have in these estimates. As there is no underlying probability model upon
+which the estimates are based, we are unable to present classical measures of uncertainty, e.g., confidence
+intervals. Moreover, we have chosen not to make subjective estimates of plausibility/certainty ranges around
+the coverage. The GoC reflects the degree of empirical support upon which the estimates are based. It is
+not a judgment of the quality of data reported by national authorities.
+••• Estimate is supported by reported data [R+], coverage recalculated with an independent denominator
+from the World Population Prospects: 2022 revision from the UN Population Division (D+), and at
+least one supporting survey within 2 years [S+]. While well supported, the estimate still carries a risk
+of being wrong.
+•• Estimate is supported by at least one data source; [R+], [S+], or [D+]; and no data source, [R-], [D-], or
+[S-], challenges the estimate.
+• There are no directly supporting data; or data from at least one source; [R-], [D-], [S-]; challenge the estimate.
+In all cases these estimates should be used with caution and should be assessed in light
+of the objective for which they are being used.
+Description:
+2023: Estimate informed by reported data. Oﬃcial estimates based on adjusted data using the
+2022 Third Party Veriﬁcation of Immunization Coverage Survey. Estimate challenged
+by: D-
+2022: Estimate informed by reported data. Oﬃcial estimates based on adjusted data using the
+2022 Third Party Veriﬁcation of Immunization Coverage Survey. Estimate challenged
+by: D-
+2021: Estimate informed by reported data. Oﬃcial estimates based on adjusted data using the
+2021 Third Party Veriﬁcation of Immunization Coverage Survey. Estimate challenged
+by: D-
+2020: Estimate informed by reported data supported by survey. Survey evidence of 90 percent
+based on 1 survey(s). Oﬃcial estimates for 2019 and 2020 based on the results of Third
+Party Veriﬁcation of Immunization Coverage Survey (TPVICS), a large vaccination cov-
+erage survey conducted in early 2021. Monthly coverage data showed a signiﬁcant decline
+in coverage from March to May 2020 followed by increases as a result of intensive catch-up
+vaccination activities. Vaccine stockout of unspeciﬁed duration. GoC=R+ S+ D+
+2019: Estimate informed by reported data supported by survey. Survey evidence of 90 percent
+based on 1 survey(s). Programme reports a nine percent increase in the target popu-
+lation from 2018 to 2019 which may be related to a transition towards data from the
+2017 census results. Census derived age-speciﬁc results were not available at the time of
+reporting. Estimate challenged by: D-
+2018: Estimate informed by interpolation between reported data. Reported data excluded. As
+the reported number of doses administered increased from 2017 to 2018, observed declines
+in reported coverage may be artiﬁcial and the result of a larger year-to-year increase in
+the target population that observed in prior years. GoC=Assigned by working group.
+Consistency across vaccines in presence of no accepted empirical data.
+2017: Estimate informed by reported data. The oﬃcial estimates for Pakistan were determined
+through an exercise conducted with technical assistance from WHO and UNICEF in con-
+sultation with all provinces and areas using locally available survey data, data quality
+assessment results, administrative reports and data from the polio programme. Estimate
+challenged by: D-
+2016: Estimate informed by reported data supported by survey. Survey evidence of 86 percent
+based on 1 survey(s). Estimate challenged by: D-
+2015: Estimate informed by reported data supported by survey. Survey evidence of 83 percent
+based on 1 survey(s). GoC=R+ S+ D+
+2014: Estimate informed by reported data. Reported target population increase from 2013 to
+2014, which was larger than any prior year-to-year change, is also unexplained while the
+number of children vaccinated remained largely unchanged from 2013 to 2014. Estimate
+challenged by: D-
+2013: Estimate informed by reported data. Survey results ignored. Sample size 0 less than 300.
+The Pakistan Social and Living Standards Measurement Survey report does not include
+the sample size (number of children aged 12-23 m) from which coverage is estimated.
+July 2, 2024; page 6
+WHO and UNICEF estimates of national immunization coverage - next revision available July 15, 2025
+data received as of June 27, 2024
+Pakistan - DTP1
+Report also does not include prevalence of home-based record ownership. In addition, t
+Estimate challenged by: D-
+2012: Estimate informed by reported data supported by survey. Survey evidence of 79 percent
+based on 1 survey(s). Survey results ignored. Sample size 0 less than 300. The Pakistan
+Social and Living Standards Measurement Survey report does not include the sample size
+(number of children aged 12-23 m) from which coverage is estimated. Report also does
+not include prevalence of home-based record ownership. In addition, the report suggests
+exceptionally low drop-out for multi-dose vaccines. Estimate challenged by: D-
+July 2, 2024; page 7
+WHO and UNICEF estimates of national immunization coverage - next revision available July 15, 2025
+data received as of June 27, 2024
+Pakistan - DTP3
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+2023
+Estimate
+64
+65
+69
+72
+75
+75
+80
+84
+80
+83
+85
+86
+Estimate GoC
+•
+•
+•
+•
+•
+•
+•
+•
+•••
+•
+•
+•
+Oﬃcial
+64
+65
+69
+72
+75
+75
+72
+84
+80
+83
+85
+86
+Administrative
+94
+95
+90
+86
+87
+87
+84
+90
+83
+88
+95
+98
+Survey
+*
+88
+NA
+76
+75
+NA
+NA
+84
+84
+NA
+NA
+NA
+The WHO and UNICEF estimates of national immunization coverage (wuenic) are based on data and information
+that are of varying, and, in some instances, unknown quality. Beginning with the 2011 revision we describe
+the grade of confidence (GoC) we have in these estimates. As there is no underlying probability model upon
+which the estimates are based, we are unable to present classical measures of uncertainty, e.g., confidence
+intervals. Moreover, we have chosen not to make subjective estimates of plausibility/certainty ranges around
+the coverage. The GoC reflects the degree of empirical support upon which the estimates are based. It is
+not a judgment of the quality of data reported by national authorities.
+••• Estimate is supported by reported data [R+], coverage recalculated with an independent denominator
+from the World Population Prospects: 2022 revision from the UN Population Division (D+), and at
+least one supporting survey within 2 years [S+]. While well supported, the estimate still carries a risk
+of being wrong.
+•• Estimate is supported by at least one data source; [R+], [S+], or [D+]; and no data source, [R-], [D-], or
+[S-], challenges the estimate.
+• There are no directly supporting data; or data from at least one source; [R-], [D-], [S-]; challenge the estimate.
+In all cases these estimates should be used with caution and should be assessed in light
+of the objective for which they are being used.
+Description:
+2023: Estimate informed by reported data. Oﬃcial estimates based on adjusted data using the
+2022 Third Party Veriﬁcation of Immunization Coverage Survey. Estimate challenged
+by: D-
+2022: Estimate informed by reported data. Oﬃcial estimates based on adjusted data using the
+2022 Third Party Veriﬁcation of Immunization Coverage Survey. Estimate challenged
+by: D-
+2021: Estimate informed by reported data. Oﬃcial estimates based on adjusted data using the
+2021 Third Party Veriﬁcation of Immunization Coverage Survey. Estimate challenged
+by: D-
+2020: Estimate informed by reported data supported by survey. Survey evidence of 84 percent
+based on 1 survey(s). Oﬃcial estimates for 2019 and 2020 based on the results of Third
+Party Veriﬁcation of Immunization Coverage Survey (TPVICS), a large vaccination cov-
+erage survey conducted in early 2021. Monthly coverage data showed a signiﬁcant decline
+in coverage from March to May 2020 followed by increases as a result of intensive catch-up
+vaccination activities. Vaccine stockout of unspeciﬁed duration. GoC=R+ S+ D+
+2019: Estimate informed by reported data supported by survey. Survey evidence of 84 percent
+based on 1 survey(s). Programme reports a nine percent increase in the target popu-
+lation from 2018 to 2019 which may be related to a transition towards data from the
+2017 census results. Census derived age-speciﬁc results were not available at the time of
+reporting. Estimate challenged by: D-
+2018: Estimate informed by interpolation between reported data. Reported data excluded. De-
+cline observed in administrative coverage likely an artefact of a four percent increase in
+the target population from 2017 to 2018. GoC=Assigned by working group. Consistency
+across vaccines in presence of no accepted empirical data.
+2017: Estimate informed by reported data. The oﬃcial estimates for Pakistan were determined
+through an exercise conducted with technical assistance from WHO and UNICEF in con-
+sultation with all provinces and areas using locally available survey data, data quality
+assessment results, administrative reports and data from the polio programme. Estimate
+challenged by: D-
+2016: Estimate informed by reported data supported by survey. Survey evidence of 79 percent
+based on 1 survey(s). Pakistan Demographic and Health Survey 2017-2018 card or his-
+tory results of 75 percent modifed for recall bias to 79 percent based on 1st dose card or
+history coverage of 86 percent, 1st dose card only coverage of 63 percent and 3rd dose
+card only coverage of 58 percent. Estimate challenged by: D-
+2015: Estimate informed by reported data supported by survey. Survey evidence of 79 percent
+based on 1 survey(s). Pakistan Demographic and Health Survey 2017-2018 card or his-
+tory results of 76 percent modifed for recall bias to 79 percent based on 1st dose card or
+history coverage of 83 percent, 1st dose card only coverage of 47 percent and 3rd dose
+card only coverage of 45 percent. Estimate challenged by: D-
+2014: Estimate informed by reported data. Reported target population increase from 2013 to
+2014, which was larger than any prior year-to-year change, is also unexplained while the
+July 2, 2024; page 8
+WHO and UNICEF estimates of national immunization coverage - next revision available July 15, 2025
+data received as of June 27, 2024
+Pakistan - DTP3
+number of children vaccinated remained largely unchanged from 2013 to 2014. Estimate
+challenged by: D-
+2013: Estimate informed by reported data.
+Survey results ignored.
+Sample size 0 less than
+300. Pakistan Social and Living Standards Measurement Survey (PSLM), 2014-15 card
+or history results of 88 percent modifed for recall bias to 89 percent based on 1st dose
+card or history coverage of 89 percent, 1st dose card only coverage of 65 percent and
+3rd dose card only coverage of 65 percent. The Pakistan Social and Living Standards
+Measurement Survey report does not include the sample size (number of children aged
+12-23 m) from which coverage is estimated. Report also does not include prevalence of
+home-based record ownership. In addition, t Estimate challenged by: D-S-
+2012: Estimate informed by reported data supported by survey. Survey evidence of 72 percent
+based on 1 survey(s). Survey results ignored. Sample size 0 less than 300. Pakistan De-
+mographic and Health Survey 2012-2013 card or history results of 65 percent modifed for
+recall bias to 72 percent based on 1st dose card or history coverage of 79 percent, 1st dose
+card only coverage of 35 percent and 3rd dose card only coverage of 32 percent. Pakistan
+Social and Living Standards Measurement Survey (PSLM), 2013-14 card or history re-
+sults of 78 percent modifed for recall bias to 80 percent based on 1st dose card or history
+coverage of 81 percent, 1st dose card only coverage of 62 percent and 3rd dose card only
+coverage of 61 percent. The Pakistan Social and Living Standards Measurement Survey
+report does not include the sample size (number of children aged 12-23 m) from which
+coverage is estimated. Report also does not include prevalence of home-based record
+ownership. In addition, the report suggests exceptionally low drop-out for multi-dose
+vaccines. Estimate challenged by: D-
+July 2, 2024; page 9
+WHO and UNICEF estimates of national immunization coverage - next revision available July 15, 2025
+data received as of June 27, 2024
+Pakistan - HepB3
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+2023
+Estimate
+64
+65
+69
+72
+75
+75
+80
+84
+80
+83
+85
+86
+Estimate GoC
+•
+•
+•
+•
+•
+•
+•
+•
+•••
+•
+•
+•
+Oﬃcial
+64
+65
+69
+72
+75
+NA
+72
+84
+80
+83
+85
+86
+Administrative
+94
+95
+90
+86
+87
+87
+NA
+NA
+83
+88
+95
+98
+Survey
+78
+88
+NA
+76
+75
+NA
+NA
+84
+84
+NA
+NA
+NA
+The WHO and UNICEF estimates of national immunization coverage (wuenic) are based on data and information
+that are of varying, and, in some instances, unknown quality. Beginning with the 2011 revision we describe
+the grade of confidence (GoC) we have in these estimates. As there is no underlying probability model upon
+which the estimates are based, we are unable to present classical measures of uncertainty, e.g., confidence
+intervals. Moreover, we have chosen not to make subjective estimates of plausibility/certainty ranges around
+the coverage. The GoC reflects the degree of empirical support upon which the estimates are based. It is
+not a judgment of the quality of data reported by national authorities.
+••• Estimate is supported by reported data [R+], coverage recalculated with an independent denominator
+from the World Population Prospects: 2022 revision from the UN Population Division (D+), and at
+least one supporting survey within 2 years [S+]. While well supported, the estimate still carries a risk
+of being wrong.
+•• Estimate is supported by at least one data source; [R+], [S+], or [D+]; and no data source, [R-], [D-], or
+[S-], challenges the estimate.
+• There are no directly supporting data; or data from at least one source; [R-], [D-], [S-]; challenge the estimate.
+In all cases these estimates should be used with caution and should be assessed in light
+of the objective for which they are being used.
+Description:
+2023: Estimate informed by reported data. Oﬃcial estimates based on adjusted data using the
+2022 Third Party Veriﬁcation of Immunization Coverage Survey. Estimate challenged
+by: D-
+2022: Estimate informed by reported data. Oﬃcial estimates based on adjusted data using the
+2022 Third Party Veriﬁcation of Immunization Coverage Survey. Estimate challenged
+by: D-
+2021: Estimate informed by reported data. Oﬃcial estimates based on adjusted data using the
+2021 Third Party Veriﬁcation of Immunization Coverage Survey. Estimate challenged
+by: D-
+2020: Estimate informed by reported data supported by survey. Survey evidence of 84 percent
+based on 1 survey(s). Oﬃcial estimates for 2019 and 2020 based on the results of Third
+Party Veriﬁcation of Immunization Coverage Survey (TPVICS), a large vaccination cov-
+erage survey conducted in early 2021. Monthly coverage data showed a signiﬁcant decline
+in coverage from March to May 2020 followed by increases as a result of intensive catch-up
+vaccination activities. Vaccine stockout of unspeciﬁed duration. GoC=R+ S+ D+
+2019: Estimate informed by reported data supported by survey. Survey evidence of 84 percent
+based on 1 survey(s). Programme reports a nine percent increase in the target popu-
+lation from 2018 to 2019 which may be related to a transition towards data from the
+2017 census results. Census derived age-speciﬁc results were not available at the time of
+reporting. GoC=Assigned by working group. Consistency with DTP3.
+2018: Estimate informed by estimated DTP3 coverage. Reported data excluded. As the reported
+number of doses administered increased from 2017 to 2018, observed declines in reported
+coverage may be artiﬁcial and the result of a larger year-to-year increase in the target
+population that observed in prior years.Reported data excluded due to decline in reported
+coverage from 87 percent to 72 percent with increase to 84 percent. GoC=Assigned by
+working group. Consistency across vaccines in presence of no accepted empirical data.
+2017: Estimate informed by estimated DTP3 coverage. Reported data excluded due to an in-
+crease from 75 percent to 87 percent with decrease 72 percent. The oﬃcial estimates for
+Pakistan were determined through an exercise conducted with technical assistance from
+WHO and UNICEF in consultation with all provinces and areas using locally available
+survey data, data quality assessment results, administrative reports and data from the
+polio programme. Estimate challenged by: D-R-
+2016: Estimate informed by reported data supported by survey. Survey evidence of 79 percent
+based on 1 survey(s). Pakistan Demographic and Health Survey 2017-2018 card or his-
+tory results of 75 percent modifed for recall bias to 79 percent based on 1st dose card or
+history coverage of 86 percent, 1st dose card only coverage of 63 percent and 3rd dose
+card only coverage of 58 percent. Estimate challenged by: D-
+2015: Estimate informed by reported data supported by survey. Survey evidence of 79 percent
+based on 1 survey(s). Pakistan Demographic and Health Survey 2017-2018 card or his-
+tory results of 76 percent modifed for recall bias to 79 percent based on 1st dose card or
+history coverage of 83 percent, 1st dose card only coverage of 47 percent and 3rd dose
+July 2, 2024; page 10
+WHO and UNICEF estimates of national immunization coverage - next revision available July 15, 2025
+data received as of June 27, 2024
+Pakistan - HepB3
+card only coverage of 45 percent. Estimate challenged by: D-
+2014: Estimate informed by reported data. Estimate challenged by: D-
+2013: Estimate informed by reported data.
+Survey results ignored.
+Sample size 0 less than
+300. Pakistan Social and Living Standards Measurement Survey (PSLM), 2014-15 card
+or history results of 88 percent modifed for recall bias to 89 percent based on 1st dose
+card or history coverage of 89 percent, 1st dose card only coverage of 65 percent and
+3rd dose card only coverage of 65 percent. The Pakistan Social and Living Standards
+Measurement Survey report does not include the sample size (number of children aged
+12-23 m) from which coverage is estimated. Report also does not include prevalence of
+home-based record ownership. In addition, t Estimate challenged by: D-S-
+2012: Estimate informed by reported data.
+Survey results ignored.
+Sample size 0 less than
+300. Pakistan Social and Living Standards Measurement Survey (PSLM), 2013-14 card
+or history results of 78 percent modifed for recall bias to 80 percent based on 1st dose
+card or history coverage of 81 percent, 1st dose card only coverage of 62 percent and 3rd
+dose card only coverage of 61 percent. The Pakistan Social and Living Standards Mea-
+surement Survey report does not include the sample size (number of children aged 12-23
+m) from which coverage is estimated. Report also does not include prevalence of home-
+based record ownership. In addition, the report suggests exceptionally low drop-out for
+multi-dose vaccines. Estimate challenged by: D-
+July 2, 2024; page 11
+WHO and UNICEF estimates of national immunization coverage - next revision available July 15, 2025
+data received as of June 27, 2024
+Pakistan - Hib3
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+2023
+Estimate
+64
+65
+69
+72
+75
+75
+80
+84
+80
+83
+85
+86
+Estimate GoC
+•
+•
+•
+•
+•
+•
+•
+•
+•••
+•
+•
+•
+Oﬃcial
+64
+65
+69
+72
+75
+75
+72
+84
+80
+83
+85
+86
+Administrative
+94
+95
+90
+86
+87
+87
+NA
+NA
+83
+88
+95
+98
+Survey
+78
+88
+NA
+76
+75
+NA
+NA
+84
+84
+NA
+NA
+NA
+The WHO and UNICEF estimates of national immunization coverage (wuenic) are based on data and information
+that are of varying, and, in some instances, unknown quality. Beginning with the 2011 revision we describe
+the grade of confidence (GoC) we have in these estimates. As there is no underlying probability model upon
+which the estimates are based, we are unable to present classical measures of uncertainty, e.g., confidence
+intervals. Moreover, we have chosen not to make subjective estimates of plausibility/certainty ranges around
+the coverage. The GoC reflects the degree of empirical support upon which the estimates are based. It is
+not a judgment of the quality of data reported by national authorities.
+••• Estimate is supported by reported data [R+], coverage recalculated with an independent denominator
+from the World Population Prospects: 2022 revision from the UN Population Division (D+), and at
+least one supporting survey within 2 years [S+]. While well supported, the estimate still carries a risk
+of being wrong.
+•• Estimate is supported by at least one data source; [R+], [S+], or [D+]; and no data source, [R-], [D-], or
+[S-], challenges the estimate.
+• There are no directly supporting data; or data from at least one source; [R-], [D-], [S-]; challenge the estimate.
+In all cases these estimates should be used with caution and should be assessed in light
+of the objective for which they are being used.
+Description:
+2023: Estimate informed by reported data. Oﬃcial estimates based on adjusted data using the
+2022 Third Party Veriﬁcation of Immunization Coverage Survey. Estimate challenged
+by: D-
+2022: Estimate informed by reported data. Oﬃcial estimates based on adjusted data using the
+2022 Third Party Veriﬁcation of Immunization Coverage Survey. Estimate challenged
+by: D-
+2021: Estimate informed by reported data. Oﬃcial estimates based on adjusted data using the
+2021 Third Party Veriﬁcation of Immunization Coverage Survey. Estimate challenged
+by: D-
+2020: Estimate informed by reported data supported by survey. Survey evidence of 84 percent
+based on 1 survey(s). Oﬃcial estimates for 2019 and 2020 based on the results of Third
+Party Veriﬁcation of Immunization Coverage Survey (TPVICS), a large vaccination cov-
+erage survey conducted in early 2021. Monthly coverage data showed a signiﬁcant decline
+in coverage from March to May 2020 followed by increases as a result of intensive catch-up
+vaccination activities. Vaccine stockout of unspeciﬁed duration. GoC=R+ S+ D+
+2019: Estimate informed by reported data supported by survey. Survey evidence of 84 percent
+based on 1 survey(s). Programme reports a nine percent increase in the target popu-
+lation from 2018 to 2019 which may be related to a transition towards data from the
+2017 census results. Census derived age-speciﬁc results were not available at the time of
+reporting. GoC=Assigned by working group. Consistency with DTP3.
+2018: Estimate informed by interpolation between reported data. Reported data excluded. As
+the reported number of doses administered increased from 2017 to 2018, observed declines
+in reported coverage may be artiﬁcial and the result of a larger year-to-year increase in
+the target population that observed in prior years. GoC=Assigned by working group.
+Consistency across vaccines in presence of no accepted empirical data.
+2017: Estimate informed by reported data. The oﬃcial estimates for Pakistan were determined
+through an exercise conducted with technical assistance from WHO and UNICEF in con-
+sultation with all provinces and areas using locally available survey data, data quality
+assessment results, administrative reports and data from the polio programme. Estimate
+challenged by: D-
+2016: Estimate informed by reported data supported by survey. Survey evidence of 79 percent
+based on 1 survey(s). Pakistan Demographic and Health Survey 2017-2018 card or his-
+tory results of 75 percent modifed for recall bias to 79 percent based on 1st dose card or
+history coverage of 86 percent, 1st dose card only coverage of 63 percent and 3rd dose
+card only coverage of 58 percent. Estimate challenged by: D-
+2015: Estimate informed by reported data supported by survey. Survey evidence of 79 percent
+based on 1 survey(s). Pakistan Demographic and Health Survey 2017-2018 card or his-
+tory results of 76 percent modifed for recall bias to 79 percent based on 1st dose card or
+history coverage of 83 percent, 1st dose card only coverage of 47 percent and 3rd dose
+card only coverage of 45 percent. Estimate challenged by: D-
+2014: Estimate informed by reported data. Reported target population increase from 2013 to
+July 2, 2024; page 12
+WHO and UNICEF estimates of national immunization coverage - next revision available July 15, 2025
+data received as of June 27, 2024
+Pakistan - Hib3
+2014, which was larger than any prior year-to-year change, is also unexplained while the
+number of children vaccinated remained largely unchanged from 2013 to 2014. Estimate
+challenged by: D-
+2013: Estimate informed by reported data.
+Survey results ignored.
+Sample size 0 less than
+300. Pakistan Social and Living Standards Measurement Survey (PSLM), 2014-15 card
+or history results of 88 percent modifed for recall bias to 89 percent based on 1st dose
+card or history coverage of 89 percent, 1st dose card only coverage of 65 percent and
+3rd dose card only coverage of 65 percent. The Pakistan Social and Living Standards
+Measurement Survey report does not include the sample size (number of children aged
+12-23 m) from which coverage is estimated. Report also does not include prevalence of
+home-based record ownership. In addition, t Estimate challenged by: D-S-
+2012: Estimate informed by reported data.
+Survey results ignored.
+Sample size 0 less than
+300. Pakistan Social and Living Standards Measurement Survey (PSLM), 2013-14 card
+or history results of 78 percent modifed for recall bias to 80 percent based on 1st dose
+card or history coverage of 81 percent, 1st dose card only coverage of 62 percent and 3rd
+dose card only coverage of 61 percent. The Pakistan Social and Living Standards Mea-
+surement Survey report does not include the sample size (number of children aged 12-23
+m) from which coverage is estimated. Report also does not include prevalence of home-
+based record ownership. In addition, the report suggests exceptionally low drop-out for
+multi-dose vaccines. Estimate challenged by: D-
+July 2, 2024; page 13
+WHO and UNICEF estimates of national immunization coverage - next revision available July 15, 2025
+data received as of June 27, 2024
+Pakistan - RotaC
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+2023
+Estimate
+NA
+NA
+NA
+NA
+NA
+12
+58
+86
+84
+87
+88
+90
+Estimate GoC
+NA
+NA
+NA
+NA
+NA
+•
+•
+•
+•
+•••
+•
+•
+Oﬃcial
+NA
+NA
+NA
+NA
+NA
+NA
+58
+86
+84
+87
+88
+90
+Administrative
+NA
+NA
+NA
+NA
+NA
+24
+67
+91
+90
+86
+95
+98
+Survey
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+86
+84
+NA
+NA
+NA
+The WHO and UNICEF estimates of national immunization coverage (wuenic) are based on data and information
+that are of varying, and, in some instances, unknown quality. Beginning with the 2011 revision we describe
+the grade of confidence (GoC) we have in these estimates. As there is no underlying probability model upon
+which the estimates are based, we are unable to present classical measures of uncertainty, e.g., confidence
+intervals. Moreover, we have chosen not to make subjective estimates of plausibility/certainty ranges around
+the coverage. The GoC reflects the degree of empirical support upon which the estimates are based. It is
+not a judgment of the quality of data reported by national authorities.
+••• Estimate is supported by reported data [R+], coverage recalculated with an independent denominator
+from the World Population Prospects: 2022 revision from the UN Population Division (D+), and at
+least one supporting survey within 2 years [S+]. While well supported, the estimate still carries a risk
+of being wrong.
+•• Estimate is supported by at least one data source; [R+], [S+], or [D+]; and no data source, [R-], [D-], or
+[S-], challenges the estimate.
+• There are no directly supporting data; or data from at least one source; [R-], [D-], [S-]; challenge the estimate.
+In all cases these estimates should be used with caution and should be assessed in light
+of the objective for which they are being used.
+Description:
+2023: Estimate informed by reported data. Oﬃcial estimates based on adjusted data using the
+2022 Third Party Veriﬁcation of Immunization Coverage Survey. Estimate challenged
+by: D-
+2022: Estimate informed by reported data. Oﬃcial estimates based on adjusted data using the
+2022 Third Party Veriﬁcation of Immunization Coverage Survey. Estimate challenged
+by: D-
+2021: Estimate informed by reported data. Oﬃcial estimates based on adjusted data using the
+2021 Third Party Veriﬁcation of Immunization Coverage Survey. GoC=R+ S+ D+
+2020: Estimate informed by reported data supported by survey. Survey evidence of 84 percent
+based on 1 survey(s). Oﬃcial estimates for 2019 and 2020 based on the results of Third
+Party Veriﬁcation of Immunization Coverage Survey (TPVICS), a large vaccination cov-
+erage survey conducted in early 2021. Monthly coverage data showed a signiﬁcant decline
+in coverage from March to May 2020 followed by increases as a result of intensive catch-up
+vaccination activities. Estimate challenged by: D-
+2019: Estimate informed by reported data supported by survey. Survey evidence of 86 percent
+based on 1 survey(s). Programme reports a nine percent increase in the target popu-
+lation from 2018 to 2019 which may be related to a transition towards data from the
+2017 census results. Census derived age-speciﬁc results were not available at the time of
+reporting. Estimate challenged by: D-
+2018: Estimate based on reported data during period of introduction. Reported data excluded.
+As the reported number of doses administered increased from 2017 to 2018, observed
+declines in reported coverage may be artiﬁcial and the result of a larger year-to-year in-
+crease in the target population that observed in prior years. GoC=Assigned by working
+group. Consistency across vaccines in presence of no accepted empirical data.
+2017:
+Rotavirus vaccine was introduced in 2017.
+Programme reports 24 percent coverage
+achieved in 51 percent of the national target population. Estimate is based on annualized
+coverage achieved in the national target population. Estimates exceptionally based on
+administrative coverage as it was an introduction year and no other data was available.
+The oﬃcial estimates for Pakistan were determined through an exercise conducted with
+technical assistance from WHO and UNICEF in consultation with all provinces and ar-
+eas using locally available survey data, data quality assessment results, administrative
+reports and data from the polio programme. Estimate challenged by: R-S-
+July 2, 2024; page 14
+WHO and UNICEF estimates of national immunization coverage - next revision available July 15, 2025
+data received as of June 27, 2024
+Pakistan - PcV3
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+2023
+Estimate
+NA
+65
+68
+80
+78
+82
+82
+83
+82
+83
+85
+86
+Estimate GoC
+NA
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+Oﬃcial
+NA
+65
+70
+73
+86
+NA
+72
+83
+82
+83
+85
+86
+Administrative
+NA
+84
+90
+86
+87
+87
+84
+90
+89
+87
+95
+98
+Survey
+NA
+NA
+NA
+74
+75
+NA
+NA
+83
+84
+NA
+NA
+NA
+The WHO and UNICEF estimates of national immunization coverage (wuenic) are based on data and information
+that are of varying, and, in some instances, unknown quality. Beginning with the 2011 revision we describe
+the grade of confidence (GoC) we have in these estimates. As there is no underlying probability model upon
+which the estimates are based, we are unable to present classical measures of uncertainty, e.g., confidence
+intervals. Moreover, we have chosen not to make subjective estimates of plausibility/certainty ranges around
+the coverage. The GoC reflects the degree of empirical support upon which the estimates are based. It is
+not a judgment of the quality of data reported by national authorities.
+••• Estimate is supported by reported data [R+], coverage recalculated with an independent denominator
+from the World Population Prospects: 2022 revision from the UN Population Division (D+), and at
+least one supporting survey within 2 years [S+]. While well supported, the estimate still carries a risk
+of being wrong.
+•• Estimate is supported by at least one data source; [R+], [S+], or [D+]; and no data source, [R-], [D-], or
+[S-], challenges the estimate.
+• There are no directly supporting data; or data from at least one source; [R-], [D-], [S-]; challenge the estimate.
+In all cases these estimates should be used with caution and should be assessed in light
+of the objective for which they are being used.
+Description:
+2023: Estimate informed by reported data. Oﬃcial estimates based on adjusted data using the
+2022 Third Party Veriﬁcation of Immunization Coverage Survey. Estimate challenged
+by: D-
+2022: Estimate informed by reported data. Oﬃcial estimates based on adjusted data using the
+2022 Third Party Veriﬁcation of Immunization Coverage Survey. Estimate challenged
+by: D-
+2021: Estimate informed by reported data. Oﬃcial estimates based on adjusted data using the
+2021 Third Party Veriﬁcation of Immunization Coverage Survey. Estimate challenged
+by: D-
+2020: Estimate informed by reported data supported by survey. Survey evidence of 84 percent
+based on 1 survey(s). Oﬃcial estimates for 2019 and 2020 based on the results of Third
+Party Veriﬁcation of Immunization Coverage Survey (TPVICS), a large vaccination cov-
+erage survey conducted in early 2021. Monthly coverage data showed a signiﬁcant decline
+in coverage from March to May 2020 followed by increases as a result of intensive catch-up
+vaccination activities. Estimate challenged by: D-
+2019: Estimate based on oﬃcial coverage reported. Programme reports a nine percent increase
+in the target population from 2018 to 2019 which may be related to a transition towards
+data from the 2017 census results. Census derived age-speciﬁc results were not available
+at the time of reporting. Estimate challenged by: D-
+2018: Reported data calibrated to 2016 and 2019 levels. Reported data excluded. As the reported
+number of doses administered increased from 2017 to 2018, observed declines in reported
+coverage may be artiﬁcial and the result of a larger year-to-year increase in the target
+population that observed in prior years.Reported data excluded due to decline in reported
+coverage from 87 percent to 72 percent with increase to 83 percent. GoC=Assigned by
+working group. Consistency across vaccines in presence of no accepted empirical data.
+2017: Reported data calibrated to 2016 and 2019 levels.
+The oﬃcial estimates for Pakistan
+were determined through an exercise conducted with technical assistance from WHO
+and UNICEF in consultation with all provinces and areas using locally available survey
+data, data quality assessment results, administrative reports and data from the polio
+programme. Estimate challenged by: R-
+2016: Estimate of 78 percent assigned by working group. Estimate is based on survey result
+adjusted for recall bias. Pakistan Demographic and Health Survey 2017-2018 card or
+history results of 75 percent modifed for recall bias to 78 percent based on 1st dose card
+or history coverage of 85 percent, 1st dose card only coverage of 63 percent and 3rd dose
+card only coverage of 58 percent. Estimate challenged by: R-
+2015: Estimate of 80 percent assigned by working group. Estimate is based on survey result
+adjusted for recall bias. Pakistan Demographic and Health Survey 2017-2018 card or
+history results of 74 percent modifed for recall bias to 80 percent based on 1st dose card
+or history coverage of 82 percent, 1st dose card only coverage of 46 percent and 3rd dose
+card only coverage of 45 percent. Estimate challenged by: R-
+2014: Estimate is based on DTP3 coverage. Estimate is likely an overestimate. Reported tar-
+July 2, 2024; page 15
+WHO and UNICEF estimates of national immunization coverage - next revision available July 15, 2025
+data received as of June 27, 2024
+Pakistan - PcV3
+get population increase from 2013 to 2014, which was larger than any prior year-to-year
+change, is also unexplained while the number of children vaccinated remained largely
+unchanged from 2013 to 2014. Estimate challenged by: D-R-S-
+2013: Estimate is based on reported data during introduction. The Pakistan Social and Liv-
+ing Standards Measurement Survey report does not include the sample size (number of
+children aged 12-23 m) from which coverage is estimated. Report also does not include
+prevalence of home-based record ownership. In addition, t GoC=Assigned by working
+group. GoC assigned to maintain consistency across vaccines.
+July 2, 2024; page 16
+WHO and UNICEF estimates of national immunization coverage - next revision available July 15, 2025
+data received as of June 27, 2024
+Pakistan - Pol3
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+2023
+Estimate
+64
+65
+69
+72
+75
+75
+75
+84
+83
+83
+85
+86
+Estimate GoC
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+Oﬃcial
+89
+66
+70
+75
+86
+NA
+83
+84
+83
+83
+93
+86
+Administrative
+95
+95
+90
+87
+87
+87
+84
+90
+89
+87
+95
+98
+Survey
+*
+97
+NA
+88
+86
+NA
+NA
+84
+85
+NA
+NA
+NA
+The WHO and UNICEF estimates of national immunization coverage (wuenic) are based on data and information
+that are of varying, and, in some instances, unknown quality. Beginning with the 2011 revision we describe
+the grade of confidence (GoC) we have in these estimates. As there is no underlying probability model upon
+which the estimates are based, we are unable to present classical measures of uncertainty, e.g., confidence
+intervals. Moreover, we have chosen not to make subjective estimates of plausibility/certainty ranges around
+the coverage. The GoC reflects the degree of empirical support upon which the estimates are based. It is
+not a judgment of the quality of data reported by national authorities.
+••• Estimate is supported by reported data [R+], coverage recalculated with an independent denominator
+from the World Population Prospects: 2022 revision from the UN Population Division (D+), and at
+least one supporting survey within 2 years [S+]. While well supported, the estimate still carries a risk
+of being wrong.
+•• Estimate is supported by at least one data source; [R+], [S+], or [D+]; and no data source, [R-], [D-], or
+[S-], challenges the estimate.
+• There are no directly supporting data; or data from at least one source; [R-], [D-], [S-]; challenge the estimate.
+In all cases these estimates should be used with caution and should be assessed in light
+of the objective for which they are being used.
+Description:
+2023: Estimate informed by reported data. Oﬃcial estimates based on adjusted data using the
+2022 Third Party Veriﬁcation of Immunization Coverage Survey. Estimate challenged
+by: D-
+2022: Estimate informed by DTP3 estimated coverage.
+Oﬃcial estimates based on adjusted
+data using the 2022 Third Party Veriﬁcation of Immunization Coverage Survey. Esti-
+mate challenged by: D-R-
+2021: Estimate informed by reported data. Oﬃcial estimates based on adjusted data using the
+2021 Third Party Veriﬁcation of Immunization Coverage Survey. Estimate challenged
+by: D-
+2020: Estimate informed by reported data supported by survey. Survey evidence of 85 percent
+based on 1 survey(s). Oﬃcial estimates for 2019 and 2020 based on the results of Third
+Party Veriﬁcation of Immunization Coverage Survey (TPVICS), a large vaccination cov-
+erage survey conducted in early 2021. Monthly coverage data showed a signiﬁcant decline
+in coverage from March to May 2020 followed by increases as a result of intensive catch-up
+vaccination activities. Estimate challenged by: D-
+2019: Estimate informed by reported data supported by survey. Survey evidence of 84 percent
+based on 1 survey(s). Programme reports a nine percent increase in the target popu-
+lation from 2018 to 2019 which may be related to a transition towards data from the
+2017 census results. Census derived age-speciﬁc results were not available at the time of
+reporting. Estimate challenged by: D-
+2018: Coverage based on extrapolation from 2017. Reported data excluded. Decline observed in
+administrative coverage likely an artefact of a four percent increase in the target popula-
+tion from 2017 to 2018. Survey results may include campaign doses. GoC=Assigned by
+working group. Consistency across vaccines in presence of no accepted empirical data.
+2017: Coverage based on DTP3 estimates. The oﬃcial estimates for Pakistan were determined
+through an exercise conducted with technical assistance from WHO and UNICEF in con-
+sultation with all provinces and areas using locally available survey data, data quality
+assessment results, administrative reports and data from the polio programme. Estimate
+challenged by: D-R-S-
+2016: Coverage based on DTP3 estimates. Pakistan Demographic and Health Survey 2017-2018
+card or history results of 86 percent modifed for recall bias to 87 percent based on 1st
+dose card or history coverage of 95 percent, 1st dose card only coverage of 63 percent
+and 3rd dose card only coverage of 58 percent. Estimate challenged by: D-R-S-
+2015: Coverage based on DTP3 estimates. Pakistan Demographic and Health Survey 2017-2018
+card or history results of 88 percent modifed for recall bias to 91 percent based on 1st
+dose card or history coverage of 95 percent, 1st dose card only coverage of 47 percent
+and 3rd dose card only coverage of 45 percent. Estimate challenged by: D-R-S-
+2014: Coverage based on estimated DTP3 coverage. Reported target population increase from
+2013 to 2014, which was larger than any prior year-to-year change, is also unexplained
+while the number of children vaccinated remained largely unchanged from 2013 to 2014.
+Estimate challenged by: D-R-S-
+July 2, 2024; page 17
+WHO and UNICEF estimates of national immunization coverage - next revision available July 15, 2025
+data received as of June 27, 2024
+Pakistan - Pol3
+2013: Coverage based on DTP3 estimates.
+Survey results ignored.
+Sample size 0 less than
+300. Pakistan Social and Living Standards Measurement Survey (PSLM), 2014-15 card
+or history results of 97 percent modifed for recall bias to 98 percent based on 1st dose
+card or history coverage of 98 percent, 1st dose card only coverage of 65 percent and
+3rd dose card only coverage of 65 percent. The Pakistan Social and Living Standards
+Measurement Survey report does not include the sample size (number of children aged
+12-23 m) from which coverage is estimated. Report also does not include prevalence of
+home-based record ownership. In addition, t Estimate challenged by: D-R-S-
+2012: Coverage based on DTP3 estimates. Survey results ignored. Sample size 0 less than 300.
+Pakistan Demographic and Health Survey 2012-2013 card or history results of 85 percent
+modifed for recall bias to 87 percent based on 1st dose card or history coverage of 92
+percent, 1st dose card only coverage of 35 percent and 3rd dose card only coverage of 33
+percent. Pakistan Social and Living Standards Measurement Survey (PSLM), 2013-14
+card or history results of 96 percent modifed for recall bias to 98 percent based on 1st
+dose card or history coverage of 98 percent, 1st dose card only coverage of 62 percent
+and 3rd dose card only coverage of 62 percent. The Pakistan Social and Living Stan-
+dards Measurement Survey report does not include the sample size (number of children
+aged 12-23 m) from which coverage is estimated. Report also does not include preva-
+lence of home-based record ownership. In addition, the report suggests exceptionally low
+drop-out for multi-dose vaccines. Estimate challenged by: D-R-S-
+July 2, 2024; page 18
+WHO and UNICEF estimates of national immunization coverage - next revision available July 15, 2025
+data received as of June 27, 2024
+Pakistan - IPV1
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+2023
+Estimate
+NA
+NA
+NA
+20
+56
+67
+75
+84
+83
+83
+90
+86
+Estimate GoC
+NA
+NA
+NA
+•
+•
+•
+•
+•
+•
+•
+•
+•
+Oﬃcial
+NA
+NA
+NA
+24
+72
+NA
+68
+84
+83
+83
+93
+86
+Administrative
+NA
+NA
+NA
+24
+73
+77
+83
+91
+92
+92
+100
+101
+Survey
+NA
+NA
+NA
+56
+64
+NA
+NA
+84
+83
+NA
+NA
+NA
+The WHO and UNICEF estimates of national immunization coverage (wuenic) are based on data and information
+that are of varying, and, in some instances, unknown quality. Beginning with the 2011 revision we describe
+the grade of confidence (GoC) we have in these estimates. As there is no underlying probability model upon
+which the estimates are based, we are unable to present classical measures of uncertainty, e.g., confidence
+intervals. Moreover, we have chosen not to make subjective estimates of plausibility/certainty ranges around
+the coverage. The GoC reflects the degree of empirical support upon which the estimates are based. It is
+not a judgment of the quality of data reported by national authorities.
+••• Estimate is supported by reported data [R+], coverage recalculated with an independent denominator
+from the World Population Prospects: 2022 revision from the UN Population Division (D+), and at
+least one supporting survey within 2 years [S+]. While well supported, the estimate still carries a risk
+of being wrong.
+•• Estimate is supported by at least one data source; [R+], [S+], or [D+]; and no data source, [R-], [D-], or
+[S-], challenges the estimate.
+• There are no directly supporting data; or data from at least one source; [R-], [D-], [S-]; challenge the estimate.
+In all cases these estimates should be used with caution and should be assessed in light
+of the objective for which they are being used.
+Description:
+Estimates for a dose of inactivated polio vaccine (IPV) begin in 2015 following the Global Po-
+lio Eradication Initiative’s Polio Eradication and Endgame Strategic Plan: 2013-2018
+which recommended at least one full dose or two fractional doses of IPV into routine
+immunization schedules as a strategy to mitigate the potential consequences should any
+re-emergence of type 2 poliovirus occur following the planned withdrawal of Sabin type
+2 strains from oral polio vaccine (OPV).
+2023: Estimate informed by reported data. Oﬃcial estimates based on adjusted data using the
+2022 Third Party Veriﬁcation of Immunization Coverage Survey. Estimate challenged
+by: D-
+2022: Estimate informed by the diﬀerence between reported administrative DTP3 and IPV1
+coverage and the estimated coverage for DTP3. Increases may reﬂect the contribution of
+supplementary immunization activities. Oﬃcial estimates based on adjusted data using
+the 2022 Third Party Veriﬁcation of Immunization Coverage Survey. Estimate challenged
+by: D-R-
+2021: Estimate informed by reported data. Oﬃcial estimates based on adjusted data using the
+2021 Third Party Veriﬁcation of Immunization Coverage Survey. Estimate challenged
+by: D-
+2020: Estimate informed by reported data supported by survey. Survey evidence of 83 percent
+based on 1 survey(s). Oﬃcial estimates for 2019 and 2020 based on the results of Third
+Party Veriﬁcation of Immunization Coverage Survey (TPVICS), a large vaccination cov-
+erage survey conducted in early 2021. Monthly coverage data showed a signiﬁcant decline
+in coverage from March to May 2020 followed by increases as a result of intensive catch-up
+vaccination activities. Estimate challenged by: D-
+2019: Estimate informed by reported data supported by survey. Survey evidence of 84 percent
+based on 1 survey(s). Programme reports a nine percent increase in the target popu-
+lation from 2018 to 2019 which may be related to a transition towards data from the
+2017 census results. Census derived age-speciﬁc results were not available at the time of
+reporting. Estimate challenged by: D-
+2018: Estimate based on estimated DTP3 coverage. Reported data excluded. As the reported
+number of doses administered increased from 2017 to 2018, observed declines in reported
+coverage may be artiﬁcial and the result of a larger year-to-year increase in the target
+population that observed in prior years. GoC=Assigned by working group. Consistency
+across vaccines in presence of no accepted empirical data.
+2017: Estimate is based on DTP3 coverage adjusted by the relative diﬀerence in the reported
+number of children vaccinated with DTP3 and IPV1. The oﬃcial estimates for Pakistan
+were determined through an exercise conducted with technical assistance from WHO
+and UNICEF in consultation with all provinces and areas using locally available survey
+data, data quality assessment results, administrative reports and data from the polio
+programme. Estimate challenged by: D-R-S-
+2016: Estimate is based on DTP3 coverage adjusted by the relative diﬀerence in the reported
+July 2, 2024; page 19
+WHO and UNICEF estimates of national immunization coverage - next revision available July 15, 2025
+data received as of June 27, 2024
+Pakistan - IPV1
+number of children vaccinated with DTP3 and IPV1. Estimate challenged by: D-R-
+2015: Inactivated polio vaccine during 2015. Estimate challenged by: R-S-
+July 2, 2024; page 20
+WHO and UNICEF estimates of national immunization coverage - next revision available July 15, 2025
+data received as of June 27, 2024
+Pakistan - IPV2
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+2023
+Estimate
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+29
+80
+84
+Estimate GoC
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+••
+•
+•
+Oﬃcial
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+80
+84
+Administrative
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+29
+93
+91
+Survey
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+The WHO and UNICEF estimates of national immunization coverage (wuenic) are based on data and information
+that are of varying, and, in some instances, unknown quality. Beginning with the 2011 revision we describe
+the grade of confidence (GoC) we have in these estimates. As there is no underlying probability model upon
+which the estimates are based, we are unable to present classical measures of uncertainty, e.g., confidence
+intervals. Moreover, we have chosen not to make subjective estimates of plausibility/certainty ranges around
+the coverage. The GoC reflects the degree of empirical support upon which the estimates are based. It is
+not a judgment of the quality of data reported by national authorities.
+••• Estimate is supported by reported data [R+], coverage recalculated with an independent denominator
+from the World Population Prospects: 2022 revision from the UN Population Division (D+), and at
+least one supporting survey within 2 years [S+]. While well supported, the estimate still carries a risk
+of being wrong.
+•• Estimate is supported by at least one data source; [R+], [S+], or [D+]; and no data source, [R-], [D-], or
+[S-], challenges the estimate.
+• There are no directly supporting data; or data from at least one source; [R-], [D-], [S-]; challenge the estimate.
+In all cases these estimates should be used with caution and should be assessed in light
+of the objective for which they are being used.
+Description:
+Estimates for a second dose of inactivated polio vaccine (IPV) begin in 2021 following a Strategic
+Advisory Group of Experts on Immunization (SAGE) recommendation in October 2020
+that a second IPV dose increases protection against all polioviruses, including protection
+against paralysis caused by vaccine derived polio virus (type 2) (VDPV2). The addition
+of IPV2 is the next step towards complete OPV withdrawal. IPV2 coverage estimates
+produced for OPV using countries.
+2023: Estimate informed by reported data. Oﬃcial estimates based on adjusted data using the
+2022 Third Party Veriﬁcation of Immunization Coverage Survey. Estimate challenged
+by: D-
+2022: Estimate informed by reported data. Oﬃcial estimates based on adjusted data using the
+2022 Third Party Veriﬁcation of Immunization Coverage Survey. Estimate challenged
+by: D-
+2021:
+Estimate informed by reported administrative data.
+Oﬃcial estimates based on ad-
+justed data using the 2021 Third Party Veriﬁcation of Immunization Coverage Survey.
+GoC=R+ D+
+July 2, 2024; page 21
+WHO and UNICEF estimates of national immunization coverage - next revision available July 15, 2025
+data received as of June 27, 2024
+Pakistan - MCV1
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+2023
+Estimate
+63
+68
+71
+75
+75
+76
+79
+81
+83
+81
+82
+84
+Estimate GoC
+•
+•
+•
+•••
+•
+•
+•
+•
+•
+•
+•
+•
+Oﬃcial
+63
+68
+71
+75
+75
+76
+66
+81
+83
+81
+82
+84
+Administrative
+97
+99
+90
+86
+90
+89
+83
+90
+92
+87
+94
+98
+Survey
+*
+83
+NA
+75
+73
+NA
+NA
+81
+81
+NA
+NA
+NA
+The WHO and UNICEF estimates of national immunization coverage (wuenic) are based on data and information
+that are of varying, and, in some instances, unknown quality. Beginning with the 2011 revision we describe
+the grade of confidence (GoC) we have in these estimates. As there is no underlying probability model upon
+which the estimates are based, we are unable to present classical measures of uncertainty, e.g., confidence
+intervals. Moreover, we have chosen not to make subjective estimates of plausibility/certainty ranges around
+the coverage. The GoC reflects the degree of empirical support upon which the estimates are based. It is
+not a judgment of the quality of data reported by national authorities.
+••• Estimate is supported by reported data [R+], coverage recalculated with an independent denominator
+from the World Population Prospects: 2022 revision from the UN Population Division (D+), and at
+least one supporting survey within 2 years [S+]. While well supported, the estimate still carries a risk
+of being wrong.
+•• Estimate is supported by at least one data source; [R+], [S+], or [D+]; and no data source, [R-], [D-], or
+[S-], challenges the estimate.
+• There are no directly supporting data; or data from at least one source; [R-], [D-], [S-]; challenge the estimate.
+In all cases these estimates should be used with caution and should be assessed in light
+of the objective for which they are being used.
+Description:
+2023: Estimate informed by reported data. Oﬃcial estimates based on adjusted data using the
+2022 Third Party Veriﬁcation of Immunization Coverage Survey. Estimate challenged
+by: D-
+2022: Estimate informed by reported data. Oﬃcial estimates based on adjusted data using the
+2022 Third Party Veriﬁcation of Immunization Coverage Survey. Estimate challenged
+by: D-
+2021: Estimate informed by reported data. Oﬃcial estimates based on adjusted data using the
+2021 Third Party Veriﬁcation of Immunization Coverage Survey. Estimate challenged
+by: D-
+2020: Estimate informed by reported data supported by survey. Survey evidence of 81 percent
+based on 1 survey(s). Oﬃcial estimates for 2019 and 2020 based on the results of Third
+Party Veriﬁcation of Immunization Coverage Survey (TPVICS), a large vaccination cov-
+erage survey conducted in early 2021. Monthly coverage data showed a signiﬁcant decline
+in coverage from March to May 2020 followed by increases as a result of intensive catch-up
+vaccination activities. Estimate challenged by: D-
+2019: Estimate informed by reported data supported by survey. Survey evidence of 81 percent
+based on 1 survey(s). Programme reports a nine percent increase in the target popu-
+lation from 2018 to 2019 which may be related to a transition towards data from the
+2017 census results. Census derived age-speciﬁc results were not available at the time of
+reporting. Estimate challenged by: D-
+2018: Estimate informed by interpolation between reported data. Reported data excluded. As
+the reported number of doses administered increased from 2017 to 2018, observed declines
+in reported coverage may be artiﬁcial and the result of a larger year-to-year increase in
+the target population that observed in prior years. GoC=Assigned by working group.
+Consistency across vaccines in presence of no accepted empirical data.
+2017: Estimate informed by reported data. The oﬃcial estimates for Pakistan were determined
+through an exercise conducted with technical assistance from WHO and UNICEF in con-
+sultation with all provinces and areas using locally available survey data, data quality
+assessment results, administrative reports and data from the polio programme. Estimate
+challenged by: D-
+2016: Estimate informed by reported data supported by survey. Survey evidence of 73 percent
+based on 1 survey(s). Estimate challenged by: D-
+2015: Estimate informed by reported data supported by survey. Survey evidence of 75 percent
+based on 1 survey(s). GoC=R+ S+ D+
+2014: Estimate informed by reported data. Reported target population increase from 2013 to
+2014, which was larger than any prior year-to-year change, is also unexplained while the
+number of children vaccinated remained largely unchanged from 2013 to 2014. Estimate
+challenged by: D-
+2013: Estimate informed by reported data. Survey results ignored. Sample size 0 less than 300.
+The Pakistan Social and Living Standards Measurement Survey report does not include
+the sample size (number of children aged 12-23 m) from which coverage is estimated.
+July 2, 2024; page 22
+WHO and UNICEF estimates of national immunization coverage - next revision available July 15, 2025
+data received as of June 27, 2024
+Pakistan - MCV1
+Report also does not include prevalence of home-based record ownership. In addition, t
+Estimate challenged by: D-
+2012: Estimate informed by reported data supported by survey. Survey evidence of 61 percent
+based on 1 survey(s). Survey results ignored. Sample size 0 less than 300. The Pakistan
+Social and Living Standards Measurement Survey report does not include the sample size
+(number of children aged 12-23 m) from which coverage is estimated. Report also does
+not include prevalence of home-based record ownership. In addition, the report suggests
+exceptionally low drop-out for multi-dose vaccines. Estimate challenged by: D-
+July 2, 2024; page 23
+WHO and UNICEF estimates of national immunization coverage - next revision available July 15, 2025
+data received as of June 27, 2024
+Pakistan - RCV1
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+2023
+Estimate
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+82
+84
+Estimate GoC
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+•
+•
+Oﬃcial
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+Administrative
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+Survey
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+The WHO and UNICEF estimates of national immunization coverage (wuenic) are based on data and information
+that are of varying, and, in some instances, unknown quality. Beginning with the 2011 revision we describe
+the grade of confidence (GoC) we have in these estimates. As there is no underlying probability model upon
+which the estimates are based, we are unable to present classical measures of uncertainty, e.g., confidence
+intervals. Moreover, we have chosen not to make subjective estimates of plausibility/certainty ranges around
+the coverage. The GoC reflects the degree of empirical support upon which the estimates are based. It is
+not a judgment of the quality of data reported by national authorities.
+••• Estimate is supported by reported data [R+], coverage recalculated with an independent denominator
+from the World Population Prospects: 2022 revision from the UN Population Division (D+), and at
+least one supporting survey within 2 years [S+]. While well supported, the estimate still carries a risk
+of being wrong.
+•• Estimate is supported by at least one data source; [R+], [S+], or [D+]; and no data source, [R-], [D-], or
+[S-], challenges the estimate.
+• There are no directly supporting data; or data from at least one source; [R-], [D-], [S-]; challenge the estimate.
+In all cases these estimates should be used with caution and should be assessed in light
+of the objective for which they are being used.
+Description:
+For this revision, coverage estimates for the ﬁrst dose of rubella containing vaccine are based
+on WHO and UNICEF estimates of coverage of measles containing vaccine. Nationally
+reported coverage of rubella containing vaccine is not taken into consideration nor are
+they represented in the the accompanying graph and data table.
+2023: Estimate based on estimated MCV1. Oﬃcial estimates based on adjusted data using the
+2022 Third Party Veriﬁcation of Immunization Coverage Survey. Estimate challenged
+by: D-
+2022: Estimate based on estimated MCV1. Oﬃcial estimates based on adjusted data using the
+2022 Third Party Veriﬁcation of Immunization Coverage Survey. MR vaccine introduced
+in January 2022. Estimate challenged by: D-
+July 2, 2024; page 24
+WHO and UNICEF estimates of national immunization coverage - next revision available July 15, 2025
+data received as of June 27, 2024
+Pakistan - MCV2
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+2023
+Estimate
+42
+43
+48
+54
+67
+67
+67
+74
+77
+79
+79
+80
+Estimate GoC
+•
+•
+•
+•
+•
+•
+•
+•
+••
+••
+•
+•
+Oﬃcial
+32
+31
+33
+35
+45
+45
+58
+74
+77
+79
+79
+80
+Administrative
+66
+79
+73
+69
+76
+75
+72
+79
+82
+78
+83
+91
+Survey
+NA
+NA
+NA
+NA
+67
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+The WHO and UNICEF estimates of national immunization coverage (wuenic) are based on data and information
+that are of varying, and, in some instances, unknown quality. Beginning with the 2011 revision we describe
+the grade of confidence (GoC) we have in these estimates. As there is no underlying probability model upon
+which the estimates are based, we are unable to present classical measures of uncertainty, e.g., confidence
+intervals. Moreover, we have chosen not to make subjective estimates of plausibility/certainty ranges around
+the coverage. The GoC reflects the degree of empirical support upon which the estimates are based. It is
+not a judgment of the quality of data reported by national authorities.
+••• Estimate is supported by reported data [R+], coverage recalculated with an independent denominator
+from the World Population Prospects: 2022 revision from the UN Population Division (D+), and at
+least one supporting survey within 2 years [S+]. While well supported, the estimate still carries a risk
+of being wrong.
+•• Estimate is supported by at least one data source; [R+], [S+], or [D+]; and no data source, [R-], [D-], or
+[S-], challenges the estimate.
+• There are no directly supporting data; or data from at least one source; [R-], [D-], [S-]; challenge the estimate.
+In all cases these estimates should be used with caution and should be assessed in light
+of the objective for which they are being used.
+Description:
+Coverage estimates for the second dose of measles containing vaccine are for children by the
+nationally recommended age.
+2023: Estimate informed by reported data. Oﬃcial estimates based on adjusted data using the
+2022 Third Party Veriﬁcation of Immunization Coverage Survey. Estimate challenged
+by: D-
+2022: Estimate informed by reported data. Oﬃcial estimates based on adjusted data using the
+2022 Third Party Veriﬁcation of Immunization Coverage Survey. Estimate challenged
+by: D-
+2021: Estimate informed by reported data. Oﬃcial estimates based on adjusted data using the
+2021 Third Party Veriﬁcation of Immunization Coverage Survey. GoC=R+ D+
+2020: Estimate informed by reported data. Oﬃcial estimates for 2019 and 2020 based on the
+results of Third Party Veriﬁcation of Immunization Coverage Survey (TPVICS), a large
+vaccination coverage survey conducted in early 2021. Monthly coverage data showed a
+signiﬁcant decline in coverage from March to May 2020 followed by increases as a result
+of intensive catch-up vaccination activities. GoC=R+ D+
+2019: Estimate is based on the oﬃcial coverage reported. Programme reports a nine percent
+increase in the target population from 2018 to 2019 which may be related to a transition
+towards data from the 2017 census results. Census derived age-speciﬁc results were not
+available at the time of reporting. Estimate challenged by: D-
+2018: Estimate is based on prior year estimate. Reported data excluded. As the reported num-
+ber of doses administered increased from 2017 to 2018, observed declines in reported
+coverage may be artiﬁcial and the result of a larger year-to-year increase in the target
+population that observed in prior years. GoC=Assigned by working group. Consistency
+across vaccines in presence of no accepted empirical data.
+2017: Estimate is based on survey result from prior year. The oﬃcial estimates for Pakistan
+were determined through an exercise conducted with technical assistance from WHO
+and UNICEF in consultation with all provinces and areas using locally available survey
+data, data quality assessment results, administrative reports and data from the polio
+programme. Estimate challenged by: R-
+2016: Survey evidence does not support reported data. Estimate based on survey results. Survey
+evidence of 67 percent based on 1 survey(s). Estimate challenged by: R-
+2015: Reported data calibrated to 2009 and 2016 levels. Estimate challenged by: D-R-S-
+2014: Reported data calibrated to 2009 and 2016 levels. Estimate challenged by: D-R-S-
+2013: Reported data calibrated to 2009 and 2016 levels. The Pakistan Social and Living Stan-
+dards Measurement Survey report does not include the sample size (number of children
+aged 12-23 m) from which coverage is estimated. Report also does not include prevalence
+of home-based record ownership. In addition, t Estimate challenged by: D-R-
+2012: Reported data calibrated to 2009 and 2016 levels. The Pakistan Social and Living Stan-
+dards Measurement Survey report does not include the sample size (number of children
+aged 12-23 m) from which coverage is estimated. Report also does not include preva-
+July 2, 2024; page 25
+WHO and UNICEF estimates of national immunization coverage - next revision available July 15, 2025
+data received as of June 27, 2024
+Pakistan - MCV2
+lence of home-based record ownership. In addition, the report suggests exceptionally low
+drop-out for multi-dose vaccines. Estimate challenged by: D-R-
+July 2, 2024; page 26
+WHO and UNICEF estimates of national immunization coverage - next revision available July 15, 2025
+data received as of June 27, 2024
+Pakistan - survey details
+NOTE: A survey to measure vaccination coverage for infants (i.e., children
+aged 0-11 months) will sample children aged 12-23 months at the time of
+survey to capture the youngest annual cohort of children who should have
+completed the vaccination schedule. Because WUENIC are for infant
+vaccinations, survey data in this report are presented to reflect the birth
+year of the youngest survey cohort. For example, results for a survey
+conducted during December 2020 among children aged 12-23 months at the time
+of the survey reflect the immunization experience of children born in 2019.
+Depending on the timing of survey field work, results may reflect the
+immunization experience of children born and vaccinated 1 or 2 years prior
+to the survey field work.
+2020 Third-Party Veriﬁcation Immunization Coverage Survey Round Two
+(TPVICS R-II) 2022
+Vaccine Conﬁrmation method Coverage Age cohort Sample Cards seen
+BCG
+Card or History
+94.7
+12-23 m
+95217
+66
+DTP1
+Card or History
+90.2
+12-23 m
+95217
+66
+DTP3
+Card or History
+84.4
+12-23 m
+95217
+66
+HepB1
+Card or History
+90.2
+12-23 m
+95217
+66
+HepB3
+Card or History
+84.4
+12-23 m
+95217
+66
+Hib1
+Card or History
+90.2
+12-23 m
+95217
+66
+Hib3
+Card or History
+84.4
+12-23 m
+95217
+66
+IPV1
+Card or History
+83.4
+12-23 m
+95217
+66
+MCV1
+Card or History
+81.3
+12-23 m
+95217
+66
+PcV1
+Card or History
+89.7
+12-23 m
+95217
+66
+PcV3
+Card or History
+84.2
+12-23 m
+95217
+66
+Pol1
+Card or History
+91.2
+12-23 m
+95217
+66
+Pol3
+Card or History
+85.3
+12-23 m
+95217
+66
+RotaC
+Card or History
+84.5
+12-23 m
+95217
+66
+2019 Third-party Veriﬁcation Immunization Coverage Survey (TPVICS)
+2021
+Vaccine Conﬁrmation method Coverage Age cohort Sample Cards seen
+BCG
+Card or History
+93.3
+12-23 m
+110905 66
+DTP1
+Card or History
+90.5
+12-23 m
+110905 66
+DTP3
+Card or History
+83.6
+12-23 m
+110905 66
+HepB1
+Card or History
+90.5
+12-23 m
+110905 66
+HepB3
+Card or History
+83.6
+12-23 m
+110905 66
+Hib1
+Card or History
+90.5
+12-23 m
+110905 66
+Hib3
+Card or History
+83.6
+12-23 m
+110905 66
+IPV1
+Card or History
+84.4
+12-23 m
+110905 66
+MCV1
+Card or History
+80.6
+12-23 m
+110905 66
+PcV1
+Card or History
+90.2
+12-23 m
+110905 66
+PcV3
+Card or History
+82.9
+12-23 m
+110905 66
+Pol1
+Card or History
+91.4
+12-23 m
+110905 66
+Pol3
+Card or History
+84.3
+12-23 m
+110905 66
+RotaC
+Card or History
+85.5
+12-23 m
+110905 66
+2016 Pakistan Demographic and Health Survey 2017-2018
+Vaccine Conﬁrmation method Coverage Age cohort Sample Cards seen
+BCG
+C or H <12 months
+87
+12-23 m
+1975
+63
+BCG
+Card
+63
+12-23 m
+1252
+63
+BCG
+Card or History
+87.9
+12-23 m
+1975
+63
+BCG
+History
+24.9
+12-23 m
+723
+63
+DTP1
+C or H <12 months
+85
+12-23 m
+1975
+63
+DTP1
+Card
+62.9
+12-23 m
+1252
+63
+DTP1
+Card or History
+86.3
+12-23 m
+1975
+63
+DTP1
+History
+23.5
+12-23 m
+723
+63
+DTP3
+C or H <12 months
+73.8
+12-23 m
+1975
+63
+DTP3
+Card
+58.5
+12-23 m
+1252
+63
+DTP3
+Card or History
+75.4
+12-23 m
+1975
+63
+DTP3
+History
+16.8
+12-23 m
+723
+63
+HepB1
+C or H <12 months
+85
+12-23 m
+1975
+63
+HepB1
+Card
+62.9
+12-23 m
+1252
+63
+HepB1
+Card or History
+86.3
+12-23 m
+1975
+63
+HepB1
+History
+23.5
+12-23 m
+723
+63
+HepB3
+C or H <12 months
+73.8
+12-23 m
+1975
+63
+HepB3
+Card
+58.5
+12-23 m
+1252
+63
+HepB3
+Card or History
+75.4
+12-23 m
+1975
+63
+HepB3
+History
+16.8
+12-23 m
+723
+63
+Hib1
+C or H <12 months
+85
+12-23 m
+1975
+63
+Hib1
+Card
+62.9
+12-23 m
+1252
+63
+Hib1
+Card or History
+86.3
+12-23 m
+1975
+63
+July 2, 2024; page 27
+WHO and UNICEF estimates of national immunization coverage - next revision available July 15, 2025
+data received as of June 27, 2024
+Pakistan - survey details
+Hib1
+History
+23.5
+12-23 m
+723
+63
+Hib3
+C or H <12 months
+73.8
+12-23 m
+1975
+63
+Hib3
+Card
+58.5
+12-23 m
+1252
+63
+Hib3
+Card or History
+75.4
+12-23 m
+1975
+63
+Hib3
+History
+16.8
+12-23 m
+723
+63
+IPV1
+C or H <12 months
+62.6
+12-23 m
+1975
+63
+IPV1
+Card
+47.7
+12-23 m
+1252
+63
+IPV1
+Card or History
+63.8
+12-23 m
+1975
+63
+IPV1
+History
+16.1
+12-23 m
+723
+63
+MCV1
+C or H <12 months
+66.9
+12-23 m
+1975
+63
+MCV1
+Card
+55.3
+12-23 m
+1252
+63
+MCV1
+Card or History
+73.2
+12-23 m
+1975
+63
+MCV1
+History
+17.9
+12-23 m
+723
+63
+MCV2
+C or H <24 months
+64.6
+24-35 m
+1919
+-
+MCV2
+Card
+38.8
+24-35 m
+920
+-
+MCV2
+Card or History
+66.6
+24-35 m
+1919
+-
+MCV2
+History
+27.8
+24-35 m
+999
+-
+PcV1
+C or H <12 months
+83.8
+12-23 m
+1975
+63
+PcV1
+Card
+62.6
+12-23 m
+1252
+63
+PcV1
+Card or History
+85.2
+12-23 m
+1975
+63
+PcV1
+History
+22.6
+12-23 m
+723
+63
+PcV3
+C or H <12 months
+73.1
+12-23 m
+1975
+63
+PcV3
+Card
+58.2
+12-23 m
+1252
+63
+PcV3
+Card or History
+74.7
+12-23 m
+1975
+63
+PcV3
+History
+16.5
+12-23 m
+723
+63
+Pol1
+C or H <12 months
+93.4
+12-23 m
+1975
+63
+Pol1
+Card
+62.7
+12-23 m
+1252
+63
+Pol1
+Card or History
+94.9
+12-23 m
+1975
+63
+Pol1
+History
+32.2
+12-23 m
+723
+63
+Pol3
+C or H <12 months
+84.2
+12-23 m
+1975
+63
+Pol3
+Card
+58.5
+12-23 m
+1252
+63
+Pol3
+Card or History
+85.9
+12-23 m
+1975
+63
+Pol3
+History
+27.4
+12-23 m
+723
+63
+2015 Pakistan Demographic and Health Survey 2017-2018
+Vaccine Conﬁrmation method Coverage Age cohort Sample Cards seen
+BCG
+C or H <12 months
+84.4
+24-35 m
+1919
+-
+BCG
+Card
+47.2
+24-35 m
+920
+-
+BCG
+Card or History
+85.7
+24-35 m
+1919
+-
+BCG
+History
+38.5
+24-35 m
+999
+-
+DTP1
+C or H <12 months
+81.7
+24-35 m
+1919
+-
+DTP1
+Card
+47
+24-35 m
+920
+-
+DTP1
+Card or History
+83
+24-35 m
+1919
+-
+DTP1
+History
+36
+24-35 m
+999
+-
+DTP3
+C or H <12 months
+72.4
+24-35 m
+1919
+-
+DTP3
+Card
+45.2
+24-35 m
+920
+-
+DTP3
+Card or History
+75.7
+24-35 m
+1919
+-
+DTP3
+History
+30.4
+24-35 m
+999
+-
+HepB1
+C or H <12 months
+81.7
+24-35 m
+1919
+-
+HepB1
+Card
+47
+24-35 m
+920
+-
+HepB1
+Card or History
+83
+24-35 m
+1919
+-
+HepB1
+History
+36
+24-35 m
+999
+-
+HepB3
+C or H <12 months
+72.4
+24-35 m
+1919
+-
+HepB3
+Card
+45.2
+24-35 m
+920
+-
+HepB3
+Card or History
+75.7
+24-35 m
+1919
+-
+HepB3
+History
+30.4
+24-35 m
+999
+-
+Hib1
+C or H <12 months
+81.7
+24-35 m
+1919
+-
+Hib1
+Card
+47
+24-35 m
+920
+-
+Hib1
+Card or History
+83
+24-35 m
+1919
+-
+Hib1
+History
+36
+24-35 m
+999
+-
+Hib3
+C or H <12 months
+72.4
+24-35 m
+1919
+-
+Hib3
+Card
+45.2
+24-35 m
+920
+-
+Hib3
+Card or History
+75.7
+24-35 m
+1919
+-
+Hib3
+History
+30.4
+24-35 m
+999
+-
+IPV1
+C or H <12 months
+52.6
+24-35 m
+1919
+-
+IPV1
+Card
+30.8
+24-35 m
+920
+-
+IPV1
+Card or History
+55.6
+24-35 m
+1919
+-
+IPV1
+History
+24.8
+24-35 m
+999
+-
+MCV1
+C or H <12 months
+66.1
+24-35 m
+1919
+-
+MCV1
+Card
+43.2
+24-35 m
+920
+-
+MCV1
+Card or History
+75.3
+24-35 m
+1919
+-
+MCV1
+History
+32.1
+24-35 m
+999
+-
+PcV1
+C or H <12 months
+80.7
+24-35 m
+1919
+-
+PcV1
+Card
+46.5
+24-35 m
+920
+-
+PcV1
+Card or History
+81.7
+24-35 m
+1919
+-
+PcV1
+History
+35.2
+24-35 m
+999
+-
+PcV3
+C or H <12 months
+71.1
+24-35 m
+1919
+-
+PcV3
+Card
+44.6
+24-35 m
+920
+-
+July 2, 2024; page 28
+WHO and UNICEF estimates of national immunization coverage - next revision available July 15, 2025
+data received as of June 27, 2024
+Pakistan - survey details
+PcV3
+Card or History
+74.1
+24-35 m
+1919
+-
+PcV3
+History
+29.5
+24-35 m
+999
+-
+Pol1
+C or H <12 months
+93.3
+24-35 m
+1919
+-
+Pol1
+Card
+47.2
+24-35 m
+920
+-
+Pol1
+Card or History
+94.6
+24-35 m
+1919
+-
+Pol1
+History
+47.3
+24-35 m
+999
+-
+Pol3
+C or H <12 months
+83.8
+24-35 m
+1919
+-
+Pol3
+Card
+45.4
+24-35 m
+920
+-
+Pol3
+Card or History
+87.5
+24-35 m
+1919
+-
+Pol3
+History
+42.1
+24-35 m
+999
+-
+2013 Pakistan Social and Living Standards Measurement Survey (PSLM),
+2014-15
+Vaccine Conﬁrmation method Coverage Age cohort Sample Cards seen
+BCG
+Card
+65
+12-23 m
+-
+-
+BCG
+Card or History
+89
+12-23 m
+-
+-
+DTP1
+Card
+65
+12-23 m
+-
+-
+DTP1
+Card or History
+89
+12-23 m
+-
+-
+DTP3
+Card
+65
+12-23 m
+-
+-
+DTP3
+Card or History
+88
+12-23 m
+-
+-
+HepB1
+Card
+65
+12-23 m
+-
+-
+HepB1
+Card or History
+89
+12-23 m
+-
+-
+HepB3
+Card
+65
+12-23 m
+-
+-
+HepB3
+Card or History
+88
+12-23 m
+-
+-
+Hib1
+Card
+65
+12-23 m
+-
+-
+Hib1
+Card or History
+89
+12-23 m
+-
+-
+Hib3
+Card
+65
+12-23 m
+-
+-
+Hib3
+Card or History
+88
+12-23 m
+-
+-
+MCV1
+Card
+61
+12-23 m
+-
+-
+MCV1
+Card or History
+83
+12-23 m
+-
+-
+Pol1
+Card
+65
+12-23 m
+-
+-
+Pol1
+Card or History
+98
+12-23 m
+-
+-
+Pol3
+Card
+65
+12-23 m
+-
+-
+Pol3
+Card or History
+97
+12-23 m
+-
+-
+2012 Pakistan Demographic and Health Survey 2012-2013
+Vaccine Conﬁrmation method Coverage Age cohort Sample Cards seen
+BCG
+C or H <12 months
+83.2
+12-23 m
+2074
+36
+BCG
+Card
+35.9
+12-23 m
+748
+36
+BCG
+Card or History
+85.2
+12-23 m
+2074
+36
+BCG
+History
+49.3
+12-23 m
+1327
+36
+DTP1
+C or H <12 months
+76.8
+12-23 m
+2074
+36
+DTP1
+Card
+35.1
+12-23 m
+748
+36
+DTP1
+Card or History
+78.8
+12-23 m
+2074
+36
+DTP1
+History
+43.7
+12-23 m
+1327
+36
+DTP3
+C or H <12 months
+62.5
+12-23 m
+2074
+36
+DTP3
+Card
+32.2
+12-23 m
+748
+36
+DTP3
+Card or History
+65.2
+12-23 m
+2074
+36
+DTP3
+History
+33
+12-23 m
+1327
+36
+MCV1
+C or H <12 months
+49.7
+12-23 m
+2074
+36
+MCV1
+Card
+28.7
+12-23 m
+748
+36
+MCV1
+Card or History
+61.4
+12-23 m
+2074
+36
+MCV1
+History
+32.7
+12-23 m
+1327
+36
+Pol1
+C or H <12 months
+90.2
+12-23 m
+2074
+36
+Pol1
+Card
+35.3
+12-23 m
+748
+36
+Pol1
+Card or History
+92.3
+12-23 m
+2074
+36
+Pol1
+History
+57
+12-23 m
+1327
+36
+Pol3
+C or H <12 months
+82.1
+12-23 m
+2074
+36
+Pol3
+Card
+32.8
+12-23 m
+748
+36
+Pol3
+Card or History
+85.3
+12-23 m
+2074
+36
+Pol3
+History
+52.5
+12-23 m
+1327
+36
+2012 Pakistan Social and Living Standards Measurement Survey (PSLM),
+2013-14
+Vaccine Conﬁrmation method Coverage Age cohort Sample Cards seen
+BCG
+Card
+62
+12-23 m
+-
+-
+BCG
+Card or History
+82
+12-23 m
+-
+-
+DTP1
+Card
+62
+12-23 m
+-
+-
+DTP1
+Card or History
+81
+12-23 m
+-
+-
+DTP3
+Card
+61
+12-23 m
+-
+-
+DTP3
+Card or History
+78
+12-23 m
+-
+-
+HepB1
+Card
+62
+12-23 m
+-
+-
+HepB1
+Card or History
+81
+12-23 m
+-
+-
+July 2, 2024; page 29
+WHO and UNICEF estimates of national immunization coverage - next revision available July 15, 2025
+data received as of June 27, 2024
+Pakistan - survey details
+HepB3
+Card
+61
+12-23 m
+-
+-
+HepB3
+Card or History
+78
+12-23 m
+-
+-
+Hib1
+Card
+62
+12-23 m
+-
+-
+Hib1
+Card or History
+81
+12-23 m
+-
+-
+Hib3
+Card or History
+78
+12-23 m
+-
+-
+HIb3
+Card
+61
+12-23 m
+-
+-
+MCV1
+Card
+59
+12-23 m
+-
+-
+MCV1
+Card or History
+77
+12-23 m
+-
+-
+Pol1
+Card
+62
+12-23 m
+-
+-
+Pol1
+Card or History
+98
+12-23 m
+-
+-
+Pol3
+Card
+62
+12-23 m
+-
+-
+Pol3
+Card or History
+96
+12-23 m
+-
+-
+2010 National Nutrition Survey Pakistan 2011
+Vaccine Conﬁrmation method Coverage Age cohort Sample Cards seen
+BCG
+Card
+31.5
+6-49 m
+-
+-
+BCG
+History
+86.6
+6-49 m
+-
+-
+DTP3
+Card
+90
+6-49 m
+-
+-
+DTP3
+Card Or History
+76
+6-49 m
+-
+-
+HepB3
+C or H <12 Months
+76
+6-49 m
+-
+-
+HepB3
+Card
+90
+6-49 m
+-
+-
+Hib3
+Card
+90
+6-49 m
+-
+-
+Hib3
+History
+76
+6-49 m
+-
+-
+MCV1
+Card
+23.1
+6-49 m
+-
+-
+MCV1
+History
+64.6
+6-49 m
+-
+-
+Pol3
+Card
+27.2
+6-49 m
+-
+-
+Pol3
+Card Or History
+95
+6-49 m
+-
+-
+2010 Pakistan Social and Living Standards Measurement Survey 2010-2011
+Vaccine Conﬁrmation method Coverage Age cohort Sample Cards seen
+BCG
+Card
+57
+12-23 m
+76546
+-
+BCG
+Card or History
+88
+12-23 m
+76546
+-
+DTP1
+Card
+57
+12-23 m
+76546
+-
+DTP1
+Card or History
+88
+12-23 m
+76546
+-
+DTP3
+Card
+56
+12-23 m
+76546
+-
+DTP3
+Card or History
+85
+12-23 m
+76546
+-
+MCV1
+Card
+53
+12-23 m
+76546
+-
+MCV1
+Card or History
+82
+12-23 m
+76546
+-
+Pol1
+Card
+54
+12-23 m
+76546
+-
+Pol1
+Card or History
+81
+12-23 m
+76546
+-
+Pol3
+Card
+53
+12-23 m
+76546
+-
+Pol3
+Card or History
+79
+12-23 m
+76546
+-
+2007 Pakistan Social and Living Standards Measurement Survey 2008-2009
+Vaccine Conﬁrmation method Coverage Age cohort Sample Cards seen
+BCG
+Card
+52
+12-23 m
+75188
+-
+BCG
+Card or History
+87
+12-23 m
+75188
+-
+DTP1
+Card
+52
+12-23 m
+75188
+-
+DTP1
+Card or History
+87
+12-23 m
+75188
+-
+DTP3
+Card
+51
+12-23 m
+75188
+-
+DTP3
+Card or History
+84
+12-23 m
+75188
+-
+MCV1
+Card
+51
+12-23 m
+75188
+-
+MCV1
+Card or History
+79
+12-23 m
+75188
+-
+Pol1
+Card
+51
+12-23 m
+75188
+-
+Pol1
+Card or History
+83
+12-23 m
+75188
+-
+Pol3
+Card
+50
+12-23 m
+75188
+-
+Pol3
+Card or History
+81
+12-23 m
+75188
+-
+2006 Pakistan Social and Living Standards Measurement Survey 2007-2008
+Vaccine Conﬁrmation method Coverage Age cohort Sample Cards seen
+BCG
+Card
+82
+12-23 m
+-
+-
+DTP1
+Card
+83
+12-23 m
+-
+-
+DTP3
+Card
+79
+12-23 m
+-
+-
+MCV1
+Card
+76
+12-23 m
+-
+-
+Pol1
+Card
+95
+12-23 m
+-
+-
+Pol3
+Card
+93
+12-23 m
+-
+-
+2005 Pakistan Demographic and Health Survey 2006-07
+July 2, 2024; page 30
+WHO and UNICEF estimates of national immunization coverage - next revision available July 15, 2025
+data received as of June 27, 2024
+Pakistan - survey details
+Vaccine Conﬁrmation method Coverage Age cohort Sample Cards seen
+BCG
+C or H <12 months
+77.6
+12-23 m
+1522
+24
+BCG
+Card
+23.6
+12-23 m
+1522
+24
+BCG
+Card or History
+80.3
+12-23 m
+1522
+24
+BCG
+History
+56.8
+12-23 m
+1522
+24
+DTP1
+C or H <12 months
+71.7
+12-23 m
+1522
+24
+DTP1
+Card
+23.3
+12-23 m
+1522
+24
+DTP1
+Card or History
+74.8
+12-23 m
+1522
+24
+DTP1
+History
+51.5
+12-23 m
+1522
+24
+DTP3
+C or H <12 months
+56.1
+12-23 m
+1522
+24
+DTP3
+Card
+20.9
+12-23 m
+1522
+24
+DTP3
+Card or History
+58.5
+12-23 m
+1522
+24
+DTP3
+History
+37.5
+12-23 m
+1522
+24
+HepB1
+C or H <12 months
+68.2
+12-23 m
+1522
+24
+HepB1
+Card
+23.1
+12-23 m
+1522
+24
+HepB1
+Card or History
+71
+12-23 m
+1522
+24
+HepB1
+History
+48
+12-23 m
+1522
+24
+HepB3
+C or H <12 months
+54.5
+12-23 m
+1522
+24
+HepB3
+Card
+20.8
+12-23 m
+1522
+24
+HepB3
+Card or History
+57.3
+12-23 m
+1522
+24
+HepB3
+History
+36.5
+12-23 m
+1522
+24
+MCV1
+C or H <12 months
+50.2
+12-23 m
+1522
+24
+MCV1
+Card
+19.2
+12-23 m
+1522
+24
+MCV1
+Card or History
+59.9
+12-23 m
+1522
+24
+MCV1
+History
+40.7
+12-23 m
+1522
+24
+Pol1
+C or H <12 months
+89.1
+12-23 m
+1522
+24
+Pol1
+Card
+23.4
+12-23 m
+1522
+24
+Pol1
+Card or History
+93
+12-23 m
+1522
+24
+Pol1
+History
+69.7
+12-23 m
+1522
+24
+Pol3
+C or H <12 months
+78.6
+12-23 m
+1522
+24
+Pol3
+Card
+21
+12-23 m
+1522
+24
+Pol3
+Card or History
+83.1
+12-23 m
+1522
+24
+Pol3
+History
+62.1
+12-23 m
+1522
+24
+2004 EPI Coverage Evaluation Survey, Draft Report, Pakistan 2006
+Vaccine Conﬁrmation method Coverage Age cohort Sample Cards seen
+BCG
+Card
+10.2
+12-23 m
+72280
+11
+BCG
+Card or History
+77.7
+12-23 m
+72280
+11
+BCG
+History
+67.5
+12-23 m
+72280
+11
+DTP1
+Card
+10.2
+12-23 m
+72280
+11
+DTP1
+Card or History
+74.6
+12-23 m
+72280
+11
+DTP1
+History
+64.4
+12-23 m
+72280
+11
+DTP3
+Card
+9.2
+12-23 m
+72280
+11
+DTP3
+Card or History
+64.5
+12-23 m
+72280
+11
+DTP3
+History
+55.3
+12-23 m
+72280
+11
+HepB1
+Card
+9.8
+12-23 m
+72280
+11
+HepB1
+Card or History
+68.8
+12-23 m
+72280
+11
+HepB1
+History
+59
+12-23 m
+72280
+11
+HepB3
+Card
+8.9
+12-23 m
+72280
+11
+HepB3
+Card or History
+60.7
+12-23 m
+72280
+11
+HepB3
+History
+51.7
+12-23 m
+72280
+11
+MCV1
+Card
+8.6
+12-23 m
+72280
+11
+MCV1
+Card or History
+62.6
+12-23 m
+72280
+11
+MCV1
+History
+54
+12-23 m
+72280
+11
+Pol1
+Card
+10
+12-23 m
+72280
+11
+Pol1
+Card or History
+73.7
+12-23 m
+72280
+11
+Pol1
+History
+63.7
+12-23 m
+72280
+11
+Pol3
+Card
+9.1
+12-23 m
+72280
+11
+Pol3
+Card or History
+64.4
+12-23 m
+72280
+11
+Pol3
+History
+55.3
+12-23 m
+72280
+11
+2003 Pakistan Social and Living Standards Measurement Survey 2004-2005
+Vaccine Conﬁrmation method Coverage Age cohort Sample Cards seen
+BCG
+C or H <12 months
+82
+12-23 m
+-
+-
+BCG
+Card
+51
+12-23 m
+-
+-
+DTP1
+C or H <12 months
+82
+12-23 m
+-
+-
+DTP1
+Card
+51
+12-23 m
+-
+-
+DTP3
+C or H <12 months
+80
+12-23 m
+-
+-
+DTP3
+Card
+50
+12-23 m
+-
+-
+MCV1
+C or H <12 months
+78
+12-23 m
+-
+-
+MCV1
+Card
+49
+12-23 m
+-
+-
+Pol1
+C or H <12 months
+82
+12-23 m
+-
+-
+Pol1
+Card
+51
+12-23 m
+-
+-
+Pol3
+C or H <12 months
+81
+12-23 m
+-
+-
+Pol3
+Card
+50
+12-23 m
+-
+-
+July 2, 2024; page 31
+WHO and UNICEF estimates of national immunization coverage - next revision available July 15, 2025
+data received as of June 27, 2024
+Pakistan - survey details
+2000 Pakistan Integrated Household Survey, 2002
+Vaccine Conﬁrmation method Coverage Age cohort Sample Cards seen
+BCG
+Card
+34
+12-23 m
+-
+-
+BCG
+Card or History
+67
+12-23 m
+-
+-
+DTP1
+Card
+36
+12-23 m
+-
+-
+DTP1
+Card or History
+71
+12-23 m
+-
+-
+DTP3
+Card
+33
+12-23 m
+-
+-
+DTP3
+Card or History
+63
+12-23 m
+-
+-
+MCV1
+Card
+30
+12-23 m
+-
+-
+MCV1
+Card or History
+57
+12-23 m
+-
+-
+Pol1
+Card
+34
+12-23 m
+-
+-
+Pol1
+Card or History
+68
+12-23 m
+-
+-
+Pol3
+Card
+36
+12-23 m
+-
+-
+Pol3
+Card or History
+89
+12-23 m
+-
+-
+1998 Assessment of Immunization Coverage, Pakistan February - April 1999
+Vaccine Conﬁrmation method Coverage Age cohort Sample Cards seen
+BCG
+Card or Scar
+72.5
+12-23 m
+3664
+37
+MCV1
+Card or History
+54
+12-23 m
+3664
+37
+Pol3
+Card or History
+58.4
+12-23 m
+3664
+37
+1997 Pakistan Integrated Household Survey, 2002
+Vaccine Conﬁrmation method Coverage Age cohort Sample Cards seen
+BCG
+Card
+39
+12-23 m
+-
+-
+BCG
+Card or History
+65
+12-23 m
+-
+-
+DTP1
+Card
+41
+12-23 m
+-
+-
+DTP1
+Card or History
+67
+12-23 m
+-
+-
+DTP3
+Card
+37
+12-23 m
+-
+-
+DTP3
+Card or History
+58
+12-23 m
+-
+-
+MCV1
+Card
+36
+12-23 m
+-
+-
+MCV1
+Card or History
+55
+12-23 m
+-
+-
+Pol1
+Card
+42
+12-23 m
+-
+-
+Pol1
+Card or History
+77
+12-23 m
+-
+-
+Pol3
+Card
+39
+12-23 m
+-
+-
+Pol3
+Card or History
+70
+12-23 m
+-
+-
+July 2, 2024; page 32
+WHO and UNICEF estimates of national immunization coverage - next revision available July 15, 2025
+data received as of June 27, 2024
+Pakistan - survey details
+Further information and estimates for previous years are available at:
+https://data.unicef.org/topic/child-health/immunization/
+https://immunizationdata.who.int/listing.html
+July 2, 2024; page 33
+WHO and UNICEF estimates of national immunization coverage - next revision available July 15, 2025
+data received as of June 27, 2024

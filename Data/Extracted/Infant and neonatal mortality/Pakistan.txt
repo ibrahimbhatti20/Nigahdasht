@@ -1,0 +1,323 @@
+©  UNICEF/Pakistan/UN0270344/van Oorsouw/2018
+Country Report – Pakistan
+INVESTING IN NEWBORN HEALTH IN SOUTH ASIA
+Pakistan has the highest baseline neonatal mortality rate (NMR) in South Asia at 42/1,000 live births. To meet the Sustainable 
+Development Goals (SDG) target of 12/1,000 live births, Pakistan needs an annual rate of reduction (ARR) in NMR of 11.6%. 
+This would be a substantial acceleration from its current ARR of 2.1% (2000-2018, Inter-agency Group for Child Mortality 
+Estimation [IGME]), by which Pakistan is not projected to meet the SDG goal for NMR by 2030.
+Achieving the SDG target in Pakistan would save 1 million additional newborn lives, prevent over half a million stillbirths and 
+avert 21,015 maternal deaths, as compared to no change in coverage of the package of interventions. Additionally, 174,178 
+newborns would have significant lifelong disability averted. The additional cost over ten years, discounted at the standard 
+3% annual rate, would be USD 6.5 billion. This investment will provide economic returns of USD 13 for every dollar invested.
+Achieving the SDG targets for neonatal health in Pakistan will mean
+1,052,412
+NEWBORN LIVES 
+SAVED
+588,815
+STILLBIRTHS 
+PREVENTED
+21,015
+MOTHER’S LIVES
+SAVED
+174,178
+DISABILITIES
+AVERTED
+USD 13
+ECONOMIC RETURNS 
+FOR EVERY DOLLAR 
+INVESTED
+Best-buy intervention package
+To estimate the package of interventions, baseline values 
+were established for all relevant interventions. Estimates 
+for the following interventions were available from the 
+most recent national level Pakistan Demographic Health 
+Survey (DHS) 2017-2018 and the National Nutrition Survey 
+2018: tetanus toxoid vaccination, multiple micronutrient 
+supplementation during pregnancy, skilled birth attendance, 
+facility level deliveries, clean postnatal practices and 
+breastfeeding rates. Baseline crude coverage of facility 
+deliveries was 66.2% in Pakistan. As facility delivery rates 
+are used to estimate the coverage of interventions delivered 
+at birth, we calculated the effective coverage of specific 
+interventions at birth according to evidence available on 
+the use of evidence-based practices during labour and birth 
+(Agha et al., 2019). While this study may not be nationally 
+representative as it was conducted in Sindh Province 
+only, it is the only recent study documenting data on direct 
+observation of birth and perinatal practices. Sindh Province is 
+neither the worst or best performing province and therefore 
+was used as a reasonable average representation of Pakistan 
+as a whole.  
+While in the short term Pakistan will need to focus on 
+ensuring service continuity during the COVID-19 pandemic, to 
+meet the SDG targets for neonatal mortality, Pakistan would 
+need to improve coverage of almost all interventions that 
+impact on neonatal mortality. Specifically:
+•	 Pakistan will not be able to reach the SDGs unless it 
+invests substantially in improving facility delivery rates 
+(to 95%) but also improving the quality of care provided 
+during the intrapartum period and immediate post-partum 
+period, given the large gap in quality of care.
+Country report- Pakistan
+•	 It would need to scale up access to full supportive care 
+for premature newborns and newborns with sepsis and 
+pneumonia to cover 90% of the newborns in need. 
+•	 It needs to scale up coverage of tetanus toxoid 
+vaccination during pregnancy from its current 69% 
+to 98%, coverage levels achieved by some other 
+countries in the region. 
+•	 Pakistan would need to scale up (to 90%) existing 
+nutritional interventions for women during pregnancy 
+such as multiple micronutrient supplementation. It should 
+introduce folic acid supplementation/fortification for 
+women prior to conception and ensure that at least 50% 
+of women are covered. Given this is not currently part 
+of the national programme, the delivery channel(s) and 
+specific delivery strategies must be considered carefully 
+in context.
+•	 Scaling up the use of chlorhexidine substantially as 
+well as oral rehydration solution (ORS) for newborns 
+diagnosed with diarrhoea will also help Pakistan in 
+meeting its SDG targets. 
+Table 1 provides the package of interventions and the 
+baseline and target coverage of interventions required to 
+reach the SDG targets.
+Table 1. Scale-up required to meet SDG targets: Pakistan    
+Intervention 
+Quality-adjusted 
+coverage at baseline (%)
+2030 coverage target (%)
+Preconception and antenatal interventions
+Folic acid supplementation/fortification
+0
+50
+TT - Tetanus toxoid vaccination
+69
+98
+Multiple micronutrient supplementation in pregnancy
+28
+90
+Balanced energy supplementation
+0
+90
+ Interventions during labour and at birth
+Skilled birth attendance
+69
+95
+Health facility delivery
+66
+95
+Clean birth practices
+20
+95
+Immediate assessment and stimulation
+60
+95
+Labour and delivery management
+2
+95
+Neonatal resuscitation
+7
+94
+Antibiotics for pPRoM
+2
+80
+MgSO management of eclampsia
+16
+80
+Active management of third stage labour (AMTSL)
+23
+80
+Induction of labour for pregnancies lasting 41+ weeks
+1
+56
+ Postnatal care interventions 
+Exclusive breastfeeding
+55
+68
+Prevalence of early initiation of breastfeeding
+20
+36
+Clean postnatal practices
+37
+95
+Chlorhexidine
+3
+95
+Case management of premature babies
+13
+90
+•	Thermal care
+13
+90
+•	Full supportive care for prematurity
+0
+90
+Country report- Pakistan
+Table 2. Lives saved and disability averted: Pakistan          
+Pakistan
+Totals 2021-2030
+Intervention
+Lives saved
+Disability 
+averted
+Neonatal
+Stillbirths
+Maternal
+Case management of premature babies
+ 306,240 
+Labour and delivery management
+173,573 
+378,255 
+8,099 
+106,046 
+Case management of sepsis/pneumonia
+139,306 
+Neonatal resuscitation
+97,280 
+49,576 
+Chlorhexidine
+70,314 
+Clean postnatal practices
+48,136 
+Clean birth practices
+48,034 
+3,231 
+Micronutrient supplementation (iron and 
+multiple micronutrients)
+34,818 
+109,930 
+1,792 
+Balanced energy supplementation
+27,311 
+84,691 
+TT - Tetanus toxoid vaccination
+27,019 
+46 
+Immediate assessment and stimulation
+25,873 
+7,018 
+Antibiotics for pPRoM
+25,078 
+1,266 
+Folic acid supplementation/fortification
+13,690 
+11,637 
+ORS
+9,084 
+Age-appropriate breastfeeding practices
+7,309 
+MgSO management of eclampsia
+967 
+Active management of third stage labour 
+(AMTSL)
+4,625 
+Induction of labour for pregnancies 41 weeks +
+15,939 
+Table 2 shows the additional lives saved and disability 
+prevented from scaling up coverage, arranged in 
+descending order from the biggest impact on newborn 
+lives between 2021-2030. The largest gains come from 
+scaling up coverage of: 
+•	 Case management of premature babies
+•	 Labour and delivery management (this has dividends 
+for stillbirths, maternal lives saved, and disability 
+averted)
+•	 Case management of of neonatal sepsis/pneumonia
+•	 Neonatal resuscitation
+•	 Chlorhexidine
+Intervention 
+Quality-adjusted 
+coverage at baseline (%)
+2030 coverage target (%)
+ Postnatal care interventions 
+Case management of neonatal sepsis/pneumonia
+13
+90
+•	Injectable antibiotics for neonatal sepsis/pneumonia 
+only
+13
+90
+•	Full supportive care for neonatal sepsis/pneumonia
+0
+90
+ORS - oral rehydration solution
+37
+80
+N.B. Linear scale up assumed between 2020-2030.
+Country report- Pakistan
+This country report is taken from a report prepared for UNICEF 
+Regional Office for South Asia (ROSA) by the Nossal Institute for 
+Global Health, University of Melbourne: Dayal, P., Jimenez-Soto, 
+E., Reeve, M., & Morgan, A. (2021) Investing in Newborn Health 
+in South Asia. Kathmandu: UNICEF.
+Table 3. Costs of meeting the newborn SDG targets: Pakistan
+Table 4. Total economic benefits and costs – discount rate scenarios (2018 million USD): Pakistan
+Additional costs*
+(2021-2030) USD million, NPV
+Annual additional costs, USD million
+Average annualized cost as % of 
+projected 2021 health expenditure
+$6,525
+$7,649
+8%
+* Net present value of additional costs estimated at a constant annual discount rate of 3%.
+The additional cost over ten years, discounted at the standard 3% annual rate would be USD 6.5 billion, with a USD 765 million 
+annualized value. To put this figure in perspective, we compare it against what would be the 2021 health expenditure if 2017 
+levels are indexed by inflation and population growth rates. As shown in Table 3 the annualized investment would represent 8% 
+of the estimated health expenditure.
+Economic benefits and costs
+Discount rates
+3%
+5%
+10%
+Newborn lives saved
+$51,099
+$45,907
+$35,787
+Stillbirths prevented
+$28,299
+$25,309
+$19,507
+Mothers lives saved
+$1,013
+$907
+$701
+Newborns with disability prevented
+$6,712
+$6,009
+$4,643
+Total benefits
+$87,122
+$78,132
+$60,637
+Total costs
+$6,525
+$5,817
+$4,449
+Benefit cost ratio
+13.4
+13.4
+13.6
+Net benefits
+$80,597
+$72,314
+$56,188
+Returns on investment
+We estimated a Value of Statistical Life (VSL) for the year 2021 
+amounting to USD 62,994 and calculated that each dollar 
+invested in achieving the SDG targets for neonatal health will 
+deliver USD 13 of return with total net economic benefits 
+ranging from USD 56 billion to USD 80.6 billion. As also 
+shown in Table 4.6.4, the vast majority of economic benefits 
+(59%) are derived from newborn lives saved, followed 
+by stillbirths prevented (32%) and disability prevented in 
+newborns (8%).
+Returns on investment for all our scenarios have been 
+calculated under the assumption of a decade long economic 
+stagnation due to the economic and financial impact of 
+the current pandemic. After a 50% increase in the cost of 
+delivering neonatal health interventions due to the spillover 
+of the COVID 19 crisis, even the most conservative scenario 
+shows that each dollar invested will lead to economic returns 
+of USD 9.
